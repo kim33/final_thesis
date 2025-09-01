@@ -1,0 +1,74 @@
+[
+  {
+    "model": "qwen",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 1435,
+    "refusal_rate": 7.268
+  },
+  {
+    "model": "qwen",
+    "task": "detoxification",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 3114,
+    "refusal_rate": 15.102
+  },
+  {
+    "model": "qwen",
+    "task": "detoxification",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 3536,
+    "refusal_rate": 18.389
+  },
+  {
+    "model": "qwen",
+    "task": "misinformation",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  },
+  {
+    "model": "qwen",
+    "task": "misinformation",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  },
+  {
+    "model": "qwen",
+    "task": "misinformation",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  },
+  {
+    "model": "qwen",
+    "task": "media bias",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  },
+  {
+    "model": "qwen",
+    "task": "media bias",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  },
+  {
+    "model": "qwen",
+    "task": "media bias",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 0,
+    "refusal_rate": 0
+  }
+]

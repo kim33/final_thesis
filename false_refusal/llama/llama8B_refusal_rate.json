@@ -1,0 +1,74 @@
+[
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 2513,
+    "refusal_rate": 12.187
+  },
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 2770,
+    "refusal_rate": 14.405
+  },
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 1109,
+    "refusal_rate": 5.617
+  },
+  {
+    "model": "llama",
+    "task": "misinformation",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 2,
+    "refusal_rate": 0.01
+  },
+  {
+    "model": "llama",
+    "task": "misinformation",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 489,
+    "refusal_rate": 2.543
+  },
+  {
+    "model": "llama",
+    "task": "misinformation",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 83,
+    "refusal_rate": 0.403
+  },
+  {
+    "model": "llama",
+    "task": "media bias",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 148,
+    "refusal_rate": 0.718
+  },
+  {
+    "model": "llama",
+    "task": "media bias",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 515,
+    "refusal_rate": 2.678
+  },
+  {
+    "model": "llama",
+    "task": "media bias",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 2,
+    "refusal_rate": 0.01
+  }
+]

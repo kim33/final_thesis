@@ -1,0 +1,26 @@
+[
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 2513,
+    "refusal_rate": 12.187
+  },
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 2770,
+    "refusal_rate": 14.405
+  },
+  {
+    "model": "llama",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 1109,
+    "refusal_rate": 5.617
+  }
+]

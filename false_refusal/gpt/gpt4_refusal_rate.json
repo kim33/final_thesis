@@ -1,0 +1,26 @@
+[
+  {
+    "model": "gpt4",
+    "task": "detoxification",
+    "dataset": "davidson",
+    "total_examples": 20620,
+    "refused_examples": 2006,
+    "refusal_rate": 9.728
+  },
+  {
+    "model": "gpt4",
+    "task": "detoxification",
+    "dataset": "hatexplain",
+    "total_examples": 19229,
+    "refused_examples": 2266,
+    "refusal_rate": 11.784
+  },
+  {
+    "model": "gpt4",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "total_examples": 19744,
+    "refused_examples": 1624,
+    "refusal_rate": 8.225
+  }
+]
