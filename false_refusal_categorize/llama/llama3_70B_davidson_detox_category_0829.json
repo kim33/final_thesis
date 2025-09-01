@@ -1,0 +1,176 @@
+[
+  {
+    "model": "mistral",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "category_counts": {
+      "age": 444,
+      "race ethnicity": 163,
+      "ability": 997,
+      "political ideologies": 13,
+      "body type": 683,
+      "gender and sex": 637,
+      "socioeconomic class": 169,
+      "sexual orientation": 279,
+      "characteristics": 431,
+      "nationality": 18,
+      "cultural": 55,
+      "religion": 10
+    },
+    "bucket_counts": {
+      "None": 2338,
+      "black": 31,
+      "all": 23,
+      "educational attainment": 3,
+      "descriptors": 7,
+      "miscellaneous": 89,
+      "gay": 20,
+      "hair": 64,
+      "thin": 19,
+      "speech": 7,
+      "overweight": 44,
+      "unattractive": 52,
+      "old": 45,
+      "upper class": 107,
+      "bi": 211,
+      "attractive": 50,
+      "binary": 108,
+      "fit": 48,
+      "china": 3,
+      "auditory": 74,
+      "pansexual": 1,
+      "asexual or aromantic": 12,
+      "young": 19,
+      "immigration status": 32,
+      "cultural stereotypes": 51,
+      "eye color": 6,
+      "queer": 30,
+      "white": 61,
+      "neurological": 14,
+      "straight": 16,
+      "lesbian": 4,
+      "sex": 73,
+      "asian": 9,
+      "intellectual and developmental": 56,
+      "handedness": 11,
+      "skin color": 4,
+      "small stature": 6,
+      "middle class": 3,
+      "working class": 15,
+      "non binary or gnc": 14,
+      "middle aged": 14,
+      "cisgender": 3,
+      "below poverty line": 10,
+      "domestic status": 5,
+      "job status": 27,
+      "generations": 4,
+      "visual": 4,
+      "united states": 8,
+      "large stature": 15,
+      "mexico": 6,
+      "adult": 3,
+      "latinx": 3,
+      "marital status": 2,
+      "indigenous": 2,
+      "india": 1,
+      "children": 5,
+      "child": 4,
+      "transgender": 2,
+      "alaska native": 1
+    },
+    "category_bucket_pairs": {
+      "age": {
+        "None": 359,
+        "old": 45,
+        "young": 19,
+        "middle aged": 14,
+        "adult": 3,
+        "child": 4
+      },
+      "race ethnicity": {
+        "black": 31,
+        "None": 56,
+        "white": 61,
+        "asian": 9,
+        "latinx": 3,
+        "indigenous": 2,
+        "alaska native": 1
+      },
+      "ability": {
+        "None": 842,
+        "speech": 7,
+        "auditory": 74,
+        "neurological": 14,
+        "intellectual and developmental": 56,
+        "visual": 4
+      },
+      "political ideologies": {
+        "all": 13
+      },
+      "body type": {
+        "None": 287,
+        "miscellaneous": 88,
+        "hair": 64,
+        "thin": 19,
+        "overweight": 44,
+        "unattractive": 52,
+        "attractive": 50,
+        "fit": 48,
+        "eye color": 6,
+        "skin color": 4,
+        "small stature": 6,
+        "large stature": 15
+      },
+      "gender and sex": {
+        "None": 415,
+        "descriptors": 7,
+        "binary": 108,
+        "queer": 15,
+        "sex": 73,
+        "non binary or gnc": 14,
+        "cisgender": 3,
+        "transgender": 2
+      },
+      "socioeconomic class": {
+        "educational attainment": 3,
+        "None": 31,
+        "upper class": 107,
+        "middle class": 3,
+        "working class": 15,
+        "below poverty line": 10
+      },
+      "sexual orientation": {
+        "gay": 20,
+        "bi": 211,
+        "pansexual": 1,
+        "asexual or aromantic": 12,
+        "queer": 15,
+        "straight": 16,
+        "lesbian": 4
+      },
+      "characteristics": {
+        "None": 348,
+        "immigration status": 32,
+        "handedness": 11,
+        "miscellaneous": 1,
+        "domestic status": 5,
+        "job status": 27,
+        "marital status": 2,
+        "children": 5
+      },
+      "nationality": {
+        "china": 3,
+        "united states": 8,
+        "mexico": 6,
+        "india": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 51,
+        "generations": 4
+      },
+      "religion": {
+        "all": 10
+      }
+    }
+  }
+]

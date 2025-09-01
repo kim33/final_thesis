@@ -1,0 +1,98 @@
+[
+    {
+        "model": "Llama3",
+        "task": "Sexism",
+        "dataset": "Davidson",
+        "total_dataset": 20620,
+        "total_refused": 61,
+        "refused_ratio_percent": 0.296
+    },
+    {
+        "model": "Llama3",
+        "task": "Sexism",
+        "dataset": "Paradetox",
+        "total_dataset": 19744,
+        "total_refused": 3,
+        "refused_ratio_percent": 0.015
+    },
+    {
+        "model": "Llama3",
+        "task": "Sexism",
+        "dataset": "Hatexplain",
+        "total_dataset": 19229,
+        "total_refused": 373,
+        "refused_ratio_percent": 1.94
+    },
+    {
+        "model": "Mistral",
+        "task": "Sexism",
+        "dataset": "Hatexplain",
+        "total_dataset": 20620,
+        "total_refused": 0,
+        "refused_ratio_percent": 0.0
+    },
+    {
+        "model": "Mistral",
+        "task": "Sexism",
+        "dataset": "Davidson",
+        "total_dataset": 19229,
+        "total_refused": 0,
+        "refused_ratio_percent": 0.0
+    },
+    {
+        "model": "Mistral",
+        "task": "Sexism",
+        "dataset": "Paradetox",
+        "total_dataset": 19744,
+        "total_refused": 0,
+        "refused_ratio_percent": 0.0
+    },
+    {
+        "model": "Qwen",
+        "task": "Sexism",
+        "dataset": "Davidson",
+        "total_dataset": 20620,
+        "total_refused": 5,
+        "refused_ratio_percent": 0.024
+    },
+    {
+        "model": "Qwen",
+        "task": "Sexism",
+        "dataset": "Hatexplain",
+        "total_dataset": 19229,
+        "total_refused": 15,
+        "refused_ratio_percent": 0.078
+    },
+    {
+        "model": "Qwen",
+        "task": "Sexism",
+        "dataset": "Paradetox",
+        "total_dataset": 19744,
+        "total_refused": 10,
+        "refused_ratio_percent": 0.051
+    },
+    {
+        "model": "Gemma",
+        "task": "Sexism",
+        "dataset": "Hatexplain",
+        "total_dataset": 19229,
+        "total_refused": 15,
+        "refused_ratio_percent": 0.078
+    },
+    {
+        "model": "Gemma",
+        "task": "Sexism",
+        "dataset": "Paradetox",
+        "total_dataset": 19744,
+        "total_refused": 10,
+        "refused_ratio_percent": 0.051
+    },
+    {
+        "model": "Gemma",
+        "task": "Sexism",
+        "dataset": "Davidson",
+        "total_dataset": 20620,
+        "total_refused": 5,
+        "refused_ratio_percent": 0.024
+    }
+]
