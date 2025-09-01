@@ -1,0 +1,18 @@
+{
+    "model": "None",
+    "dataset": "davidson",
+    "task": "None",
+    "label_counts": {
+        "gender": 5207,
+        "racial": 5140,
+        "sexuality": 3203,
+        "physical": 2265,
+        "disability": 1409,
+        "age": 1343,
+        "socioeconomic": 942,
+        "political": 428,
+        "religious": 365,
+        "nationality": 209,
+        "educational": 109
+    }
+}

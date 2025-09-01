@@ -1,0 +1,18 @@
+{
+    "model": "None",
+    "dataset": "hatexplain",
+    "task": "None",
+    "label_counts": {
+        "racial": 6199,
+        "political": 3187,
+        "religious": 2974,
+        "sexuality": 2152,
+        "gender": 1320,
+        "nationality": 1163,
+        "disability": 916,
+        "socioeconomic": 483,
+        "physical": 403,
+        "age": 362,
+        "educational": 70
+    }
+}

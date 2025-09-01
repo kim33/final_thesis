@@ -1,0 +1,18 @@
+{
+    "model": "None",
+    "dataset": "paradetox",
+    "task": "None",
+    "label_counts": {
+        "disability": 4035,
+        "political": 2980,
+        "age": 1862,
+        "sexuality": 1802,
+        "racial": 1719,
+        "gender": 1700,
+        "physical": 1581,
+        "socioeconomic": 1484,
+        "nationality": 1299,
+        "religious": 761,
+        "educational": 521
+    }
+}
