@@ -8,12 +8,12 @@ import unicodedata
 from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
-MODEL_ID = "mistralai/Mistral-Large-Instruct-2407"
+MODEL_ID = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 DATASET = "dataset/davidson_extract.json"
 DETOX = "text"
-OUT_PATH = "detoxified/mistral/mistral_123B_davidson_detoxified_0828.json"
-FAIL_PATH = "detoxified/mistral/mistral_123B_davidson_detoxified_failed_0828.json"
-REFUSED_PATH = "detoxified/mistral/mistral_123B_davidson_detoxified_refused_0828.json"
+OUT_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_0901.json"
+FAIL_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_failed_0901.json"
+REFUSED_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_refused_0901.json"
 SAVE_EVERY = 200 
 BATCH_SIZE = 2
 MAX_NEW_TOKENS = 64
@@ -43,12 +43,6 @@ if os.path.exists(REFUSED_PATH):
 else:
     refusals = []
 
-bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16,
-    bnb_4bit_use_double_quant=True,
-)
 torch.backends.cuda.matmul.allow_tf32 = True
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
 tokenizer.padding_side = "left"  
@@ -60,7 +54,6 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     torch_dtype=torch.bfloat16,
     low_cpu_mem_usage=True,
-    quantization_config=bnb_config,
 )
 model.eval()
 

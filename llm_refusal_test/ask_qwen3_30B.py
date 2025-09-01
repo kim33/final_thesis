@@ -8,12 +8,12 @@ import unicodedata
 from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
-MODEL_ID = "meta-llama/Meta-Llama-3-70B-Instruct"
-DATASET = "dataset/davidson_extract.json"
-DETOX = "text"
-OUT_PATH = "detoxified/llama3/llama3_70B_davidson_detoxified_0828.json"
-FAIL_PATH = "detoxified/llama3/llama3_70B_davidson_detoxified_failed_0828.json"
-REFUSED_PATH = "detoxified/llama3/llama3_70B_davidson_detoxified_refused_0828.json"
+MODEL_ID = "Qwen/Qwen3-30B-A3B-Instruct-2507"
+DATASET = "dataset/paradetox_extract.json"
+DETOX = "original"
+OUT_PATH = "detoxified/qwen/qwen3_30B_paradetox_detoxified_0901.json"
+FAIL_PATH = "detoxified/qwen/qwen3_30B_paradetox_detoxified_failed_0901.json"
+REFUSED_PATH = "detoxified/qwen/qen3_30B_paradetox_detoxified_refused_0901.json"
 SAVE_EVERY = 200 
 BATCH_SIZE = 32
 MAX_NEW_TOKENS = 300

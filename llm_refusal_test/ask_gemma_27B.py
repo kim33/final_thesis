@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM,BitsAndBytesConfig
+from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 import json
 import ast
@@ -8,15 +8,15 @@ import unicodedata
 from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
-MODEL_ID = "mistralai/Mixtral-8x7B-Instruct-v0.1"
-DATASET = "dataset/hatexplain_extract.json"
-DETOX = "post_text"
-OUT_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_0901.json"
-FAIL_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_failed_0901.json"
-REFUSED_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_refused_0901.json"
+MODEL_ID = "google/gemma-3-27b-it"
+DATASET = "dataset/paradetox_extract.json"
+DETOX = "original"
+OUT_PATH = "detoxified/gemma/gemma3_27B_paradetox_detoxified_0901.json"
+FAIL_PATH = "detoxified/gemma/gemma3_27B_paradetox_detoxified_failed_0901.json"
+REFUSED_PATH = "detoxified/gemma/gemma3_27B_paradetox_detoxified_refused_0901.json"
 SAVE_EVERY = 200 
-BATCH_SIZE = 2
-MAX_NEW_TOKENS = 64
+BATCH_SIZE = 32
+MAX_NEW_TOKENS = 300
 
 
 # Load or initialize detoxified results
@@ -43,19 +43,13 @@ if os.path.exists(REFUSED_PATH):
 else:
     refusals = []
 
-bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16,
-    bnb_4bit_use_double_quant=True,
-)
 
 torch.backends.cuda.matmul.allow_tf32 = True
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-tokenizer.padding_side = "left"  
+tokenizer.padding_side = "left"   
 if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
-
+    
 model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
     device_map="auto",

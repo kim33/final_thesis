@@ -8,12 +8,12 @@ import unicodedata
 from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
-MODEL_ID = "mistralai/Mistral-Large-Instruct-2407"
+MODEL_ID = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 DATASET = "dataset/paradetox_extract.json"
 DETOX = "original"
-OUT_PATH = "detoxified/mistral/mistral_8x22B_paradetox_detoxified_0828.json"
-FAIL_PATH = "detoxified/mistral/mistral_8x22B_paradetox_detoxified_failed_0828.json"
-REFUSED_PATH = "detoxified/mistral/mistral_8x22B_paradetox_detoxified_refused_0828.json"
+OUT_PATH = "detoxified/mistral/mistral_8x7B_paradetox_detoxified_0901.json"
+FAIL_PATH = "detoxified/mistral/mistral_8x7B_paradetox_detoxified_failed_0901.json"
+REFUSED_PATH = "detoxified/mistral/mistral_8x7B_paradetox_detoxified_refused_0901.json"
 SAVE_EVERY = 200 
 BATCH_SIZE = 32
 MAX_NEW_TOKENS = 300
