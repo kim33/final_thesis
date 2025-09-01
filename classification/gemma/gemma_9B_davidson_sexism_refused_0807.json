@@ -1,0 +1,27 @@
+[
+    {
+        "index": 8391,
+        "text": "i cannot be worried bout no bitch cause i know a bitch could be somewhere sucking a dick ayeeee",
+        "response": "{ \"original\": \"i cannot be worried bout no bitch cause i know a bitch could be somewhere sucking a dick ayeeee\", \"classification\": \"sexist\" }  \n"
+    },
+    {
+        "index": 13761,
+        "text": "rt i cannot be worried bout no bitch",
+        "response": "{ \"original\": \"rt i cannot be worried bout no bitch\", \"classification\": \"sexist\" }"
+    },
+    {
+        "index": 14327,
+        "text": "rt i cannot fuck with a broke bitch",
+        "response": "```json\n{ \"original\": \"rt i cannot fuck with a broke bitch\", \"classification\": \"sexist\" }\n```"
+    },
+    {
+        "index": 17294,
+        "text": "shyt b pissing me off rt ugh i cannot stand bitches like that smh",
+        "response": "{ \"original\": \"shyt b pissing me off rt ugh i cannot stand bitches like that smh\", \"classification\": \"sexist\" }"
+    },
+    {
+        "index": 19509,
+        "text": "youre such a fake bitch i cannot stand you if you read this and wonder if its about you it probably is",
+        "response": "{ \"original\": \"youre such a fake bitch i cannot stand you if you read this and wonder if its about you it probably is\", \"classification\": \"sexist\" }  \n"
+    }
+]

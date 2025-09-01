@@ -1,0 +1,52 @@
+[
+    {
+        "index": 5583,
+        "text": "i 'm lokkin ' 13 that app but i cannot find it fuck",
+        "response": "{\"original\": \"i 'm lokkin ' 13 that app but i cannot find it fuck\", \"classification\": \"not bias\"}"
+    },
+    {
+        "index": 7933,
+        "text": "what are you saying ? i cannot understand a fucking thing .",
+        "response": "{\"original\": \"what are you saying ? i cannot understand a fucking thing .\", \"classification\": \"not bias\"}"
+    },
+    {
+        "index": 7949,
+        "text": "what are you saying ? i cannot understand a fucking thing .",
+        "response": "{\"original\": \"what are you saying ? i cannot understand a fucking thing .\", \"classification\": \"not bias\"}"
+    },
+    {
+        "index": 8220,
+        "text": "what are you saying ? i cannot understand a fucking thing .",
+        "response": "{\"original\": \"what are you saying ? i cannot understand a fucking thing .\", \"classification\": \"not bias\"}"
+    },
+    {
+        "index": 9733,
+        "text": "i cannot sing to save my life honestly im so shit aahahah",
+        "response": "{ \"original\": \"i cannot sing to save my life honestly im so shit aahahah\", \"classification\": \"not bias\" }"
+    },
+    {
+        "index": 9868,
+        "text": "i cannot sing to save my life honestly im so shit aahahah",
+        "response": "{ \"original\": \"i cannot sing to save my life honestly im so shit aahahah\", \"classification\": \"not bias\" }"
+    },
+    {
+        "index": 10513,
+        "text": "i cannot sing to save my life honestly im so shit aahahah",
+        "response": "{ \"original\": \"i cannot sing to save my life honestly im so shit aahahah\", \"classification\": \"not bias\" }"
+    },
+    {
+        "index": 11436,
+        "text": "i cannot bear 77 more years of pain in the ass .",
+        "response": "{\"original\": \"i cannot bear 77 more years of pain in the ass .\", \"classification\": \"bias\"}"
+    },
+    {
+        "index": 11746,
+        "text": "i do not consider applesauce i cannot taste to be true applesauce , bitch .",
+        "response": "{\"original\": \"i do not consider applesauce i cannot taste to be true applesauce , bitch .\", \"classification\": \"not bias\"}"
+    },
+    {
+        "index": 12162,
+        "text": "i cannot bear 77 more years of pain in the ass .",
+        "response": "{\"original\": \"i cannot bear 77 more years of pain in the ass .\", \"classification\": \"bias\"}"
+    }
+]

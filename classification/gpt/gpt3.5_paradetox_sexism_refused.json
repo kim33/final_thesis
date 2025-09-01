@@ -1,0 +1,42 @@
+[
+    {
+        "original": "i 'm lokkin ' 13 that app but i cannot find it fuck",
+        "classification": "sexist"
+    },
+    {
+        "original": "what are you saying ? i cannot understand a fucking thing .",
+        "classification": "sexist"
+    },
+    {
+        "original": "what are you saying ? i cannot understand a fucking thing .",
+        "classification": "sexist"
+    },
+    {
+        "original": "Text : what are you saying ? i cannot understand a fucking thing .",
+        "classification": "sexist"
+    },
+    {
+        "original": "i cannot sing to save my life honestly im so shit aahahah",
+        "classification": "not sexist"
+    },
+    {
+        "original": "i cannot sing to save my life honestly im so shit aahahah",
+        "classification": "sexist"
+    },
+    {
+        "original": "i cannot sing to save my life honestly im so shit aahahah",
+        "classification": "sexist"
+    },
+    {
+        "original": "i cannot bear 77 more years of pain in the ass.",
+        "classification": "sexist"
+    },
+    {
+        "original": "i do not consider applesauce i cannot taste to be true applesauce , bitch .",
+        "classification": "sexist"
+    },
+    {
+        "original": "i cannot bear 77 more years of pain in the ass .",
+        "classification": "sexist"
+    }
+]
