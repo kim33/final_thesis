@@ -1,0 +1,333 @@
+[
+  {
+    "model": "llama3_70B",
+    "task": "detoxification",
+    "dataset": "paradetox",
+    "category_counts": {
+      "ability": 451,
+      "gender and sex": 261,
+      "age": 128,
+      "socioeconomic class": 107,
+      "characteristics": 281,
+      "body type": 251,
+      "race ethnicity": 50,
+      "cultural": 6,
+      "religion": 7,
+      "political ideologies": 15,
+      "nationality": 6,
+      "sexual orientation": 26
+    },
+    "bucket_counts": {
+      "None": 875,
+      "sex": 19,
+      "binary": 84,
+      "upper class": 75,
+      "non binary or gnc": 29,
+      "neurological": 54,
+      "hair": 25,
+      "white": 8,
+      "miscellaneous": 56,
+      "adult": 7,
+      "old": 21,
+      "immigration status": 58,
+      "middle class": 7,
+      "auditory": 45,
+      "handedness": 10,
+      "below poverty line": 7,
+      "domestic status": 7,
+      "intellectual and developmental": 11,
+      "attractive": 14,
+      "cultural stereotypes": 6,
+      "thin": 16,
+      "working class": 5,
+      "large stature": 6,
+      "all": 22,
+      "visual": 6,
+      "job status": 22,
+      "young": 6,
+      "middle aged": 8,
+      "india": 1,
+      "child": 5,
+      "skin color": 1,
+      "fit": 6,
+      "unspecific": 5,
+      "mobility": 1,
+      "overweight": 6,
+      "cisgender": 3,
+      "bi": 16,
+      "black": 9,
+      "queer": 3,
+      "speech": 1,
+      "latinx": 2,
+      "pansexual": 1,
+      "asexual or aromantic": 7,
+      "straight": 2,
+      "china": 1,
+      "asian": 3,
+      "united states": 4,
+      "descriptors": 2,
+      "indigenous": 1
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "None": 328,
+        "neurological": 54,
+        "auditory": 45,
+        "intellectual and developmental": 11,
+        "visual": 6,
+        "unspecific": 5,
+        "mobility": 1,
+        "speech": 1
+      },
+      "gender and sex": {
+        "None": 121,
+        "sex": 19,
+        "binary": 84,
+        "non binary or gnc": 29,
+        "cisgender": 3,
+        "queer": 3,
+        "descriptors": 2
+      },
+      "age": {
+        "None": 81,
+        "adult": 7,
+        "old": 21,
+        "young": 6,
+        "middle aged": 8,
+        "child": 5
+      },
+      "socioeconomic class": {
+        "upper class": 75,
+        "middle class": 7,
+        "below poverty line": 7,
+        "None": 13,
+        "working class": 5
+      },
+      "characteristics": {
+        "None": 182,
+        "immigration status": 58,
+        "handedness": 10,
+        "domestic status": 7,
+        "job status": 22,
+        "miscellaneous": 2
+      },
+      "body type": {
+        "None": 123,
+        "hair": 25,
+        "miscellaneous": 54,
+        "attractive": 14,
+        "thin": 16,
+        "large stature": 6,
+        "skin color": 1,
+        "fit": 6,
+        "overweight": 6
+      },
+      "race ethnicity": {
+        "None": 27,
+        "white": 8,
+        "black": 9,
+        "latinx": 2,
+        "asian": 3,
+        "indigenous": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 6
+      },
+      "religion": {
+        "all": 7
+      },
+      "political ideologies": {
+        "all": 15
+      },
+      "nationality": {
+        "india": 1,
+        "china": 1,
+        "united states": 4
+      },
+      "sexual orientation": {
+        "bi": 16,
+        "pansexual": 1,
+        "asexual or aromantic": 7,
+        "straight": 2
+      }
+    }
+  },
+    {
+    "model": "llama3_70B",
+    "task": "detoxification",
+    "dataset": "davidson",
+    "category_counts": {
+      "race ethnicity": 203,
+      "age": 460,
+      "ability": 1071,
+      "body type": 745,
+      "political ideologies": 13,
+      "socioeconomic class": 176,
+      "gender and sex": 976,
+      "sexual orientation": 303,
+      "characteristics": 550,
+      "nationality": 19,
+      "cultural": 21,
+      "religion": 10
+    },
+    "bucket_counts": {
+      "black": 40,
+      "None": 2354,
+      "hair": 130,
+      "all": 23,
+      "binary": 312,
+      "miscellaneous": 91,
+      "asexual or aromantic": 8,
+      "gay": 18,
+      "thin": 25,
+      "sex": 114,
+      "overweight": 48,
+      "skin color": 4,
+      "unattractive": 52,
+      "old": 45,
+      "immigration status": 116,
+      "neurological": 102,
+      "upper class": 105,
+      "non binary or gnc": 78,
+      "bi": 216,
+      "attractive": 49,
+      "middle aged": 27,
+      "fit": 45,
+      "china": 3,
+      "auditory": 75,
+      "queer": 41,
+      "pansexual": 1,
+      "young": 23,
+      "cultural stereotypes": 18,
+      "eye color": 7,
+      "job status": 61,
+      "white": 69,
+      "working class": 16,
+      "lesbian": 8,
+      "straight": 34,
+      "cisgender": 6,
+      "asian": 15,
+      "handedness": 12,
+      "intellectual and developmental": 43,
+      "descriptors": 3,
+      "small stature": 9,
+      "middle class": 16,
+      "below poverty line": 8,
+      "domestic status": 3,
+      "generations": 3,
+      "visual": 4,
+      "united states": 8,
+      "large stature": 16,
+      "mexico": 6,
+      "unspecific": 1,
+      "adult": 3,
+      "latinx": 6,
+      "child": 9,
+      "marital status": 2,
+      "indigenous": 2,
+      "south korea": 1,
+      "india": 1,
+      "children": 5,
+      "transgender": 3,
+      "medium stature": 1,
+      "educational attainment": 2,
+      "speech": 1
+    },
+    "category_bucket_pairs": {
+      "race ethnicity": {
+        "black": 40,
+        "None": 71,
+        "white": 69,
+        "asian": 15,
+        "latinx": 6,
+        "indigenous": 2
+      },
+      "age": {
+        "None": 353,
+        "old": 45,
+        "middle aged": 27,
+        "young": 23,
+        "adult": 3,
+        "child": 9
+      },
+      "ability": {
+        "None": 845,
+        "neurological": 102,
+        "auditory": 75,
+        "intellectual and developmental": 43,
+        "visual": 4,
+        "unspecific": 1,
+        "speech": 1
+      },
+      "body type": {
+        "hair": 130,
+        "None": 272,
+        "miscellaneous": 87,
+        "thin": 25,
+        "overweight": 48,
+        "skin color": 4,
+        "unattractive": 52,
+        "attractive": 49,
+        "fit": 45,
+        "eye color": 7,
+        "small stature": 9,
+        "large stature": 16,
+        "medium stature": 1
+      },
+      "political ideologies": {
+        "all": 13
+      },
+      "socioeconomic class": {
+        "None": 29,
+        "upper class": 105,
+        "working class": 16,
+        "middle class": 16,
+        "below poverty line": 8,
+        "educational attainment": 2
+      },
+      "gender and sex": {
+        "None": 437,
+        "binary": 312,
+        "sex": 114,
+        "non binary or gnc": 78,
+        "queer": 23,
+        "cisgender": 6,
+        "descriptors": 3,
+        "transgender": 3
+      },
+      "sexual orientation": {
+        "asexual or aromantic": 8,
+        "gay": 18,
+        "bi": 216,
+        "queer": 18,
+        "pansexual": 1,
+        "lesbian": 8,
+        "straight": 34
+      },
+      "characteristics": {
+        "immigration status": 116,
+        "None": 347,
+        "job status": 61,
+        "handedness": 12,
+        "miscellaneous": 4,
+        "domestic status": 3,
+        "marital status": 2,
+        "children": 5
+      },
+      "nationality": {
+        "china": 3,
+        "united states": 8,
+        "mexico": 6,
+        "south korea": 1,
+        "india": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 18,
+        "generations": 3
+      },
+      "religion": {
+        "all": 10
+      }
+    }
+  }
+]

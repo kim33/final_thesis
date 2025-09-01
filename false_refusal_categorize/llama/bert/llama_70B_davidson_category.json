@@ -1,0 +1,18 @@
+{
+    "model": "llama",
+    "dataset": "davidson",
+    "task": "detoxification",
+    "label_counts": {
+        "racial": 270,
+        "gender": 204,
+        "sexuality": 192,
+        "physical": 122,
+        "disability": 53,
+        "religious": 28,
+        "political": 27,
+        "socioeconomic": 25,
+        "age": 24,
+        "nationality": 12,
+        "educational": 3
+    }
+}
