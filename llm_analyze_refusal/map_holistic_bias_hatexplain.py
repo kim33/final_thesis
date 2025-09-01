@@ -7,8 +7,8 @@ import torch
 
 # ----------------- Config -----------------
 MODEL_ID = "microsoft/Phi-4-reasoning-plus"
-INPUT_PATH = "dataset/davidson_extract.json"
-OUT_PATH = "dataset/categorize/davidson_holistic_bias.json"
+INPUT_PATH = "dataset/hatexplain_extract.json"
+OUT_PATH = "dataset/categorize/hatexplain_holistic_bias.json"
 PROCESSED_PATH = OUT_PATH + ".ids"
 
 BATCH_SIZE = 8
@@ -464,9 +464,9 @@ else:
 
 to_process: List[Tuple[int, dict]] = [
     (idx, row) for idx, row in enumerate(refused_data)
-    if row.get("text") and idx not in processed_ids
+    if row.get("post_text") and idx not in processed_ids
 ]
-prompts = [build_prompt(item["text"], tokenizer) for _, item in to_process]
+prompts = [build_prompt(item["post_text"], tokenizer) for _, item in to_process]
 
 # ---------- Generation with length guard ----------
 def generate_batch(batch_prompts: List[str]) -> List[str]:
@@ -537,7 +537,7 @@ for i in range(0, len(prompts), BATCH_SIZE):
 
     for j, ans in enumerate(batch_outputs):
         dataset_idx, row = to_process[i+j]
-        original = row["text"]
+        original = row["post_text"]
 
         parsed = extract_json(ans) or retry_single(original)
 

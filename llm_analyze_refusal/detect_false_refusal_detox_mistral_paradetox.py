@@ -23,8 +23,8 @@ from collections.abc import Mapping
 MODEL_ID = "microsoft/Phi-4-reasoning-plus"
 POLICY_MODE = "strict"
 
-DATA_PATH = "detoxified/qwen/qwen3_30B_davidson_detoxified_0901.json"
-OUT_PATH  = "false_refusal/qwen/qwen3_30B_davidson_detox_0901.json"
+DATA_PATH = "detoxified/mistral/mistral_8x7B_paradetox_detoxified_0901.json"
+OUT_PATH  = "false_refusal/mistral/mistral_8x7B_paradetox_detox_0901.json"
 
 # Generation caps (smaller = faster). 48 is plenty for "SKIP" or a short JSON.
 MAX_NEW_TOKENS = 48

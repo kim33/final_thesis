@@ -4,9 +4,9 @@ import os
 import re
 
 MODEL_ID = "cirimus/modernbert-large-bias-type-classifier"
-INPUT_PATH = "false_refusal/mistral/mistral_davidson_detox_0817.json"
-OUTOUT_PATH = "false_refusal_categorize/mistral/modernBert/mistral_7B_davidson_refused_category.json"
-FAILED_PATH =  "false_refusal_categorize/mistral/modernBert/mistarl_7B_davidson_refused_category_failed.json"
+INPUT_PATH = "false_refusal_categorize/mistral/mistral_paradetox_detox_0828.json"
+OUTOUT_PATH = "false_refusal_categorize/mistral/modernBert/mistral_7B_paradetox_refused_category.json"
+FAILED_PATH =  "false_refusal_categorize/mistral/modernBert/mistarl_7B_paradetox_refused_category_failed.json"
 BATCH_SIZE = 32
 SAVE_EVERY = 30
 DETOX = "original"   

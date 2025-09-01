@@ -3,8 +3,8 @@ from pathlib import Path
 from collections import Counter, defaultdict
 
 # --------- paths (edit if needed) ---------
-input_path = "false_refusal_categorize/llama/llama3_70B_davidson_detox_0828_v2.json"
-out_path = "false_refusal_categorize/llama/llama_70B_refusal_davidson_category_0829.json"
+input_path = "false_refusal_categorize/llama/phi-4/llama3_70B_davidson_detox_0901.json"
+out_path = "false_refusal_categorize/llama/llama3_70B_davidson_category_0901.json"
 
 # ---- run metadata (edit as needed) ----
 record = {
