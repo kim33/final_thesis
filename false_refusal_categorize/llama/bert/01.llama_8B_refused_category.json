@@ -1,0 +1,57 @@
+[
+    {
+    "model": "llama_8B",
+    "dataset": "davidson",
+    "task": "detoxification",
+    "label_counts": {
+        "racial": 656,
+        "gender": 655,
+        "sexuality": 444,
+        "physical": 284,
+        "disability": 142,
+        "age": 93,
+        "socioeconomic": 87,
+        "religious": 69,
+        "political": 53,
+        "nationality": 17,
+        "educational": 13
+        }
+    },
+    {
+    "model": "llama_8B",
+    "dataset": "hatexplain",
+    "task": "detoxification",
+    "label_counts": {
+        "racial": 1061,
+        "religious": 448,
+        "sexuality": 355,
+        "political": 255,
+        "disability": 178,
+        "gender": 171,
+        "nationality": 126,
+        "physical": 74,
+        "age": 50,
+        "socioeconomic": 44,
+        "educational": 8
+        }
+    },
+    {
+    "model": "llama_8B",
+    "dataset": "paradetox",
+    "task": "detoxification",
+    "label_counts": {
+        "disability": 159,
+        "political": 150,
+        "physical": 138,
+        "sexuality": 128,
+        "racial": 119,
+        "gender": 108,
+        "age": 89,
+        "religious": 67,
+        "socioeconomic": 64,
+        "nationality": 48,
+        "educational": 39
+        }
+    }
+
+]

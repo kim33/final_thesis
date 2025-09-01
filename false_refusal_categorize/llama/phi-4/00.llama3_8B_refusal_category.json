@@ -1,6 +1,6 @@
 [
   {
-    "model": "llama",
+    "model": "llama 8B",
     "task": "detoxification",
     "dataset": "davidson",
     "category_counts": {
@@ -430,7 +430,7 @@
     }
   },
   {
-    "model": "llama",
+    "model": "llama 8B",
     "task": "detoxification",
     "dataset": "paradetox",
     "category_counts": {
@@ -694,7 +694,7 @@
     }
   },
   {
-    "model": "llama",
+    "model": "llama 8B",
     "task": "detoxification",
     "dataset": "hatexplain",
     "category_counts": {
