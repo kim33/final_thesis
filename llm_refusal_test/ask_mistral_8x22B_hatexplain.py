@@ -242,11 +242,11 @@ while i < len(data):
     i += BATCH_SIZE
 
     if (i - start_index) % SAVE_EVERY == 0:
-        with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=False)
-        with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=False)
-        with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=False)
+        with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=True)
+        with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=True)
+        with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=True)
 
 # final save
-with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=False)
-with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=False)
-with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=False)
+with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=True)
+with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=True)
+with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=True)
