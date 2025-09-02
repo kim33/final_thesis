@@ -1,0 +1,10367 @@
+[
+  {
+    "text": "i hope they beat each other silly .",
+    "bucket": [
+      "(none)",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "delete the page and shut up",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "disgusting , immoral people , rightwing extremists , who should be driven out of office asap .",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "delete the page and shut up",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "damn those young mothers driving their children to daycare through the snow drifts .",
+    "bucket": [
+      "(none)",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "good , dont let the door hit you in the butt as you leave this conversation mr .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "keep crying me a river , bitch boy .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "this is a free country that protectsamendment rights from little commies like you .",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "you dont need to be hurting their families even more by posting ignorant judgemental comments .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "the free world doesnt need your stupidity .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "did you read the article at all , or are you just another one of the gupta stooges ?",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ]
+    ]
+  },
+  {
+    "text": "wikipedia review and tell the world why you not a grand dickhead",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "you have neither the honesty nor the maturity to admit that you said something stupid.",
+    "bucket": [
+      "(none)",
+      "adult",
+      "middle_aged",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "thank you for taking the time to display for all your riveting ignorance .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "read a book you antisemite !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "delete the page and shut up",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "damn those young mothers driving their children to daycare through the snow drifts.",
+    "bucket": [
+      "(none)",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "sadly , the gay community , and its lackeys , refuses to accept the evidence .",
+    "bucket": [
+      "(none)",
+      "gay",
+      "intellectual_and_developmental"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "you must have some other enemies , now do yourself a favor and fuck off",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "keep crying me a river , bitch boy .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "go take a hike , retard .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yo whatever i have on my shit leave it alone .",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ]
+    ]
+  },
+  {
+    "text": "everyone who has ever voted for her should be permanently disenfranchised and sterilized.",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "hell no dont you fucking talk back to me",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "at least educate yourself before you show your ignorant envy to the world.",
+    "bucket": [
+      "(none)",
+      "adult",
+      "immigration_status",
+      "neurological",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "lets try being intelligent adults here and stop this juvenile crap .",
+    "bucket": [
+      "(none)",
+      "adult"
+    ],
+    "category": [
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, adult"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "gerald you need to stop recycling the same silly post over and over again.",
+    "bucket": [
+      "(none)",
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "just stop stealing our money and do you bloody job .",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "uber , pay your taxes like everybody else and shut up .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lets try being intelligent adults here and stop this juvenile crap.",
+    "bucket": [
+      "(none)",
+      "adult"
+    ],
+    "category": [
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, adult"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "may i also add that youre a cock and you should find something better to do with your time .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you are one hate filled individual pal !",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you seem to be as ignorant as the original commenter so once again who is senator koch from ohio ?",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "poor people are loathsome fools that dont deserve any healthcare ever , right ?",
+    "bucket": [
+      "(none)",
+      "below_poverty_line",
+      "domestic_status",
+      "handedness"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, domestic_status"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ]
+    ]
+  },
+  {
+    "text": "youre fucked up , leave the god damn article alone .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "not a personal attack , you sensitive moron .",
+    "bucket": [
+      "(none)",
+      "binary",
+      "middle_aged"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "at least educate yourself before you show your ignorant envy to the world.",
+    "bucket": [
+      "(none)",
+      "adult",
+      "immigration_status",
+      "neurological",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "get a clue before you make stupid comments.",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "maybe go back to prison chicken shit .",
+    "bucket": [
+      "(none)",
+      "below_poverty_line",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "what a pathetic and immature perspective you have !",
+    "bucket": [
+      "(none)",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "this piece of crap needs to be kept away from animals and the public in general.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "below_poverty_line",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "youre an obscene person and you should be banned.",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "there is a reason europe is going to hell in a hand basket , good luck with that .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "as ive said before youre an idiot .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "quit hiding behind your little computer screen typing away like you know what your talking about you pathetic pansey !",
+    "bucket": [
+      "(none)",
+      "bi",
+      "pansexual",
+      "queer"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, pansexual"
+      ],
+      [
+        "sexual_orientation, queer"
+      ]
+    ]
+  },
+  {
+    "text": "he is a worthless piece of garbage that should be removed from office as soon as possible.",
+    "bucket": [
+      "(none)",
+      "cisgender"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ]
+    ]
+  },
+  {
+    "text": "go take a hike , retard .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lets import the syrian rapists in germany first.",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "get your lazy commie ass back here !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "party voters like ignorant puppets , and guess what ?",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "the lot of them are not worthy of respect and should be driven from the community.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "your comment is disgusting , but more than that , its unchristian .",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "uber , pay your taxes like everybody else and shut up .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "just stop stealing our money and do you bloody job.",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "this diseased sob needs to be silenced for all of eternity",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "and youre as smart as a big mouthed , small brained , juvenile .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "large_stature",
+      "small_stature"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "body_type, small_stature"
+      ]
+    ]
+  },
+  {
+    "text": "hey , ipadperson , please try to keep fuck etc out of edit summaries .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lets educate another idiot libtard.",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "gerald you need to stop recycling the same silly post over and over again .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "good luck wid dat you quer fuking homo .",
+    "bucket": [
+      "attractive"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ]
+    ]
+  },
+  {
+    "text": "true because the real criminal is the idiot leaving work early , not the armed robber or serial rapist .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "this piece of crap needs to be kept away from animals and the public in general .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "below_poverty_line",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "hey stop fking your mothr !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "lauren , your thought process is pathetic .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "its pretty stupid to jump in the water next to an orca .",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "young"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you clowns really need some lessons in reading comprehension along with logic and reason .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "only a fool asks why muslims hate us.",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "pick up a history book sometime , and read the damn thing .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "middle_aged",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "grow a brain , each of you .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "grow a brain , each of you .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "please continue into the other ones and read fully you lazy tit.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "if you dont like her shut up and leave.",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "if you dont like her shut up and leave.",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "please continue into the other ones and read fully you lazy tit.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "can you not find anything more important to do , like killing yourself ?",
+    "bucket": [
+      "(none)",
+      "middle_class",
+      "neurological",
+      "thin",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, thin"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "kick em in the knee , kevin !",
+    "bucket": [
+      "(none)",
+      "adult"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "quit posting idiotic comments and i wont respond .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "the clown prince needs to step down.",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you do not deserve to live fucking piece of shit",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "how pathetic dencord at you want to go around bullying just cause you cant get your own way .",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "old",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you think trump is going to benefit anybody but millionaires youre a fool .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you and your pig friends should consider yourselves lucky.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "look you imbecile , the round for the ar15 is pretty close to the .",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "hair",
+      "job_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "the mother should be thrown in a jail cell and throw away the key.",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "pick up a history book sometime , and read the damn thing .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "middle_aged",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "pick up a history book sometime , and read the damn thing .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "middle_aged",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop being an ignorant deluded too , gary .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "locals fight like men , mainlanders pull knives and guns , such cowards .",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "grow a brain , each of you .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "then dont waste the courts time , execute this low life piece of trash .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "immigration_status",
+      "miscellaneous",
+      "neurological",
+      "visual"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "ability, visual"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "these ungrateful koreans needs to feel the pain under kim uns rule !",
+    "bucket": [
+      "(none)",
+      "south_korea"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "nationality, south_korea"
+      ]
+    ]
+  },
+  {
+    "text": "daily maverick , why do you publish this rubbish ?",
+    "bucket": [
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "doosh doosh doosh doosh doosh fucking cock sucker queir bate ass wipe dont tell me what the fuck to write",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "maybe blacks should be thankful for their good fortune !",
+    "bucket": [
+      "attractive",
+      "black"
+    ],
+    "category": [
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "at least read the article before making silly comments.",
+    "bucket": [
+      "(none)",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "doosh doosh doosh doosh doosh fucking cock sucker queir bate ass wipe dont tell me what the fuck to write",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "motherfuckers like you dont belong to wiipedia",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "how can you people vote for these goons , whats wrong with you ?",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "if you can still support trump , you are a traitor to the nation .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "quit posting idiotic comments and i wont respond.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "at least read the article before making silly comments.",
+    "bucket": [
+      "(none)",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "why dont you follow your own hypocritical advise , little boygirl .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you want us to start seeing motorcycles , dont drive like an idiot .",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "have a good life living in your ignorant illusion of how good it was for them black folk.",
+    "bucket": [
+      "(none)",
+      "black"
+    ],
+    "category": [
+      "age",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "i blame the idiot victims , who pick up china as a destination .",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "try these important things and maybe you wont be such a sucker motherfucker :",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "can we just delete this fucking section ?",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i blame the idiot victims , who pick up china as a destination .",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "careful , youre showing your liberal stupidity .",
+    "bucket": [
+      "all"
+    ],
+    "category": [
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "never underestimate the staggering hypocrisy of liberals that is only exceeded by their shameless intellectual bankruptcy.",
+    "bucket": [
+      "(none)",
+      "all",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "i write an article and you try and delete it , get a life you loser .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "if you dont like that then quit your complaining about the stupid commute .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont just throw shit out that is unverifiable because it casts doubt on anything else you say my friend.",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop with your then you admit crap .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "china needs a swift kick up the butt and to stop stealing from the west .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "the australian broadcasting commission only use the washington com post as their american new source , pathetic .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "united_states"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "nationality, united_states"
+      ]
+    ]
+  },
+  {
+    "text": "lets repeat and remember , stupid is what stupid thinks ( and says ) .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "can we just delete this fucking section ?",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "they both suck , not a single democrat or republican incumbent deserves to be reelected .",
+    "bucket": [
+      "(none)",
+      "all",
+      "marital_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, marital_status"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "stop editing the truth moron.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "try these important things and maybe you wont be such a sucker motherfucker :",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "kathleen kearon again you talk when you should just shut up !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "this village idiot needs a long stay in the gitmo asylum.",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "job_status",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "do some fucking research before you remove my shit .",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "never underestimate the staggering hypocrisy of liberals that is only exceeded by their shameless intellectual bankruptcy.",
+    "bucket": [
+      "(none)",
+      "all",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "calling someone ngger is free expression too.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "kill that fat yobo before he hurts anybody.",
+    "bucket": [
+      "(none)",
+      "binary",
+      "hair",
+      "non_binary_or_gnc",
+      "overweight"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "shut the hell up you idiot mentally ill child !",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "large_stature"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "can we just delete this fucking section ?",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "kathleen kearon again you talk when you should just shut up !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "white euro men are such wusses",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "mind your own business , you troll .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "quit vandalizing the george bush page you stupid liberal.",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "stop with your then you admit crap .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "and by the way , junior , your liberal dementia , eg deluded stupidity , is wrong yet again .",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "dont just throw shit out that is unverifiable because it casts doubt on anything else you say my friend .",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "mind your own business , you troll .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i hope they make it zero so all the losers leave the state and be done with it.",
+    "bucket": [
+      "(none)",
+      "below_poverty_line",
+      "domestic_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, domestic_status"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ]
+    ]
+  },
+  {
+    "text": "tv news is garbage , stop watching it .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "do some fucking research before you remove my shit.",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "quit being stupid : vote cpc .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "move back to alabama you hick .",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you dont like that then quit your complaining about the stupid commute.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "get out my talk page you smelling wog !",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lets get this straight its a damn car !",
+    "bucket": [
+      "(none)",
+      "straight"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "i write an article and you try and delete it , get a life you loser .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "fire these idiots and save a lotey.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "we are proud of our president and you , we find you to be a total disgrace !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "these idiots need to be taken to task.",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "lets start with you , you illiberal fascist !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "just deport the democrats and the snowflakes.",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "and makes an effort not to be a dick .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "move back to alabama you hick .",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "man let me edit the damn pink spiders page .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop fuckin wit me goddamn it !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "have a good life living in your ignorant illusion of how good it was for them black folk .",
+    "bucket": [
+      "(none)",
+      "black"
+    ],
+    "category": [
+      "age",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "you should go check your rectum because your mouth is leaking shite",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "move back to alabama you hick .",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "lets start with you , you illiberal fascist !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "please stop being an ass thank you .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "just mind your own fuckin business asshole .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "quit being stupid : vote cpc .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "china needs a swift kick up the butt and to stop stealing from the west.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "the australian broadcasting commission only use the washington com post as their american new source , pathetic .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "united_states"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "nationality, united_states"
+      ]
+    ]
+  },
+  {
+    "text": "suck it up and try some poutine",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "do some fucking research before you remove my shit .",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you are the one that looks silly.",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you touch one white child we will make your life a living hell .",
+    "bucket": [
+      "(none)",
+      "child",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "if any of this true , hear indians should be strung up and hung out to dry .",
+    "bucket": [
+      "(none)",
+      "india",
+      "miscellaneous",
+      "south_korea"
+    ],
+    "category": [
+      "body_type",
+      "nationality",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "nationality, india"
+      ],
+      [
+        "nationality, south_korea"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "look up the word annihilate you bozo",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "amazing how easy it is to point out how stupid trump voters are .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "miscellaneous",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "lw1 , you are a predator and need to walk out of this familys life forever .",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you shouldn't talk if you're ignorant .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "the world will be much better off without filth like you in it .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "another muslim jerk , amazing how alaska has changed in the pastyrs .",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "i simply stated sick little kids should be put down .",
+    "bucket": [
+      "(none)",
+      "children"
+    ],
+    "category": [
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, children"
+      ]
+    ]
+  },
+  {
+    "text": "tell us again american enviro idiots how were ruining the world ?",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "united_states"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "nationality, united_states"
+      ]
+    ]
+  },
+  {
+    "text": "fire these idiots and save a lotey.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "security , could you show this poor , squeakyvoiced clown out ? .",
+    "bucket": [
+      "below_poverty_line",
+      "middle_class",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "so lets cut the crap .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "stupid representatives of local business need to realize that the common enemy is the state.",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "poor little sicko allaha still thinks its ok to discriminate against gay people .",
+    "bucket": [
+      "(none)",
+      "below_poverty_line",
+      "bi",
+      "gay",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, gay"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ]
+    ]
+  },
+  {
+    "text": "wikipedia should just give up , everyone knows people can just type whatever the fuck they want here .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "just give it some time before you make stupid comments about how we are not paying all the bills .",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "leave us awful liberals alone .",
+    "bucket": [
+      "all",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "and why would the republicans be so stupid as to not secure their information properly ?",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "thank you for clearly demonstrating your lack of a functioning brain to everybody glenn .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "fire the entire board , tear up the chatter , and get rid of them .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont play dumb , jay edward !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "you need to stop putting your sucking thumb in light sockets , your brain is getting fried .",
+    "bucket": [
+      "(none)",
+      "child",
+      "fit",
+      "hair",
+      "neurological",
+      "skin_color"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, skin_color"
+      ]
+    ]
+  },
+  {
+    "text": "they should all be whipped and quartered !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont be sending that trash to hell with the rest of us cool people .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "immigration_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "if you cant , you all have to admit what yuge hypocrites you are .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "skin colour sic , etc are superficial differences lol tell that to the angry white supremacists !",
+    "bucket": [
+      "(none)",
+      "hair",
+      "skin_color",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, skin_color"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "also bull crap on the sexism , rasism , xenophobia etc .",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "you cant vote for and support this moron and still be a good christian.",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "look over here at this while we implement acents a gallon gas tax on all you silly little people .",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "neurological",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "make yourself sane for the first time , get some help for your hate and stupidity",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "please , please somebody take that nuclear football away from the idiot .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "go get your head checked !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "wikipedia should just give up , everyone knows people can just type whatever the fuck they want here .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "they are in love and admiration of each others wealth and to hell with the petty people.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "do something of your useless life , talk page stalker !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "middle_aged",
+      "miscellaneous",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ]
+    ]
+  },
+  {
+    "text": "stop making ridiculous changes to the article you fool.",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "can you stop your tomfoolery imediately you bully !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "wtf stop deleting my stuff !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "you dont bite the hand that is financing your incompetent business management",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont be dumb , do some research kid .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "obstruction , collusion stupidity , its a coming folks !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "do you realize how stupid your comments sound ?",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you cant vote for and support this moron and still be a good christian .",
+    "bucket": [
+      "(none)",
+      "all",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "truly sad and pathetic , get with it yourself .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "get a life you lazy broke ass",
+    "bucket": [
+      "(none)",
+      "below_poverty_line"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ]
+    ]
+  },
+  {
+    "text": "might i suggest that tom rogan and the washington examiner are the clowns ?",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "whaa , keep crying soar loser",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "you will , we dont want you here , dead or alive .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "just give it some time before you make stupid comments about how we are not paying all the bills.",
+    "bucket": [
+      "(none)",
+      "bi",
+      "domestic_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, domestic_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "tell you bitchass mother to not keep dropping you on your head .",
+    "bucket": [
+      "(none)",
+      "bi",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "crawl back into your hole.",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "he was years old and a public figure old enough to know not to say stupid things.",
+    "bucket": [
+      "(none)",
+      "binary",
+      "child",
+      "non_binary_or_gnc",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "could idiotic selfrighteous people please refrain from editing or deleting my talk page in future .",
+    "bucket": [
+      "(none)",
+      "fit",
+      "immigration_status"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "stupid representatives of local business need to realize that the common enemy is the state.",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "wtf stop deleting my stuff !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "he should have been hung in a public square .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "someone should give this idiot a slap on the head",
+    "bucket": [
+      "(none)",
+      "adult",
+      "binary",
+      "middle_aged"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "men have the right to shut the f )( k up and pay for what women get .",
+    "bucket": [
+      "(none)",
+      "all",
+      "handedness"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "fuck off , you giant twat .",
+    "bucket": [
+      "job_status",
+      "large_stature",
+      "upper_class"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "kyle you need mental evaluation on comprehension of tunnel vision.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "visual"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, visual"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "it would be better for all concerned if everyone took their heads out of their pink pussy hats .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "just give it some time before you make stupid comments about how we are not paying all the bills.",
+    "bucket": [
+      "(none)",
+      "bi",
+      "domestic_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, domestic_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "that should shut you up you globalist dick",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i can call people whatever i like idiot .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "listen asshole , you do not delete my pages .",
+    "bucket": [
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "both provincial responsibilities go away you parasites .",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "if you have the balls , and still serve i corp , meet me sometime .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "we want you to get out of our country .",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "cultural",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "hey get your dog to shut up !",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you have a modicum of love for your country, you will not spread your asinine drivel.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "cultural_stereotypes"
+    ],
+    "category": [
+      "ability",
+      "cultural",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "please , please somebody take that nuclear football away from the idiot .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "he needs to grow a pair and tell this lunatic feminist to back off .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "the domain of the lazy and uneducated democrats",
+    "bucket": [
+      "(none)",
+      "all",
+      "auditory"
+    ],
+    "category": [
+      "ability",
+      "political_ideologies",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "provide a credible link for your ridiculous claim .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "id say by a loser , but that wouldnt be civil .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "geez , get a damn grip .",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "stop making ridiculous changes to the article you fool .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "take your liberal crap and leave alaska",
+    "bucket": [
+      "(none)",
+      "alaska_native",
+      "all"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "race_ethnicity, alaska_native"
+      ]
+    ]
+  },
+  {
+    "text": "dont be dumb , do some research kid .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "some ideas are so brazenly stupid , only an intellectual will pursue and believe them .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "so you have no morals congrats on that , loser .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont be dumb , do some research kid .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "dont be asking for me to be banned asshole .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "please read the constitution , youll sound less ignorant .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop inviting these snotty spoiled shtheads to visit .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you created this user , whip him to hell .",
+    "bucket": [
+      "(none)",
+      "binary",
+      "mobility",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, mobility"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "isnt it a drag to be so knocked on your heels being soo busted , troll ?",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "eliminate the city council because they are useless as the late greor fasi used to point out !",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "do some damn research man .",
+    "bucket": [
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "listen asshole , you do not delete my pages .",
+    "bucket": [
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "do some damn research man .",
+    "bucket": [
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "what a pile of drivel !",
+    "bucket": [
+      "(none)",
+      "auditory"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "it would be better for all concerned if everyone took their heads out of their pink pussy hats .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "provide a credible link for your ridiculous claim .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "wtf stop deleting my stuff !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "agreed , you are that ignorant .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "this column should have the name how can i make you hate white people as much as i do .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "and why would the republicans be so stupid as to not secure their information properly ?",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "lets get rid of these russians , the ones that build this junk they call a house .",
+    "bucket": [
+      "(none)",
+      "auditory"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont play dumb , jay edward !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "why not get rid of theseidiots .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you will never be able to get rid of me faggot .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "unspecific"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, unspecific"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "donald , sit down and count your stock options , none of that playing foolish childrens games .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "job_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "and so no , the advice given to young adults is stupid .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "better eat your damn caviar now because very soon those eggs will be glowing.",
+    "bucket": [
+      "hair",
+      "large_stature",
+      "small_stature"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "body_type, small_stature"
+      ]
+    ]
+  },
+  {
+    "text": "please research dementia before you post ignorant vitriol.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "as ive said before ban these drunken idiots from mass flotation .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "your president is not a crook",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lets not be stupid about this .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "give your head a shake and do some homework before you post rubbish.",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "neurological",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "these selfrighteous hypocrites need to leave him alone.",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ohh , the imbecile government union employees in clown suits must be playing their favorite song today .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you damn deserve what im going to do to you .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "your post is both silly and rude .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "bull crap you need to wake up to reality.",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "that darn great wall of china also has to go .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "again get some help for your stupidity",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "you will never be able to get rid of me faggot .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "unspecific"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, unspecific"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "raheem kassam you are a sad individual",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "and you need to pull your head out of your butt.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "swift is a snob and should be ashamed of herself.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "that darn great wall of china also has to go .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "consider these points , you idiots : .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "its damn well time we find the courage to take on the firearms industry.",
+    "bucket": [
+      "(none)",
+      "fit",
+      "miscellaneous",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "take a fucking helicopter next time.",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "better eat your damn caviar now because very soon those eggs will be glowing.",
+    "bucket": [
+      "hair",
+      "large_stature",
+      "small_stature"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "body_type, small_stature"
+      ]
+    ]
+  },
+  {
+    "text": "forst of all get off your fat ass and get a job !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "overweight"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up you all and obey to the new master of wikipedia .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "better eat your damn caviar now because very soon those eggs will be glowing .",
+    "bucket": [
+      "large_stature",
+      "small_stature"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "body_type, small_stature"
+      ]
+    ]
+  },
+  {
+    "text": "next time add it quicker you sorry sack of shit .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "no , stop pulling us into this crap .",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "bottom line im jewish and i dont appreciate the dumb jew comment .",
+    "bucket": [
+      "(none)",
+      "all"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "do not be a fool.",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "kill another whale we live on that food",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "post your real name so that we know who the fool is hiding behind that fake name.",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "tell me youre not that ignorant .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "forst of all get off your fat ass and get a job !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "overweight"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "report the news , damn it , dont just refer to it .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you realize how dumb you sound , right ?",
+    "bucket": [
+      "all",
+      "handedness"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "do not be a fool.",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "stop spamming and stop stalking , you creepy weirdo , hoodad !",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "lets not be stupid about this .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "please research dementia before you post ignorant vitriol.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop deleting my images u fag .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "taking more from the first peoples is ignorant and evil .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "report the news , damn it , dont just refer to it .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "go fuck yourself you dirty cunt.",
+    "bucket": [
+      "hair"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "fuck off you old mull il fuckin find ya and terrorise ya .",
+    "bucket": [
+      "(none)",
+      "job_status",
+      "old",
+      "upper_class"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "and no , i have no interest in reading your junk research .",
+    "bucket": [
+      "(none)",
+      "fit"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "these sick and deranged buffoons need to be ousted , now .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "please go there and teach them this is ridiculous",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "look at my wife or my girlfriend in a way i dont like and ill kick your butt .",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "give your head a shake and do some homework before you post rubbish.",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "neurological",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "get off my talkpage you gay arse .",
+    "bucket": [
+      "bi",
+      "gay",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, gay"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ciaratiara you should really read the whole story before making a stupid comment.",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "feed him to the homies , let them get medieval on his ass .",
+    "bucket": [
+      "(none)",
+      "binary",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "give your head a shake and do some homework before you post rubbish.",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "neurological",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "and you need to pull your head out of your butt.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "and you need to pull your head out of your butt.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "next time add it quicker you sorry sack of shit .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "dont be a useful idiot .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "i dont think like you so we are going to shut you up !",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "thin",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, thin"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "id think about finding out some facts before calling someone else ignorant , rex .",
+    "bucket": [
+      "(none)",
+      "medium_stature",
+      "middle_class",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, medium_stature"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "and no , i have no interest in reading your junk research .",
+    "bucket": [
+      "(none)",
+      "fit"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "it is better to let half of the people die so that the other half can eat their fill.",
+    "bucket": [
+      "(none)",
+      "miscellaneous",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "consider these points , you idiots : .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "try thinking before you type , it makes you appear less foolish .",
+    "bucket": [
+      "thin"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ]
+    ]
+  },
+  {
+    "text": "these selfrighteous hypocrites need to leave him alone .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ciaratiara you should really read the whole story before making a stupid comment.",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "best you start reading books before you ask really really really stupid questions .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "post your real name so that weknow who the fool is hiding behind that fake name .",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "if anyone truly deserves the death penalty ( fully carried out ) its this waste of space killer .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "middle_class",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "no , stop pulling us into this crap .",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "get the hell off of my beach !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "job_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "schatz go back into your rabbit hole .",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "you realize how dumb you sound , right ?",
+    "bucket": [
+      "all",
+      "handedness"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "stop spamming and stop stalking , you creepy weirdo , hoodad !",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "best you start reading books before you ask really really really stupid questions .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "this lying racist bastard , jeff sessions , shouldnt even be in the government much less attorney general .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "socons are societal parasites and we will no longer tolerate their hate.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont let the door hit you in the butt on your way out.",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "miscellaneous",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, miscellaneous"
+      ]
+    ]
+  },
+  {
+    "text": "dump this malignant narcissist and delusional , mentally warped sociopath before its too late .",
+    "bucket": [
+      "(none)",
+      "cisgender",
+      "immigration_status",
+      "large_stature",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "enforce the laws of this country and leave the whiny crap at your front door.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "cultural_stereotypes",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "is it not completely obvious to everyone that this woman is mentally ill ?",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "i say lets sit on our butts and do nothing.",
+    "bucket": [
+      "(none)",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "i will alxays return : delete myarticles stupydbitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "try to help the cops , if you cant help , shut up .",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "u guys hav no idea where the hell sabus from ! stfu .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "so quit hanging around writing dumb comments about the clintons .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "republicans need to stop making excuses for this mentally ill man.",
+    "bucket": [
+      "(none)",
+      "all",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "political_ideologies",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "they are corrupt , stop propping them up with these puff pieces .",
+    "bucket": [
+      "(none)",
+      "cisgender"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ]
+    ]
+  },
+  {
+    "text": "i will alxays return : delete myarticles stupydbitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "delete the fucking images and stop sending me this messages !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "if you want just homosexual beheadings , here is that link : .",
+    "bucket": [
+      "(none)",
+      "gay"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "they should kick his ass for good measure when they take him down for treason.",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "binary"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "stop picking up the talking points of the low information people and do some damn research.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "visual"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, visual"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "the one killed was a dear friend to myself and many others so fuck off man",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "now back up your pathetic letter with some substance , like verifiable facts .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "your posts are abject racist garbage .",
+    "bucket": [
+      "cisgender"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, cisgender"
+      ]
+    ]
+  },
+  {
+    "text": "youre no fucking metal lord dumbass youre a fag fuck you .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "will you please stop posting shit on my webpage ?",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ]
+    ]
+  },
+  {
+    "text": "you are such a stupid cunt legolas .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "so basically dont be such a dick and fuck up wikipedia .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "dont be using moody blues lyrics in your pathetic post.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "fit"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ]
+    ]
+  },
+  {
+    "text": "speaking of ignorant , you should learn how to spell big league .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "large_stature",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "hi , canadians are stupid , as we allowed foreign speculators to ruin this country badly .",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "look it up you academic jerk .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "neuman , youre a disgrace , and the worst of the bunch .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "enforce the laws of this country and leave the whiny crap at your front door.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "cultural_stereotypes",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "it would be nice if the police would cite these idiots before they caused damage to property or others.",
+    "bucket": [
+      "(none)",
+      "cisgender"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ]
+    ]
+  },
+  {
+    "text": "you son of a bitch , shup up !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "dude , u got a stick in ur ass , lemme edit the freakin montana academy page !",
+    "bucket": [
+      "(none)",
+      "binary",
+      "immigration_status",
+      "middle_aged"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "get back in the closet you miserable fags .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you son of a bitch , shup up !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "i say lets sit on our butts and do nothing .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "that way you wont have to keep blaming others for your foolishness.",
+    "bucket": [
+      "(none)",
+      "middle_class",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "youre no fucking metal lord dumbass youre a fag fuck you .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you are a racist piece of shit.",
+    "bucket": [
+      "(none)",
+      "auditory"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "grow the heck up , and stop being such a big baby about living under justin trudeau .",
+    "bucket": [
+      "(none)",
+      "adult",
+      "child",
+      "large_stature"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "body_type, large_stature"
+      ]
+    ]
+  },
+  {
+    "text": "stop being such insufferable jackasses .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "and stop talking about sex with children uthersrgjchillerup .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "delete the fucking images and stop sending me this messages !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "now back up your pathetic letter with some substance , like verifiable facts .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont give me that crap of its only hisstart .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "he should be beaten mercilessly every day he has left of his miserable life .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "dont accuse me of vandalism you psychopath .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "just go away nobody cares about your phoney ass fake opinion !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "hello , fat , ugly , lonely , smelly little boy .",
+    "bucket": [
+      "(none)",
+      "miscellaneous",
+      "overweight",
+      "unattractive"
+    ],
+    "category": [
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "will you please stop posting shit on my webpage ?",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ]
+    ]
+  },
+  {
+    "text": "damn i wish i could stop using the key instead of the .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "this idiot needs to be reported blocked from wiki !",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "aim those handguns at your tv , not your friends and family .",
+    "bucket": [
+      "(none)",
+      "job_status",
+      "old"
+    ],
+    "category": [
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "what a stupid , ignorant , disgusting thing to say .",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "are we to be so bold as to attempt to feed garbage food to billions of people ?",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "below_poverty_line",
+      "miscellaneous",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "justin is corrupt , you can take that to the bank",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "so screw around and cry all you want , its going away one way or another",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "what a stupid , ignorant , disgusting thing to say .",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "dont be such an easily played fool.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "hahahah your an idiot why dont you leave the talk here so everyone can see it .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "you know , this is just silly obama is trying to destroy america .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "stop picking up the talking points of the low information people and do some damn research.",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "visual"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, visual"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop making bombs then you idiots .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "of course , the republicans were elected by white folks too ignorant to follow the money .",
+    "bucket": [
+      "(none)",
+      "all",
+      "auditory",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "political_ideologies",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "if trudeau had any balls he would wear a toronto police uniform when he marches !",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "no , but if you stopped posting stupid comments it would .",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "and then fire all these idiots in the state legislator.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop playing good cop bad cop with your fucking retarded dahn hack forestgarden .",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "you need to find a better mcdonalds , they are screwing you .",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "so quit hanging around writing dumb comments about the clintons .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yeah , lets not get sidetracked from the disgusting behaviour of our clown prince and his imperial behaviour .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "its time to kill them back , when caught trafficking these terrorist deserve to be exicuted",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "fucking jack off , get the fuck off the internet .",
+    "bucket": [
+      "(none)",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "dont give me that crap of its only hisstart .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "i want them hung and removed from society permanently.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "id suggest your hypocrisy needs an overhaul , but thats never going to happen .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "put up or shut up !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "hodad , you have some of the dumbest and least informed postings .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "we need protection from muslims since they have showed how dangerous they are .",
+    "bucket": [
+      "(none)",
+      "all",
+      "thin"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex",
+      "religion"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "dont be using moody blues lyrics in your pathetic post .",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "fit"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ]
+    ]
+  },
+  {
+    "text": "the only way whites can purge their inherent racism is to elect liberal blacks to office .",
+    "bucket": [
+      "(none)",
+      "all",
+      "black",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "political_ideologies",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "race_ethnicity, black"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "this lying racist bastard , jeff sessions , shouldnt even be in the government much less attorney general .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "not just stupid bambastic statements , or not knowing that the russian are in ukraine .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "why did you delete my page do you have mental issues you cow ?",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "so quit hanging around writing dumb comments about the clintons .",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop fucking sending me shit !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "keep those posts coming , i just love making you guys look stupid .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "give it a rest you psychopath .",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "please get immediate help for your hatefilled progressive psychosis !",
+    "bucket": [
+      "all"
+    ],
+    "category": [
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "shut up , your getting annoying .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "oh , please , not this stupidity again .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "damn just all get in the pool and enjoy the party called life.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "see how silly the line of argument is ?",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "it said under construction , dick !",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "put your head out of your butt dude !",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "he should be hung for treason.",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "i said stop fouling my discussion page with your unsolicited and unwanted nonsense !",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont block me i am right and i fucking know it .",
+    "bucket": [
+      "(none)",
+      "all",
+      "handedness"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "i still support trump , you democrates dont have a party any more so shut up",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": ", so do us all a favour and just fuck off instead , hahaha",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc",
+      "queer"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "gender_and_sex, queer"
+      ]
+    ]
+  },
+  {
+    "text": "oh , please , not this stupidity again .",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "stay white and proud you clown .",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "please god , keep both these jackasses out of the public sector from now on .",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,5882 @@
+[
+  {
+    "index": 0,
+    "text": "i didnt vote for the liar",
+    "label": "political",
+    "score": 0.9986390471458435
+  },
+  {
+    "index": 1,
+    "text": "hell no dont you fucking talk back to me",
+    "label": "sexuality",
+    "score": 0.4983324706554413
+  },
+  {
+    "index": 2,
+    "text": "hell no dont you fucking talk back to me",
+    "label": "sexuality",
+    "score": 0.4983324706554413
+  },
+  {
+    "index": 3,
+    "text": "were tired of your despicable lies",
+    "label": "religious",
+    "score": 0.24417157471179962
+  },
+  {
+    "index": 4,
+    "text": "lets try being intelligent adults here and stop this juvenile crap .",
+    "label": "age",
+    "score": 0.7898439764976501
+  },
+  {
+    "index": 5,
+    "text": "only stupid people would think that .",
+    "label": "gender",
+    "score": 0.3234429955482483
+  },
+  {
+    "index": 6,
+    "text": "lets try being intelligent adults here and stop this juvenile crap .",
+    "label": "age",
+    "score": 0.7898439764976501
+  },
+  {
+    "index": 7,
+    "text": "only stupid people would think that .",
+    "label": "gender",
+    "score": 0.3234429955482483
+  },
+  {
+    "index": 8,
+    "text": "were tired of your despicable lies",
+    "label": "religious",
+    "score": 0.24417157471179962
+  },
+  {
+    "index": 9,
+    "text": "only stupid people would think that .",
+    "label": "gender",
+    "score": 0.3234429955482483
+  },
+  {
+    "index": 10,
+    "text": "time for these clowns to retire .",
+    "label": "age",
+    "score": 0.9072772860527039
+  },
+  {
+    "index": 11,
+    "text": "get a clue before you make stupid comments .",
+    "label": "educational",
+    "score": 0.4069184362888336
+  },
+  {
+    "index": 12,
+    "text": "dont listen to this troll .",
+    "label": "political",
+    "score": 0.6029516458511353
+  },
+  {
+    "index": 13,
+    "text": "there is a reason europe is going to hell in a hand basket , good luck with that .",
+    "label": "nationality",
+    "score": 0.8946015238761902
+  },
+  {
+    "index": 14,
+    "text": "wtf is wrong with people ?",
+    "label": "disability",
+    "score": 0.5864477157592773
+  },
+  {
+    "index": 15,
+    "text": "your comment is the dumb one .",
+    "label": "disability",
+    "score": 0.1885671764612198
+  },
+  {
+    "index": 16,
+    "text": "fired over a stupid joke .",
+    "label": "disability",
+    "score": 0.39336684346199036
+  },
+  {
+    "index": 17,
+    "text": "wtf is wrong with people ?",
+    "label": "disability",
+    "score": 0.5864477157592773
+  },
+  {
+    "index": 18,
+    "text": "i didnt vote for the liar",
+    "label": "political",
+    "score": 0.9986390471458435
+  },
+  {
+    "index": 19,
+    "text": "its ignorance like yours that is a nightmare",
+    "label": "educational",
+    "score": 0.7057048082351685
+  },
+  {
+    "index": 20,
+    "text": "fired over a stupid joke .",
+    "label": "disability",
+    "score": 0.39336684346199036
+  },
+  {
+    "index": 21,
+    "text": "who cares loser lib troll , they are all so pathetic and incompetent and corrupt they should resign period",
+    "label": "political",
+    "score": 0.999987006187439
+  },
+  {
+    "index": 22,
+    "text": "the stupid one , not me",
+    "label": "disability",
+    "score": 0.5958532691001892
+  },
+  {
+    "index": 23,
+    "text": "he is a bad man !",
+    "label": "gender",
+    "score": 0.8676862120628357
+  },
+  {
+    "index": 24,
+    "text": "ted , your remarks are offensive , ignorant !",
+    "label": "gender",
+    "score": 0.24343645572662354
+  },
+  {
+    "index": 25,
+    "text": "well said and damn right !",
+    "label": "racial",
+    "score": 0.05397285521030426
+  },
+  {
+    "index": 26,
+    "text": "u think this is some kind of stupid game ?",
+    "label": "disability",
+    "score": 0.8984429240226746
+  },
+  {
+    "index": 27,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "label": "age",
+    "score": 0.2395153045654297
+  },
+  {
+    "index": 28,
+    "text": "suck it up and deal with it .",
+    "label": "socioeconomic",
+    "score": 0.8720126152038574
+  },
+  {
+    "index": 29,
+    "text": "ted , your remarks are offensive , ignorant !",
+    "label": "gender",
+    "score": 0.24343645572662354
+  },
+  {
+    "index": 30,
+    "text": "suck it up and deal with it .",
+    "label": "socioeconomic",
+    "score": 0.8720126152038574
+  },
+  {
+    "index": 31,
+    "text": "well said and damn right !",
+    "label": "racial",
+    "score": 0.05397285521030426
+  },
+  {
+    "index": 32,
+    "text": "u think this is some kind of stupid game ?",
+    "label": "disability",
+    "score": 0.8984430432319641
+  },
+  {
+    "index": 33,
+    "text": "well said and damn right !",
+    "label": "racial",
+    "score": 0.05397287756204605
+  },
+  {
+    "index": 34,
+    "text": "at least read the article before making silly comments .",
+    "label": "educational",
+    "score": 0.5653024911880493
+  },
+  {
+    "index": 35,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "label": "age",
+    "score": 0.2395153045654297
+  },
+  {
+    "index": 36,
+    "text": "at least read the article before making silly comments .",
+    "label": "educational",
+    "score": 0.5653024911880493
+  },
+  {
+    "index": 37,
+    "text": "pretty damn bold and in your face",
+    "label": "physical",
+    "score": 0.3903501033782959
+  },
+  {
+    "index": 38,
+    "text": "pretty damn bold and in your face",
+    "label": "physical",
+    "score": 0.3903501033782959
+  },
+  {
+    "index": 39,
+    "text": "damn right it takes time .",
+    "label": "disability",
+    "score": 0.49219831824302673
+  },
+  {
+    "index": 40,
+    "text": "damn right it takes time .",
+    "label": "disability",
+    "score": 0.49219831824302673
+  },
+  {
+    "index": 41,
+    "text": "the public money is an investment that helps that happen , and your silly namecalling doesnt change that .",
+    "label": "political",
+    "score": 0.9500861763954163
+  },
+  {
+    "index": 42,
+    "text": "the public money is an investment that helps that happen , and your silly namecalling doesnt change that .",
+    "label": "political",
+    "score": 0.9500861763954163
+  },
+  {
+    "index": 43,
+    "text": "if you hold a knife against the cops you deserve to be shot !",
+    "label": "political",
+    "score": 0.7108015418052673
+  },
+  {
+    "index": 44,
+    "text": "either you are blind or stupid",
+    "label": "disability",
+    "score": 0.9984293580055237
+  },
+  {
+    "index": 45,
+    "text": "so incredibly childish and pathetic !",
+    "label": "disability",
+    "score": 0.9261584877967834
+  },
+  {
+    "index": 46,
+    "text": "so lets cut the crap .",
+    "label": "disability",
+    "score": 0.25261053442955017
+  },
+  {
+    "index": 47,
+    "text": "you are quite frankly an ignorant bigot",
+    "label": "gender",
+    "score": 0.19459283351898193
+  },
+  {
+    "index": 48,
+    "text": "time to throw these bums out of office",
+    "label": "socioeconomic",
+    "score": 0.9767268896102905
+  },
+  {
+    "index": 49,
+    "text": "its stupid and i just ignore you",
+    "label": "disability",
+    "score": 0.6209917664527893
+  },
+  {
+    "index": 50,
+    "text": "go get your head checked !",
+    "label": "disability",
+    "score": 0.44577911496162415
+  },
+  {
+    "index": 51,
+    "text": "they really do think we are morons !",
+    "label": "disability",
+    "score": 0.9171720743179321
+  },
+  {
+    "index": 52,
+    "text": "could idiotic selfrighteous people please refrain from editing or deleting my talk page in future .",
+    "label": "political",
+    "score": 0.9942785501480103
+  },
+  {
+    "index": 53,
+    "text": "you upset me so much with your stupidity .",
+    "label": "disability",
+    "score": 0.9375985264778137
+  },
+  {
+    "index": 54,
+    "text": "i can call people whatever i like idiot .",
+    "label": "political",
+    "score": 0.1735551804304123
+  },
+  {
+    "index": 55,
+    "text": "i can call people whatever i like idiot .",
+    "label": "political",
+    "score": 0.1735551804304123
+  },
+  {
+    "index": 56,
+    "text": "so lets cut the crap .",
+    "label": "disability",
+    "score": 0.25261053442955017
+  },
+  {
+    "index": 57,
+    "text": "id say by a loser , but that wouldnt be civil .",
+    "label": "disability",
+    "score": 0.5592169761657715
+  },
+  {
+    "index": 58,
+    "text": "its stupid and i just ignore you",
+    "label": "disability",
+    "score": 0.6209917664527893
+  },
+  {
+    "index": 59,
+    "text": "i can call people whatever i like idiot .",
+    "label": "political",
+    "score": 0.1735551804304123
+  },
+  {
+    "index": 60,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "label": "educational",
+    "score": 0.9727699756622314
+  },
+  {
+    "index": 61,
+    "text": "your post is both silly and rude .",
+    "label": "age",
+    "score": 0.11134059727191925
+  },
+  {
+    "index": 62,
+    "text": "that is a stupid response .",
+    "label": "disability",
+    "score": 0.8482391238212585
+  },
+  {
+    "index": 64,
+    "text": "when you start calling people names like idiot .",
+    "label": "disability",
+    "score": 0.6429322957992554
+  },
+  {
+    "index": 65,
+    "text": "black on black crime is the worst , yet the left and the media wont admit to that .",
+    "label": "racial",
+    "score": 0.9749209880828857
+  },
+  {
+    "index": 66,
+    "text": "again get some help for your stupidity",
+    "label": "disability",
+    "score": 0.9933601021766663
+  },
+  {
+    "index": 67,
+    "text": "your post is both silly and rude .",
+    "label": "age",
+    "score": 0.11134045571088791
+  },
+  {
+    "index": 68,
+    "text": "shut up you all and obey to the new master of wikipedia .",
+    "label": "political",
+    "score": 0.32176220417022705
+  },
+  {
+    "index": 69,
+    "text": "when you start calling people names like idiot .",
+    "label": "disability",
+    "score": 0.6429322957992554
+  },
+  {
+    "index": 70,
+    "text": "really , what a stupid reply .",
+    "label": "disability",
+    "score": 0.6641404628753662
+  },
+  {
+    "index": 71,
+    "text": "when you start calling people names like idiot .",
+    "label": "disability",
+    "score": 0.6429322957992554
+  },
+  {
+    "index": 72,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "label": "educational",
+    "score": 0.9727698564529419
+  },
+  {
+    "index": 73,
+    "text": "that is a stupid response .",
+    "label": "disability",
+    "score": 0.8482386469841003
+  },
+  {
+    "index": 74,
+    "text": "edit summaries like no spewing crap out of your ass are not acceptable .",
+    "label": "gender",
+    "score": 0.22378957271575928
+  },
+  {
+    "index": 75,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "label": "educational",
+    "score": 0.9727698564529419
+  },
+  {
+    "index": 76,
+    "text": "your post is both silly and rude .",
+    "label": "age",
+    "score": 0.11134045571088791
+  },
+  {
+    "index": 77,
+    "text": "if blacks can say nigger in the white house then what the hell you doing taking my comments down ?",
+    "label": "racial",
+    "score": 0.9874041080474854
+  },
+  {
+    "index": 78,
+    "text": "pigs are just so gross to begin with .",
+    "label": "physical",
+    "score": 0.3737245500087738
+  },
+  {
+    "index": 79,
+    "text": "screw asshole solo , if he cannot hide his identity then he should not post racist or ignorant bullshit .",
+    "label": "racial",
+    "score": 0.7824251055717468
+  },
+  {
+    "index": 80,
+    "text": "yes he does believe we are stupid enough to believe this",
+    "label": "religious",
+    "score": 0.5785883069038391
+  },
+  {
+    "index": 81,
+    "text": "ok you win stupidest comment of the day !",
+    "label": "disability",
+    "score": 0.1679294854402542
+  },
+  {
+    "index": 82,
+    "text": "the one killed was a dear friend to myself and many others so fuck off man",
+    "label": "racial",
+    "score": 0.16075925529003143
+  },
+  {
+    "index": 83,
+    "text": "wtf are you talking about now ?",
+    "label": "age",
+    "score": 0.6740291118621826
+  },
+  {
+    "index": 84,
+    "text": "too bad there is no stupid emoji",
+    "label": "physical",
+    "score": 0.7310416102409363
+  },
+  {
+    "index": 85,
+    "text": "so basically dont be such a dick and fuck up wikipedia .",
+    "label": "political",
+    "score": 0.10492773354053497
+  },
+  {
+    "index": 86,
+    "text": "your ignorant comment says it all .",
+    "label": "educational",
+    "score": 0.49224305152893066
+  },
+  {
+    "index": 87,
+    "text": "damn , your dolphins are active today",
+    "label": "nationality",
+    "score": 0.8032456636428833
+  },
+  {
+    "index": 88,
+    "text": "wtf are you talking about now ?",
+    "label": "age",
+    "score": 0.6740291118621826
+  },
+  {
+    "index": 89,
+    "text": "when you do stupid things there are consequences and they should be paid !",
+    "label": "socioeconomic",
+    "score": 0.41504818201065063
+  },
+  {
+    "index": 90,
+    "text": "damn i wish i could stop using the key instead of the .",
+    "label": "disability",
+    "score": 0.9032707810401917
+  },
+  {
+    "index": 91,
+    "text": "why would ellen want someone on her show that calls her what this idiot did in her church ?",
+    "label": "religious",
+    "score": 0.9789403080940247
+  },
+  {
+    "index": 92,
+    "text": "when you do stupid things there are consequences and they should be paid !",
+    "label": "socioeconomic",
+    "score": 0.41504818201065063
+  },
+  {
+    "index": 93,
+    "text": "guess i am just a bit too dumb to vote .",
+    "label": "political",
+    "score": 0.41260120272636414
+  },
+  {
+    "index": 94,
+    "text": "and he isnt a racist unlike jason z and his potty mouth .",
+    "label": "political",
+    "score": 0.9025657176971436
+  },
+  {
+    "index": 95,
+    "text": "people amaze me with how ignorant they can be",
+    "label": "educational",
+    "score": 0.6535810232162476
+  },
+  {
+    "index": 96,
+    "text": "yes he does believe we are stupid enough to believe this",
+    "label": "religious",
+    "score": 0.5785884261131287
+  },
+  {
+    "index": 97,
+    "text": "your ignorant comment says it all .",
+    "label": "educational",
+    "score": 0.49224379658699036
+  },
+  {
+    "index": 98,
+    "text": "actually you are ignorant and stupid then",
+    "label": "educational",
+    "score": 0.4975734055042267
+  },
+  {
+    "index": 99,
+    "text": "your comment is absolutely stupid .",
+    "label": "disability",
+    "score": 0.22652336955070496
+  },
+  {
+    "index": 100,
+    "text": "its sad that you see her as an embarrassment !",
+    "label": "gender",
+    "score": 0.8235762119293213
+  },
+  {
+    "index": 101,
+    "text": "blow me and ban this ip from the whole site .",
+    "label": "political",
+    "score": 0.2077622413635254
+  },
+  {
+    "index": 102,
+    "text": "so stop being such a sexist yourself .",
+    "label": "gender",
+    "score": 0.9990512728691101
+  },
+  {
+    "index": 103,
+    "text": "hard to believe someone can be that ignorant .",
+    "label": "educational",
+    "score": 0.9372937083244324
+  },
+  {
+    "index": 104,
+    "text": "almost every instance of shit was removed , consistently with $ or similar characters .",
+    "label": "socioeconomic",
+    "score": 0.656776487827301
+  },
+  {
+    "index": 105,
+    "text": "almost every instance of shit was removed , consistently with $ or similar characters .",
+    "label": "socioeconomic",
+    "score": 0.656776487827301
+  },
+  {
+    "index": 106,
+    "text": "i get it , men are evil .",
+    "label": "gender",
+    "score": 0.998348593711853
+  },
+  {
+    "index": 107,
+    "text": "hard to believe someone can be that ignorant .",
+    "label": "educational",
+    "score": 0.9372937083244324
+  },
+  {
+    "index": 108,
+    "text": "your comment is absolutely stupid .",
+    "label": "disability",
+    "score": 0.22652336955070496
+  },
+  {
+    "index": 109,
+    "text": "you have got to get on that shit",
+    "label": "physical",
+    "score": 0.5381701588630676
+  },
+  {
+    "index": 110,
+    "text": "dont matter we both do the same shit to eachother ahah",
+    "label": "sexuality",
+    "score": 0.921364963054657
+  },
+  {
+    "index": 111,
+    "text": "i love you so fucking much baby",
+    "label": "gender",
+    "score": 0.5273293852806091
+  },
+  {
+    "index": 112,
+    "text": "fuck yeah for new songs sooo stoked atm in the studio xd",
+    "label": "age",
+    "score": 0.38072144985198975
+  },
+  {
+    "index": 113,
+    "text": "holy shit that is gonna kick all asses ! ! ! !",
+    "label": "disability",
+    "score": 0.28334954380989075
+  },
+  {
+    "index": 114,
+    "text": "the weather can be such a bitch",
+    "label": "nationality",
+    "score": 0.5006691813468933
+  },
+  {
+    "index": 115,
+    "text": "oooo shit now ita about 20 get hectic again",
+    "label": "age",
+    "score": 0.8531630635261536
+  },
+  {
+    "index": 116,
+    "text": "sumbody hacked my damn twitter",
+    "label": "age",
+    "score": 0.6928947567939758
+  },
+  {
+    "index": 117,
+    "text": "this shit been hard af",
+    "label": "disability",
+    "score": 0.4523868262767792
+  },
+  {
+    "index": 118,
+    "text": "i dnt do the twitter fb arguin shit",
+    "label": "age",
+    "score": 0.9467483758926392
+  },
+  {
+    "index": 119,
+    "text": "i don 't give a fuck",
+    "label": "socioeconomic",
+    "score": 0.16223351657390594
+  },
+  {
+    "index": 120,
+    "text": "i gotta go back tomorrow and shit",
+    "label": "age",
+    "score": 0.24977658689022064
+  },
+  {
+    "index": 121,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "label": "physical",
+    "score": 0.19933512806892395
+  },
+  {
+    "index": 122,
+    "text": "shut yo ass up ! lol",
+    "label": "physical",
+    "score": 0.2058890014886856
+  },
+  {
+    "index": 123,
+    "text": "he doesn 't fuck with me",
+    "label": "sexuality",
+    "score": 0.7114760279655457
+  },
+  {
+    "index": 124,
+    "text": "what the fuck am i saying",
+    "label": "age",
+    "score": 0.3001324236392975
+  },
+  {
+    "index": 125,
+    "text": "i dont eat that shit anyways",
+    "label": "physical",
+    "score": 0.6225849390029907
+  },
+  {
+    "index": 126,
+    "text": "dude you are fucked up",
+    "label": "disability",
+    "score": 0.3818989098072052
+  },
+  {
+    "index": 127,
+    "text": "restaurants and bars treat staff like shit man",
+    "label": "socioeconomic",
+    "score": 0.9776452779769897
+  },
+  {
+    "index": 128,
+    "text": "i love you so fucking much baby",
+    "label": "gender",
+    "score": 0.5273293852806091
+  },
+  {
+    "index": 129,
+    "text": "he doesn 't fuck with me",
+    "label": "sexuality",
+    "score": 0.7114760279655457
+  },
+  {
+    "index": 130,
+    "text": "o shit it is all wonky too",
+    "label": "disability",
+    "score": 0.5007568001747131
+  },
+  {
+    "index": 131,
+    "text": "what the fuck is your new number",
+    "label": "age",
+    "score": 0.3373292088508606
+  },
+  {
+    "index": 132,
+    "text": "what the fuck is your new number",
+    "label": "age",
+    "score": 0.3373292088508606
+  },
+  {
+    "index": 133,
+    "text": "i need to get away from this fuckin madness",
+    "label": "disability",
+    "score": 0.5986983180046082
+  },
+  {
+    "index": 134,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "label": "gender",
+    "score": 0.5513234734535217
+  },
+  {
+    "index": 135,
+    "text": "because i fucking miss you and because i fucking said so",
+    "label": "sexuality",
+    "score": 0.6739014387130737
+  },
+  {
+    "index": 136,
+    "text": "rt thank you to for that bomb ass food ! ! it was really good",
+    "label": "physical",
+    "score": 0.7827320098876953
+  },
+  {
+    "index": 137,
+    "text": "shit instantly gets me hyped and inspired",
+    "label": "disability",
+    "score": 0.5350755453109741
+  },
+  {
+    "index": 138,
+    "text": "i need to get away from this fuckin madness",
+    "label": "disability",
+    "score": 0.5986983180046082
+  },
+  {
+    "index": 139,
+    "text": "what the fuck am i saying",
+    "label": "age",
+    "score": 0.3001324236392975
+  },
+  {
+    "index": 140,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "label": "disability",
+    "score": 0.821086585521698
+  },
+  {
+    "index": 141,
+    "text": "i love you so fucking much baby",
+    "label": "gender",
+    "score": 0.5273293852806091
+  },
+  {
+    "index": 142,
+    "text": "rt thank you to for that bomb ass food ! ! it was really good",
+    "label": "physical",
+    "score": 0.7827320098876953
+  },
+  {
+    "index": 143,
+    "text": "dude you are fucked up",
+    "label": "disability",
+    "score": 0.3818989098072052
+  },
+  {
+    "index": 144,
+    "text": "o shit ya u goin up to foxwoods with franky huh",
+    "label": "political",
+    "score": 0.9632049798965454
+  },
+  {
+    "index": 145,
+    "text": "fuck yeah for new songs sooo stoked atm in the studio xd",
+    "label": "age",
+    "score": 0.38072144985198975
+  },
+  {
+    "index": 146,
+    "text": "sumbody hacked my damn twitter",
+    "label": "age",
+    "score": 0.6928947567939758
+  },
+  {
+    "index": 147,
+    "text": "this shit been hard af",
+    "label": "disability",
+    "score": 0.4523868262767792
+  },
+  {
+    "index": 148,
+    "text": "portal 18 was fucking excellent",
+    "label": "disability",
+    "score": 0.85670405626297
+  },
+  {
+    "index": 149,
+    "text": "psa get yo ass off twitter",
+    "label": "age",
+    "score": 0.6481831669807434
+  },
+  {
+    "index": 150,
+    "text": "i was damn grossed out then i started laughing after a while",
+    "label": "disability",
+    "score": 0.24517899751663208
+  },
+  {
+    "index": 151,
+    "text": "yes we did talk shit about her",
+    "label": "gender",
+    "score": 0.9611514806747437
+  },
+  {
+    "index": 152,
+    "text": "i dnt do the twitter fb arguin shit",
+    "label": "age",
+    "score": 0.9467483758926392
+  },
+  {
+    "index": 153,
+    "text": "ayyy thats why i fuck with you lol",
+    "label": "sexuality",
+    "score": 0.9917278289794922
+  },
+  {
+    "index": 154,
+    "text": "lol i aint do shit haha",
+    "label": "physical",
+    "score": 0.45904386043548584
+  },
+  {
+    "index": 155,
+    "text": "lol damn that 's messed up",
+    "label": "disability",
+    "score": 0.8937291502952576
+  },
+  {
+    "index": 156,
+    "text": "the weather can be such a bitch",
+    "label": "nationality",
+    "score": 0.5006691813468933
+  },
+  {
+    "index": 157,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "label": "physical",
+    "score": 0.19933512806892395
+  },
+  {
+    "index": 158,
+    "text": "where the fuck you at ?",
+    "label": "physical",
+    "score": 0.23819810152053833
+  },
+  {
+    "index": 159,
+    "text": "i was damn grossed out then i started laughing after a while",
+    "label": "disability",
+    "score": 0.24517899751663208
+  },
+  {
+    "index": 160,
+    "text": "but my internet is shit -",
+    "label": "nationality",
+    "score": 0.7009599804878235
+  },
+  {
+    "index": 161,
+    "text": "portal 18 was fucking excellent",
+    "label": "disability",
+    "score": 0.8567055463790894
+  },
+  {
+    "index": 162,
+    "text": "you have got to get on that shit",
+    "label": "physical",
+    "score": 0.5381686091423035
+  },
+  {
+    "index": 163,
+    "text": "shut yo ass up ! lol",
+    "label": "physical",
+    "score": 0.20588956773281097
+  },
+  {
+    "index": 164,
+    "text": "i 'm copying and pasting the shit out of this essay",
+    "label": "educational",
+    "score": 0.6640470623970032
+  },
+  {
+    "index": 165,
+    "text": "people bitch about how much it costs",
+    "label": "socioeconomic",
+    "score": 0.9888330698013306
+  },
+  {
+    "index": 166,
+    "text": "i 've done fuck all today , i 'm just not into it",
+    "label": "sexuality",
+    "score": 0.41783407330513
+  },
+  {
+    "index": 167,
+    "text": "the weather can be such a bitch",
+    "label": "nationality",
+    "score": 0.5006700754165649
+  },
+  {
+    "index": 168,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "label": "disability",
+    "score": 0.8210866451263428
+  },
+  {
+    "index": 169,
+    "text": "lol yeah that shit was so weird and random",
+    "label": "disability",
+    "score": 0.6588577032089233
+  },
+  {
+    "index": 170,
+    "text": "do what ? please say you arn 't doing shit to yourself",
+    "label": "physical",
+    "score": 0.7951107621192932
+  },
+  {
+    "index": 171,
+    "text": "she b makin up words n shit tho",
+    "label": "gender",
+    "score": 0.9458337426185608
+  },
+  {
+    "index": 172,
+    "text": "it was directed towards callin me a bitch",
+    "label": "gender",
+    "score": 0.9788438081741333
+  },
+  {
+    "index": 173,
+    "text": "do what ? please say you arn 't doing shit to yourself",
+    "label": "physical",
+    "score": 0.7951107621192932
+  },
+  {
+    "index": 174,
+    "text": "omg you met her ? ! fuck ! i 'm jealous",
+    "label": "sexuality",
+    "score": 0.9281545877456665
+  },
+  {
+    "index": 175,
+    "text": "omg you met her ? ! fuck ! i 'm jealous",
+    "label": "sexuality",
+    "score": 0.9281545877456665
+  },
+  {
+    "index": 176,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "label": "disability",
+    "score": 0.8210866451263428
+  },
+  {
+    "index": 177,
+    "text": "what the fuck am i saying",
+    "label": "age",
+    "score": 0.3001288175582886
+  },
+  {
+    "index": 178,
+    "text": "lol yeah that shit was so weird and random",
+    "label": "disability",
+    "score": 0.6588577032089233
+  },
+  {
+    "index": 179,
+    "text": "wtf ? that sounds like a weird ass party",
+    "label": "political",
+    "score": 0.9965372085571289
+  },
+  {
+    "index": 180,
+    "text": "i 'm so fucked this is bad",
+    "label": "disability",
+    "score": 0.3137195408344269
+  },
+  {
+    "index": 181,
+    "text": "lol i aint do shit haha",
+    "label": "physical",
+    "score": 0.4590441584587097
+  },
+  {
+    "index": 182,
+    "text": "i 've done fuck all today , i 'm just not into it",
+    "label": "sexuality",
+    "score": 0.41783407330513
+  },
+  {
+    "index": 183,
+    "text": "dont matter we both do the same shit to eachother ahah",
+    "label": "sexuality",
+    "score": 0.9213645458221436
+  },
+  {
+    "index": 184,
+    "text": "lmfao i forgot u had that shit lol",
+    "label": "disability",
+    "score": 0.8116835951805115
+  },
+  {
+    "index": 185,
+    "text": "haha oh shit you trippin haha",
+    "label": "disability",
+    "score": 0.7366390228271484
+  },
+  {
+    "index": 186,
+    "text": "lmfao i forgot u had that shit lol",
+    "label": "disability",
+    "score": 0.8116835951805115
+  },
+  {
+    "index": 187,
+    "text": "dont matter we both do the same shit to eachother ahah",
+    "label": "sexuality",
+    "score": 0.9213645458221436
+  },
+  {
+    "index": 188,
+    "text": "because i fucking miss you and because i fucking said so",
+    "label": "sexuality",
+    "score": 0.6739007234573364
+  },
+  {
+    "index": 189,
+    "text": "is my best fucking friend",
+    "label": "sexuality",
+    "score": 0.8242355585098267
+  },
+  {
+    "index": 190,
+    "text": "man , people can be bitches sometimes",
+    "label": "physical",
+    "score": 0.3286028504371643
+  },
+  {
+    "index": 191,
+    "text": "enjoying this gloomy ass day ? lol",
+    "label": "disability",
+    "score": 0.12696537375450134
+  },
+  {
+    "index": 192,
+    "text": "where the fuck you at ?",
+    "label": "physical",
+    "score": 0.2381979078054428
+  },
+  {
+    "index": 193,
+    "text": "lol i 'm jus fuckin wit u",
+    "label": "sexuality",
+    "score": 0.742223858833313
+  },
+  {
+    "index": 194,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "label": "physical",
+    "score": 0.19933415949344635
+  },
+  {
+    "index": 195,
+    "text": "like that fucking sugar ray song",
+    "label": "racial",
+    "score": 0.487209290266037
+  },
+  {
+    "index": 196,
+    "text": "like that fucking sugar ray song",
+    "label": "racial",
+    "score": 0.487209290266037
+  },
+  {
+    "index": 197,
+    "text": "i 'm so fucked this is bad",
+    "label": "disability",
+    "score": 0.3137195408344269
+  },
+  {
+    "index": 198,
+    "text": "o shit ya u goin up to foxwoods with franky huh",
+    "label": "political",
+    "score": 0.9632047414779663
+  },
+  {
+    "index": 199,
+    "text": "shit never works out so i 'm stayin single forever",
+    "label": "sexuality",
+    "score": 0.970940351486206
+  },
+  {
+    "index": 200,
+    "text": "enjoying this gloomy ass day ? lol",
+    "label": "disability",
+    "score": 0.12696537375450134
+  },
+  {
+    "index": 201,
+    "text": "i don 't give a fuck",
+    "label": "socioeconomic",
+    "score": 0.16223330795764923
+  },
+  {
+    "index": 202,
+    "text": "lol i 'm jus fuckin wit u",
+    "label": "sexuality",
+    "score": 0.742223858833313
+  },
+  {
+    "index": 203,
+    "text": "shut yo ass up ! lol",
+    "label": "physical",
+    "score": 0.20588956773281097
+  },
+  {
+    "index": 204,
+    "text": "either do sumat or fuckoff",
+    "label": "religious",
+    "score": 0.8431850075721741
+  },
+  {
+    "index": 205,
+    "text": "i 'm copying and pasting the shit out of this essay",
+    "label": "educational",
+    "score": 0.6640470623970032
+  },
+  {
+    "index": 206,
+    "text": "portal 18 was fucking excellent",
+    "label": "disability",
+    "score": 0.8567055463790894
+  },
+  {
+    "index": 207,
+    "text": "shit never works out so i 'm stayin single forever",
+    "label": "sexuality",
+    "score": 0.970940351486206
+  },
+  {
+    "index": 208,
+    "text": "she b makin up words n shit tho",
+    "label": "gender",
+    "score": 0.9458337426185608
+  },
+  {
+    "index": 209,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "label": "gender",
+    "score": 0.5513241291046143
+  },
+  {
+    "index": 210,
+    "text": "she b makin up words n shit tho",
+    "label": "gender",
+    "score": 0.9458337426185608
+  },
+  {
+    "index": 211,
+    "text": "i dont eat that shit anyways",
+    "label": "physical",
+    "score": 0.6225849390029907
+  },
+  {
+    "index": 212,
+    "text": "damn and i gotta walk in this shit",
+    "label": "disability",
+    "score": 0.6284670233726501
+  },
+  {
+    "index": 213,
+    "text": "haha oh shit you trippin haha",
+    "label": "disability",
+    "score": 0.7366390228271484
+  },
+  {
+    "index": 214,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "label": "gender",
+    "score": 0.5513241291046143
+  },
+  {
+    "index": 215,
+    "text": "shit instantly gets me hyped and inspired",
+    "label": "disability",
+    "score": 0.5350742340087891
+  },
+  {
+    "index": 216,
+    "text": "is my best fucking friend",
+    "label": "sexuality",
+    "score": 0.8242355585098267
+  },
+  {
+    "index": 217,
+    "text": "wtf ? that sounds like a weird ass party",
+    "label": "political",
+    "score": 0.9965372085571289
+  },
+  {
+    "index": 218,
+    "text": "haha u know i b talkin shit some of the time lol",
+    "label": "disability",
+    "score": 0.37578198313713074
+  },
+  {
+    "index": 219,
+    "text": "oh shit hold on lemme erase that for you thenn",
+    "label": "sexuality",
+    "score": 0.38317224383354187
+  },
+  {
+    "index": 220,
+    "text": "shit ill see wat i can do",
+    "label": "disability",
+    "score": 0.29906243085861206
+  },
+  {
+    "index": 221,
+    "text": "well shit give me 50 and i 'll be on the floor lol",
+    "label": "age",
+    "score": 0.9387550354003906
+  },
+  {
+    "index": 222,
+    "text": "oh shit bang bang u tweeting now lol",
+    "label": "sexuality",
+    "score": 0.9177826642990112
+  },
+  {
+    "index": 223,
+    "text": "i could have told u this shit lol",
+    "label": "sexuality",
+    "score": 0.29037773609161377
+  },
+  {
+    "index": 224,
+    "text": "cuz u be getting mad at me over some dumb shit",
+    "label": "disability",
+    "score": 0.5957205295562744
+  },
+  {
+    "index": 225,
+    "text": "calc 48 is a pain in the ass though",
+    "label": "educational",
+    "score": 0.8025888204574585
+  },
+  {
+    "index": 226,
+    "text": "i just laugh at the shit now no need to stress",
+    "label": "disability",
+    "score": 0.9764224290847778
+  },
+  {
+    "index": 227,
+    "text": "i suck at it though",
+    "label": "disability",
+    "score": 0.517939567565918
+  },
+  {
+    "index": 228,
+    "text": "shit ill see wat i can do",
+    "label": "disability",
+    "score": 0.29906243085861206
+  },
+  {
+    "index": 229,
+    "text": "shit i just did my housing yesterday",
+    "label": "socioeconomic",
+    "score": 0.8153876066207886
+  },
+  {
+    "index": 230,
+    "text": "and you like that cold shit huh ? ? haha",
+    "label": "physical",
+    "score": 0.2755616009235382
+  },
+  {
+    "index": 231,
+    "text": "i just laugh at the shit now no need to stress",
+    "label": "disability",
+    "score": 0.9764224290847778
+  },
+  {
+    "index": 232,
+    "text": "kind of i guess , still pretty shit",
+    "label": "disability",
+    "score": 0.915454626083374
+  },
+  {
+    "index": 233,
+    "text": "well shit t , i don 't want to annoy them",
+    "label": "disability",
+    "score": 0.8064751029014587
+  },
+  {
+    "index": 234,
+    "text": "very cool but have no fucking clue what it says",
+    "label": "religious",
+    "score": 0.5071895718574524
+  },
+  {
+    "index": 235,
+    "text": "shit i can 't answer my m2u challenge question",
+    "label": "disability",
+    "score": 0.931344211101532
+  },
+  {
+    "index": 236,
+    "text": "oh holy shit ! ! ! ! they are dating ! ! ! omg",
+    "label": "sexuality",
+    "score": 0.9963451027870178
+  },
+  {
+    "index": 237,
+    "text": "i have no fucking clue what this question is asking",
+    "label": "disability",
+    "score": 0.15510740876197815
+  },
+  {
+    "index": 238,
+    "text": "shit ill see wat i can do",
+    "label": "disability",
+    "score": 0.29906243085861206
+  },
+  {
+    "index": 239,
+    "text": "oh shit it is sunday o",
+    "label": "religious",
+    "score": 0.26138731837272644
+  },
+  {
+    "index": 240,
+    "text": "awe man i hate shit like that",
+    "label": "disability",
+    "score": 0.9159154891967773
+  },
+  {
+    "index": 241,
+    "text": "honestly idk all i hear is screaming and moving shit",
+    "label": "disability",
+    "score": 0.6487782597541809
+  },
+  {
+    "index": 242,
+    "text": "shit , u guys crack me up xd",
+    "label": "disability",
+    "score": 0.406938761472702
+  },
+  {
+    "index": 243,
+    "text": "bout to take a damn shower",
+    "label": "age",
+    "score": 0.26062390208244324
+  },
+  {
+    "index": 244,
+    "text": "is on some healthy shit and gave up pizza",
+    "label": "physical",
+    "score": 0.8663058280944824
+  },
+  {
+    "index": 245,
+    "text": "kind of i guess , still pretty shit",
+    "label": "disability",
+    "score": 0.915454626083374
+  },
+  {
+    "index": 246,
+    "text": "just v bored of the same old shit",
+    "label": "disability",
+    "score": 0.7543227672576904
+  },
+  {
+    "index": 247,
+    "text": "lol , you know that shit is funny",
+    "label": "disability",
+    "score": 0.7628077268600464
+  },
+  {
+    "index": 248,
+    "text": "lmao i aint coppin that shit",
+    "label": "age",
+    "score": 0.7118365168571472
+  },
+  {
+    "index": 249,
+    "text": "it 's fucking hot as hell man",
+    "label": "sexuality",
+    "score": 0.3514505922794342
+  },
+  {
+    "index": 250,
+    "text": "until she started being a bitch",
+    "label": "gender",
+    "score": 0.9958266615867615
+  },
+  {
+    "index": 251,
+    "text": "i could have told u this shit lol",
+    "label": "sexuality",
+    "score": 0.29037773609161377
+  },
+  {
+    "index": 252,
+    "text": "you make me laugh so fucking much",
+    "label": "gender",
+    "score": 0.2827712893486023
+  },
+  {
+    "index": 253,
+    "text": "lol im not dealin wit that shit",
+    "label": "disability",
+    "score": 0.6645165681838989
+  },
+  {
+    "index": 254,
+    "text": "it 's fucking hot as hell man",
+    "label": "sexuality",
+    "score": 0.3514505922794342
+  },
+  {
+    "index": 256,
+    "text": "and you like that cold shit huh ? ? haha",
+    "label": "physical",
+    "score": 0.2755616009235382
+  },
+  {
+    "index": 257,
+    "text": "i think the whole farm your own shit would be cool",
+    "label": "socioeconomic",
+    "score": 0.8315534591674805
+  },
+  {
+    "index": 258,
+    "text": "i wanna take shit to the next level",
+    "label": "sexuality",
+    "score": 0.9009146094322205
+  },
+  {
+    "index": 259,
+    "text": "spell check is a bitch",
+    "label": "educational",
+    "score": 0.18224520981311798
+  },
+  {
+    "index": 260,
+    "text": "oh shit you weren 't posed to see that",
+    "label": "disability",
+    "score": 0.46360644698143005
+  },
+  {
+    "index": 261,
+    "text": "oh shit i see lil bra an on my tl lol",
+    "label": "physical",
+    "score": 0.8222558498382568
+  },
+  {
+    "index": 262,
+    "text": "omg then what would happen ! oh shit ! lol",
+    "label": "disability",
+    "score": 0.9544532895088196
+  },
+  {
+    "index": 263,
+    "text": "yeah , i gooogled that shit",
+    "label": "physical",
+    "score": 0.5924960970878601
+  },
+  {
+    "index": 264,
+    "text": "yeah , i hope she 'll stop with this shit",
+    "label": "gender",
+    "score": 0.742405354976654
+  },
+  {
+    "index": 265,
+    "text": "very cool but have no fucking clue what it says",
+    "label": "religious",
+    "score": 0.5071895718574524
+  },
+  {
+    "index": 266,
+    "text": "shit i can 't answer my m2u challenge question",
+    "label": "disability",
+    "score": 0.931344211101532
+  },
+  {
+    "index": 267,
+    "text": "kind of i guess , still pretty shit",
+    "label": "disability",
+    "score": 0.915454626083374
+  },
+  {
+    "index": 268,
+    "text": "holy fuck i 'm so going",
+    "label": "physical",
+    "score": 0.4591917097568512
+  },
+  {
+    "index": 269,
+    "text": "she acts like a damn kid",
+    "label": "gender",
+    "score": 0.8517216444015503
+  },
+  {
+    "index": 270,
+    "text": "stop taking shit on twitter so seriously and go outside or something",
+    "label": "age",
+    "score": 0.9364352822303772
+  },
+  {
+    "index": 271,
+    "text": "kenny must be shitting bricks haha",
+    "label": "nationality",
+    "score": 0.6834444403648376
+  },
+  {
+    "index": 272,
+    "text": "shit i wish i could be like you",
+    "label": "physical",
+    "score": 0.9331396222114563
+  },
+  {
+    "index": 273,
+    "text": "holy fuck i 'm so going",
+    "label": "physical",
+    "score": 0.4591917097568512
+  },
+  {
+    "index": 274,
+    "text": "oh holy shit ! ! ! ! they are dating ! ! ! omg",
+    "label": "sexuality",
+    "score": 0.9963451027870178
+  },
+  {
+    "index": 275,
+    "text": "my shit went out on me , & i was soooo mad",
+    "label": "disability",
+    "score": 0.5680274963378906
+  },
+  {
+    "index": 276,
+    "text": "holy shit ! trent reznor just won an oscar .",
+    "label": "political",
+    "score": 0.5057309865951538
+  },
+  {
+    "index": 277,
+    "text": "well shit t , i don 't want to annoy them",
+    "label": "disability",
+    "score": 0.8064751029014587
+  },
+  {
+    "index": 278,
+    "text": "oh i wanted to call and bitch him out",
+    "label": "disability",
+    "score": 0.5148201584815979
+  },
+  {
+    "index": 279,
+    "text": "when the fuck did u get up",
+    "label": "age",
+    "score": 0.3978012800216675
+  },
+  {
+    "index": 280,
+    "text": "yeah , i gooogled that shit",
+    "label": "physical",
+    "score": 0.5924960970878601
+  },
+  {
+    "index": 281,
+    "text": "oh shit it is sunday o",
+    "label": "religious",
+    "score": 0.26138731837272644
+  },
+  {
+    "index": 282,
+    "text": "worried about you damn wats da deal ? ? ?",
+    "label": "disability",
+    "score": 0.7185061573982239
+  },
+  {
+    "index": 283,
+    "text": "i never talked shit about you tho or been unreal to your face",
+    "label": "physical",
+    "score": 0.8492278456687927
+  },
+  {
+    "index": 284,
+    "text": "did you beat someones ass today ? lol",
+    "label": "physical",
+    "score": 0.9427312016487122
+  },
+  {
+    "index": 285,
+    "text": "he got back in his fuckin house",
+    "label": "socioeconomic",
+    "score": 0.5700049996376038
+  },
+  {
+    "index": 286,
+    "text": "omg i really thought dat place was closed & shit",
+    "label": "socioeconomic",
+    "score": 0.4825792908668518
+  },
+  {
+    "index": 288,
+    "text": "awe man i hate shit like that",
+    "label": "disability",
+    "score": 0.9159140586853027
+  },
+  {
+    "index": 289,
+    "text": "honestly idk all i hear is screaming and moving shit",
+    "label": "disability",
+    "score": 0.6487765908241272
+  },
+  {
+    "index": 290,
+    "text": "spell check is a bitch",
+    "label": "educational",
+    "score": 0.182246595621109
+  },
+  {
+    "index": 291,
+    "text": "worried about you damn wats da deal ? ? ?",
+    "label": "disability",
+    "score": 0.7185062766075134
+  },
+  {
+    "index": 292,
+    "text": "well shit give me 50 and i 'll be on the floor lol",
+    "label": "age",
+    "score": 0.938755989074707
+  },
+  {
+    "index": 293,
+    "text": "alright , imma remember this shit lol",
+    "label": "age",
+    "score": 0.4497273564338684
+  },
+  {
+    "index": 294,
+    "text": "you make me laugh so fucking much",
+    "label": "gender",
+    "score": 0.28277114033699036
+  },
+  {
+    "index": 295,
+    "text": "lol im not dealin wit that shit",
+    "label": "disability",
+    "score": 0.6645167469978333
+  },
+  {
+    "index": 296,
+    "text": "i fucking love you too ! <3 p",
+    "label": "sexuality",
+    "score": 0.8940877318382263
+  },
+  {
+    "index": 297,
+    "text": "that shit is on the inside of the screen",
+    "label": "physical",
+    "score": 0.30925238132476807
+  },
+  {
+    "index": 298,
+    "text": "why the fuck would we do that ? haha",
+    "label": "disability",
+    "score": 0.5461851358413696
+  },
+  {
+    "index": 299,
+    "text": "oh holy shit ! ! ! ! they are dating ! ! ! omg",
+    "label": "sexuality",
+    "score": 0.9963451027870178
+  },
+  {
+    "index": 300,
+    "text": "shit i wish i could be like you",
+    "label": "physical",
+    "score": 0.9331398606300354
+  },
+  {
+    "index": 301,
+    "text": "yea so stop talkn shit bout the school",
+    "label": "educational",
+    "score": 0.7097547054290771
+  },
+  {
+    "index": 302,
+    "text": "well shit t , i don 't want to annoy them",
+    "label": "disability",
+    "score": 0.8064753413200378
+  },
+  {
+    "index": 303,
+    "text": "i have no fucking clue what this question is asking",
+    "label": "disability",
+    "score": 0.15510691702365875
+  },
+  {
+    "index": 304,
+    "text": "people wear some ugly shit to bed",
+    "label": "physical",
+    "score": 0.9918676018714905
+  },
+  {
+    "index": 305,
+    "text": "omg then what would happen ! oh shit ! lol",
+    "label": "disability",
+    "score": 0.9544534087181091
+  },
+  {
+    "index": 306,
+    "text": "you make me laugh so fucking much",
+    "label": "gender",
+    "score": 0.28277114033699036
+  },
+  {
+    "index": 307,
+    "text": "damn trice now i 'm lonely",
+    "label": "sexuality",
+    "score": 0.7713813185691833
+  },
+  {
+    "index": 308,
+    "text": "she acts like a damn kid",
+    "label": "gender",
+    "score": 0.8517203330993652
+  },
+  {
+    "index": 309,
+    "text": "aint shit new to me done seen it all b4",
+    "label": "age",
+    "score": 0.9874384999275208
+  },
+  {
+    "index": 310,
+    "text": "ikr * crazy ass fools in love ! aha",
+    "label": "sexuality",
+    "score": 0.9949576258659363
+  },
+  {
+    "index": 311,
+    "text": "alright , imma remember this shit lol",
+    "label": "age",
+    "score": 0.4497273564338684
+  },
+  {
+    "index": 312,
+    "text": "bout to take a damn shower",
+    "label": "age",
+    "score": 0.2606219947338104
+  },
+  {
+    "index": 313,
+    "text": "until she started being a bitch",
+    "label": "gender",
+    "score": 0.9958266615867615
+  },
+  {
+    "index": 314,
+    "text": "oh shit you weren 't posed to see that",
+    "label": "disability",
+    "score": 0.46360859274864197
+  },
+  {
+    "index": 315,
+    "text": "when the fuck did u get up",
+    "label": "age",
+    "score": 0.3978014886379242
+  },
+  {
+    "index": 316,
+    "text": "lol , you know that shit is funny",
+    "label": "disability",
+    "score": 0.7628083229064941
+  },
+  {
+    "index": 317,
+    "text": "he was scared as shit",
+    "label": "disability",
+    "score": 0.6056903600692749
+  },
+  {
+    "index": 320,
+    "text": "yes ! it was fucking amazing ! <3 <3",
+    "label": "sexuality",
+    "score": 0.7950724959373474
+  },
+  {
+    "index": 321,
+    "text": "holy fuck i 'm so going",
+    "label": "physical",
+    "score": 0.4591917097568512
+  },
+  {
+    "index": 322,
+    "text": "stop taking shit on twitter so seriously and go outside or something",
+    "label": "age",
+    "score": 0.9364352822303772
+  },
+  {
+    "index": 323,
+    "text": "he was scared as shit",
+    "label": "disability",
+    "score": 0.6056907176971436
+  },
+  {
+    "index": 324,
+    "text": "he got back in his fuckin house",
+    "label": "socioeconomic",
+    "score": 0.5700049996376038
+  },
+  {
+    "index": 325,
+    "text": "yes ! it was fucking amazing ! <3 <3",
+    "label": "sexuality",
+    "score": 0.7950724959373474
+  },
+  {
+    "index": 326,
+    "text": "alright , imma remember this shit lol",
+    "label": "age",
+    "score": 0.4497268795967102
+  },
+  {
+    "index": 327,
+    "text": "is on some healthy shit and gave up pizza",
+    "label": "physical",
+    "score": 0.8663058280944824
+  },
+  {
+    "index": 328,
+    "text": "damn trice now i 'm lonely",
+    "label": "sexuality",
+    "score": 0.7713835835456848
+  },
+  {
+    "index": 329,
+    "text": "shit i wish i could be like you",
+    "label": "physical",
+    "score": 0.9331396222114563
+  },
+  {
+    "index": 330,
+    "text": "oh shit , the temptations is on tv",
+    "label": "physical",
+    "score": 0.29563257098197937
+  },
+  {
+    "index": 331,
+    "text": "i have no fucking clue what this question is asking",
+    "label": "disability",
+    "score": 0.15510740876197815
+  },
+  {
+    "index": 332,
+    "text": "yeah , i gooogled that shit",
+    "label": "physical",
+    "score": 0.5924960970878601
+  },
+  {
+    "index": 333,
+    "text": "oh shit bang bang u tweeting now lol",
+    "label": "sexuality",
+    "score": 0.9177826642990112
+  },
+  {
+    "index": 334,
+    "text": "you did that just to be a smart ass",
+    "label": "disability",
+    "score": 0.39395201206207275
+  },
+  {
+    "index": 335,
+    "text": "niggas is crazy you can 't trust em provenfact",
+    "label": "racial",
+    "score": 0.7803878784179688
+  },
+  {
+    "index": 336,
+    "text": "shit i can 't answer my m2u challenge question",
+    "label": "disability",
+    "score": 0.931344211101532
+  },
+  {
+    "index": 337,
+    "text": "i definitely relate to that gangsta shit lol",
+    "label": "racial",
+    "score": 0.45901426672935486
+  },
+  {
+    "index": 338,
+    "text": "this shit is getting out of hand",
+    "label": "disability",
+    "score": 0.4905416667461395
+  },
+  {
+    "index": 339,
+    "text": "that would be fucking awesome lol",
+    "label": "disability",
+    "score": 0.8129633665084839
+  },
+  {
+    "index": 340,
+    "text": "just fuck off and leave me alone",
+    "label": "sexuality",
+    "score": 0.3947162330150604
+  },
+  {
+    "index": 341,
+    "text": "lip rings are so trashy",
+    "label": "physical",
+    "score": 0.9448466897010803
+  },
+  {
+    "index": 342,
+    "text": "it 's really a pain in the ass for us",
+    "label": "disability",
+    "score": 0.9765793681144714
+  },
+  {
+    "index": 343,
+    "text": "cant believe the shit i just heard",
+    "label": "educational",
+    "score": 0.6526024341583252
+  },
+  {
+    "index": 344,
+    "text": "i do not want to start shit on that website with my name on it",
+    "label": "gender",
+    "score": 0.45443931221961975
+  },
+  {
+    "index": 345,
+    "text": "need to get out of bed and start sorting some shit outtt",
+    "label": "age",
+    "score": 0.13800406455993652
+  },
+  {
+    "index": 346,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "label": "socioeconomic",
+    "score": 0.8593088984489441
+  },
+  {
+    "index": 347,
+    "text": "oh god , that 's fuckin sexy ooooo",
+    "label": "sexuality",
+    "score": 0.7496485114097595
+  },
+  {
+    "index": 348,
+    "text": "but they got fucked up by money",
+    "label": "socioeconomic",
+    "score": 0.980058491230011
+  },
+  {
+    "index": 349,
+    "text": "okay yeah that shit went too hard",
+    "label": "disability",
+    "score": 0.36764878034591675
+  },
+  {
+    "index": 350,
+    "text": "but are the main ones fucking up",
+    "label": "gender",
+    "score": 0.6198266744613647
+  },
+  {
+    "index": 351,
+    "text": "and i 'm tired as fuck",
+    "label": "age",
+    "score": 0.493110716342926
+  },
+  {
+    "index": 352,
+    "text": "oh god , that 's fuckin sexy ooooo",
+    "label": "sexuality",
+    "score": 0.7496485114097595
+  },
+  {
+    "index": 353,
+    "text": "i would love to fucking tweet again",
+    "label": "age",
+    "score": 0.4555864632129669
+  },
+  {
+    "index": 354,
+    "text": "uuu bold ass hell for that one but if thats how u feel",
+    "label": "sexuality",
+    "score": 0.9546101689338684
+  },
+  {
+    "index": 355,
+    "text": "okay yeah that shit went too hard",
+    "label": "disability",
+    "score": 0.36764878034591675
+  },
+  {
+    "index": 356,
+    "text": "it 's really a pain in the ass for us",
+    "label": "disability",
+    "score": 0.9765793681144714
+  },
+  {
+    "index": 357,
+    "text": "not shit though just trying to have some fun",
+    "label": "sexuality",
+    "score": 0.6091539859771729
+  },
+  {
+    "index": 358,
+    "text": "im soo fucken excited for work today",
+    "label": "socioeconomic",
+    "score": 0.178200364112854
+  },
+  {
+    "index": 359,
+    "text": "was on a treadmill gettin ' my ass in shape",
+    "label": "physical",
+    "score": 0.7658752202987671
+  },
+  {
+    "index": 360,
+    "text": "just fuck off and leave me alone",
+    "label": "sexuality",
+    "score": 0.3947162330150604
+  },
+  {
+    "index": 361,
+    "text": "not shit though just trying to have some fun",
+    "label": "sexuality",
+    "score": 0.6091539859771729
+  },
+  {
+    "index": 362,
+    "text": "im soo fucken excited for work today",
+    "label": "socioeconomic",
+    "score": 0.178200364112854
+  },
+  {
+    "index": 363,
+    "text": "ohh shit ! got any pictures ? haha",
+    "label": "disability",
+    "score": 0.8890165090560913
+  },
+  {
+    "index": 364,
+    "text": "i don 't even keep count of that shit",
+    "label": "physical",
+    "score": 0.9227109551429749
+  },
+  {
+    "index": 365,
+    "text": "maybe then we can get shit done",
+    "label": "disability",
+    "score": 0.17928056418895721
+  },
+  {
+    "index": 366,
+    "text": "that would be fucking awesome lol",
+    "label": "disability",
+    "score": 0.8129633665084839
+  },
+  {
+    "index": 367,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "label": "socioeconomic",
+    "score": 0.8593088984489441
+  },
+  {
+    "index": 368,
+    "text": "and i 'm tired as fuck",
+    "label": "age",
+    "score": 0.493110716342926
+  },
+  {
+    "index": 369,
+    "text": "yeah leave it there girl and don 't let anyone fuck you over",
+    "label": "gender",
+    "score": 0.9766592383384705
+  },
+  {
+    "index": 370,
+    "text": "i don 't understand this shit",
+    "label": "disability",
+    "score": 0.30298903584480286
+  },
+  {
+    "index": 371,
+    "text": "maybe then we can get shit done",
+    "label": "disability",
+    "score": 0.17928056418895721
+  },
+  {
+    "index": 372,
+    "text": "ohh shit im fucking with that",
+    "label": "disability",
+    "score": 0.8220672607421875
+  },
+  {
+    "index": 373,
+    "text": "he just chats shit all the time",
+    "label": "disability",
+    "score": 0.41980454325675964
+  },
+  {
+    "index": 374,
+    "text": "i ain 't bought shit either",
+    "label": "socioeconomic",
+    "score": 0.9739291071891785
+  },
+  {
+    "index": 375,
+    "text": "this shit is getting out of hand",
+    "label": "disability",
+    "score": 0.4905416667461395
+  },
+  {
+    "index": 376,
+    "text": "damn i got it all messed up",
+    "label": "disability",
+    "score": 0.29575902223587036
+  },
+  {
+    "index": 377,
+    "text": "i shouldve brought or to come deal with this bullshit with me",
+    "label": "disability",
+    "score": 0.6470943689346313
+  },
+  {
+    "index": 378,
+    "text": "just leave fuck boy alone",
+    "label": "sexuality",
+    "score": 0.8743006587028503
+  },
+  {
+    "index": 379,
+    "text": "cause you stopped fucking with me",
+    "label": "sexuality",
+    "score": 0.9942533373832703
+  },
+  {
+    "index": 380,
+    "text": "nd yall is dead ass wrong",
+    "label": "sexuality",
+    "score": 0.7843551635742188
+  },
+  {
+    "index": 381,
+    "text": "cant believe the shit i just heard",
+    "label": "educational",
+    "score": 0.6526024341583252
+  },
+  {
+    "index": 382,
+    "text": "i don 't give a shit about it",
+    "label": "disability",
+    "score": 0.780807375907898
+  },
+  {
+    "index": 383,
+    "text": "i don 't understand this shit",
+    "label": "disability",
+    "score": 0.30298903584480286
+  },
+  {
+    "index": 384,
+    "text": "you got home fast as shit",
+    "label": "physical",
+    "score": 0.5796437859535217
+  },
+  {
+    "index": 385,
+    "text": "yeahh fuck you for waking me up",
+    "label": "age",
+    "score": 0.3476826250553131
+  },
+  {
+    "index": 386,
+    "text": "im soo fucken excited for work today",
+    "label": "socioeconomic",
+    "score": 0.178200364112854
+  },
+  {
+    "index": 387,
+    "text": "yeahh fuck you for waking me up",
+    "label": "age",
+    "score": 0.3476826250553131
+  },
+  {
+    "index": 388,
+    "text": "alriht thinkin bout getting back on just school and shit",
+    "label": "educational",
+    "score": 0.5704594254493713
+  },
+  {
+    "index": 389,
+    "text": "cant believe the shit i just heard",
+    "label": "educational",
+    "score": 0.6526024341583252
+  },
+  {
+    "index": 390,
+    "text": "i shouldve brought or to come deal with this bullshit with me",
+    "label": "disability",
+    "score": 0.6470943689346313
+  },
+  {
+    "index": 391,
+    "text": "u inspired most of this shit",
+    "label": "racial",
+    "score": 0.35282397270202637
+  },
+  {
+    "index": 392,
+    "text": "need to get out of bed and start sorting some shit outtt",
+    "label": "age",
+    "score": 0.13800406455993652
+  },
+  {
+    "index": 393,
+    "text": "i would love to fucking tweet again",
+    "label": "age",
+    "score": 0.4555864632129669
+  },
+  {
+    "index": 394,
+    "text": "i can that shit even when he smile",
+    "label": "racial",
+    "score": 0.6572579741477966
+  },
+  {
+    "index": 395,
+    "text": "i feel like shit all over again",
+    "label": "physical",
+    "score": 0.5359770059585571
+  },
+  {
+    "index": 396,
+    "text": "i don 't understand this shit",
+    "label": "disability",
+    "score": 0.30298903584480286
+  },
+  {
+    "index": 397,
+    "text": "better stop that shit before i have to start reciprocating all over the place",
+    "label": "sexuality",
+    "score": 0.8282457590103149
+  },
+  {
+    "index": 398,
+    "text": "still a boring ass tv show",
+    "label": "disability",
+    "score": 0.6716803908348083
+  },
+  {
+    "index": 399,
+    "text": "i wanna be in this shit",
+    "label": "disability",
+    "score": 0.7231104373931885
+  },
+  {
+    "index": 400,
+    "text": "oh you dead ass wrong lol",
+    "label": "sexuality",
+    "score": 0.2491573542356491
+  },
+  {
+    "index": 401,
+    "text": "i see shit i dont like",
+    "label": "physical",
+    "score": 0.649131178855896
+  },
+  {
+    "index": 402,
+    "text": "maybe then we can get shit done",
+    "label": "disability",
+    "score": 0.17928056418895721
+  },
+  {
+    "index": 403,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "label": "socioeconomic",
+    "score": 0.8593088984489441
+  },
+  {
+    "index": 404,
+    "text": "nd yall is dead ass wrong",
+    "label": "sexuality",
+    "score": 0.7843551635742188
+  },
+  {
+    "index": 405,
+    "text": "aww shit well lemme hear it when you do it",
+    "label": "disability",
+    "score": 0.4262866973876953
+  },
+  {
+    "index": 406,
+    "text": "u inspired most of this shit",
+    "label": "racial",
+    "score": 0.35282397270202637
+  },
+  {
+    "index": 407,
+    "text": "nobody really fucks with facebook nomore",
+    "label": "age",
+    "score": 0.9777762293815613
+  },
+  {
+    "index": 408,
+    "text": "ohh shit ! got any pictures ? haha",
+    "label": "disability",
+    "score": 0.8890165090560913
+  },
+  {
+    "index": 409,
+    "text": "haaha i was fucking with you",
+    "label": "sexuality",
+    "score": 0.5856281518936157
+  },
+  {
+    "index": 410,
+    "text": "and i 'm tired as fuck",
+    "label": "age",
+    "score": 0.493110716342926
+  },
+  {
+    "index": 411,
+    "text": "yooo i got tired of all the freezing and shit smh",
+    "label": "nationality",
+    "score": 0.42566001415252686
+  },
+  {
+    "index": 412,
+    "text": "i don 't give a shit about it",
+    "label": "disability",
+    "score": 0.780807375907898
+  },
+  {
+    "index": 413,
+    "text": "i feel like shit all over again",
+    "label": "physical",
+    "score": 0.5359770059585571
+  },
+  {
+    "index": 414,
+    "text": "i wanna be in this shit",
+    "label": "disability",
+    "score": 0.7231104373931885
+  },
+  {
+    "index": 416,
+    "text": "but at least i 'm not calling her bitch or something .",
+    "label": "gender",
+    "score": 0.9652599692344666
+  },
+  {
+    "index": 417,
+    "text": "like the old days shit used to b to real",
+    "label": "age",
+    "score": 0.9925895929336548
+  },
+  {
+    "index": 418,
+    "text": "damn i got it all messed up",
+    "label": "disability",
+    "score": 0.29575902223587036
+  },
+  {
+    "index": 419,
+    "text": "i ain 't bought shit either",
+    "label": "socioeconomic",
+    "score": 0.9739291071891785
+  },
+  {
+    "index": 420,
+    "text": "just fuck off and leave me alone",
+    "label": "sexuality",
+    "score": 0.3947162330150604
+  },
+  {
+    "index": 421,
+    "text": "i would love to fucking tweet again",
+    "label": "age",
+    "score": 0.4555864632129669
+  },
+  {
+    "index": 422,
+    "text": "hey you know what ? fuck off",
+    "label": "sexuality",
+    "score": 0.4048880338668823
+  },
+  {
+    "index": 423,
+    "text": "damn you dont like em that much",
+    "label": "sexuality",
+    "score": 0.455314964056015
+  },
+  {
+    "index": 424,
+    "text": "i hope i forget about this shit tomorrow",
+    "label": "disability",
+    "score": 0.8926631212234497
+  },
+  {
+    "index": 425,
+    "text": "just leave fuck boy alone",
+    "label": "sexuality",
+    "score": 0.8743006587028503
+  },
+  {
+    "index": 426,
+    "text": "i hope i forget about this shit tomorrow",
+    "label": "disability",
+    "score": 0.8926631212234497
+  },
+  {
+    "index": 427,
+    "text": "you got home fast as shit",
+    "label": "physical",
+    "score": 0.5796437859535217
+  },
+  {
+    "index": 428,
+    "text": "i don 't give a shit about it",
+    "label": "disability",
+    "score": 0.780807375907898
+  },
+  {
+    "index": 429,
+    "text": "yeah leave it there girl and don 't let anyone fuck you over",
+    "label": "gender",
+    "score": 0.9766592383384705
+  },
+  {
+    "index": 430,
+    "text": "that would be fucking awesome lol",
+    "label": "disability",
+    "score": 0.8129633665084839
+  },
+  {
+    "index": 431,
+    "text": "i wanna be in this shit",
+    "label": "disability",
+    "score": 0.7231104373931885
+  },
+  {
+    "index": 432,
+    "text": "ohh shit ! got any pictures ? haha",
+    "label": "disability",
+    "score": 0.8890165090560913
+  },
+  {
+    "index": 433,
+    "text": "im finna tweet myy ass off witt his lyrics",
+    "label": "age",
+    "score": 0.6513729691505432
+  },
+  {
+    "index": 434,
+    "text": "but then that would fuck my coworker over",
+    "label": "disability",
+    "score": 0.40687891840934753
+  },
+  {
+    "index": 435,
+    "text": "i do not want to start shit on that website with my name on it",
+    "label": "gender",
+    "score": 0.45443931221961975
+  },
+  {
+    "index": 436,
+    "text": "still a boring ass tv show",
+    "label": "disability",
+    "score": 0.6716803908348083
+  },
+  {
+    "index": 437,
+    "text": "i feel like shit all over again",
+    "label": "physical",
+    "score": 0.5359770059585571
+  },
+  {
+    "index": 438,
+    "text": "he be talkin all shit lol",
+    "label": "age",
+    "score": 0.36127856373786926
+  },
+  {
+    "index": 439,
+    "text": "he be talkin all shit lol",
+    "label": "age",
+    "score": 0.36127856373786926
+  },
+  {
+    "index": 440,
+    "text": "this shit is getting out of hand",
+    "label": "disability",
+    "score": 0.4905416667461395
+  },
+  {
+    "index": 441,
+    "text": "heather is passed the fuck out",
+    "label": "age",
+    "score": 0.14083634316921234
+  },
+  {
+    "index": 442,
+    "text": "still a boring ass tv show",
+    "label": "disability",
+    "score": 0.6716803908348083
+  },
+  {
+    "index": 443,
+    "text": "ohh shit im fucking with that",
+    "label": "disability",
+    "score": 0.8220672607421875
+  },
+  {
+    "index": 444,
+    "text": "not shit though just trying to have some fun",
+    "label": "sexuality",
+    "score": 0.6091539859771729
+  },
+  {
+    "index": 445,
+    "text": "i 'm in deep shit bro",
+    "label": "disability",
+    "score": 0.15391653776168823
+  },
+  {
+    "index": 446,
+    "text": "sake of fighting is just idiocy though",
+    "label": "disability",
+    "score": 0.5502498745918274
+  },
+  {
+    "index": 447,
+    "text": "oh my fucking god ! he 's so freaking cute",
+    "label": "disability",
+    "score": 0.27387845516204834
+  },
+  {
+    "index": 448,
+    "text": "lip rings are so trashy",
+    "label": "physical",
+    "score": 0.9448466897010803
+  },
+  {
+    "index": 449,
+    "text": "i do not want to start shit on that website with my name on it",
+    "label": "gender",
+    "score": 0.45443999767303467
+  },
+  {
+    "index": 450,
+    "text": "was on a treadmill gettin ' my ass in shape",
+    "label": "physical",
+    "score": 0.7658769488334656
+  },
+  {
+    "index": 451,
+    "text": "sake of fighting is just idiocy though",
+    "label": "disability",
+    "score": 0.5502524971961975
+  },
+  {
+    "index": 452,
+    "text": "lmaoooo i knew what u meant , that was just me being a smart ass teeheee",
+    "label": "age",
+    "score": 0.4676066040992737
+  },
+  {
+    "index": 453,
+    "text": "better stop that shit before i have to start reciprocating all over the place",
+    "label": "sexuality",
+    "score": 0.8282466530799866
+  },
+  {
+    "index": 454,
+    "text": "im so fucking mad though ,",
+    "label": "disability",
+    "score": 0.9396138787269592
+  },
+  {
+    "index": 455,
+    "text": "imma let you talk your shit",
+    "label": "physical",
+    "score": 0.36260929703712463
+  },
+  {
+    "index": 456,
+    "text": "get this shit right dav",
+    "label": "nationality",
+    "score": 0.5988381505012512
+  },
+  {
+    "index": 457,
+    "text": "that shit was so funny",
+    "label": "disability",
+    "score": 0.8146551251411438
+  },
+  {
+    "index": 458,
+    "text": "oh fuck yea we get out hella early tommarow dddd",
+    "label": "age",
+    "score": 0.7565287351608276
+  },
+  {
+    "index": 459,
+    "text": "he changed ! okay ! he did , we all know it ! so please shut the fuck up !",
+    "label": "sexuality",
+    "score": 0.5191373825073242
+  },
+  {
+    "index": 460,
+    "text": "my ass is on the internet for the moment",
+    "label": "physical",
+    "score": 0.7689124941825867
+  },
+  {
+    "index": 461,
+    "text": "i didn 't check my notifications smart ass lol",
+    "label": "age",
+    "score": 0.7137243151664734
+  },
+  {
+    "index": 462,
+    "text": "i told him to fuck off",
+    "label": "disability",
+    "score": 0.1223895326256752
+  },
+  {
+    "index": 463,
+    "text": "naw , you know i fucks with all types of music",
+    "label": "racial",
+    "score": 0.22374758124351501
+  },
+  {
+    "index": 464,
+    "text": "yea yea i know i dig that true shit",
+    "label": "sexuality",
+    "score": 0.994621753692627
+  },
+  {
+    "index": 465,
+    "text": "oh yeah it looks pretty shit on my phone too",
+    "label": "physical",
+    "score": 0.7414071559906006
+  },
+  {
+    "index": 466,
+    "text": "naw , you know i fucks with all types of music",
+    "label": "racial",
+    "score": 0.22374758124351501
+  },
+  {
+    "index": 467,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "label": "physical",
+    "score": 0.21661454439163208
+  },
+  {
+    "index": 468,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "label": "disability",
+    "score": 0.7790789604187012
+  },
+  {
+    "index": 469,
+    "text": "naw , you know i fucks with all types of music",
+    "label": "racial",
+    "score": 0.22374758124351501
+  },
+  {
+    "index": 470,
+    "text": "shit i don 't remember on of the blondest ones tho",
+    "label": "racial",
+    "score": 0.7976555228233337
+  },
+  {
+    "index": 471,
+    "text": "im tryin get netflix on my shit",
+    "label": "age",
+    "score": 0.7332162261009216
+  },
+  {
+    "index": 472,
+    "text": "i see you have life fucked up",
+    "label": "physical",
+    "score": 0.2416515201330185
+  },
+  {
+    "index": 473,
+    "text": "had a dope ass caballero ii tho",
+    "label": "socioeconomic",
+    "score": 0.7153909206390381
+  },
+  {
+    "index": 474,
+    "text": "oh fuck yea we get out hella early tommarow dddd",
+    "label": "age",
+    "score": 0.7565287351608276
+  },
+  {
+    "index": 475,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "label": "physical",
+    "score": 0.21661454439163208
+  },
+  {
+    "index": 476,
+    "text": "oh yeah it looks pretty shit on my phone too",
+    "label": "physical",
+    "score": 0.7414071559906006
+  },
+  {
+    "index": 477,
+    "text": "sexy as fuck of course",
+    "label": "sexuality",
+    "score": 0.6481152772903442
+  },
+  {
+    "index": 478,
+    "text": "u talkin bout the scores n shit ?",
+    "label": "age",
+    "score": 0.7203211784362793
+  },
+  {
+    "index": 480,
+    "text": "he changed ! okay ! he did , we all know it ! so please shut the fuck up !",
+    "label": "sexuality",
+    "score": 0.5191392302513123
+  },
+  {
+    "index": 481,
+    "text": "no , that 's shit spanish food",
+    "label": "racial",
+    "score": 0.9609212279319763
+  },
+  {
+    "index": 482,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "label": "physical",
+    "score": 0.21661382913589478
+  },
+  {
+    "index": 483,
+    "text": "bitch you was suppose to be sleep",
+    "label": "gender",
+    "score": 0.3959304988384247
+  },
+  {
+    "index": 484,
+    "text": "lmao i 'm in sucky ass class",
+    "label": "educational",
+    "score": 0.5178222060203552
+  },
+  {
+    "index": 485,
+    "text": "holy shit so do i ! !",
+    "label": "sexuality",
+    "score": 0.32248035073280334
+  },
+  {
+    "index": 486,
+    "text": "bitch you was suppose to be sleep",
+    "label": "gender",
+    "score": 0.3959304988384247
+  },
+  {
+    "index": 487,
+    "text": "u was just on some weird shit two weeks ago",
+    "label": "disability",
+    "score": 0.8323110342025757
+  },
+  {
+    "index": 488,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "label": "disability",
+    "score": 0.779079258441925
+  },
+  {
+    "index": 489,
+    "text": "but some just ruined my whole fuckin night",
+    "label": "disability",
+    "score": 0.6305952668190002
+  },
+  {
+    "index": 490,
+    "text": "shit got outta hand tonight haha",
+    "label": "disability",
+    "score": 0.16256965696811676
+  },
+  {
+    "index": 491,
+    "text": "that shit irritates me with a passion lol",
+    "label": "disability",
+    "score": 0.873731255531311
+  },
+  {
+    "index": 492,
+    "text": "my ass is on the internet for the moment",
+    "label": "physical",
+    "score": 0.7689142823219299
+  },
+  {
+    "index": 493,
+    "text": "yes ! im in fuckin pain",
+    "label": "disability",
+    "score": 0.8924995064735413
+  },
+  {
+    "index": 494,
+    "text": "you best beast on dat shit",
+    "label": "sexuality",
+    "score": 0.40482887625694275
+  },
+  {
+    "index": 495,
+    "text": "yes ! im in fuckin pain",
+    "label": "disability",
+    "score": 0.8924995064735413
+  },
+  {
+    "index": 496,
+    "text": "chillin looking around n shit lol",
+    "label": "age",
+    "score": 0.5177947878837585
+  },
+  {
+    "index": 497,
+    "text": "shit i been aight i guess hbu",
+    "label": "sexuality",
+    "score": 0.32572510838508606
+  },
+  {
+    "index": 498,
+    "text": "the fuck are you goin on about",
+    "label": "sexuality",
+    "score": 0.6261692643165588
+  },
+  {
+    "index": 499,
+    "text": "chillin looking around n shit lol",
+    "label": "age",
+    "score": 0.5177947878837585
+  },
+  {
+    "index": 500,
+    "text": "but some just ruined my whole fuckin night",
+    "label": "disability",
+    "score": 0.6305952668190002
+  },
+  {
+    "index": 501,
+    "text": "shit got outta hand tonight haha",
+    "label": "disability",
+    "score": 0.16256965696811676
+  },
+  {
+    "index": 502,
+    "text": "thanks bitch , love you ! ! ! xx",
+    "label": "gender",
+    "score": 0.6562689542770386
+  },
+  {
+    "index": 503,
+    "text": "oh crap its 6 pm",
+    "label": "age",
+    "score": 0.8071770071983337
+  },
+  {
+    "index": 504,
+    "text": "you really been on that wrestling shit again huh ? haha",
+    "label": "physical",
+    "score": 0.7404424548149109
+  },
+  {
+    "index": 505,
+    "text": "just played a boring ass game",
+    "label": "age",
+    "score": 0.45220303535461426
+  },
+  {
+    "index": 506,
+    "text": "maybe she is , but im done with this shit",
+    "label": "gender",
+    "score": 0.8291956186294556
+  },
+  {
+    "index": 507,
+    "text": "well damn ! i like it",
+    "label": "disability",
+    "score": 0.6375914812088013
+  },
+  {
+    "index": 508,
+    "text": "so imma end this with a fuck u and have a nice day lol",
+    "label": "sexuality",
+    "score": 0.8942937850952148
+  },
+  {
+    "index": 512,
+    "text": "i think this post and comment shit fight could do with your opinion",
+    "label": "gender",
+    "score": 0.17239727079868317
+  },
+  {
+    "index": 513,
+    "text": "oh crap its 6 pm",
+    "label": "age",
+    "score": 0.8071770071983337
+  },
+  {
+    "index": 514,
+    "text": "yes yes and fuck yes",
+    "label": "sexuality",
+    "score": 0.9848784804344177
+  },
+  {
+    "index": 515,
+    "text": "bitch back off saying i need to get laid , old smelly vagina",
+    "label": "sexuality",
+    "score": 0.7068114280700684
+  },
+  {
+    "index": 516,
+    "text": "im tryin get netflix on my shit",
+    "label": "age",
+    "score": 0.73321533203125
+  },
+  {
+    "index": 517,
+    "text": "well damn ! i like it",
+    "label": "disability",
+    "score": 0.6375914812088013
+  },
+  {
+    "index": 518,
+    "text": "maybe she is , but im done with this shit",
+    "label": "gender",
+    "score": 0.8291956186294556
+  },
+  {
+    "index": 519,
+    "text": "new shit coming ! thanks tho",
+    "label": "age",
+    "score": 0.8327935934066772
+  },
+  {
+    "index": 520,
+    "text": "holy shit so do i ! !",
+    "label": "sexuality",
+    "score": 0.32248035073280334
+  },
+  {
+    "index": 521,
+    "text": "oh fuck yea we get out hella early tommarow dddd",
+    "label": "age",
+    "score": 0.7565286755561829
+  },
+  {
+    "index": 522,
+    "text": "shit i don 't remember on of the blondest ones tho",
+    "label": "racial",
+    "score": 0.7976556420326233
+  },
+  {
+    "index": 523,
+    "text": "bitch you was suppose to be sleep",
+    "label": "gender",
+    "score": 0.3959304988384247
+  },
+  {
+    "index": 524,
+    "text": "i was thinkin the same shit",
+    "label": "disability",
+    "score": 0.2788669764995575
+  },
+  {
+    "index": 525,
+    "text": "lmao i 'm in sucky ass class",
+    "label": "educational",
+    "score": 0.5178222060203552
+  },
+  {
+    "index": 526,
+    "text": "maybe she is , but im done with this shit",
+    "label": "gender",
+    "score": 0.8291956186294556
+  },
+  {
+    "index": 527,
+    "text": "lmao i 'm in sucky ass class",
+    "label": "educational",
+    "score": 0.5178222060203552
+  },
+  {
+    "index": 528,
+    "text": "hmpphh ! good shit kid , well played",
+    "label": "age",
+    "score": 0.6038578748703003
+  },
+  {
+    "index": 529,
+    "text": "shit i been aight i guess hbu",
+    "label": "sexuality",
+    "score": 0.32572510838508606
+  },
+  {
+    "index": 530,
+    "text": "i think we were all just really fucked up last night",
+    "label": "age",
+    "score": 0.17485438287258148
+  },
+  {
+    "index": 531,
+    "text": "i think we were all just really fucked up last night",
+    "label": "age",
+    "score": 0.17485438287258148
+  },
+  {
+    "index": 532,
+    "text": "shit got outta hand tonight haha",
+    "label": "disability",
+    "score": 0.16256965696811676
+  },
+  {
+    "index": 533,
+    "text": "yes yes and fuck yes",
+    "label": "sexuality",
+    "score": 0.9848784804344177
+  },
+  {
+    "index": 534,
+    "text": "oh crap its 6 pm",
+    "label": "age",
+    "score": 0.8071770071983337
+  },
+  {
+    "index": 535,
+    "text": "lmfao ! ! yo that shit was priceless hahahahaha",
+    "label": "disability",
+    "score": 0.7009656429290771
+  },
+  {
+    "index": 536,
+    "text": "that shit was so funny",
+    "label": "disability",
+    "score": 0.8146553635597229
+  },
+  {
+    "index": 537,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "label": "disability",
+    "score": 0.779079258441925
+  },
+  {
+    "index": 538,
+    "text": "but some just ruined my whole fuckin night",
+    "label": "disability",
+    "score": 0.6305952668190002
+  },
+  {
+    "index": 539,
+    "text": "just played a boring ass game",
+    "label": "age",
+    "score": 0.45220303535461426
+  },
+  {
+    "index": 540,
+    "text": "the fuck are you goin on about",
+    "label": "sexuality",
+    "score": 0.6261692643165588
+  },
+  {
+    "index": 541,
+    "text": "yep ! wish i could take that shit back tho ! !",
+    "label": "disability",
+    "score": 0.8208393454551697
+  },
+  {
+    "index": 542,
+    "text": "just played a boring ass game",
+    "label": "age",
+    "score": 0.45220303535461426
+  },
+  {
+    "index": 544,
+    "text": "u talkin bout the scores n shit ?",
+    "label": "age",
+    "score": 0.7203214764595032
+  },
+  {
+    "index": 545,
+    "text": "i was thinkin the same shit",
+    "label": "disability",
+    "score": 0.2788667380809784
+  },
+  {
+    "index": 546,
+    "text": "i see you have life fucked up",
+    "label": "physical",
+    "score": 0.24165253341197968
+  },
+  {
+    "index": 547,
+    "text": "my ass hurts now is all",
+    "label": "physical",
+    "score": 0.6329381465911865
+  },
+  {
+    "index": 548,
+    "text": "fuck a tl lets add to the convo lmao",
+    "label": "sexuality",
+    "score": 0.38805654644966125
+  },
+  {
+    "index": 549,
+    "text": "sexy as fuck of course",
+    "label": "sexuality",
+    "score": 0.6481142640113831
+  },
+  {
+    "index": 550,
+    "text": "you really been on that wrestling shit again huh ? haha",
+    "label": "physical",
+    "score": 0.7404423952102661
+  },
+  {
+    "index": 551,
+    "text": "i see you have life fucked up",
+    "label": "physical",
+    "score": 0.24165253341197968
+  },
+  {
+    "index": 552,
+    "text": "yu came up with dat shit lol",
+    "label": "gender",
+    "score": 0.24683690071105957
+  },
+  {
+    "index": 553,
+    "text": "damn my alarm went off twice and i still dnt wanna get up",
+    "label": "age",
+    "score": 0.5515658855438232
+  },
+  {
+    "index": 554,
+    "text": "hes fuckin epic in fifa tho",
+    "label": "disability",
+    "score": 0.5848811864852905
+  },
+  {
+    "index": 555,
+    "text": "bitch don 't use my name in a tweet",
+    "label": "gender",
+    "score": 0.8288511633872986
+  },
+  {
+    "index": 556,
+    "text": "i don 't remember shit about it",
+    "label": "disability",
+    "score": 0.59613037109375
+  },
+  {
+    "index": 557,
+    "text": "rt ima agree with you on that his shit is so bland and shallow",
+    "label": "gender",
+    "score": 0.2773502767086029
+  },
+  {
+    "index": 558,
+    "text": "shit ! you are so right",
+    "label": "disability",
+    "score": 0.305494487285614
+  },
+  {
+    "index": 559,
+    "text": "this cold is kickin my ass",
+    "label": "nationality",
+    "score": 0.8014805316925049
+  },
+  {
+    "index": 560,
+    "text": "i miss yur crazy ass lol",
+    "label": "physical",
+    "score": 0.928799033164978
+  },
+  {
+    "index": 561,
+    "text": "bettttt , sounds dope as fuck dude",
+    "label": "sexuality",
+    "score": 0.4808727204799652
+  },
+  {
+    "index": 562,
+    "text": "kissing you , holding you close to me damn",
+    "label": "sexuality",
+    "score": 0.9869827032089233
+  },
+  {
+    "index": 563,
+    "text": "shit ! you are so right",
+    "label": "disability",
+    "score": 0.305494487285614
+  },
+  {
+    "index": 564,
+    "text": "everybody getting on my fuking nerves",
+    "label": "disability",
+    "score": 0.8940252661705017
+  },
+  {
+    "index": 565,
+    "text": "oh shit i almost forgot what time",
+    "label": "age",
+    "score": 0.2891269326210022
+  },
+  {
+    "index": 566,
+    "text": "stop blaming shit on me",
+    "label": "disability",
+    "score": 0.895785391330719
+  },
+  {
+    "index": 567,
+    "text": "damn my alarm went off twice and i still dnt wanna get up",
+    "label": "age",
+    "score": 0.5515658855438232
+  },
+  {
+    "index": 568,
+    "text": "i don 't remember shit about it",
+    "label": "disability",
+    "score": 0.59613037109375
+  },
+  {
+    "index": 569,
+    "text": "i don 't treat u like shit",
+    "label": "disability",
+    "score": 0.2545551657676697
+  },
+  {
+    "index": 570,
+    "text": "i don 't treat u like shit",
+    "label": "disability",
+    "score": 0.2545551657676697
+  },
+  {
+    "index": 571,
+    "text": "what the fuck did you do",
+    "label": "age",
+    "score": 0.2675892114639282
+  },
+  {
+    "index": 572,
+    "text": "oh shit i almost forgot what time",
+    "label": "age",
+    "score": 0.2891269326210022
+  },
+  {
+    "index": 573,
+    "text": "you 're making yourself look dumb",
+    "label": "physical",
+    "score": 0.594828724861145
+  },
+  {
+    "index": 574,
+    "text": "just sitting around sweating my ass off",
+    "label": "physical",
+    "score": 0.4828087091445923
+  },
+  {
+    "index": 576,
+    "text": "now i feel like an ass",
+    "label": "physical",
+    "score": 0.7728974223136902
+  },
+  {
+    "index": 577,
+    "text": "but i like pop punky shit too",
+    "label": "age",
+    "score": 0.3190069794654846
+  },
+  {
+    "index": 578,
+    "text": "fuck u if u don 't agree",
+    "label": "political",
+    "score": 0.5863127708435059
+  },
+  {
+    "index": 579,
+    "text": "i don 't treat u like shit",
+    "label": "disability",
+    "score": 0.25455552339553833
+  },
+  {
+    "index": 580,
+    "text": "needa get some shit off my mind !",
+    "label": "disability",
+    "score": 0.29521796107292175
+  },
+  {
+    "index": 581,
+    "text": "kissing you , holding you close to me damn",
+    "label": "sexuality",
+    "score": 0.9869827032089233
+  },
+  {
+    "index": 582,
+    "text": "suck a dick it was a fluke you said the only thing you didn 't have was the fudge",
+    "label": "physical",
+    "score": 0.9012819528579712
+  },
+  {
+    "index": 583,
+    "text": "i know he is seriously being a dick !",
+    "label": "sexuality",
+    "score": 0.5070040225982666
+  },
+  {
+    "index": 584,
+    "text": "idk , my hair out & shit",
+    "label": "gender",
+    "score": 0.4370898902416229
+  },
+  {
+    "index": 585,
+    "text": "shit sounds like a bad acid trip or something",
+    "label": "disability",
+    "score": 0.8873165249824524
+  },
+  {
+    "index": 586,
+    "text": "i wish i could fucking sleep right now",
+    "label": "disability",
+    "score": 0.17694690823554993
+  },
+  {
+    "index": 587,
+    "text": "i don 't even play that shit anymore",
+    "label": "disability",
+    "score": 0.5762791633605957
+  },
+  {
+    "index": 588,
+    "text": "idk , my hair out & shit",
+    "label": "gender",
+    "score": 0.4370898902416229
+  },
+  {
+    "index": 589,
+    "text": "you tweeting weird shit ! ! lol",
+    "label": "age",
+    "score": 0.6548676490783691
+  },
+  {
+    "index": 590,
+    "text": "pffff i have way too much random and entertaining shit in my room",
+    "label": "disability",
+    "score": 0.2972354590892792
+  },
+  {
+    "index": 591,
+    "text": "i could go find stuff to do but i 'm lazy as shit",
+    "label": "socioeconomic",
+    "score": 0.607982337474823
+  },
+  {
+    "index": 592,
+    "text": "but i like pop punky shit too",
+    "label": "age",
+    "score": 0.3190069794654846
+  },
+  {
+    "index": 593,
+    "text": "i was fuckin bored as shit",
+    "label": "disability",
+    "score": 0.6064634919166565
+  },
+  {
+    "index": 594,
+    "text": "thanks ! that was some scary ass syringe",
+    "label": "disability",
+    "score": 0.37446314096450806
+  },
+  {
+    "index": 595,
+    "text": "i apologize for being such a dick then",
+    "label": "sexuality",
+    "score": 0.34151625633239746
+  },
+  {
+    "index": 596,
+    "text": "gotta goto fucking church with my family",
+    "label": "religious",
+    "score": 0.996291995048523
+  },
+  {
+    "index": 597,
+    "text": "i 'm sorry people are being dicks to u",
+    "label": "socioeconomic",
+    "score": 0.649432361125946
+  },
+  {
+    "index": 598,
+    "text": "shit ! you are so right",
+    "label": "disability",
+    "score": 0.3054940700531006
+  },
+  {
+    "index": 599,
+    "text": "holy fucking shit dude that 's amazing",
+    "label": "disability",
+    "score": 0.4858386218547821
+  },
+  {
+    "index": 600,
+    "text": "oh yeah watch out for those to bad asses haha",
+    "label": "disability",
+    "score": 0.5121265649795532
+  },
+  {
+    "index": 601,
+    "text": "i dont know how to work this shit",
+    "label": "disability",
+    "score": 0.6790185570716858
+  },
+  {
+    "index": 602,
+    "text": "yea im tired as shit ready to leave asap",
+    "label": "socioeconomic",
+    "score": 0.33281418681144714
+  },
+  {
+    "index": 603,
+    "text": "just sitting around sweating my ass off",
+    "label": "physical",
+    "score": 0.4828089773654938
+  },
+  {
+    "index": 604,
+    "text": "i could go find stuff to do but i 'm lazy as shit",
+    "label": "socioeconomic",
+    "score": 0.607982337474823
+  },
+  {
+    "index": 605,
+    "text": "gotta goto fucking church with my family",
+    "label": "religious",
+    "score": 0.996291995048523
+  },
+  {
+    "index": 606,
+    "text": "holy fucking shit dude that 's amazing",
+    "label": "disability",
+    "score": 0.4858386218547821
+  },
+  {
+    "index": 607,
+    "text": "i don 't even play that shit anymore",
+    "label": "disability",
+    "score": 0.5762791633605957
+  },
+  {
+    "index": 608,
+    "text": "i was literally making shit up off the top of my head for most of that",
+    "label": "educational",
+    "score": 0.2652100920677185
+  },
+  {
+    "index": 609,
+    "text": "you got a shit - ton of gear",
+    "label": "physical",
+    "score": 0.5125356316566467
+  },
+  {
+    "index": 610,
+    "text": "dude , you have a way of saying some of the most interesting shit",
+    "label": "gender",
+    "score": 0.27535635232925415
+  },
+  {
+    "index": 611,
+    "text": "uhm , i think not bitch stfu ! shit , lmao .",
+    "label": "disability",
+    "score": 0.43622782826423645
+  },
+  {
+    "index": 612,
+    "text": "shit sounds like a bad acid trip or something",
+    "label": "disability",
+    "score": 0.8873165249824524
+  },
+  {
+    "index": 613,
+    "text": "i apologize for being such a dick then",
+    "label": "sexuality",
+    "score": 0.3415161967277527
+  },
+  {
+    "index": 614,
+    "text": "what ? ? ? ? ? ? i aint heard from yo ass in foreva",
+    "label": "physical",
+    "score": 0.5718430876731873
+  },
+  {
+    "index": 615,
+    "text": "bitch don 't use my name in a tweet",
+    "label": "gender",
+    "score": 0.828851580619812
+  },
+  {
+    "index": 616,
+    "text": "hes fuckin epic in fifa tho",
+    "label": "disability",
+    "score": 0.5848816633224487
+  },
+  {
+    "index": 617,
+    "text": "yea im tired as shit ready to leave asap",
+    "label": "socioeconomic",
+    "score": 0.33281442523002625
+  },
+  {
+    "index": 618,
+    "text": "yu came up with dat shit lol",
+    "label": "gender",
+    "score": 0.24683736264705658
+  },
+  {
+    "index": 619,
+    "text": "lmao omg that was soo embarrassing i turned all soft and shit",
+    "label": "sexuality",
+    "score": 0.4288594722747803
+  },
+  {
+    "index": 620,
+    "text": "good shit that should be a classic",
+    "label": "disability",
+    "score": 0.655059814453125
+  },
+  {
+    "index": 621,
+    "text": "i 'm sorry people are being dicks to u",
+    "label": "socioeconomic",
+    "score": 0.6494340300559998
+  },
+  {
+    "index": 622,
+    "text": "yea im tired as shit ready to leave asap",
+    "label": "socioeconomic",
+    "score": 0.33281442523002625
+  },
+  {
+    "index": 623,
+    "text": "now i feel like an ass",
+    "label": "physical",
+    "score": 0.7728978395462036
+  },
+  {
+    "index": 624,
+    "text": "this cold is kickin my ass",
+    "label": "nationality",
+    "score": 0.8014816045761108
+  },
+  {
+    "index": 625,
+    "text": "oh okkk get your shit straight and dnt come at me like that ! lol",
+    "label": "sexuality",
+    "score": 0.6092854142189026
+  },
+  {
+    "index": 626,
+    "text": "oh okkk get your shit straight and dnt come at me like that ! lol",
+    "label": "sexuality",
+    "score": 0.6092854142189026
+  },
+  {
+    "index": 627,
+    "text": "everybody getting on my fuking nerves",
+    "label": "disability",
+    "score": 0.8940252065658569
+  },
+  {
+    "index": 628,
+    "text": "now i feel like an ass",
+    "label": "physical",
+    "score": 0.7728978395462036
+  },
+  {
+    "index": 629,
+    "text": "i just cat deal with their asses",
+    "label": "disability",
+    "score": 0.555941104888916
+  },
+  {
+    "index": 630,
+    "text": "i will if my lazy ass can get up off this couch xd",
+    "label": "socioeconomic",
+    "score": 0.513064444065094
+  },
+  {
+    "index": 631,
+    "text": "holy fucking shit dude that 's amazing",
+    "label": "disability",
+    "score": 0.48583850264549255
+  },
+  {
+    "index": 632,
+    "text": "i was fuckin bored as shit",
+    "label": "disability",
+    "score": 0.6064627766609192
+  },
+  {
+    "index": 633,
+    "text": "shit dont do nun 10 me no more",
+    "label": "sexuality",
+    "score": 0.6563907265663147
+  },
+  {
+    "index": 634,
+    "text": "bitch don 't use my name in a tweet",
+    "label": "gender",
+    "score": 0.828851580619812
+  },
+  {
+    "index": 635,
+    "text": "lol no no no punk ass",
+    "label": "age",
+    "score": 0.32005906105041504
+  },
+  {
+    "index": 636,
+    "text": "i wish i could fucking sleep right now",
+    "label": "disability",
+    "score": 0.1769474297761917
+  },
+  {
+    "index": 637,
+    "text": "pffff i have way too much random and entertaining shit in my room",
+    "label": "disability",
+    "score": 0.2972354590892792
+  },
+  {
+    "index": 638,
+    "text": "like this shit just blew the fuck out of me",
+    "label": "disability",
+    "score": 0.5830761194229126
+  },
+  {
+    "index": 639,
+    "text": "kissing you , holding you close to me damn",
+    "label": "sexuality",
+    "score": 0.9869827032089233
+  },
+  {
+    "index": 640,
+    "text": "drive down tomorrow i aint got shit to do",
+    "label": "age",
+    "score": 0.7858289480209351
+  },
+  {
+    "index": 641,
+    "text": "i don 't even play that shit anymore",
+    "label": "disability",
+    "score": 0.5762791633605957
+  },
+  {
+    "index": 642,
+    "text": "this cold is kickin my ass",
+    "label": "nationality",
+    "score": 0.8014823198318481
+  },
+  {
+    "index": 643,
+    "text": "stop blaming shit on me",
+    "label": "disability",
+    "score": 0.8957854509353638
+  },
+  {
+    "index": 644,
+    "text": "i dont know how to work this shit",
+    "label": "disability",
+    "score": 0.6790185570716858
+  },
+  {
+    "index": 645,
+    "text": "lol same here school & work is kickin my ass",
+    "label": "age",
+    "score": 0.36271005868911743
+  },
+  {
+    "index": 646,
+    "text": "needa get some shit off my mind !",
+    "label": "disability",
+    "score": 0.29521796107292175
+  },
+  {
+    "index": 647,
+    "text": "like this shit just blew the fuck out of me",
+    "label": "disability",
+    "score": 0.5830761194229126
+  },
+  {
+    "index": 648,
+    "text": "thanks ! that was some scary ass syringe",
+    "label": "disability",
+    "score": 0.37446314096450806
+  },
+  {
+    "index": 649,
+    "text": "i dont know how to work this shit",
+    "label": "disability",
+    "score": 0.6790185570716858
+  },
+  {
+    "index": 650,
+    "text": "gotta goto fucking church with my family",
+    "label": "religious",
+    "score": 0.996291995048523
+  },
+  {
+    "index": 651,
+    "text": "ladygaga hates britney ! ! ! she always talks shit about her ! ! ! you dumb ass lol",
+    "label": "sexuality",
+    "score": 0.39539527893066406
+  },
+  {
+    "index": 652,
+    "text": "i don 't remember shit about it",
+    "label": "disability",
+    "score": 0.5961299538612366
+  },
+  {
+    "index": 653,
+    "text": "sometimes you can be such a bitch",
+    "label": "gender",
+    "score": 0.9956783652305603
+  },
+  {
+    "index": 654,
+    "text": "i could go find stuff to do but i 'm lazy as shit",
+    "label": "socioeconomic",
+    "score": 0.607982337474823
+  },
+  {
+    "index": 655,
+    "text": "ladygaga hates britney ! ! ! she always talks shit about her ! ! ! you dumb ass lol",
+    "label": "sexuality",
+    "score": 0.39539527893066406
+  },
+  {
+    "index": 656,
+    "text": "i think thats why i find them so fucking sexy",
+    "label": "sexuality",
+    "score": 0.39934495091438293
+  },
+  {
+    "index": 657,
+    "text": "everybody getting on my fuking nerves",
+    "label": "disability",
+    "score": 0.8940255641937256
+  },
+  {
+    "index": 658,
+    "text": "i am soo fucked up right now",
+    "label": "disability",
+    "score": 0.4584340751171112
+  },
+  {
+    "index": 659,
+    "text": "it was about a boat or some shit",
+    "label": "nationality",
+    "score": 0.16334904730319977
+  },
+  {
+    "index": 660,
+    "text": "it was about a boat or some shit",
+    "label": "nationality",
+    "score": 0.16334904730319977
+  },
+  {
+    "index": 661,
+    "text": "lmfaooo i like that shit though hahahahah",
+    "label": "disability",
+    "score": 0.5144590139389038
+  },
+  {
+    "index": 662,
+    "text": "and aint even realized i havent said shit",
+    "label": "age",
+    "score": 0.7948157787322998
+  },
+  {
+    "index": 663,
+    "text": "it is so goddamn messy here",
+    "label": "nationality",
+    "score": 0.9823344945907593
+  },
+  {
+    "index": 664,
+    "text": "what a shitty thing to say to somebody",
+    "label": "disability",
+    "score": 0.7201405763626099
+  },
+  {
+    "index": 665,
+    "text": "the teacher is boring as shit hmph",
+    "label": "educational",
+    "score": 0.765426754951477
+  },
+  {
+    "index": 666,
+    "text": "umm i jus found out some shit",
+    "label": "age",
+    "score": 0.4766506850719452
+  },
+  {
+    "index": 667,
+    "text": "but i 've got mother fuckin ' moves like bieber",
+    "label": "physical",
+    "score": 0.6882675886154175
+  },
+  {
+    "index": 668,
+    "text": "umm i jus found out some shit",
+    "label": "age",
+    "score": 0.4766506850719452
+  },
+  {
+    "index": 669,
+    "text": "get the fuck outta here",
+    "label": "nationality",
+    "score": 0.8122403025627136
+  },
+  {
+    "index": 670,
+    "text": "shit lets do it then",
+    "label": "disability",
+    "score": 0.5119900703430176
+  },
+  {
+    "index": 671,
+    "text": "i could prove yo ass wrong",
+    "label": "gender",
+    "score": 0.2826381325721741
+  },
+  {
+    "index": 672,
+    "text": "but i 've got mother fuckin ' moves like bieber",
+    "label": "physical",
+    "score": 0.6882688999176025
+  },
+  {
+    "index": 673,
+    "text": "shit lets do it then",
+    "label": "disability",
+    "score": 0.5119913816452026
+  },
+  {
+    "index": 674,
+    "text": "she went overboard wit the shit",
+    "label": "gender",
+    "score": 0.7298386693000793
+  },
+  {
+    "index": 675,
+    "text": "i made the template to block all this shit but didn 't apply it",
+    "label": "age",
+    "score": 0.13545598089694977
+  },
+  {
+    "index": 676,
+    "text": "good shit and i told you bro",
+    "label": "sexuality",
+    "score": 0.31249403953552246
+  },
+  {
+    "index": 677,
+    "text": "people jus be so sensitive bout shit",
+    "label": "disability",
+    "score": 0.24953365325927734
+  },
+  {
+    "index": 678,
+    "text": "oh shit i forgot about summer reading",
+    "label": "age",
+    "score": 0.9314302206039429
+  },
+  {
+    "index": 679,
+    "text": "what a shitty thing to say to somebody",
+    "label": "disability",
+    "score": 0.7201413512229919
+  },
+  {
+    "index": 680,
+    "text": "people jus be so sensitive bout shit",
+    "label": "disability",
+    "score": 0.24953365325927734
+  },
+  {
+    "index": 681,
+    "text": "i clearly don 't give a shit",
+    "label": "socioeconomic",
+    "score": 0.13415062427520752
+  },
+  {
+    "index": 682,
+    "text": "people jus be so sensitive bout shit",
+    "label": "disability",
+    "score": 0.24953365325927734
+  },
+  {
+    "index": 683,
+    "text": "everyone 's full of shit and has some kind of ulterior motive",
+    "label": "religious",
+    "score": 0.5197203159332275
+  },
+  {
+    "index": 684,
+    "text": "i stink cuz i got a lot of shit in my mind",
+    "label": "disability",
+    "score": 0.8012098073959351
+  },
+  {
+    "index": 685,
+    "text": "i said sorry cos i was rude , well i was fucking about",
+    "label": "age",
+    "score": 0.3726780116558075
+  },
+  {
+    "index": 686,
+    "text": "i could use a big ass hamburger",
+    "label": "physical",
+    "score": 0.7123460173606873
+  },
+  {
+    "index": 687,
+    "text": "some people need to get the fuck over themselves",
+    "label": "disability",
+    "score": 0.5425471663475037
+  },
+  {
+    "index": 688,
+    "text": "i clearly don 't give a shit",
+    "label": "socioeconomic",
+    "score": 0.13415062427520752
+  },
+  {
+    "index": 689,
+    "text": "helll yes fucking pumped for tonight",
+    "label": "sexuality",
+    "score": 0.47579577565193176
+  },
+  {
+    "index": 690,
+    "text": "but if i don 't get the grades then i am fucked",
+    "label": "educational",
+    "score": 0.9563533067703247
+  },
+  {
+    "index": 691,
+    "text": "i wouldnt even say shit",
+    "label": "sexuality",
+    "score": 0.3617788851261139
+  },
+  {
+    "index": 692,
+    "text": "i wouldnt even say shit",
+    "label": "sexuality",
+    "score": 0.3617788851261139
+  },
+  {
+    "index": 693,
+    "text": "bout to give a heavy ass lecture",
+    "label": "educational",
+    "score": 0.8508442640304565
+  },
+  {
+    "index": 694,
+    "text": "i live in fear of shit like that happening to me",
+    "label": "disability",
+    "score": 0.9844915270805359
+  },
+  {
+    "index": 695,
+    "text": "macfly was the shit ! ! ! lol",
+    "label": "sexuality",
+    "score": 0.4179445207118988
+  },
+  {
+    "index": 696,
+    "text": "i am soo fucked up right now",
+    "label": "disability",
+    "score": 0.4584338665008545
+  },
+  {
+    "index": 697,
+    "text": "i clearly don 't give a shit",
+    "label": "socioeconomic",
+    "score": 0.13415062427520752
+  },
+  {
+    "index": 698,
+    "text": "what a shitty thing to say to somebody",
+    "label": "disability",
+    "score": 0.7201413512229919
+  },
+  {
+    "index": 699,
+    "text": "i could use a big ass hamburger",
+    "label": "physical",
+    "score": 0.7123460173606873
+  },
+  {
+    "index": 700,
+    "text": "i am soo fucked up right now",
+    "label": "disability",
+    "score": 0.4584338665008545
+  },
+  {
+    "index": 701,
+    "text": "i knew your silly ass was gonna say something",
+    "label": "physical",
+    "score": 0.4069606065750122
+  },
+  {
+    "index": 702,
+    "text": "nah im gonna check this shit out right now ! ! xx",
+    "label": "sexuality",
+    "score": 0.22922269999980927
+  },
+  {
+    "index": 703,
+    "text": "she went overboard wit the shit",
+    "label": "gender",
+    "score": 0.7298386693000793
+  },
+  {
+    "index": 704,
+    "text": "i dont know what the fuck hrm means",
+    "label": "disability",
+    "score": 0.5025695562362671
+  },
+  {
+    "index": 705,
+    "text": "oh shit i forgot about summer reading",
+    "label": "age",
+    "score": 0.9314302206039429
+  },
+  {
+    "index": 706,
+    "text": "i need a fucking lover",
+    "label": "sexuality",
+    "score": 0.9567750096321106
+  },
+  {
+    "index": 707,
+    "text": "lmfaooo i like that shit though hahahahah",
+    "label": "disability",
+    "score": 0.514458179473877
+  },
+  {
+    "index": 708,
+    "text": "i made the template to block all this shit but didn 't apply it",
+    "label": "age",
+    "score": 0.13545598089694977
+  },
+  {
+    "index": 709,
+    "text": "idk what to do im goin to fuckin bed",
+    "label": "disability",
+    "score": 0.507124662399292
+  },
+  {
+    "index": 710,
+    "text": "i do the funniest shit when i 'm by myself",
+    "label": "disability",
+    "score": 0.498930960893631
+  },
+  {
+    "index": 711,
+    "text": "it is so goddamn messy here",
+    "label": "nationality",
+    "score": 0.9823344945907593
+  },
+  {
+    "index": 712,
+    "text": "but i 've got mother fuckin ' moves like bieber",
+    "label": "physical",
+    "score": 0.6882688999176025
+  },
+  {
+    "index": 713,
+    "text": "idk what to do im goin to fuckin bed",
+    "label": "disability",
+    "score": 0.507124662399292
+  },
+  {
+    "index": 714,
+    "text": "lol shit wasn 't hungry till you said something",
+    "label": "physical",
+    "score": 0.8389495611190796
+  },
+  {
+    "index": 715,
+    "text": "i do the funniest shit when i 'm by myself",
+    "label": "disability",
+    "score": 0.498930960893631
+  },
+  {
+    "index": 716,
+    "text": "damn you tease is killing me",
+    "label": "sexuality",
+    "score": 0.8085454106330872
+  },
+  {
+    "index": 717,
+    "text": "no just got back in shit box nc cuple hours ago",
+    "label": "age",
+    "score": 0.3849945366382599
+  },
+  {
+    "index": 718,
+    "text": "you want to slay me",
+    "label": "religious",
+    "score": 0.2767239212989807
+  },
+  {
+    "index": 719,
+    "text": "i could use a big ass hamburger",
+    "label": "physical",
+    "score": 0.7123460173606873
+  },
+  {
+    "index": 720,
+    "text": "oh shit i forgot about summer reading",
+    "label": "age",
+    "score": 0.9314302206039429
+  },
+  {
+    "index": 721,
+    "text": "dunno , just feel like shit",
+    "label": "physical",
+    "score": 0.6975670456886292
+  },
+  {
+    "index": 722,
+    "text": "but shit dumb bittie needs that jail time",
+    "label": "socioeconomic",
+    "score": 0.7598234415054321
+  },
+  {
+    "index": 723,
+    "text": "game this shit is serious",
+    "label": "disability",
+    "score": 0.4661339521408081
+  },
+  {
+    "index": 724,
+    "text": "and aint even realized i havent said shit",
+    "label": "age",
+    "score": 0.7948160767555237
+  },
+  {
+    "index": 725,
+    "text": "shit lets do it then",
+    "label": "disability",
+    "score": 0.5119913816452026
+  },
+  {
+    "index": 726,
+    "text": "not really it 's shit any way",
+    "label": "disability",
+    "score": 0.24854044616222382
+  },
+  {
+    "index": 727,
+    "text": "i do the funniest shit when i 'm by myself",
+    "label": "disability",
+    "score": 0.498930960893631
+  },
+  {
+    "index": 728,
+    "text": "i don 't know why be fucking with me",
+    "label": "sexuality",
+    "score": 0.9896543025970459
+  },
+  {
+    "index": 729,
+    "text": "i knew your silly ass was gonna say something",
+    "label": "physical",
+    "score": 0.4069606065750122
+  },
+  {
+    "index": 730,
+    "text": "i live in fear of shit like that happening to me",
+    "label": "disability",
+    "score": 0.9844915270805359
+  },
+  {
+    "index": 731,
+    "text": "it is so goddamn messy here",
+    "label": "nationality",
+    "score": 0.9823344945907593
+  },
+  {
+    "index": 732,
+    "text": "and you bite my fuckin head off",
+    "label": "physical",
+    "score": 0.7857100367546082
+  },
+  {
+    "index": 733,
+    "text": "game this shit is serious",
+    "label": "disability",
+    "score": 0.4661339521408081
+  },
+  {
+    "index": 734,
+    "text": "not really it 's shit any way",
+    "label": "disability",
+    "score": 0.24854044616222382
+  },
+  {
+    "index": 735,
+    "text": "true , he got a smart ass mouth",
+    "label": "racial",
+    "score": 0.32468080520629883
+  },
+  {
+    "index": 736,
+    "text": "bout to give a heavy ass lecture",
+    "label": "educational",
+    "score": 0.8508442640304565
+  },
+  {
+    "index": 737,
+    "text": "lol shit wasn 't hungry till you said something",
+    "label": "physical",
+    "score": 0.8389495611190796
+  },
+  {
+    "index": 738,
+    "text": "i knew your silly ass was gonna say something",
+    "label": "physical",
+    "score": 0.4069606065750122
+  },
+  {
+    "index": 739,
+    "text": "i aint fuckin with you anyway",
+    "label": "sexuality",
+    "score": 0.6454929113388062
+  },
+  {
+    "index": 740,
+    "text": "damn i hate when them lil rascals do that",
+    "label": "racial",
+    "score": 0.9992152452468872
+  },
+  {
+    "index": 741,
+    "text": "what the flying shit is going on",
+    "label": "disability",
+    "score": 0.33777686953544617
+  },
+  {
+    "index": 742,
+    "text": "we need more shit wit meaning",
+    "label": "physical",
+    "score": 0.5714539289474487
+  },
+  {
+    "index": 743,
+    "text": "macfly was the shit ! ! ! lol",
+    "label": "sexuality",
+    "score": 0.4179445207118988
+  },
+  {
+    "index": 744,
+    "text": "shut your ass up i called you sunday",
+    "label": "age",
+    "score": 0.19385232031345367
+  },
+  {
+    "index": 745,
+    "text": "but if i don 't get the grades then i am fucked",
+    "label": "educational",
+    "score": 0.9563533067703247
+  },
+  {
+    "index": 746,
+    "text": "i don 't really give a fuck about the royal family",
+    "label": "socioeconomic",
+    "score": 0.2368297427892685
+  },
+  {
+    "index": 747,
+    "text": "i don 't give a fuck point blank",
+    "label": "political",
+    "score": 0.3282791078090668
+  },
+  {
+    "index": 748,
+    "text": "but its hot as fuck down here",
+    "label": "nationality",
+    "score": 0.8874326348304749
+  },
+  {
+    "index": 749,
+    "text": "my shit talking keeps u entertained",
+    "label": "educational",
+    "score": 0.18294741213321686
+  },
+  {
+    "index": 750,
+    "text": "exactly this shit pissin me off",
+    "label": "disability",
+    "score": 0.7337269186973572
+  },
+  {
+    "index": 751,
+    "text": "because it hurt like a bitch",
+    "label": "disability",
+    "score": 0.8082953691482544
+  },
+  {
+    "index": 752,
+    "text": "ohh hell no ! most peopl are saying dumb shit anyway ! lol",
+    "label": "disability",
+    "score": 0.5456631183624268
+  },
+  {
+    "index": 753,
+    "text": "i fucking love you guys",
+    "label": "sexuality",
+    "score": 0.6416881084442139
+  },
+  {
+    "index": 754,
+    "text": "ur in a fucked up situation rite now lmfao",
+    "label": "disability",
+    "score": 0.5685877203941345
+  },
+  {
+    "index": 755,
+    "text": "i know its old but its still my shit",
+    "label": "age",
+    "score": 0.9870285987854004
+  },
+  {
+    "index": 756,
+    "text": "put on some damn clothes",
+    "label": "physical",
+    "score": 0.5787519812583923
+  },
+  {
+    "index": 757,
+    "text": "oh well , may as well pour the coffee & start getting shit done",
+    "label": "age",
+    "score": 0.27519333362579346
+  },
+  {
+    "index": 758,
+    "text": "friend i 'm sick and shit",
+    "label": "disability",
+    "score": 0.43065765500068665
+  },
+  {
+    "index": 759,
+    "text": "i was tweeting crazy shit and everything",
+    "label": "age",
+    "score": 0.9520788788795471
+  },
+  {
+    "index": 760,
+    "text": "and that didn 't fucking happen",
+    "label": "gender",
+    "score": 0.3404340147972107
+  },
+  {
+    "index": 761,
+    "text": "i 'm sorry for asking i ask random shit like that",
+    "label": "sexuality",
+    "score": 0.2789422273635864
+  },
+  {
+    "index": 762,
+    "text": "i 'm sorry for asking i ask random shit like that",
+    "label": "sexuality",
+    "score": 0.2789422273635864
+  },
+  {
+    "index": 763,
+    "text": "because it hurt like a bitch",
+    "label": "disability",
+    "score": 0.8082953691482544
+  },
+  {
+    "index": 764,
+    "text": "exactly this shit pissin me off",
+    "label": "disability",
+    "score": 0.7337269186973572
+  },
+  {
+    "index": 765,
+    "text": "i know its old but its still my shit",
+    "label": "age",
+    "score": 0.9870285987854004
+  },
+  {
+    "index": 766,
+    "text": "so i got a crush on a friend , awww shit",
+    "label": "sexuality",
+    "score": 0.9449161291122437
+  },
+  {
+    "index": 768,
+    "text": "because it hurt like a bitch",
+    "label": "disability",
+    "score": 0.8082948923110962
+  },
+  {
+    "index": 769,
+    "text": "oh ok my day was good but cold as fuck today",
+    "label": "physical",
+    "score": 0.15124273300170898
+  },
+  {
+    "index": 770,
+    "text": "i was tweeting crazy shit and everything",
+    "label": "age",
+    "score": 0.9520787596702576
+  },
+  {
+    "index": 771,
+    "text": "shit idk all i know is today is friday",
+    "label": "age",
+    "score": 0.3304527699947357
+  },
+  {
+    "index": 772,
+    "text": "lol he just rich as fuck",
+    "label": "socioeconomic",
+    "score": 0.9858351349830627
+  },
+  {
+    "index": 773,
+    "text": "nah i got priorities n shit",
+    "label": "age",
+    "score": 0.3039911687374115
+  },
+  {
+    "index": 774,
+    "text": "thought i was the only person that didnt watch that shit lol",
+    "label": "sexuality",
+    "score": 0.3121364116668701
+  },
+  {
+    "index": 775,
+    "text": ", shut your depressed ass up .",
+    "label": "disability",
+    "score": 0.8586196899414062
+  },
+  {
+    "index": 776,
+    "text": "and that didn 't fucking happen",
+    "label": "gender",
+    "score": 0.3404327929019928
+  },
+  {
+    "index": 777,
+    "text": "but its hot as fuck down here",
+    "label": "nationality",
+    "score": 0.8874334096908569
+  },
+  {
+    "index": 778,
+    "text": "fuck ur life buy me checkers",
+    "label": "socioeconomic",
+    "score": 0.8447188138961792
+  },
+  {
+    "index": 779,
+    "text": "i 'm sorry for asking i ask random shit like that",
+    "label": "sexuality",
+    "score": 0.27894166111946106
+  },
+  {
+    "index": 780,
+    "text": "i don 't really give a fuck about the royal family",
+    "label": "socioeconomic",
+    "score": 0.23682980239391327
+  },
+  {
+    "index": 781,
+    "text": "ur in a fucked up situation rite now lmfao",
+    "label": "disability",
+    "score": 0.5685863494873047
+  },
+  {
+    "index": 782,
+    "text": "oh well , may as well pour the coffee & start getting shit done",
+    "label": "age",
+    "score": 0.27519315481185913
+  },
+  {
+    "index": 783,
+    "text": "i 'm like super twitchy & shit lol",
+    "label": "disability",
+    "score": 0.7844957113265991
+  },
+  {
+    "index": 784,
+    "text": "but then shit was dead",
+    "label": "age",
+    "score": 0.4591439664363861
+  },
+  {
+    "index": 785,
+    "text": "shit forgot it came out today",
+    "label": "age",
+    "score": 0.6573891639709473
+  },
+  {
+    "index": 786,
+    "text": "exactly this shit pissin me off",
+    "label": "disability",
+    "score": 0.7337272763252258
+  },
+  {
+    "index": 787,
+    "text": "skype is being a bitch",
+    "label": "age",
+    "score": 0.5846178531646729
+  },
+  {
+    "index": 788,
+    "text": "fuck ur life buy me checkers",
+    "label": "socioeconomic",
+    "score": 0.8447188138961792
+  },
+  {
+    "index": 789,
+    "text": "the fuck is this shit",
+    "label": "disability",
+    "score": 0.373555064201355
+  },
+  {
+    "index": 790,
+    "text": "nah i got priorities n shit",
+    "label": "age",
+    "score": 0.3039911687374115
+  },
+  {
+    "index": 791,
+    "text": "i fucking love you guys",
+    "label": "sexuality",
+    "score": 0.6416887044906616
+  },
+  {
+    "index": 792,
+    "text": "nah i got priorities n shit",
+    "label": "age",
+    "score": 0.3039911687374115
+  },
+  {
+    "index": 793,
+    "text": "yeaa dat shit wont worth it",
+    "label": "sexuality",
+    "score": 0.40086567401885986
+  },
+  {
+    "index": 794,
+    "text": "blah blah blah , shut up",
+    "label": "political",
+    "score": 0.3258160650730133
+  },
+  {
+    "index": 795,
+    "text": "ur in a fucked up situation rite now lmfao",
+    "label": "disability",
+    "score": 0.5685863494873047
+  },
+  {
+    "index": 796,
+    "text": "lol he just rich as fuck",
+    "label": "socioeconomic",
+    "score": 0.9858351349830627
+  },
+  {
+    "index": 797,
+    "text": "thought i was the only person that didnt watch that shit lol",
+    "label": "sexuality",
+    "score": 0.3121364116668701
+  },
+  {
+    "index": 798,
+    "text": "the fuck is this shit",
+    "label": "disability",
+    "score": 0.373555064201355
+  },
+  {
+    "index": 799,
+    "text": "friend i 'm sick and shit",
+    "label": "disability",
+    "score": 0.4306580126285553
+  },
+  {
+    "index": 800,
+    "text": "i had a good ass night",
+    "label": "physical",
+    "score": 0.30637189745903015
+  },
+  {
+    "index": 801,
+    "text": "no shit ! this is beyond ridiculous",
+    "label": "disability",
+    "score": 0.6863163709640503
+  },
+  {
+    "index": 802,
+    "text": "no shit ! this is beyond ridiculous",
+    "label": "disability",
+    "score": 0.6863163709640503
+  },
+  {
+    "index": 803,
+    "text": "dis scruffy shit is apart me",
+    "label": "racial",
+    "score": 0.8695414662361145
+  },
+  {
+    "index": 804,
+    "text": "yeaa dat shit wont worth it",
+    "label": "sexuality",
+    "score": 0.40086787939071655
+  },
+  {
+    "index": 805,
+    "text": "ohh hell no ! most peopl are saying dumb shit anyway ! lol",
+    "label": "disability",
+    "score": 0.5456631183624268
+  },
+  {
+    "index": 806,
+    "text": "thought i was the only person that didnt watch that shit lol",
+    "label": "sexuality",
+    "score": 0.312136173248291
+  },
+  {
+    "index": 807,
+    "text": "i fucking love you guys",
+    "label": "sexuality",
+    "score": 0.6416881084442139
+  },
+  {
+    "index": 808,
+    "text": "more bomb ass dresses on there again",
+    "label": "gender",
+    "score": 0.875630795955658
+  },
+  {
+    "index": 809,
+    "text": "i was tweeting crazy shit and everything",
+    "label": "age",
+    "score": 0.9520788788795471
+  },
+  {
+    "index": 810,
+    "text": "lol dis guy on maury is on some icey shit",
+    "label": "disability",
+    "score": 0.6820672154426575
+  },
+  {
+    "index": 811,
+    "text": "shit idk all i know is today is friday",
+    "label": "age",
+    "score": 0.33045071363449097
+  },
+  {
+    "index": 812,
+    "text": "so i got a crush on a friend , awww shit",
+    "label": "sexuality",
+    "score": 0.9449161291122437
+  },
+  {
+    "index": 813,
+    "text": "i don 't really give a fuck about the royal family",
+    "label": "socioeconomic",
+    "score": 0.2368297427892685
+  },
+  {
+    "index": 814,
+    "text": "i had a good ass night",
+    "label": "physical",
+    "score": 0.30637189745903015
+  },
+  {
+    "index": 815,
+    "text": "and that didn 't fucking happen",
+    "label": "gender",
+    "score": 0.3404340147972107
+  },
+  {
+    "index": 816,
+    "text": "but then shit was dead",
+    "label": "age",
+    "score": 0.45914426445961
+  },
+  {
+    "index": 817,
+    "text": "blah blah blah , shut up",
+    "label": "political",
+    "score": 0.32581788301467896
+  },
+  {
+    "index": 818,
+    "text": "but its hot as fuck down here",
+    "label": "nationality",
+    "score": 0.8874326348304749
+  },
+  {
+    "index": 819,
+    "text": "no shit ! this is beyond ridiculous",
+    "label": "disability",
+    "score": 0.6863163709640503
+  },
+  {
+    "index": 820,
+    "text": "i 'm like super twitchy & shit lol",
+    "label": "disability",
+    "score": 0.7844958901405334
+  },
+  {
+    "index": 821,
+    "text": "skype is being a bitch",
+    "label": "age",
+    "score": 0.5846174359321594
+  },
+  {
+    "index": 822,
+    "text": "because there aren 't any fucking consequences",
+    "label": "socioeconomic",
+    "score": 0.30477163195610046
+  },
+  {
+    "index": 823,
+    "text": "get your head out of your ass !",
+    "label": "physical",
+    "score": 0.44448480010032654
+  },
+  {
+    "index": 824,
+    "text": "people don 't give a flying fuck",
+    "label": "socioeconomic",
+    "score": 0.30712780356407166
+  },
+  {
+    "index": 825,
+    "text": "eh tbh it is a huge dick move",
+    "label": "sexuality",
+    "score": 0.5383058786392212
+  },
+  {
+    "index": 826,
+    "text": "i 'm fuckin with you bro let 's do this",
+    "label": "sexuality",
+    "score": 0.9316741824150085
+  },
+  {
+    "index": 827,
+    "text": "this is not the time for that shit",
+    "label": "age",
+    "score": 0.8492192625999451
+  },
+  {
+    "index": 828,
+    "text": "people don 't give a flying fuck",
+    "label": "socioeconomic",
+    "score": 0.30712780356407166
+  },
+  {
+    "index": 829,
+    "text": "fuck it , im out of here",
+    "label": "disability",
+    "score": 0.533932089805603
+  },
+  {
+    "index": 830,
+    "text": "because there aren 't any fucking consequences",
+    "label": "socioeconomic",
+    "score": 0.30477163195610046
+  },
+  {
+    "index": 831,
+    "text": "fuck it , im out of here",
+    "label": "disability",
+    "score": 0.533932089805603
+  },
+  {
+    "index": 832,
+    "text": "your question has jack shit to do with the point being made",
+    "label": "educational",
+    "score": 0.2601068615913391
+  },
+  {
+    "index": 833,
+    "text": "that 's not how science works , retard .",
+    "label": "political",
+    "score": 0.5827934145927429
+  },
+  {
+    "index": 834,
+    "text": "is this shit ever gonna end ?",
+    "label": "disability",
+    "score": 0.1646396368741989
+  },
+  {
+    "index": 835,
+    "text": "because there aren 't any fucking consequences",
+    "label": "socioeconomic",
+    "score": 0.30477091670036316
+  },
+  {
+    "index": 836,
+    "text": "holy fuck this subreddit is fucked",
+    "label": "disability",
+    "score": 0.4478071331977844
+  },
+  {
+    "index": 837,
+    "text": "if only i gave a fuck about what you have to say",
+    "label": "gender",
+    "score": 0.24451881647109985
+  },
+  {
+    "index": 838,
+    "text": "fuck you wat you gonna do about it",
+    "label": "socioeconomic",
+    "score": 0.3861050307750702
+  },
+  {
+    "index": 839,
+    "text": "fuck it , im out of here",
+    "label": "disability",
+    "score": 0.5339327454566956
+  },
+  {
+    "index": 840,
+    "text": "i cant believe shit like this get 's upvoted",
+    "label": "political",
+    "score": 0.9979097247123718
+  },
+  {
+    "index": 841,
+    "text": "get your head out of your ass !",
+    "label": "physical",
+    "score": 0.4444837272167206
+  },
+  {
+    "index": 842,
+    "text": "not trying to be dick , genuinely curious",
+    "label": "sexuality",
+    "score": 0.9712315201759338
+  },
+  {
+    "index": 843,
+    "text": "if only i gave a fuck about what you have to say",
+    "label": "gender",
+    "score": 0.24451881647109985
+  },
+  {
+    "index": 844,
+    "text": "i cant believe shit like this get 's upvoted",
+    "label": "political",
+    "score": 0.9979097247123718
+  },
+  {
+    "index": 845,
+    "text": "your question has jack shit to do with the point being made",
+    "label": "educational",
+    "score": 0.2601068615913391
+  },
+  {
+    "index": 846,
+    "text": "otherwise shit might have gotten real .",
+    "label": "disability",
+    "score": 0.40128010511398315
+  },
+  {
+    "index": 847,
+    "text": "that's a pretty fucking simplistic view of it",
+    "label": "disability",
+    "score": 0.8092257380485535
+  },
+  {
+    "index": 848,
+    "text": "you can say the same saracastic shit about america",
+    "label": "nationality",
+    "score": 0.8690401911735535
+  },
+  {
+    "index": 849,
+    "text": "otherwise shit might have gotten real .",
+    "label": "disability",
+    "score": 0.40128010511398315
+  },
+  {
+    "index": 850,
+    "text": "i 'm so tired of this shit",
+    "label": "disability",
+    "score": 0.6562691330909729
+  },
+  {
+    "index": 851,
+    "text": "fucking christ these comments are terrible .",
+    "label": "religious",
+    "score": 0.27708104252815247
+  },
+  {
+    "index": 852,
+    "text": "yeah the joke was made 55 fucking times already",
+    "label": "sexuality",
+    "score": 0.38869690895080566
+  },
+  {
+    "index": 853,
+    "text": "seriously it is so fucked up",
+    "label": "disability",
+    "score": 0.8140034079551697
+  },
+  {
+    "index": 854,
+    "text": "holy fuck that makes it so much worse",
+    "label": "disability",
+    "score": 0.9715104699134827
+  },
+  {
+    "index": 855,
+    "text": "i 'm so tired of this shit",
+    "label": "disability",
+    "score": 0.6562691330909729
+  },
+  {
+    "index": 856,
+    "text": "otherwise shit might have gotten real .",
+    "label": "disability",
+    "score": 0.40128010511398315
+  },
+  {
+    "index": 857,
+    "text": "holy fuck that makes it so much worse",
+    "label": "disability",
+    "score": 0.9715104699134827
+  },
+  {
+    "index": 858,
+    "text": "i guess we havent learned a fucking thing",
+    "label": "age",
+    "score": 0.6974743008613586
+  },
+  {
+    "index": 859,
+    "text": "i guess we havent learned a fucking thing",
+    "label": "age",
+    "score": 0.6974743008613586
+  },
+  {
+    "index": 860,
+    "text": "or are you just making shit up ?",
+    "label": "gender",
+    "score": 0.8077073097229004
+  },
+  {
+    "index": 861,
+    "text": "that's a pretty fucking simplistic view of it",
+    "label": "disability",
+    "score": 0.8092257380485535
+  },
+  {
+    "index": 862,
+    "text": "or are you just making shit up ?",
+    "label": "gender",
+    "score": 0.8077073097229004
+  },
+  {
+    "index": 863,
+    "text": "no offense dude but you are kind of a dick",
+    "label": "gender",
+    "score": 0.49705398082733154
+  },
+  {
+    "index": 864,
+    "text": "fucking christ these comments are terrible .",
+    "label": "religious",
+    "score": 0.27708104252815247
+  },
+  {
+    "index": 865,
+    "text": "nobody got time for this shit",
+    "label": "age",
+    "score": 0.5643065571784973
+  },
+  {
+    "index": 866,
+    "text": "that's a pretty fucking simplistic view of it",
+    "label": "disability",
+    "score": 0.8092257380485535
+  },
+  {
+    "index": 867,
+    "text": "i can if you want me to just for shits and giggles lol",
+    "label": "disability",
+    "score": 0.6875804662704468
+  },
+  {
+    "index": 868,
+    "text": "yeah the joke was made 55 fucking times already",
+    "label": "sexuality",
+    "score": 0.38869690895080566
+  },
+  {
+    "index": 869,
+    "text": "fucking christ these comments are terrible .",
+    "label": "religious",
+    "score": 0.27708104252815247
+  },
+  {
+    "index": 870,
+    "text": "you can say the same saracastic shit about america",
+    "label": "nationality",
+    "score": 0.8690401911735535
+  },
+  {
+    "index": 871,
+    "text": "this will fuck shit up badly",
+    "label": "disability",
+    "score": 0.7739917039871216
+  },
+  {
+    "index": 872,
+    "text": "i could be totally fucking wrong though .",
+    "label": "sexuality",
+    "score": 0.232855886220932
+  },
+  {
+    "index": 873,
+    "text": "i could be totally fucking wrong though .",
+    "label": "sexuality",
+    "score": 0.232855886220932
+  },
+  {
+    "index": 874,
+    "text": "this has been the weirdest fucking story to follow",
+    "label": "disability",
+    "score": 0.4525824785232544
+  },
+  {
+    "index": 875,
+    "text": "so fucking different , thanks for pointing that out",
+    "label": "gender",
+    "score": 0.5098141431808472
+  },
+  {
+    "index": 876,
+    "text": "this will fuck shit up badly",
+    "label": "disability",
+    "score": 0.7739917039871216
+  },
+  {
+    "index": 877,
+    "text": "oh here we go with knowledge n shit",
+    "label": "educational",
+    "score": 0.6280703544616699
+  },
+  {
+    "index": 878,
+    "text": "what the fuck you on about ?",
+    "label": "gender",
+    "score": 0.4615751802921295
+  },
+  {
+    "index": 879,
+    "text": "i have a bmw and i fucking love it",
+    "label": "disability",
+    "score": 0.8937940001487732
+  },
+  {
+    "index": 880,
+    "text": "this has been the weirdest fucking story to follow",
+    "label": "disability",
+    "score": 0.4525824785232544
+  },
+  {
+    "index": 881,
+    "text": "oh here we go with knowledge n shit",
+    "label": "educational",
+    "score": 0.6280703544616699
+  },
+  {
+    "index": 882,
+    "text": "what the fuck you on about ?",
+    "label": "gender",
+    "score": 0.4615751802921295
+  },
+  {
+    "index": 883,
+    "text": "i could be totally fucking wrong though .",
+    "label": "sexuality",
+    "score": 0.232855886220932
+  },
+  {
+    "index": 884,
+    "text": "this has been the weirdest fucking story to follow",
+    "label": "disability",
+    "score": 0.4525824785232544
+  },
+  {
+    "index": 885,
+    "text": "so fucking different , thanks for pointing that out",
+    "label": "gender",
+    "score": 0.5098141431808472
+  },
+  {
+    "index": 886,
+    "text": "yea it seems like a huge shit fest over there",
+    "label": "nationality",
+    "score": 0.7004716396331787
+  },
+  {
+    "index": 887,
+    "text": "i have a bmw and i fucking love it",
+    "label": "disability",
+    "score": 0.8937940001487732
+  },
+  {
+    "index": 888,
+    "text": "so fucking different , thanks for pointing that out",
+    "label": "gender",
+    "score": 0.5098141431808472
+  },
+  {
+    "index": 889,
+    "text": "i have a bmw and i fucking love it",
+    "label": "disability",
+    "score": 0.8937940001487732
+  },
+  {
+    "index": 890,
+    "text": "this type of shit always happens to me",
+    "label": "disability",
+    "score": 0.9346112608909607
+  },
+  {
+    "index": 891,
+    "text": "holy shit , someones eyes are open !",
+    "label": "disability",
+    "score": 0.4756559729576111
+  },
+  {
+    "index": 896,
+    "text": "you live in a place where it 's okay to call each other \" cunt \"",
+    "label": "racial",
+    "score": 0.6304865479469299
+  },
+  {
+    "index": 897,
+    "text": "fuck man very sorry to hear that",
+    "label": "disability",
+    "score": 0.5840390920639038
+  },
+  {
+    "index": 898,
+    "text": "oh shit , i 've blown my cover .",
+    "label": "disability",
+    "score": 0.17710363864898682
+  },
+  {
+    "index": 899,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "label": "educational",
+    "score": 0.8512645959854126
+  },
+  {
+    "index": 900,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "label": "educational",
+    "score": 0.8512645959854126
+  },
+  {
+    "index": 901,
+    "text": "holy shit this is amazing .",
+    "label": "disability",
+    "score": 0.7731037139892578
+  },
+  {
+    "index": 902,
+    "text": "not being an ass , just looking to understand",
+    "label": "disability",
+    "score": 0.3113170862197876
+  },
+  {
+    "index": 903,
+    "text": "oh shit , i 've blown my cover .",
+    "label": "disability",
+    "score": 0.17710363864898682
+  },
+  {
+    "index": 904,
+    "text": "i 'm sick of this shit",
+    "label": "disability",
+    "score": 0.4351511001586914
+  },
+  {
+    "index": 905,
+    "text": "well shit , pardon me for trying to add to the discussion",
+    "label": "disability",
+    "score": 0.21015216410160065
+  },
+  {
+    "index": 906,
+    "text": "that 's a lot of shit",
+    "label": "disability",
+    "score": 0.4765603542327881
+  },
+  {
+    "index": 907,
+    "text": "now you are just making shit up .",
+    "label": "gender",
+    "score": 0.5239247679710388
+  },
+  {
+    "index": 908,
+    "text": "or someone will eventually be deep in their shit ? ie prison",
+    "label": "socioeconomic",
+    "score": 0.6032703518867493
+  },
+  {
+    "index": 909,
+    "text": "we ended up with our fucked healthcare system because of it",
+    "label": "socioeconomic",
+    "score": 0.5091383457183838
+  },
+  {
+    "index": 910,
+    "text": "fuck man very sorry to hear that",
+    "label": "disability",
+    "score": 0.5840390920639038
+  },
+  {
+    "index": 911,
+    "text": "well shit , pardon me for trying to add to the discussion",
+    "label": "disability",
+    "score": 0.21015216410160065
+  },
+  {
+    "index": 912,
+    "text": "and all their rights and shit",
+    "label": "nationality",
+    "score": 0.6491162776947021
+  },
+  {
+    "index": 913,
+    "text": "holy shit , the amount of pure crazy in that article is astonishing",
+    "label": "disability",
+    "score": 0.46931931376457214
+  },
+  {
+    "index": 914,
+    "text": "holy shit this is amazing .",
+    "label": "disability",
+    "score": 0.7731037139892578
+  },
+  {
+    "index": 915,
+    "text": "we ended up with our fucked healthcare system because of it",
+    "label": "socioeconomic",
+    "score": 0.5091383457183838
+  },
+  {
+    "index": 916,
+    "text": "oh shit , i 've blown my cover .",
+    "label": "disability",
+    "score": 0.17710363864898682
+  },
+  {
+    "index": 917,
+    "text": "i 'm sick of this shit",
+    "label": "disability",
+    "score": 0.4351511001586914
+  },
+  {
+    "index": 918,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "label": "educational",
+    "score": 0.8512645959854126
+  },
+  {
+    "index": 919,
+    "text": "holy shit , somebody gets it .",
+    "label": "disability",
+    "score": 0.6759209036827087
+  },
+  {
+    "index": 920,
+    "text": "well now i feel like an ass .",
+    "label": "physical",
+    "score": 0.5493758320808411
+  },
+  {
+    "index": 921,
+    "text": "well shit , pardon me for trying to add to the discussion",
+    "label": "disability",
+    "score": 0.21015216410160065
+  },
+  {
+    "index": 922,
+    "text": "holy shit this is amazing .",
+    "label": "disability",
+    "score": 0.7731037139892578
+  },
+  {
+    "index": 923,
+    "text": "shut up obama and just legalize that shit homie .",
+    "label": "political",
+    "score": 0.9992801547050476
+  },
+  {
+    "index": 924,
+    "text": "well now i feel like an ass .",
+    "label": "physical",
+    "score": 0.5493758320808411
+  },
+  {
+    "index": 925,
+    "text": "that 's a lot of shit",
+    "label": "disability",
+    "score": 0.4765603542327881
+  },
+  {
+    "index": 926,
+    "text": "there was a fucking earthquake",
+    "label": "nationality",
+    "score": 0.9160979390144348
+  },
+  {
+    "index": 927,
+    "text": "holy fuck , do i have a movie for you",
+    "label": "sexuality",
+    "score": 0.5395861268043518
+  },
+  {
+    "index": 928,
+    "text": "i missed that first part and scrolled down to the shit that mattered",
+    "label": "age",
+    "score": 0.5386576056480408
+  },
+  {
+    "index": 929,
+    "text": "that was fucking awesome man thank you !",
+    "label": "disability",
+    "score": 0.3448645770549774
+  },
+  {
+    "index": 930,
+    "text": "i missed that first part and scrolled down to the shit that mattered",
+    "label": "age",
+    "score": 0.5386576056480408
+  },
+  {
+    "index": 931,
+    "text": "i am sick of this motherfucking shit",
+    "label": "disability",
+    "score": 0.3746015131473541
+  },
+  {
+    "index": 932,
+    "text": "oh shit , i 'm spiraling i 'm spiraling",
+    "label": "disability",
+    "score": 0.9410969614982605
+  },
+  {
+    "index": 933,
+    "text": "that 's the fucking point of offensive language .",
+    "label": "political",
+    "score": 0.5505282878875732
+  },
+  {
+    "index": 934,
+    "text": "reeeeeeeee this is legitimately fucked up though",
+    "label": "disability",
+    "score": 0.8973090052604675
+  },
+  {
+    "index": 935,
+    "text": "not at all , greece is now fucked for the foreseeable future",
+    "label": "nationality",
+    "score": 0.4408525228500366
+  },
+  {
+    "index": 936,
+    "text": "holy fuck , do i have a movie for you",
+    "label": "sexuality",
+    "score": 0.5395867824554443
+  },
+  {
+    "index": 937,
+    "text": "there was a fucking earthquake",
+    "label": "nationality",
+    "score": 0.9160977602005005
+  },
+  {
+    "index": 938,
+    "text": "it 's called a museum , you ass .",
+    "label": "educational",
+    "score": 0.4229292869567871
+  },
+  {
+    "index": 939,
+    "text": "it 's called a museum , you ass .",
+    "label": "educational",
+    "score": 0.4229292869567871
+  },
+  {
+    "index": 940,
+    "text": "i am sick of this motherfucking shit",
+    "label": "disability",
+    "score": 0.3746015131473541
+  },
+  {
+    "index": 941,
+    "text": "and your comment is full of shit",
+    "label": "gender",
+    "score": 0.18233993649482727
+  },
+  {
+    "index": 942,
+    "text": "oh shit , i 'm spiraling i 'm spiraling",
+    "label": "disability",
+    "score": 0.9410969614982605
+  },
+  {
+    "index": 943,
+    "text": "that was fucking awesome man thank you !",
+    "label": "disability",
+    "score": 0.3448645770549774
+  },
+  {
+    "index": 944,
+    "text": "oh shit , i 'm spiraling i 'm spiraling",
+    "label": "disability",
+    "score": 0.9410969614982605
+  },
+  {
+    "index": 945,
+    "text": "reeeeeeeee this is legitimately fucked up though",
+    "label": "disability",
+    "score": 0.8973090052604675
+  },
+  {
+    "index": 946,
+    "text": "well that 's a real fuckin shame",
+    "label": "disability",
+    "score": 0.7235457301139832
+  },
+  {
+    "index": 947,
+    "text": "call me crazy but shit doesn 't add up",
+    "label": "religious",
+    "score": 0.17720474302768707
+  },
+  {
+    "index": 948,
+    "text": "i could make jokes but some one would bitch at me .",
+    "label": "disability",
+    "score": 0.6248422861099243
+  },
+  {
+    "index": 949,
+    "text": "oh shit , totally forgot about that .",
+    "label": "disability",
+    "score": 0.7837358117103577
+  },
+  {
+    "index": 950,
+    "text": "getting real tired of his shit too",
+    "label": "disability",
+    "score": 0.6861610412597656
+  },
+  {
+    "index": 951,
+    "text": "you don 't have to be a dick about it either",
+    "label": "disability",
+    "score": 0.553134560585022
+  },
+  {
+    "index": 952,
+    "text": "and a big fuck you to russia too",
+    "label": "nationality",
+    "score": 0.9734784364700317
+  },
+  {
+    "index": 953,
+    "text": "there is no way this shit is real",
+    "label": "religious",
+    "score": 0.4589284360408783
+  },
+  {
+    "index": 954,
+    "text": "it 's all sorts of fucked up and wrong",
+    "label": "disability",
+    "score": 0.41823267936706543
+  },
+  {
+    "index": 955,
+    "text": "oh shit , totally forgot about that .",
+    "label": "disability",
+    "score": 0.7837358117103577
+  },
+  {
+    "index": 956,
+    "text": "you should probably look up the definition of terrorism you ignorant little twat",
+    "label": "political",
+    "score": 0.989210844039917
+  },
+  {
+    "index": 957,
+    "text": "you should probably look up the definition of terrorism you ignorant little twat",
+    "label": "political",
+    "score": 0.989210844039917
+  },
+  {
+    "index": 960,
+    "text": "lol what the fuck am i saying xd",
+    "label": "age",
+    "score": 0.5249798893928528
+  },
+  {
+    "index": 961,
+    "text": "there is no way this shit is real",
+    "label": "religious",
+    "score": 0.45892950892448425
+  },
+  {
+    "index": 962,
+    "text": "lol what the fuck am i saying xd",
+    "label": "age",
+    "score": 0.5249798893928528
+  },
+  {
+    "index": 963,
+    "text": "i could make jokes but some one would bitch at me .",
+    "label": "disability",
+    "score": 0.624841570854187
+  },
+  {
+    "index": 964,
+    "text": "oh shit , totally forgot about that .",
+    "label": "disability",
+    "score": 0.7837357521057129
+  },
+  {
+    "index": 965,
+    "text": "if your only concern is about being right you 're kind of a dick",
+    "label": "gender",
+    "score": 0.21865130960941315
+  },
+  {
+    "index": 966,
+    "text": "if your only concern is about being right you 're kind of a dick",
+    "label": "gender",
+    "score": 0.21865130960941315
+  },
+  {
+    "index": 967,
+    "text": "getting real tired of his shit too",
+    "label": "disability",
+    "score": 0.6861605048179626
+  },
+  {
+    "index": 968,
+    "text": "what the fuck are you on about ?",
+    "label": "gender",
+    "score": 0.4893708825111389
+  },
+  {
+    "index": 969,
+    "text": "gonna be a bitch to fix if it all goes wrong though",
+    "label": "disability",
+    "score": 0.8109301924705505
+  },
+  {
+    "index": 970,
+    "text": "i 'm going to politely ask that you stop insulting lying sacks of shit .",
+    "label": "political",
+    "score": 0.29858019948005676
+  },
+  {
+    "index": 971,
+    "text": "holy shit man this deserves gold .",
+    "label": "religious",
+    "score": 0.3336009085178375
+  },
+  {
+    "index": 972,
+    "text": "our entire reputation would go to shit",
+    "label": "disability",
+    "score": 0.7895407676696777
+  },
+  {
+    "index": 973,
+    "text": "yeah people will lose their shit either way",
+    "label": "disability",
+    "score": 0.7505590319633484
+  },
+  {
+    "index": 974,
+    "text": "have no idea what the fuck i ate",
+    "label": "physical",
+    "score": 0.7754086256027222
+  },
+  {
+    "index": 975,
+    "text": "what the fuck are you on about ?",
+    "label": "gender",
+    "score": 0.4893708825111389
+  },
+  {
+    "index": 976,
+    "text": "that 's some next level shit right there",
+    "label": "disability",
+    "score": 0.3105016350746155
+  },
+  {
+    "index": 977,
+    "text": "holy shit they actually did it .",
+    "label": "disability",
+    "score": 0.5545637011528015
+  },
+  {
+    "index": 978,
+    "text": "holy shit they actually did it .",
+    "label": "disability",
+    "score": 0.5545637011528015
+  },
+  {
+    "index": 979,
+    "text": "where the fuck do i sign up ?",
+    "label": "age",
+    "score": 0.2529817223548889
+  },
+  {
+    "index": 980,
+    "text": "that 's some next level shit right there",
+    "label": "disability",
+    "score": 0.3105016350746155
+  },
+  {
+    "index": 981,
+    "text": "where the fuck do i sign up ?",
+    "label": "age",
+    "score": 0.2529817223548889
+  },
+  {
+    "index": 982,
+    "text": "our entire reputation would go to shit",
+    "label": "disability",
+    "score": 0.7895407676696777
+  },
+  {
+    "index": 983,
+    "text": "this just put shit in perspective for me",
+    "label": "disability",
+    "score": 0.6722646355628967
+  },
+  {
+    "index": 984,
+    "text": "noone earned 95 fuckin billion dollars",
+    "label": "socioeconomic",
+    "score": 0.8884214758872986
+  },
+  {
+    "index": 985,
+    "text": "that would still fuck me up",
+    "label": "disability",
+    "score": 0.9601941108703613
+  },
+  {
+    "index": 986,
+    "text": "no shit that 's the point",
+    "label": "disability",
+    "score": 0.5667446851730347
+  },
+  {
+    "index": 987,
+    "text": "noone earned 95 fuckin billion dollars",
+    "label": "socioeconomic",
+    "score": 0.8884214758872986
+  },
+  {
+    "index": 992,
+    "text": "this just put shit in perspective for me",
+    "label": "disability",
+    "score": 0.6722627878189087
+  },
+  {
+    "index": 993,
+    "text": "have no idea what the fuck i ate",
+    "label": "physical",
+    "score": 0.7754080891609192
+  },
+  {
+    "index": 994,
+    "text": "have no idea what the fuck i ate",
+    "label": "physical",
+    "score": 0.7754080891609192
+  },
+  {
+    "index": 995,
+    "text": "fucking kidding me ? truly absurd",
+    "label": "sexuality",
+    "score": 0.735867440700531
+  },
+  {
+    "index": 996,
+    "text": "fucking kidding me ? truly absurd",
+    "label": "sexuality",
+    "score": 0.735867440700531
+  },
+  {
+    "index": 997,
+    "text": "our entire reputation would go to shit",
+    "label": "disability",
+    "score": 0.7895388603210449
+  },
+  {
+    "index": 998,
+    "text": "where the fuck do i sign up ?",
+    "label": "age",
+    "score": 0.2529812157154083
+  },
+  {
+    "index": 999,
+    "text": "this shit happens all the time",
+    "label": "disability",
+    "score": 0.8803650736808777
+  },
+  {
+    "index": 1000,
+    "text": "this shit happens all the time",
+    "label": "disability",
+    "score": 0.8803650736808777
+  },
+  {
+    "index": 1001,
+    "text": "that would still fuck me up",
+    "label": "disability",
+    "score": 0.9601942300796509
+  },
+  {
+    "index": 1002,
+    "text": "do some research before talking shit",
+    "label": "educational",
+    "score": 0.9072393178939819
+  }
+]

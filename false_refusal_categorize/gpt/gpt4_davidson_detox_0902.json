@@ -1,0 +1,10752 @@
+[
+  {
+    "text": "so hoes that smoke are losers yea go on ig",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch get up off me",
+    "bucket": [
+      "bi",
+      "immigration_status",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "bitch nigga miss me with it",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "if you aint bout that murder game pussy nigga shut up",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "get worshiping bitch woof woof",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "how bout them cowboys shutup pussy",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "pussy licking pussy meow meow stopwhitepeople2014",
+    "bucket": [
+      "white"
+    ],
+    "category": [
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "yall shut upp make me bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "aw fag dont tweet aw to me lol",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "i didnt say anything tho kiss me then faggot",
+    "bucket": [
+      "thin"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ]
+    ]
+  },
+  {
+    "text": "i wanna have sex with my mom fuck her right in that pussy where i came from damn you got hacked like fuck",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "happy bday bitch ass nigga preciate that bitch roll up",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "being single isnt an excuse to be a hoe",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "marital_status",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, marital_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "lets get drunk get blowed spit shit spark blunts fuck hoes bro white dudes have no chill",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "youre not a man if you refer to every girl as a bitch",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "thats where i get my yellow flags for being amazing hell yeah niggy",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "shut yo bitch ass up",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "fuck twerking bitch can you cook",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lmfaoooo i hate black people this is why theres black people and niggers",
+    "bucket": [
+      "(none)",
+      "black",
+      "hair"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "this new twitter is confusing the shit out of me go back to south america bitch",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop bringing weird niggers into my mentions",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "fat hoes get chose lol",
+    "bucket": [
+      "hair",
+      "overweight"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, overweight"
+      ]
+    ]
+  },
+  {
+    "text": "ol bitch ass",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "side hoes are for insecure niggas that cant handle a real one",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "oomf so fuckin fine tho dam her dont be no bitch",
+    "bucket": [
+      "(none)",
+      "bi",
+      "binary",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "hickies in between her thighs right by her pussy its only right",
+    "bucket": [
+      "(none)",
+      "binary",
+      "fit",
+      "sex"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "gerryshalloweenparty halloween was yesterday stupid nigger",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "and if you aint a hoe get up out my traphoussseeeee",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "aww their avis look so cute together do i gotta get ike avi on this bitch",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "neurological",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ewww i said that last sundayas in the last sunday i was there read it again nigs",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "is bored supposed to be cute you faggot sometimes",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "jackies a retard blondeproblems at least i can make a grilled cheese",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "grudges are for weirdosand bitches",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "nothin in life is free some of you bitches need to write that on ya panties",
+    "bucket": [
+      "(none)",
+      "fit",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, miscellaneous"
+      ]
+    ]
+  },
+  {
+    "text": "yassssss ordered chinese bitch you just ate tacos you fat fuck",
+    "bucket": [
+      "bi",
+      "china",
+      "overweight"
+    ],
+    "category": [
+      "body_type",
+      "nationality",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, overweight"
+      ],
+      [
+        "nationality, china"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "dont you ever give my pussy away you keep it tight alright",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "eff it lets go after the cripple",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "get me that shit bitch you is fine bear",
+    "bucket": [
+      "(none)",
+      "bi",
+      "hair",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "get your ass back to detroit ya fuckin wigger",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "how do you know my twitter password bitch please",
+    "bucket": [
+      "bi",
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "i know my shoes dirty as fuck whatever bitch you dont have to call like negro one of the first things they look at is shoes dog",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "i got a sister she told me stop calling women bitches",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "i woke up like thi bitch go back to bed",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "if you love her then hide yo bitch so youll keep shorty",
+    "bucket": [
+      "(none)",
+      "bi",
+      "binary",
+      "small_stature"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, small_stature"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lets do nips ahoy and spank me maybe",
+    "bucket": [
+      "(none)",
+      "bi",
+      "immigration_status",
+      "pansexual",
+      "queer",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, pansexual"
+      ],
+      [
+        "sexual_orientation, queer"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "lets kill cracker babies wtf did i just hear wow",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "rt it for me please and thanks did a pierced pussy just come across my timeline",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "she gotta shape up her pussy lips tho whole wheat organic pussy",
+    "bucket": [
+      "(none)",
+      "binary",
+      "fit",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "shes from florida so youve got to do the sniff test in those swamp pussies",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "slow the fuck down bitch i know where you live classy young lady",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop being a pussy son and shove that needle into your own heart afterearth",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "stop looking us and go eat some pussy you yuppie fucks",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "cultural_stereotypes",
+      "immigration_status",
+      "unattractive"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "that aint bro moves thats hoe moves",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "why u being such a little bitch chris you aint six bitch allisons mom",
+    "bucket": [
+      "(none)",
+      "binary",
+      "hair",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "wow you are a bitch yes thats already been established anything else you have to say",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "you dont like us colored folks what the hell youre not colored you white fucks",
+    "bucket": [
+      "(none)",
+      "black",
+      "hair",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "race_ethnicity, black"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "are we bitches",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "bitch freak my shit",
+    "bucket": [
+      "bi",
+      "straight"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "dont let your side bitch settle in i might have to headbutt you evelyn",
+    "bucket": [
+      "(none)",
+      "fit",
+      "hair"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "on my way to fuck your bitch in the name of the lord mr race",
+    "bucket": [
+      "(none)",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "you better pipe your pussy down over there lmao wth does that even mean",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "crack that whip cracker",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dutch people who live outside of newyorkcity are all white trash",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "race_ethnicity",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "race_ethnicity, white"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "freshmanadvice and if you aint a hoe get up out my traphouseeeeeeee",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "jesuschrist was straight thats why the faggots killed him period sonofgod",
+    "bucket": [
+      "(none)",
+      "cisgender",
+      "sex",
+      "straight"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "reasonswhywedontgetalong youre a hoe stop focusing on sucking dick focus on getting rich",
+    "bucket": [
+      "(none)",
+      "sex",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "slightlyadjusted rt alls niggers wanna do is fuck tweet and drink pineapple soda all day",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "tjohngang lil bitch follow me",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "tomyfutureson you can fuck dem hoes but you better not love dem hoes",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "faggots killed jesuschrist hello but whatever go ahead gaymarriage yourself into pharaohs pockets",
+    "bucket": [
+      "gay"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "faggots are merely a scientific indicator that something is wrong do not celebrate as unique indiviuals for they are cancer",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "rt i love salad rt anyway fuck you hoes eat a salad",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "rt this hoe got a school shirt on sucking dick",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you needa stop sucking dick hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "rt hop off hoe rt come on",
+    "bucket": [
+      "(none)",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "is the most important thing all this temporary bullshit and lies is fa the birds kill that",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "rt mimi too old to be covering her titties during sex bitch you childish",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "you a faggot if you eat pork chops",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "rt still cant see what niggers see in them white hoes dont do this everrrrrr",
+    "bucket": [
+      "(none)",
+      "fit",
+      "hair",
+      "white"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "rt niggers rt before any moves are made my black ass must take a nap",
+    "bucket": [
+      "(none)",
+      "binary",
+      "black"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "this fucking bitch rachel needs to die please",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "rt bae go text your hoes me",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "can yall females let this sink in for min moment of silence to get yall bitches thinking right",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "rt i dont want my man txtn tlkn lookin yet alone speakin to you hoes im not insecure at all yall hoes cant be trusted",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "old",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "fuck east st john and all they fans familys friends shut yo bitch ass up",
+    "bucket": [
+      "(none)",
+      "asian",
+      "sex"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "race_ethnicity, asian"
+      ]
+    ]
+  },
+  {
+    "text": "aye nigga who tryna freestyle you trash though lol",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "98 of women were sluts freshman year of college let these hoes be great",
+    "bucket": [
+      "(none)",
+      "adult",
+      "auditory",
+      "middle_aged",
+      "miscellaneous",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ]
+    ]
+  },
+  {
+    "text": "woaaaahh that coat though lolnigga too warm in that hoe",
+    "bucket": [
+      "(none)",
+      "fit",
+      "hair"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch get out dem feelings and get some new dick",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitches love throwing that irrelevant shade go sit lil bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "jose ur mean i said ily stfu hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "first time with 3 lol yuhhhh we hit that hoe",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "vietgoddamnnam thats what happened go get me a beer bitch",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lmfaoooo bitch dont start okay bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "upload our pictures wat pictures bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "we agree do you fuck yes i do send those illegal wetbacks home",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "rt black bitches turn 60 buy a hat and act like jesus forgot they was fucking niggas in the park loooool",
+    "bucket": [
+      "(none)",
+      "black",
+      "old"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "i wish you were here stop crying bitch im omw back already haha",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "hell ya they should make more malt liquor ads like this dis be heaven fo a colored man",
+    "bucket": [
+      "(none)",
+      "binary",
+      "black"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "hidey hidey hoe white folk be all noyvous round coloreds",
+    "bucket": [
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "fck you nigger lol jk bra",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i saw a girl scratch her private today what that mean dont fuck her right in the pussy",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "tea bag a bitch pahahaha",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "you fat bitches needa stop biting your lips when you take pictures yall look hungry not sexy",
+    "bucket": [
+      "asexual_or_aromantic",
+      "attractive",
+      "bi",
+      "overweight"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lightskin mf lmfaooo ight white bitch lol",
+    "bucket": [
+      "black",
+      "hair",
+      "immigration_status",
+      "job_status",
+      "skin_color",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, skin_color"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, black"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "all yall some fucking coons",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "oh my dogs pussy is so tight time to loosen it",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you gotta fuck every race just to see which dickpussy you like the best thot",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "honesty is all i ask for you ugly then a hoe then",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex",
+      "unattractive"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "bitch get outta here dumb ass lmao",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "yall are so confused these days somebody put that hoe in a dress",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "pretty boy face awee thanks faggot",
+    "bucket": [
+      "(none)",
+      "asexual_or_aromantic",
+      "attractive",
+      "gay",
+      "hair",
+      "job_status"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ],
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "fuck you ugly lol show them teeth bitch fuck u",
+    "bucket": [
+      "(none)",
+      "bi",
+      "binary",
+      "unattractive"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lol be cool son you know your grandma bald mouthshe got all her teeth hoe",
+    "bucket": [
+      "(none)",
+      "binary",
+      "hair"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "going dumb on this essay bitch you sad",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "fuck up bitch get out mi house",
+    "bucket": [
+      "(none)",
+      "bi",
+      "hair",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont say shit else just stfu bitch we can do a lot more off this twitter shit you can come see me",
+    "bucket": [
+      "(none)",
+      "binary",
+      "middle_aged"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "dudes shaving without it being for an athletic purpose is gay af youre retarded",
+    "bucket": [
+      "(none)",
+      "gay",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, miscellaneous"
+      ],
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "birthday weekend starts today shut yo hoe ass up",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "when you live this gay you cant be afraid of two black dicks in your butt you fucking queer",
+    "bucket": [
+      "black",
+      "descriptors",
+      "gay",
+      "queer",
+      "sex"
+    ],
+    "category": [
+      "gender_and_sex",
+      "race_ethnicity",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, descriptors"
+      ],
+      [
+        "gender_and_sex, queer"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "race_ethnicity, black"
+      ],
+      [
+        "sexual_orientation, gay"
+      ],
+      [
+        "sexual_orientation, queer"
+      ]
+    ]
+  },
+  {
+    "text": "water polo is so fucking hard respect yeah if youre a pussy",
+    "bucket": [
+      "(none)",
+      "descriptors"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, descriptors"
+      ]
+    ]
+  },
+  {
+    "text": "mom dont call a girl a bitch thats somebodys daughtersisterniece me and somebodys bitch too",
+    "bucket": [
+      "(none)",
+      "binary",
+      "immigration_status",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "throwing lamps at bitches who need to lighten up true dat",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "remember this bro dont show people this",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "darkskin girls ugly ass bitch",
+    "bucket": [
+      "bi",
+      "unattractive"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "is it wrong if i get on this bitch and started talking shit yes",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "leave all the bitchin to bitches",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "shut the fuck up you fucking trash nigga work on another ring",
+    "bucket": [
+      "(none)",
+      "middle_class",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "your relationship ended not your life stop being a whiny bitch",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "go to sleep bitchstfu",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "this bitch childish af one of my sisters wouldve had to crash her",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "i swear if i see any snow tomorrow bruhh you sound like a basic white bitch",
+    "bucket": [
+      "(none)",
+      "binary",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "when her nudes trash you gotta draw clothes back on her and send em back",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "i dont like a ghetto female",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "if jennifer hudson can lose weight anybody can you fat ass hoes",
+    "bucket": [
+      "overweight"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, overweight"
+      ]
+    ]
+  },
+  {
+    "text": "shut up faggotset himself up",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i got a natural mean face i be havin mean mugs and ion even be knowin bitch shut the fuck upright",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "shoot that nigga and his shorty bitch",
+    "bucket": [
+      "(none)",
+      "bi",
+      "small_stature"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, small_stature"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "what things do you love myself weed pussy life",
+    "bucket": [
+      "all",
+      "thin",
+      "upper_class"
+    ],
+    "category": [
+      "body_type",
+      "political_ideologies",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you a bitchthey need to lock yo ass up for sayin some stupid shit like that",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "wish tonight was purge so i can get to hunting shut yo hoe ass up",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "niggas is hoes man i swear",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "fb hoe loldamn next time be nicer lmfao",
+    "bucket": [
+      "old"
+    ],
+    "category": [
+      "age"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ]
+    ]
+  },
+  {
+    "text": "where the fuck is your top lip in my pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "paint brushes over bugattis stundentpainters bitch paint me like one of your french girls",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "finger a bitch w my trigger finger nigga shut up",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "dora her table manners shes eating like a sloppy hoe",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "stop being such a bitch",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "that pussy so wet she gotta dry outside stop telling my business",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "if you cant get pussy without lying to a girl you wack dont hate appreciate",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "make the most of what you have dont tell me what to do bitch",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "upper_class",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "rt single moms got that proven pussy lol fckd up but truuu",
+    "bucket": [
+      "immigration_status",
+      "marital_status"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, marital_status"
+      ]
+    ]
+  },
+  {
+    "text": "ladies what if a dude put two hands in your pussy and started clapping lmaoo",
+    "bucket": [
+      "(none)",
+      "binary",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "no you homo sorry i cant be straight like you and pull mad bitches",
+    "bucket": [
+      "(none)",
+      "hair",
+      "immigration_status",
+      "straight"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "fuck me then bitch shut up and roll threw",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "boot up for u hoe niggas so girls that take bc are hoes",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "my name is stefanie stefaniefuck u hoe",
+    "bucket": [
+      "(none)",
+      "hair"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "all people ever do on twitter is bitch get a mother fuckin diary",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "im not close to being your dude master chan thats right bitch bow down to your master",
+    "bucket": [
+      "(none)",
+      "all",
+      "handedness"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "that one friend who you greet with an insult niggers",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "this dude a fucking legend bruh fuck her right in the pussy lmao true legendfuck her right in the pussy",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "who clothes in the dryer im tryna dry my clothesthrow them hoes out",
+    "bucket": [
+      "(none)",
+      "binary",
+      "immigration_status",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "that hoe gone jam watch if you aint throwing ass bitch fuck out the party",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "100 of the female population needs to stop being such a bitch",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "im outside your house comeout this bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "this is me so badly hahahah omg yall some pussies",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "cool story bitch now pass the blunt bitch",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "why lie youre my nigguh",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "happppppy birthdayyyy lol niggahs is really 21 in this bitch",
+    "bucket": [
+      "(none)",
+      "adult",
+      "fit"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ]
+    ]
+  },
+  {
+    "text": "you niggahs actin like hoes i can sale those",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "damn you whitey youll get a kick out of the newest form of white privilege",
+    "bucket": [
+      "(none)",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "race_ethnicity",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, white"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch breathes me could you not",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "rt ankle socks in general are for the faggots bro",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "aaaaaaand it begins rt fucking niggers thats all kentucky is and ever will be",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "with putin pushing for land and china completely revamping their armed forces youre a fucking retard stay out my country",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes",
+      "hair",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "12 was like blocked bitch dont start they are blocking us in ferguson",
+    "bucket": [
+      "(none)",
+      "child",
+      "fit",
+      "immigration_status"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "yu ah hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "go be cunt somewhere else",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "iycmi i cant get any work done if you keep showin off your bitches",
+    "bucket": [
+      "(none)",
+      "binary",
+      "job_status",
+      "sex",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "fuck you tonyyou greaseball piece of shit",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "bitches are hoes dont be surprised",
+    "bucket": [
+      "bi",
+      "straight"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "beautiful bride tell erica congrats if she remembers a nig",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "binary",
+      "hair"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "no bitch",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "yeah cant lie tho spitting on a cop car right with their bitch ass in it feels damn good",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "haha shit niggah i wish",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "bitch stop fucking playin with me you know wtf im talkin about",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "so basically you like the background music fag",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop being mean bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "dont call my buddy cambron retarded man smh thats rude",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "the cop was bitch slapped by this wanna b st thug and he got what tm got dead see you dont slap cops they r law",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "cant wait for more peds is that it roid munching faggot",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut the fuck up hoe ass bitch fuck squirtin ass cunt hoe",
+    "bucket": [
+      "(none)",
+      "bi",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "smd bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "just dont bitch when your power goes out like last time",
+    "bucket": [
+      "(none)",
+      "bi",
+      "middle_class",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "bitch foh",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "ape fuck u broke ass racist",
+    "bucket": [
+      "below_poverty_line",
+      "cisgender",
+      "sex"
+    ],
+    "category": [
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ]
+    ]
+  },
+  {
+    "text": "answer my snapchat faggot butthurt",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "go to sleep faggot",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "bitch add me",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lmfaoooo thats some fag shit man",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "finger my throbbing pussy slowly as i cum on ur face",
+    "bucket": [
+      "(none)",
+      "asexual_or_aromantic",
+      "bi",
+      "straight"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "good dnt be a sucker for these sad mad bitches",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "quit bein a little bitch b",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "send them damn beaners back where they belong n the us aint it",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "make weed legal you pussy you know you smoke that shit",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "wow and there are white people and there are crackers guess which one u are",
+    "bucket": [
+      "(none)",
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "cracker jack shut the fuck up",
+    "bucket": [
+      "(none)",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "dumb bitch stfu",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "youd like that wouldnt you fag",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "send all the fucking muzzies home now doj come and get me motherfuckers",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lmao bitch shut up",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "nice avi lil nigger",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "lmfao go to bed whitey",
+    "bucket": [
+      "(none)",
+      "upper_class",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "race_ethnicity",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "race_ethnicity, white"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "pass the fosters faggot",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "ur weird racist bitch",
+    "bucket": [
+      "bi",
+      "binary",
+      "cisgender"
+    ],
+    "category": [
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "let the hoes tell it man",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lesson 12 dont pass out at before 12 like a lil bitch",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "old",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "awnser the phone pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "pull my panties down with ur teeth and write the alphabet w ur tongue on my throbbing pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lmaooo roosters is hot trash bro u know it",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "get that degree first bitch",
+    "bucket": [
+      "(none)",
+      "bi",
+      "middle_class"
+    ],
+    "category": [
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "34 of a citizen i said it for you maria you spic",
+    "bucket": [
+      "(none)",
+      "adult",
+      "immigration_status",
+      "latinx",
+      "old"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "age, adult"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, latinx"
+      ]
+    ]
+  },
+  {
+    "text": "your a nasty nigger whore",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "wow are you comin back up here they some bitch niggas",
+    "bucket": [
+      "(none)",
+      "bi",
+      "binary"
+    ],
+    "category": [
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "take your queer ass dubstep out of here",
+    "bucket": [
+      "miscellaneous",
+      "queer"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "gender_and_sex, queer"
+      ],
+      [
+        "sexual_orientation, queer"
+      ]
+    ]
+  },
+  {
+    "text": "i didnt spoil anything you should have been watched it nigger nig nog",
+    "bucket": [
+      "thin"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ]
+    ]
+  },
+  {
+    "text": "i dont like the sand nigger but its entertaining like 6 knockdowns",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "hey sir house nigger uncle tom arent you from grand ole mississippi i rest my case",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "bitch mind your business",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "press start bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "a fucking verse from don trip bitch stop assuming shit",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "bitch i know stfu",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "you dont know what i know name somebody colder you monkey faced immigrant",
+    "bucket": [
+      "asexual_or_aromantic",
+      "immigration_status",
+      "old"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ]
+    ]
+  },
+  {
+    "text": "haha i dont remember following you but ok get your pannies out of of bunch cunt",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "omg bitch go to sleep it was just a coincidence huh",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "its almost ya fucking birthday so act right niglet",
+    "bucket": [
+      "all",
+      "bi",
+      "handedness",
+      "immigration_status"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "fuck outta here and go put some more trash ass ink on your faggot ass self pussy",
+    "bucket": [
+      "(none)",
+      "working_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "socioeconomic_class, working_class"
+      ]
+    ]
+  },
+  {
+    "text": "you need to accept the fact that youre both hipster faggots",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "cultural"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ]
+    ]
+  },
+  {
+    "text": "your gay stfu dumb monkey",
+    "bucket": [
+      "gay"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "chase you god damn faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "be gone my nigguh",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "faaaaggggottttt speaking with the blonde hair and confused youre a hypocrite cuz youre a faggot",
+    "bucket": [
+      "(none)",
+      "hair",
+      "immigration_status",
+      "job_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "shut up chink",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dont be a bitch",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "dawson and nicky hickman delete the fake account and and stop being bitches",
+    "bucket": [
+      "(none)",
+      "bi",
+      "gay",
+      "immigration_status",
+      "neurological",
+      "queer",
+      "straight"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, gay"
+      ],
+      [
+        "sexual_orientation, queer"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "bitch kill yo self",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "bitch stop takin my shit ooo i hate u u dumb bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "bitch watch tf out u on moose meat now",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "nigga byeeeee lmfao ill be dammed if a fag stole my girl",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "god wrote em now think again coon",
+    "bucket": [
+      "thin"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ]
+    ]
+  },
+  {
+    "text": "dont make me draw you like one of my franch bitches heffa",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "look at ur avi u fag",
+    "bucket": [
+      "old"
+    ],
+    "category": [
+      "age"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ]
+    ]
+  },
+  {
+    "text": "you a bitch dennis",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "bitch dont b a hypocrite",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "yall niccas spark up",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "fuck off lil bitch prolly gotta lil dick",
+    "bucket": [
+      "bi",
+      "immigration_status",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "choke on bread bitch",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "ya girl is a slimy ass hoe get her under control and tell her to stop spraying bullshit out her mouth all day",
+    "bucket": [
+      "(none)",
+      "binary",
+      "thin"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, thin"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "get on cunt",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch shut the fuck up goddam your a slut bitch whore nigga",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "because if you support lesbians you have to support faggots theres no difference",
+    "bucket": [
+      "(none)",
+      "lesbian"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "bitch ass nigga rico",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "boy look like a slave on that hoe",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "come over hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "she might be the one dont be a bitch",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "how about you wash my butthole out with your tongue you little faggot",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut your mouth you little fuckin bitch",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "you dirty little bitch",
+    "bucket": [
+      "(none)",
+      "bi",
+      "hair"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "whatever fuck all those assholes theyre niggers they all look alike to me",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ur moms pussy died a slow death so well have good company virgin",
+    "bucket": [
+      "(none)",
+      "binary",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "shut up fag",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dude quit being a hyposhitical bitch you ran downstairs crying begging me not to tell anyone",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "hey now dont diss my basketball hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "whoa calling me a cunt",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "lmfao putting on for twitter i see fat bitch",
+    "bucket": [
+      "(none)",
+      "asexual_or_aromantic",
+      "bi",
+      "intellectual_and_developmental",
+      "overweight"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "just watch bitch nigga u gonna want the whole team dead",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "thats not bias its an objective fact that philly fans are cunts",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "naw u keep it 100 fake get yo lame ass on somwhere wigga hell no get on somwhere",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yea thats what i thought pussy boy u r a fucking thot",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "dont fail bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "your a bitch if you hit a girl",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "you a bitch edgar",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "youre bitch",
+    "bucket": [
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch and focus on that l tomar",
+    "bucket": [
+      "(none)",
+      "bi",
+      "pansexual"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, pansexual"
+      ]
+    ]
+  },
+  {
+    "text": "speak english prude ass white bitch",
+    "bucket": [
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "aoas you write back bitch lol",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "becuz no man should celebrate his bday at a drreams faggot",
+    "bucket": [
+      "(none)",
+      "binary",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "quit being a pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch dont even think about playin wit me",
+    "bucket": [
+      "bi",
+      "thin"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, thin"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "hoe dont make me put up screenshots of your texts to me hoe",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up fuckin beaner",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dont be a bitch smh",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "ew queer white thirsty bitch",
+    "bucket": [
+      "bi",
+      "non_binary_or_gnc",
+      "queer",
+      "white"
+    ],
+    "category": [
+      "gender_and_sex",
+      "race_ethnicity",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "gender_and_sex, queer"
+      ],
+      [
+        "race_ethnicity, white"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, queer"
+      ]
+    ]
+  },
+  {
+    "text": "omg gtfo white faggot",
+    "bucket": [
+      "hair",
+      "job_status",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "dont be a bitch man up lol",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "that is great dumb crybaby pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shoot that nigger bitch in the knees",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yes now get off twitter you lame negros should have never learned how to use the internet",
+    "bucket": [
+      "(none)",
+      "domestic_status",
+      "immigration_status",
+      "job_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, domestic_status"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "hahahaha youza fuck wigger",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "youre a little bitch x2",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "leave you beaner retard",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "u a bitch in niggas clothing shut yo ass up",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "them stop being a bitch and do it",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "gabby why are you so ghetto",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "naw hoe let me see if you got keisha",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "babe its the thought that countsbitch you a thot",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "hoe dont tweet me",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "hope you guys do get attacked for supporting sopa bunch of dirty snake faggots",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "hair",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "man get yo bitch ass out my mf mentions man with all tht bs u trippin",
+    "bucket": [
+      "(none)",
+      "hair",
+      "immigration_status",
+      "miscellaneous",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "they are all idiots except kourt the rest are just slutty ass bitches",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "fucking block your white ass because you try to start shit like a fucking queer so fuck you nigga",
+    "bucket": [
+      "bi",
+      "queer",
+      "white"
+    ],
+    "category": [
+      "gender_and_sex",
+      "race_ethnicity",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, queer"
+      ],
+      [
+        "race_ethnicity, white"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, queer"
+      ]
+    ]
+  },
+  {
+    "text": "ight nigga tonight at 900 c burg mall bitch",
+    "bucket": [
+      "bi",
+      "old"
+    ],
+    "category": [
+      "age",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "roid rage much faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "straight up your hoes can wait",
+    "bucket": [
+      "hair",
+      "straight"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ],
+      [
+        "sexual_orientation, straight"
+      ]
+    ]
+  },
+  {
+    "text": "no that nigga goin to work quit tryin to kill a niggas vibe you broke bitch",
+    "bucket": [
+      "(none)",
+      "below_poverty_line",
+      "binary",
+      "middle_class"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "socioeconomic_class, below_poverty_line"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ]
+    ]
+  },
+  {
+    "text": "yeah so quit being a bitch and edit",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "ive had to do it in multiple classes aint really that rare also dont call your teacher a bitch on twitter",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "lick my pussy and ma crack",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "ill finger ur tight pussy so slowly youll be moaning my name bby",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "wtf hoe answer my question",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "move out of our country teabaggers",
+    "bucket": [
+      "(none)",
+      "cultural_stereotypes",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "cultural",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "cultural, cultural_stereotypes"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lemme find out you twitter beefin with hoes",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "i found her right here good job unfollowing me btw faggot",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "handedness",
+      "immigration_status",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "body_type",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "no send the fucking challenge quit being a pussy",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "meet me later for a reach around charlie crist",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "niggerfood niggerperson you are a nigger",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up lizard faggot nigger cunt",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "im american dont give 2 shits about the beaners ship them beaners back",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "united_states"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "nationality, united_states"
+      ]
+    ]
+  },
+  {
+    "text": "bitch no more on my account",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "shelby your pussy is beat up",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "fuck my throbbing pussy slowly",
+    "bucket": [
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "it was a joke you fugly bitch be happy uncle snoop even acknowledged your nasty ass lmao",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "you do realize ya pussy stank right",
+    "bucket": [
+      "all",
+      "handedness",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "political_ideologies",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "fuck her right in the pussy",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "is my big long lost brother i swear i dont know what id do without this wetback",
+    "bucket": [
+      "(none)",
+      "large_stature",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you a bitch nigga",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch you opulent as fuck refrain from conversing upon matters of the middle class",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "middle_aged",
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "i love louis ck quit bein a faggot and suck that dick",
+    "bucket": [
+      "(none)",
+      "cisgender",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "shins a faggot im glad your chipped him",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "youre filled with pimps and hoes well just talk about those i knows",
+    "bucket": [
+      "(none)",
+      "fit",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "touch muzzie fuckers hope it was set to go full of bacon and pork rinds",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "miscellaneous",
+      "overweight",
+      "thin"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "body_type, thin"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "still shouldve walked over and said something pussy",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "old",
+      "thin",
+      "young"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, thin"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "give me credit lil bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "yourself faggot buy a dictionary",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you a fucking wigger so stfu",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "and fuck you too ya little bitch you look like a mexican sucking a cock in ur profile",
+    "bucket": [
+      "(none)",
+      "mexico"
+    ],
+    "category": [
+      "age",
+      "body_type",
+      "nationality"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "nationality, mexico"
+      ]
+    ]
+  },
+  {
+    "text": "naaaaa just popped across my tl so i commented but nice try faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "your a fag",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up you stupid bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "bitch better back up katys mine",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "kiss these nuts bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "tyler isnt shit faggot go listen to some real music",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "not funny u faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "james nobody save a couple illiterate inbred teabagger morons gives a flying fuck about your revelations",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "nigger you are bigger than i am do you even r4apersec",
+    "bucket": [
+      "bi",
+      "large_stature",
+      "upper_class"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "use monkey maker you prick",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "shut up bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "suck a dick hoe",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "bitch answer me lol",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "that dont mean youre not balling lol shut up hoe lol",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "that means youre balling if youre jewish lol i dont love hoes lol",
+    "bucket": [
+      "all"
+    ],
+    "category": [
+      "religion"
+    ],
+    "pairs": [
+      [
+        "religion, all"
+      ]
+    ]
+  },
+  {
+    "text": "youre a bitch lol",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "good leave you stupid faggot",
+    "bucket": [
+      "attractive"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ]
+    ]
+  },
+  {
+    "text": "an just dont be a hoe about it haha",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "youre such a bitch carlton youre lucky your fathers a judge",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "i guess blaspheme to your allah is ok if your pos muzzie huh",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "sit down and stfu raghead",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "go eat bear shit you fuckin yokel",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dont talk to your hoe that way",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "damn took this dumb spic nearly 2 days to respond wuz really good tho beaner",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, attractive"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "shut up pussy",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "nah youre a nigger",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "cowboys fans are cunts stop the presses",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "job_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "im not a bitch take it back",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "bitch wake up",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "dnt use my shit against me hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "negro please",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "yes u hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "dont favorite me you faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "shut the fuck up faggot ass knicks cock sucker your opinion is irrelevant fag",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "pretty sure you meant flight and not flite dumb ass cracker",
+    "bucket": [
+      "(none)",
+      "attractive"
+    ],
+    "category": [
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "choke on something hoe",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "old",
+      "thin",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "body_type, thin"
+      ]
+    ]
+  },
+  {
+    "text": "lmao cunt",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "likkadawgg turn up ya bitchfw ya dawg man",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "lets get a group together do something negro im home",
+    "bucket": [
+      "(none)",
+      "black",
+      "middle_aged",
+      "neurological",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "lmaooo hell naw nigga you must was playing school of blind and cripple",
+    "bucket": [
+      "(none)",
+      "black",
+      "unspecific",
+      "visual"
+    ],
+    "category": [
+      "ability",
+      "race_ethnicity",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, unspecific"
+      ],
+      [
+        "ability, visual"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch it ainn complete witout money melle n it",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "do it i fucking dare you faggot",
+    "bucket": [
+      "upper_class"
+    ],
+    "category": [
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "you cant call someone a fag if youre snuggling up with guys",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "apply to thunder valley bitch",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "because ians retarded",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "u stupid fuk head bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "quit being a baby hit that patchouli pussy",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc",
+      "queer"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "gender_and_sex, queer"
+      ]
+    ]
+  },
+  {
+    "text": "lol toughen up pussy",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "stop being a pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "is having a birthday so make sure you tell that bitch be happy celebrate without drugs",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yer dirty pussy",
+    "bucket": [
+      "hair"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "shut up bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "ur so anal stfu for once u bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "you got cancer hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "haha noo bitch now stop playing games hoe",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "go back to nigeria faggot",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "ur a fucking half breed dog stop acting",
+    "bucket": [
+      "(none)",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "yall playful dont come dumb hoes",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "youre a coon",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "she doin homework you jiggaboo let her be",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "bitch follow me",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "stfu nigguh ive been reading the manga for the longest and you know that",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you and should name a group called mob moaning old bitches",
+    "bucket": [
+      "(none)",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "shut the fuck up you cry baby all you do is bitch and whine about life shits retarded",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "uh oh its 911 what you gonna preach and cry about today faggot",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "rams are for fags",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "youre still a free world bitch dont deserve your 313 area code",
+    "bucket": [
+      "(none)",
+      "binary",
+      "middle_aged"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "im gonna tell my friend not to buy your scuf now dumb chink frail pussy",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "use coconut oil faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "stop calling her a bitch crystal voice",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "like the cure time when u shut da fuck up from gettin in other folks bizness like a lil bitch",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "non_binary_or_gnc",
+      "queer"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "gender_and_sex, queer"
+      ]
+    ]
+  },
+  {
+    "text": "we block us then and see what happens you think we on ya high yellow ass now just watch",
+    "bucket": [
+      "(none)",
+      "educational_attainment",
+      "immigration_status",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ],
+      [
+        "socioeconomic_class, educational_attainment"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "stfu hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "bitch fuck you get out my mentions malzeno",
+    "bucket": [
+      "(none)",
+      "bi",
+      "miscellaneous"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "lmaooo djs stranger danger im just a coon",
+    "bucket": [
+      "(none)",
+      "black",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "am not down with gay shit u better ask my bitch",
+    "bucket": [
+      "(none)",
+      "gay",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "stop looking porn fag",
+    "bucket": [
+      "attractive",
+      "unattractive"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, unattractive"
+      ]
+    ]
+  },
+  {
+    "text": "you a fag b",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop being bitchy bitch",
+    "bucket": [
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "keep ya draws on hoe",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "your a dirty cunt mate lol missingtheaussies",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "shut your legs hoe",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "bitch stop harassing me",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "shit your ass and shabbat your moms pussy u jew bastard ur times coming heil hitler",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "only if youre a twat as well be not a twat my son",
+    "bucket": [
+      "(none)",
+      "binary",
+      "child"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, child"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "up your ass you little twat",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "really telling me to call him boo uhhh naw you the niggah thats that",
+    "bucket": [
+      "(none)",
+      "binary",
+      "immigration_status"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "touch my throbbing pussy",
+    "bucket": [
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "shut up coon",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "you really seem to love sandusky weirdo ur a creepy ass cracker",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "stop trolling me u creepy ass cracker",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "sup nappy headed hoe you got quiet",
+    "bucket": [
+      "hair"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "shut up you nappy headed hoe",
+    "bucket": [
+      "hair"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, hair"
+      ]
+    ]
+  },
+  {
+    "text": "unfortunately you are correct sir still eat shit and die though bitch",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "thats a goddamn terrible joke you gbe lookin bitch",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "text me bitch",
+    "bucket": [
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "bitch im proud to be black ur a samba",
+    "bucket": [
+      "(none)",
+      "black"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "race_ethnicity, black"
+      ]
+    ]
+  },
+  {
+    "text": "yall is coons n uncle toms",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "dont be a bitch",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "freeze bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "mhm bitch dont play with your life",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch please",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "bitch please dont get shot doug",
+    "bucket": [
+      "attractive",
+      "bi",
+      "hair"
+    ],
+    "category": [
+      "body_type",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "ik he felt like a bad bitch take it down a notch dex",
+    "bucket": [
+      "(none)",
+      "neurological",
+      "non_binary_or_gnc",
+      "queer"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ],
+      [
+        "gender_and_sex, queer"
+      ]
+    ]
+  },
+  {
+    "text": "try being respectful instead of acting like a fucking retard",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "you a lil bitch mankeep my name out to mouth thats all ima say shhh",
+    "bucket": [
+      "(none)",
+      "intellectual_and_developmental",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "you may not like my stance on cops but i didnt and would not call you a cunt please stop copying me on these tweets",
+    "bucket": [
+      "(none)",
+      "cisgender",
+      "intellectual_and_developmental",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, cisgender"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "suck on my throbbing pussy",
+    "bucket": [
+      "(none)",
+      "bi",
+      "lesbian"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "sexual_orientation, lesbian"
+      ]
+    ]
+  },
+  {
+    "text": "jews and white race traitors have to be swept clean so the aryan race can survive",
+    "bucket": [
+      "(none)",
+      "hair",
+      "white"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "im already a hot white bitch and hot latina get on my level",
+    "bucket": [
+      "(none)",
+      "attractive",
+      "binary",
+      "hair",
+      "latinx",
+      "white"
+    ],
+    "category": [
+      "body_type",
+      "gender_and_sex",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "body_type, attractive"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "race_ethnicity, latinx"
+      ],
+      [
+        "race_ethnicity, white"
+      ]
+    ]
+  },
+  {
+    "text": "who the hell needs permission for anything from that fatassed ghetto whore",
+    "bucket": [
+      "(none)",
+      "immigration_status",
+      "intellectual_and_developmental",
+      "overweight"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, intellectual_and_developmental"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, overweight"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "big fucking dealcry baby niggers",
+    "bucket": [
+      "bi",
+      "generations",
+      "large_stature"
+    ],
+    "category": [
+      "body_type",
+      "cultural",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "body_type, large_stature"
+      ],
+      [
+        "cultural, generations"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "fuck her right in the pussy",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "characteristics",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "nigga i still pull tho and fuck you bitch u stfu",
+    "bucket": [
+      "(none)",
+      "bi"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "hahahaha move bitch get out the wayyyeee",
+    "bucket": [
+      "(none)",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "your such a bitch lol",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "facetime me nigger",
+    "bucket": [
+      "asexual_or_aromantic"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ]
+    ]
+  },
+  {
+    "text": "bitch get yo duck ass off my shit",
+    "bucket": [
+      "bi",
+      "job_status",
+      "middle_class",
+      "upper_class"
+    ],
+    "category": [
+      "characteristics",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "characteristics, job_status"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, middle_class"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "look at this nigger ass nigger shit right here",
+    "bucket": [
+      "all",
+      "handedness",
+      "old"
+    ],
+    "category": [
+      "age",
+      "characteristics",
+      "political_ideologies"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "characteristics, handedness"
+      ],
+      [
+        "political_ideologies, all"
+      ]
+    ]
+  },
+  {
+    "text": "dont tell me what to do fuck balls kike nigger cunt tits cocksucker chink spic piss bitch bastard pussy faggot",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "kill yourself ugly ass monkey looking shit",
+    "bucket": [
+      "unattractive"
+    ],
+    "category": [
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "body_type, unattractive"
+      ]
+    ]
+  },
+  {
+    "text": "calm down you little asian lol just go flip a bitch",
+    "bucket": [
+      "(none)",
+      "asian"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "race_ethnicity, asian"
+      ]
+    ]
+  },
+  {
+    "text": "dont get head from hoes with overbites",
+    "bucket": [
+      "(none)",
+      "hair",
+      "immigration_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ]
+    ]
+  },
+  {
+    "text": "niggah you gay",
+    "bucket": [
+      "gay"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, gay"
+      ]
+    ]
+  },
+  {
+    "text": "bitch nigga",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "fuckin muzzie cunts should all be deported savages",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "the whole bunch of the trash needs 2 jus go away they r jus trash",
+    "bucket": [
+      "(none)",
+      "auditory",
+      "binary",
+      "miscellaneous"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, auditory"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, miscellaneous"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "back up faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "shouldve caught it the first time nigger",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "this nothing to do with my shoes you ignorant twat",
+    "bucket": [
+      "(none)",
+      "hair",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "how about i just fuck you right in the pussy",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "bitch ass jorge haha aint you at work nigga",
+    "bucket": [
+      "asexual_or_aromantic",
+      "bi",
+      "old"
+    ],
+    "category": [
+      "age",
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "age, old"
+      ],
+      [
+        "sexual_orientation, asexual_or_aromantic"
+      ],
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "shut up faggot",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "ms martinez fuckin with the cripple kid",
+    "bucket": [
+      "(none)",
+      "unspecific"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, unspecific"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "i likes dat name dem sand niggers needs to know dare place in da pecker order",
+    "bucket": [
+      "(none)",
+      "fit"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ]
+    ]
+  },
+  {
+    "text": "shoulda came to bird mans that shit was so lit",
+    "bucket": [
+      "(none)",
+      "bi",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "sexual_orientation",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "sexual_orientation, bi"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "she can stay as close as she pleases nigguh",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "you bitch",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "dead babies piled up like trash at a dump something to be proud of",
+    "bucket": [
+      "(none)",
+      "middle_aged",
+      "old",
+      "young"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "race_ethnicity"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "age, middle_aged"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "age, young"
+      ],
+      [
+        "race_ethnicity, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "those god damn bitches smh run away",
+    "bucket": [
+      "bi"
+    ],
+    "category": [
+      "sexual_orientation"
+    ],
+    "pairs": [
+      [
+        "sexual_orientation, bi"
+      ]
+    ]
+  },
+  {
+    "text": "shut the fuck up your wack as fuck garbage mohawk having faggot stop making music and shovel my snow scrub",
+    "bucket": [
+      "(none)"
+    ],
+    "category": [
+      "ability",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "characteristics, (none)"
+      ]
+    ]
+  },
+  {
+    "text": "whooooo chelsey fuck her lol she juss a bitch",
+    "bucket": [
+      "(none)",
+      "binary"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "you fucking twat just start talking",
+    "bucket": [],
+    "category": [
+      "uncertain"
+    ],
+    "pairs": []
+  },
+  {
+    "text": "i gotta start treatin these ugly hoes like dimes before they get fine on my ass",
+    "bucket": [
+      "(none)",
+      "binary",
+      "hair",
+      "unattractive"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "body_type, unattractive"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ]
+    ]
+  },
+  {
+    "text": "happy birthday nicca do coon shit in a responsible way",
+    "bucket": [
+      "(none)",
+      "fit"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, fit"
+      ]
+    ]
+  },
+  {
+    "text": "you a bitch for",
+    "bucket": [
+      "(none)",
+      "sex"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, sex"
+      ]
+    ]
+  },
+  {
+    "text": "come to the davis show and celebrate with me you retard",
+    "bucket": [
+      "(none)",
+      "hair",
+      "immigration_status",
+      "job_status",
+      "neurological"
+    ],
+    "category": [
+      "ability",
+      "body_type",
+      "characteristics"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "body_type, (none)"
+      ],
+      [
+        "body_type, hair"
+      ],
+      [
+        "characteristics, (none)"
+      ],
+      [
+        "characteristics, immigration_status"
+      ],
+      [
+        "characteristics, job_status"
+      ]
+    ]
+  },
+  {
+    "text": "you were supposed to hang w me this week nigger",
+    "bucket": [
+      "(none)",
+      "upper_class"
+    ],
+    "category": [
+      "ability",
+      "socioeconomic_class"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "socioeconomic_class, upper_class"
+      ]
+    ]
+  },
+  {
+    "text": "shiddd add me i a turn that bitch up lmao",
+    "bucket": [
+      "(none)",
+      "binary",
+      "neurological",
+      "non_binary_or_gnc"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "gender_and_sex"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "ability, neurological"
+      ],
+      [
+        "age, (none)"
+      ],
+      [
+        "gender_and_sex, (none)"
+      ],
+      [
+        "gender_and_sex, binary"
+      ],
+      [
+        "gender_and_sex, non_binary_or_gnc"
+      ]
+    ]
+  },
+  {
+    "text": "right these bitches be like damn i hope i get this job at target bitch do better still livin with ya momma ass hoe",
+    "bucket": [
+      "(none)",
+      "old"
+    ],
+    "category": [
+      "ability",
+      "age",
+      "body_type"
+    ],
+    "pairs": [
+      [
+        "ability, (none)"
+      ],
+      [
+        "age, old"
+      ],
+      [
+        "body_type, (none)"
+      ]
+    ]
+  }
+]
