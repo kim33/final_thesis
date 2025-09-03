@@ -1,0 +1,2 @@
+model,fairness_score,worst_biasratio,stability_sd_lbr,flag_over,flag_strong
+gpt3.5,0.08341177810598249,3.0,0.11756283128151954,12,6

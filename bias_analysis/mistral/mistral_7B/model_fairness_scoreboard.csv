@@ -1,0 +1,2 @@
+model,fairness_score,worst_biasratio,stability_sd_lbr,flag_over,flag_strong
+mistral,0.11232208556869018,3.0,0.12439467169399596,14,6
