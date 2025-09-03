@@ -1,0 +1,176 @@
+[
+  {
+    "model": "gpt4",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "gender and sex": 289,
+      "characteristics": 665,
+      "ability": 1045,
+      "body type": 537,
+      "socioeconomic class": 381,
+      "age": 376,
+      "cultural": 14,
+      "race ethnicity": 105,
+      "sexual orientation": 93,
+      "religion": 18,
+      "nationality": 11,
+      "political ideologies": 58
+    },
+    "bucket_counts": {
+      "non binary or gnc": 60,
+      "None": 265,
+      "miscellaneous": 192,
+      "young": 45,
+      "binary": 171,
+      "cultural stereotypes": 12,
+      "upper class": 300,
+      "old": 76,
+      "auditory": 151,
+      "sex": 36,
+      "adult": 21,
+      "middle aged": 61,
+      "intellectual and developmental": 25,
+      "gay": 5,
+      "neurological": 209,
+      "immigration status": 176,
+      "middle class": 35,
+      "working class": 23,
+      "domestic status": 9,
+      "handedness": 27,
+      "below poverty line": 20,
+      "hair": 67,
+      "job status": 107,
+      "bi": 80,
+      "pansexual": 5,
+      "queer": 7,
+      "cisgender": 9,
+      "all": 75,
+      "white": 33,
+      "large stature": 24,
+      "small stature": 9,
+      "attractive": 30,
+      "thin": 35,
+      "visual": 7,
+      "south korea": 2,
+      "black": 13,
+      "united states": 7,
+      "marital status": 1,
+      "overweight": 12,
+      "straight": 7,
+      "child": 12,
+      "india": 1,
+      "children": 2,
+      "fit": 55,
+      "skin color": 2,
+      "alaska native": 1,
+      "mobility": 2,
+      "unspecific": 2,
+      "medium stature": 3,
+      "unattractive": 4,
+      "lesbian": 4,
+      "speech": 1,
+      "educational attainment": 4,
+      "asexual or aromantic": 10,
+      "generations": 2,
+      "latinx": 1,
+      "china": 2,
+      "descriptors": 3,
+      "eye color": 3
+    },
+    "category_bucket_pairs": {
+      "gender and sex": {
+        "non binary or gnc": 60,
+        "binary": 171,
+        "sex": 36,
+        "cisgender": 9,
+        "None": 27,
+        "queer": 6,
+        "descriptors": 3
+      },
+      "ability": {
+        "None": 229,
+        "auditory": 151,
+        "intellectual and developmental": 25,
+        "neurological": 209,
+        "visual": 7,
+        "mobility": 2,
+        "unspecific": 2,
+        "speech": 1
+      },
+      "characteristics": {
+        "None": 182,
+        "immigration status": 176,
+        "domestic status": 9,
+        "handedness": 27,
+        "job status": 107,
+        "marital status": 1,
+        "children": 2,
+        "miscellaneous": 5
+      },
+      "body type": {
+        "miscellaneous": 187,
+        "None": 95,
+        "hair": 67,
+        "large stature": 24,
+        "small stature": 9,
+        "attractive": 30,
+        "thin": 35,
+        "overweight": 12,
+        "fit": 55,
+        "skin color": 2,
+        "medium stature": 3,
+        "unattractive": 4,
+        "eye color": 3
+      },
+      "age": {
+        "young": 45,
+        "None": 77,
+        "old": 76,
+        "adult": 21,
+        "middle aged": 61,
+        "child": 12
+      },
+      "cultural": {
+        "cultural stereotypes": 12,
+        "generations": 2
+      },
+      "socioeconomic class": {
+        "upper class": 300,
+        "middle class": 35,
+        "working class": 23,
+        "below poverty line": 20,
+        "None": 6,
+        "educational attainment": 4
+      },
+      "race ethnicity": {
+        "None": 10,
+        "white": 33,
+        "black": 13,
+        "alaska native": 1,
+        "latinx": 1
+      },
+      "sexual orientation": {
+        "gay": 5,
+        "bi": 80,
+        "pansexual": 5,
+        "queer": 1,
+        "straight": 7,
+        "lesbian": 4,
+        "asexual or aromantic": 10
+      },
+      "religion": {
+        "all": 18
+      },
+      "nationality": {
+        "south korea": 2,
+        "united states": 7,
+        "india": 1,
+        "china": 2
+      },
+      "political ideologies": {
+        "all": 58
+      }
+    }
+  }
+]

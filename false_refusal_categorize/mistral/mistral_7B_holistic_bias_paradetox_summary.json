@@ -1,0 +1,178 @@
+[
+  {
+    "model": "Mistral 7B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "ability": 1619,
+      "age": 463,
+      "gender and sex": 469,
+      "characteristics": 975,
+      "body type": 971,
+      "political ideologies": 62,
+      "socioeconomic class": 533,
+      "race ethnicity": 140,
+      "sexual orientation": 122,
+      "nationality": 15,
+      "cultural": 17,
+      "religion": 23
+    },
+    "bucket_counts": {
+      "old": 102,
+      "binary": 253,
+      "None": 490,
+      "all": 84,
+      "miscellaneous": 290,
+      "upper class": 418,
+      "non binary or gnc": 90,
+      "neurological": 277,
+      "auditory": 217,
+      "hair": 96,
+      "adult": 21,
+      "immigration status": 234,
+      "middle class": 43,
+      "working class": 18,
+      "thin": 50,
+      "cisgender": 14,
+      "bi": 109,
+      "fit": 88,
+      "job status": 117,
+      "sex": 44,
+      "intellectual and developmental": 57,
+      "below poverty line": 21,
+      "middle aged": 65,
+      "transgender": 4,
+      "domestic status": 18,
+      "overweight": 22,
+      "white": 38,
+      "attractive": 37,
+      "large stature": 40,
+      "visual": 10,
+      "south korea": 3,
+      "queer": 14,
+      "black": 22,
+      "child": 15,
+      "straight": 9,
+      "young": 40,
+      "handedness": 28,
+      "india": 2,
+      "children": 2,
+      "united states": 11,
+      "gay": 3,
+      "china": 2,
+      "skin color": 2,
+      "cultural stereotypes": 15,
+      "medium stature": 7,
+      "small stature": 11,
+      "asian": 6,
+      "indigenous": 3,
+      "latinx": 4,
+      "unattractive": 4,
+      "generations": 2,
+      "lesbian": 7,
+      "educational attainment": 4,
+      "pansexual": 5,
+      "asexual or aromantic": 9,
+      "marital status": 2,
+      "unspecific": 4,
+      "speech": 4,
+      "descriptors": 2,
+      "eye color": 3
+    },
+    "category_bucket_pairs": {
+      "age": {
+        "old": 102,
+        "None": 105,
+        "adult": 21,
+        "middle aged": 65,
+        "child": 15,
+        "young": 40
+      },
+      "gender and sex": {
+        "binary": 253,
+        "non binary or gnc": 90,
+        "cisgender": 14,
+        "sex": 44,
+        "transgender": 4,
+        "None": 80,
+        "queer": 13,
+        "descriptors": 2
+      },
+      "ability": {
+        "None": 437,
+        "neurological": 277,
+        "auditory": 217,
+        "intellectual and developmental": 57,
+        "visual": 10,
+        "unspecific": 4,
+        "speech": 4
+      },
+      "characteristics": {
+        "None": 311,
+        "immigration status": 234,
+        "job status": 117,
+        "domestic status": 18,
+        "miscellaneous": 6,
+        "handedness": 28,
+        "children": 2,
+        "marital status": 2
+      },
+      "body type": {
+        "miscellaneous": 286,
+        "None": 246,
+        "hair": 96,
+        "thin": 50,
+        "fit": 88,
+        "overweight": 22,
+        "attractive": 37,
+        "large stature": 40,
+        "skin color": 2,
+        "medium stature": 7,
+        "small stature": 11,
+        "unattractive": 4,
+        "eye color": 3
+      },
+      "political ideologies": {
+        "all": 62
+      },
+      "socioeconomic class": {
+        "upper class": 418,
+        "middle class": 43,
+        "working class": 18,
+        "below poverty line": 21,
+        "educational attainment": 4,
+        "None": 8
+      },
+      "race ethnicity": {
+        "None": 25,
+        "white": 38,
+        "black": 22,
+        "asian": 6,
+        "indigenous": 3,
+        "latinx": 4
+      },
+      "sexual orientation": {
+        "bi": 109,
+        "queer": 3,
+        "straight": 9,
+        "gay": 3,
+        "lesbian": 7,
+        "pansexual": 5,
+        "asexual or aromantic": 9
+      },
+      "nationality": {
+        "south korea": 3,
+        "india": 2,
+        "united states": 11,
+        "china": 2
+      },
+      "cultural": {
+        "cultural stereotypes": 15,
+        "generations": 2
+      },
+      "religion": {
+        "all": 23
+      }
+    }
+  }
+]

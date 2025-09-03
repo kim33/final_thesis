@@ -1,0 +1,176 @@
+[
+  {
+    "model": "LLama3 8B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "sexual orientation": 610,
+      "ability": 1426,
+      "body type": 790,
+      "characteristics": 650,
+      "political ideologies": 25,
+      "socioeconomic class": 294,
+      "gender and sex": 843,
+      "age": 666,
+      "race ethnicity": 237,
+      "nationality": 11,
+      "cultural": 27,
+      "religion": 6
+    },
+    "bucket_counts": {
+      "bi": 576,
+      "None": 229,
+      "job status": 103,
+      "hair": 199,
+      "all": 31,
+      "unattractive": 60,
+      "upper class": 217,
+      "binary": 609,
+      "child": 14,
+      "old": 93,
+      "gay": 23,
+      "asexual or aromantic": 27,
+      "miscellaneous": 141,
+      "thin": 36,
+      "black": 59,
+      "white": 100,
+      "sex": 183,
+      "non binary or gnc": 189,
+      "neurological": 262,
+      "attractive": 78,
+      "young": 39,
+      "middle aged": 40,
+      "overweight": 62,
+      "immigration status": 206,
+      "china": 3,
+      "marital status": 7,
+      "auditory": 101,
+      "queer": 34,
+      "pansexual": 5,
+      "cultural stereotypes": 17,
+      "intellectual and developmental": 48,
+      "latinx": 9,
+      "lesbian": 26,
+      "straight": 56,
+      "cisgender": 12,
+      "asian": 17,
+      "handedness": 19,
+      "working class": 32,
+      "fit": 67,
+      "adult": 13,
+      "skin color": 7,
+      "descriptors": 4,
+      "middle class": 25,
+      "small stature": 12,
+      "medium stature": 2,
+      "below poverty line": 17,
+      "domestic status": 9,
+      "mexico": 4,
+      "generations": 11,
+      "large stature": 29,
+      "addictions": 2,
+      "united states": 4,
+      "speech": 3,
+      "visual": 4,
+      "unspecific": 5,
+      "eye color": 5,
+      "educational attainment": 6,
+      "transgender": 4,
+      "children": 11
+    },
+    "category_bucket_pairs": {
+      "sexual orientation": {
+        "bi": 576,
+        "asexual or aromantic": 27,
+        "gay": 23,
+        "pansexual": 5,
+        "queer": 22,
+        "lesbian": 26,
+        "straight": 56
+      },
+      "ability": {
+        "None": 193,
+        "neurological": 262,
+        "auditory": 101,
+        "intellectual and developmental": 48,
+        "speech": 3,
+        "unspecific": 5,
+        "visual": 4
+      },
+      "characteristics": {
+        "job status": 103,
+        "immigration status": 206,
+        "None": 111,
+        "marital status": 7,
+        "handedness": 19,
+        "miscellaneous": 3,
+        "domestic status": 9,
+        "addictions": 2,
+        "children": 11
+      },
+      "body type": {
+        "hair": 199,
+        "unattractive": 60,
+        "miscellaneous": 138,
+        "thin": 36,
+        "attractive": 78,
+        "overweight": 62,
+        "fit": 67,
+        "skin color": 7,
+        "None": 70,
+        "small stature": 12,
+        "medium stature": 2,
+        "large stature": 29,
+        "eye color": 5
+      },
+      "political ideologies": {
+        "all": 25
+      },
+      "gender and sex": {
+        "binary": 609,
+        "sex": 183,
+        "non binary or gnc": 189,
+        "None": 69,
+        "cisgender": 12,
+        "descriptors": 4,
+        "queer": 27,
+        "transgender": 4
+      },
+      "socioeconomic class": {
+        "upper class": 217,
+        "working class": 32,
+        "middle class": 25,
+        "below poverty line": 17,
+        "educational attainment": 6,
+        "None": 1
+      },
+      "age": {
+        "child": 14,
+        "old": 93,
+        "middle aged": 40,
+        "young": 39,
+        "None": 93,
+        "adult": 13
+      },
+      "race ethnicity": {
+        "black": 59,
+        "white": 100,
+        "latinx": 9,
+        "asian": 17,
+        "None": 29
+      },
+      "nationality": {
+        "china": 3,
+        "mexico": 4,
+        "united states": 4
+      },
+      "cultural": {
+        "cultural stereotypes": 17,
+        "generations": 11
+      },
+      "religion": {
+        "all": 6
+      }
+    }
+  }
+]
