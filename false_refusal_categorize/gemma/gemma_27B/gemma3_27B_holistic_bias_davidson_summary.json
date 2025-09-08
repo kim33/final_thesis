@@ -1,0 +1,158 @@
+[
+  {
+    "model": "Gemma3 27B",
+    "task": "detoxification",
+    "dataset": "Davidson",
+    "category_counts": {
+      "gender and sex": 710,
+      "ability": 1497,
+      "socioeconomic class": 604,
+      "age": 546,
+      "sexual orientation": 518,
+      "body type": 649,
+      "cultural": 23,
+      "characteristics": 526,
+      "race ethnicity": 122,
+      "religion": 8,
+      "political ideologies": 11
+    },
+    "bucket_counts": {
+      "binary": 459,
+      "sex": 164,
+      "None": 238,
+      "bi": 492,
+      "attractive": 29,
+      "working class": 39,
+      "neurological": 191,
+      "cultural stereotypes": 19,
+      "immigration status": 151,
+      "unattractive": 37,
+      "hair": 118,
+      "upper class": 517,
+      "job status": 92,
+      "young": 27,
+      "pansexual": 10,
+      "asexual or aromantic": 10,
+      "non binary or gnc": 146,
+      "asian": 3,
+      "lesbian": 28,
+      "middle aged": 51,
+      "middle class": 61,
+      "fit": 66,
+      "descriptors": 6,
+      "thin": 24,
+      "overweight": 25,
+      "generations": 4,
+      "miscellaneous": 109,
+      "auditory": 72,
+      "white": 64,
+      "intellectual and developmental": 39,
+      "gay": 13,
+      "queer": 24,
+      "straight": 39,
+      "old": 68,
+      "black": 38,
+      "all": 19,
+      "marital status": 8,
+      "domestic status": 4,
+      "eye color": 8,
+      "below poverty line": 8,
+      "unspecific": 4,
+      "speech": 4,
+      "handedness": 10,
+      "small stature": 12,
+      "adult": 5,
+      "visual": 5,
+      "educational attainment": 4,
+      "large stature": 6,
+      "children": 4,
+      "child": 4,
+      "cisgender": 5,
+      "medium stature": 1
+    },
+    "category_bucket_pairs": {
+      "gender and sex": {
+        "binary": 459,
+        "sex": 164,
+        "None": 64,
+        "non binary or gnc": 146,
+        "descriptors": 6,
+        "queer": 20,
+        "cisgender": 5
+      },
+      "ability": {
+        "None": 203,
+        "neurological": 191,
+        "auditory": 72,
+        "intellectual and developmental": 39,
+        "unspecific": 4,
+        "speech": 4,
+        "visual": 5
+      },
+      "age": {
+        "None": 75,
+        "young": 27,
+        "middle aged": 51,
+        "old": 68,
+        "adult": 5,
+        "child": 4
+      },
+      "sexual orientation": {
+        "bi": 492,
+        "pansexual": 10,
+        "asexual or aromantic": 10,
+        "lesbian": 28,
+        "gay": 13,
+        "queer": 13,
+        "straight": 39
+      },
+      "body type": {
+        "attractive": 29,
+        "unattractive": 37,
+        "hair": 118,
+        "None": 120,
+        "fit": 66,
+        "thin": 24,
+        "overweight": 25,
+        "miscellaneous": 109,
+        "eye color": 8,
+        "small stature": 12,
+        "large stature": 6,
+        "medium stature": 1
+      },
+      "socioeconomic class": {
+        "working class": 39,
+        "upper class": 517,
+        "middle class": 61,
+        "below poverty line": 8,
+        "None": 4,
+        "educational attainment": 4
+      },
+      "characteristics": {
+        "immigration status": 151,
+        "job status": 92,
+        "None": 137,
+        "marital status": 8,
+        "domestic status": 4,
+        "handedness": 10,
+        "children": 4
+      },
+      "cultural": {
+        "cultural stereotypes": 19,
+        "generations": 4
+      },
+      "race ethnicity": {
+        "asian": 3,
+        "white": 64,
+        "None": 12,
+        "black": 38
+      },
+      "religion": {
+        "all": 8
+      },
+      "political ideologies": {
+        "all": 11
+      }
+    }
+  }
+]

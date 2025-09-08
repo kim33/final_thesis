@@ -1,0 +1,176 @@
+[
+  {
+    "model": "Gemma3 8B",
+    "task": "detoxification",
+    "dataset": "Davidson",
+    "category_counts": {
+      "ability": 1575,
+      "body type": 912,
+      "gender and sex": 941,
+      "sexual orientation": 564,
+      "socioeconomic class": 269,
+      "age": 771,
+      "characteristics": 705,
+      "race ethnicity": 260,
+      "cultural": 32,
+      "political ideologies": 22,
+      "nationality": 16,
+      "religion": 8
+    },
+    "bucket_counts": {
+      "None": 273,
+      "binary": 642,
+      "hair": 236,
+      "attractive": 91,
+      "bi": 510,
+      "upper class": 203,
+      "non binary or gnc": 174,
+      "neurological": 230,
+      "white": 100,
+      "thin": 45,
+      "job status": 110,
+      "sex": 259,
+      "large stature": 41,
+      "straight": 58,
+      "overweight": 68,
+      "black": 70,
+      "miscellaneous": 141,
+      "old": 98,
+      "immigration status": 216,
+      "fit": 79,
+      "eye color": 7,
+      "auditory": 115,
+      "young": 35,
+      "working class": 23,
+      "middle aged": 39,
+      "unattractive": 70,
+      "cultural stereotypes": 21,
+      "intellectual and developmental": 81,
+      "latinx": 14,
+      "lesbian": 23,
+      "pansexual": 11,
+      "asian": 18,
+      "gay": 36,
+      "all": 30,
+      "adult": 12,
+      "small stature": 18,
+      "asexual or aromantic": 26,
+      "descriptors": 8,
+      "queer": 40,
+      "middle class": 25,
+      "marital status": 5,
+      "generations": 11,
+      "handedness": 15,
+      "polyamorous": 1,
+      "child": 16,
+      "cisgender": 7,
+      "below poverty line": 13,
+      "domestic status": 12,
+      "speech": 5,
+      "mexico": 9,
+      "skin color": 7,
+      "unspecific": 3,
+      "visual": 4,
+      "children": 11,
+      "medium stature": 3,
+      "united states": 5,
+      "educational attainment": 9,
+      "china": 2,
+      "transgender": 3
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "None": 245,
+        "neurological": 230,
+        "auditory": 115,
+        "intellectual and developmental": 81,
+        "speech": 5,
+        "unspecific": 3,
+        "visual": 4
+      },
+      "body type": {
+        "attractive": 91,
+        "hair": 236,
+        "thin": 45,
+        "large stature": 41,
+        "overweight": 68,
+        "miscellaneous": 136,
+        "fit": 79,
+        "eye color": 7,
+        "unattractive": 70,
+        "None": 103,
+        "small stature": 18,
+        "skin color": 7,
+        "medium stature": 3
+      },
+      "gender and sex": {
+        "binary": 642,
+        "non binary or gnc": 174,
+        "sex": 259,
+        "None": 83,
+        "descriptors": 8,
+        "queer": 33,
+        "cisgender": 7,
+        "transgender": 3
+      },
+      "sexual orientation": {
+        "bi": 510,
+        "straight": 58,
+        "lesbian": 23,
+        "pansexual": 11,
+        "gay": 36,
+        "asexual or aromantic": 26,
+        "queer": 23,
+        "polyamorous": 1
+      },
+      "socioeconomic class": {
+        "upper class": 203,
+        "working class": 23,
+        "middle class": 25,
+        "below poverty line": 13,
+        "educational attainment": 9,
+        "None": 2
+      },
+      "race ethnicity": {
+        "white": 100,
+        "black": 70,
+        "latinx": 14,
+        "asian": 18,
+        "None": 33
+      },
+      "characteristics": {
+        "job status": 110,
+        "immigration status": 216,
+        "None": 118,
+        "marital status": 5,
+        "handedness": 15,
+        "domestic status": 12,
+        "children": 11,
+        "miscellaneous": 5
+      },
+      "age": {
+        "None": 117,
+        "old": 98,
+        "young": 35,
+        "middle aged": 39,
+        "adult": 12,
+        "child": 16
+      },
+      "cultural": {
+        "cultural stereotypes": 21,
+        "generations": 11
+      },
+      "political ideologies": {
+        "all": 22
+      },
+      "nationality": {
+        "mexico": 9,
+        "united states": 5,
+        "china": 2
+      },
+      "religion": {
+        "all": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "model": "Gemma3 27B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "ability": 2121,
+      "characteristics": 1220,
+      "socioeconomic class": 764,
+      "body type": 1525,
+      "race ethnicity": 93,
+      "age": 808,
+      "gender and sex": 540,
+      "sexual orientation": 90,
+      "political ideologies": 96,
+      "religion": 32,
+      "cultural": 12,
+      "nationality": 11
+    },
+    "bucket_counts": {
+      "None": 694,
+      "upper class": 606,
+      "neurological": 595,
+      "miscellaneous": 346,
+      "auditory": 254,
+      "adult": 35,
+      "immigration status": 401,
+      "thin": 63,
+      "binary": 349,
+      "middle aged": 146,
+      "hair": 95,
+      "bi": 80,
+      "pansexual": 1,
+      "queer": 38,
+      "medium stature": 5,
+      "job status": 156,
+      "small stature": 21,
+      "large stature": 79,
+      "fit": 208,
+      "old": 176,
+      "young": 85,
+      "attractive": 146,
+      "all": 124,
+      "white": 6,
+      "skin color": 2,
+      "non binary or gnc": 164,
+      "intellectual and developmental": 27,
+      "sex": 52,
+      "gay": 3,
+      "speech": 3,
+      "addictions": 3,
+      "visual": 7,
+      "generations": 12,
+      "unattractive": 30,
+      "lesbian": 8,
+      "working class": 40,
+      "below poverty line": 36,
+      "middle class": 60,
+      "overweight": 29,
+      "asexual or aromantic": 18,
+      "child": 8,
+      "educational attainment": 4,
+      "domestic status": 9,
+      "handedness": 66,
+      "united states": 10,
+      "descriptors": 8,
+      "black": 2,
+      "indigenous": 2,
+      "latinx": 2,
+      "asian": 2,
+      "india": 1
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "None": 599,
+        "auditory": 254,
+        "neurological": 595,
+        "intellectual and developmental": 27,
+        "speech": 3,
+        "visual": 7
+      },
+      "characteristics": {
+        "None": 362,
+        "immigration status": 401,
+        "job status": 156,
+        "addictions": 3,
+        "domestic status": 9,
+        "handedness": 66,
+        "miscellaneous": 4
+      },
+      "socioeconomic class": {
+        "upper class": 606,
+        "working class": 40,
+        "below poverty line": 36,
+        "middle class": 60,
+        "educational attainment": 4,
+        "None": 10
+      },
+      "body type": {
+        "miscellaneous": 346,
+        "thin": 63,
+        "hair": 95,
+        "medium stature": 5,
+        "fit": 208,
+        "large stature": 79,
+        "small stature": 21,
+        "None": 416,
+        "attractive": 146,
+        "skin color": 2,
+        "unattractive": 30,
+        "overweight": 29
+      },
+      "age": {
+        "adult": 35,
+        "middle aged": 146,
+        "None": 136,
+        "old": 176,
+        "young": 85,
+        "child": 8
+      },
+      "gender and sex": {
+        "binary": 349,
+        "None": 46,
+        "non binary or gnc": 164,
+        "sex": 52,
+        "queer": 37,
+        "descriptors": 8
+      },
+      "sexual orientation": {
+        "bi": 80,
+        "pansexual": 1,
+        "queer": 1,
+        "gay": 3,
+        "lesbian": 8,
+        "asexual or aromantic": 18
+      },
+      "political ideologies": {
+        "all": 96
+      },
+      "race ethnicity": {
+        "white": 6,
+        "None": 14,
+        "asian": 2,
+        "black": 2,
+        "indigenous": 2,
+        "latinx": 2
+      },
+      "religion": {
+        "all": 32
+      },
+      "cultural": {
+        "generations": 12
+      },
+      "nationality": {
+        "united states": 10,
+        "india": 1
+      }
+    }
+  }
+]

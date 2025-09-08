@@ -1,0 +1,180 @@
+[
+  {
+    "model": "Qwen 7B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "gender and sex": 309,
+      "ability": 966,
+      "age": 330,
+      "characteristics": 572,
+      "socioeconomic class": 323,
+      "body type": 519,
+      "cultural": 13,
+      "race ethnicity": 97,
+      "sexual orientation": 81,
+      "political ideologies": 41,
+      "religion": 17,
+      "nationality": 10
+    },
+    "bucket_counts": {
+      "binary": 186,
+      "old": 67,
+      "None": 222,
+      "upper class": 257,
+      "miscellaneous": 178,
+      "auditory": 139,
+      "cultural stereotypes": 13,
+      "hair": 70,
+      "immigration status": 150,
+      "job status": 81,
+      "neurological": 196,
+      "domestic status": 6,
+      "unattractive": 6,
+      "white": 28,
+      "young": 23,
+      "adult": 16,
+      "working class": 18,
+      "cisgender": 10,
+      "middle class": 24,
+      "below poverty line": 11,
+      "intellectual and developmental": 21,
+      "sex": 39,
+      "unspecific": 3,
+      "queer": 16,
+      "bi": 73,
+      "pansexual": 5,
+      "all": 57,
+      "fit": 55,
+      "handedness": 16,
+      "attractive": 30,
+      "non binary or gnc": 67,
+      "middle aged": 36,
+      "thin": 35,
+      "large stature": 27,
+      "visual": 7,
+      "speech": 3,
+      "south korea": 2,
+      "india": 3,
+      "china": 3,
+      "child": 7,
+      "skin color": 1,
+      "alaska native": 1,
+      "overweight": 10,
+      "mobility": 3,
+      "medium stature": 5,
+      "small stature": 7,
+      "asian": 3,
+      "gay": 2,
+      "marital status": 2,
+      "straight": 7,
+      "black": 13,
+      "lesbian": 3,
+      "asexual or aromantic": 9,
+      "eye color": 1,
+      "children": 4,
+      "latinx": 2,
+      "descriptors": 3,
+      "educational attainment": 1,
+      "transgender": 1,
+      "united states": 4,
+      "indigenous": 2
+    },
+    "category_bucket_pairs": {
+      "age": {
+        "old": 67,
+        "None": 66,
+        "young": 23,
+        "adult": 16,
+        "middle aged": 36,
+        "child": 7
+      },
+      "gender and sex": {
+        "binary": 186,
+        "cisgender": 10,
+        "None": 32,
+        "sex": 39,
+        "non binary or gnc": 67,
+        "queer": 15,
+        "descriptors": 3,
+        "transgender": 1
+      },
+      "ability": {
+        "None": 187,
+        "auditory": 139,
+        "neurological": 196,
+        "intellectual and developmental": 21,
+        "unspecific": 3,
+        "visual": 7,
+        "speech": 3,
+        "mobility": 3
+      },
+      "characteristics": {
+        "None": 137,
+        "immigration status": 150,
+        "job status": 81,
+        "domestic status": 6,
+        "handedness": 16,
+        "miscellaneous": 5,
+        "marital status": 2,
+        "children": 4
+      },
+      "socioeconomic class": {
+        "upper class": 257,
+        "working class": 18,
+        "middle class": 24,
+        "below poverty line": 11,
+        "None": 4,
+        "educational attainment": 1
+      },
+      "body type": {
+        "miscellaneous": 173,
+        "hair": 70,
+        "unattractive": 6,
+        "None": 86,
+        "fit": 55,
+        "attractive": 30,
+        "thin": 35,
+        "large stature": 27,
+        "skin color": 1,
+        "overweight": 10,
+        "medium stature": 5,
+        "small stature": 7,
+        "eye color": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 13
+      },
+      "race ethnicity": {
+        "None": 13,
+        "white": 28,
+        "alaska native": 1,
+        "asian": 3,
+        "black": 13,
+        "latinx": 2,
+        "indigenous": 2
+      },
+      "sexual orientation": {
+        "bi": 73,
+        "pansexual": 5,
+        "queer": 1,
+        "gay": 2,
+        "straight": 7,
+        "lesbian": 3,
+        "asexual or aromantic": 9
+      },
+      "political ideologies": {
+        "all": 41
+      },
+      "religion": {
+        "all": 17
+      },
+      "nationality": {
+        "india": 3,
+        "south korea": 2,
+        "china": 3,
+        "united states": 4
+      }
+    }
+  }
+]

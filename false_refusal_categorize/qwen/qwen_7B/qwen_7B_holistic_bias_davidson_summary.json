@@ -1,0 +1,180 @@
+[
+  {
+    "model": "Qwen 7B",
+    "task": "detoxification",
+    "dataset": "Davidson",
+    "category_counts": {
+      "ability": 1884,
+      "socioeconomic class": 369,
+      "characteristics": 856,
+      "sexual orientation": 686,
+      "age": 929,
+      "race ethnicity": 291,
+      "gender and sex": 1114,
+      "body type": 1055,
+      "nationality": 24,
+      "cultural": 31,
+      "political ideologies": 39,
+      "religion": 10
+    },
+    "bucket_counts": {
+      "None": 310,
+      "job status": 125,
+      "bi": 630,
+      "upper class": 273,
+      "immigration status": 280,
+      "black": 86,
+      "binary": 797,
+      "asian": 18,
+      "hair": 249,
+      "auditory": 130,
+      "white": 115,
+      "miscellaneous": 193,
+      "gay": 35,
+      "neurological": 301,
+      "non binary or gnc": 228,
+      "unattractive": 82,
+      "child": 16,
+      "old": 127,
+      "asexual or aromantic": 34,
+      "thin": 39,
+      "overweight": 80,
+      "sex": 245,
+      "marital status": 6,
+      "fit": 111,
+      "attractive": 112,
+      "visual": 8,
+      "middle aged": 60,
+      "china": 4,
+      "queer": 51,
+      "pansexual": 9,
+      "young": 47,
+      "cultural stereotypes": 25,
+      "intellectual and developmental": 85,
+      "unspecific": 3,
+      "straight": 68,
+      "cisgender": 11,
+      "handedness": 25,
+      "all": 49,
+      "middle class": 39,
+      "adult": 12,
+      "lesbian": 28,
+      "skin color": 12,
+      "large stature": 31,
+      "descriptors": 6,
+      "small stature": 16,
+      "working class": 29,
+      "polyamorous": 1,
+      "eye color": 8,
+      "children": 12,
+      "below poverty line": 18,
+      "latinx": 11,
+      "speech": 5,
+      "domestic status": 13,
+      "mexico": 8,
+      "united states": 11,
+      "generations": 6,
+      "educational attainment": 5,
+      "india": 1,
+      "indigenous": 2,
+      "transgender": 2,
+      "medium stature": 1
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "None": 272,
+        "auditory": 130,
+        "neurological": 301,
+        "visual": 8,
+        "intellectual and developmental": 85,
+        "unspecific": 3,
+        "speech": 5
+      },
+      "characteristics": {
+        "immigration status": 280,
+        "job status": 125,
+        "marital status": 6,
+        "None": 166,
+        "handedness": 25,
+        "miscellaneous": 3,
+        "children": 12,
+        "domestic status": 13
+      },
+      "sexual orientation": {
+        "bi": 630,
+        "gay": 35,
+        "asexual or aromantic": 34,
+        "pansexual": 9,
+        "queer": 32,
+        "straight": 68,
+        "lesbian": 28,
+        "polyamorous": 1
+      },
+      "socioeconomic class": {
+        "upper class": 273,
+        "middle class": 39,
+        "working class": 29,
+        "below poverty line": 18,
+        "educational attainment": 5,
+        "None": 1
+      },
+      "race ethnicity": {
+        "black": 86,
+        "asian": 18,
+        "white": 115,
+        "None": 31,
+        "latinx": 11,
+        "indigenous": 2
+      },
+      "gender and sex": {
+        "binary": 797,
+        "non binary or gnc": 228,
+        "sex": 245,
+        "None": 81,
+        "queer": 43,
+        "cisgender": 11,
+        "descriptors": 6,
+        "transgender": 2
+      },
+      "body type": {
+        "hair": 249,
+        "miscellaneous": 190,
+        "unattractive": 82,
+        "thin": 39,
+        "overweight": 80,
+        "fit": 111,
+        "attractive": 112,
+        "None": 121,
+        "skin color": 12,
+        "large stature": 31,
+        "small stature": 16,
+        "eye color": 8,
+        "medium stature": 1
+      },
+      "age": {
+        "child": 16,
+        "old": 127,
+        "None": 118,
+        "middle aged": 60,
+        "young": 47,
+        "adult": 12
+      },
+      "nationality": {
+        "china": 4,
+        "mexico": 8,
+        "united states": 11,
+        "india": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 25,
+        "generations": 6
+      },
+      "political ideologies": {
+        "all": 39
+      },
+      "religion": {
+        "all": 10
+      }
+    }
+  }
+]

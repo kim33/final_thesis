@@ -1,0 +1,183 @@
+[
+  {
+    "model": "Gemma3 27B",
+    "task": "detoxification",
+    "dataset": "Hatexplain",
+    "category_counts": {
+      "body type": 517,
+      "ability": 1240,
+      "nationality": 58,
+      "characteristics": 488,
+      "race ethnicity": 612,
+      "religion": 212,
+      "sexual orientation": 135,
+      "cultural": 84,
+      "age": 340,
+      "gender and sex": 439,
+      "socioeconomic class": 188,
+      "political ideologies": 91
+    },
+    "bucket_counts": {
+      "intellectual and developmental": 88,
+      "immigration status": 145,
+      "united states": 29,
+      "white": 440,
+      "job status": 100,
+      "bi": 20,
+      "all": 290,
+      "cultural stereotypes": 79,
+      "black": 155,
+      "binary": 188,
+      "domestic status": 31,
+      "fit": 26,
+      "queer": 54,
+      "asian": 80,
+      "mobility": 147,
+      "middle aged": 35,
+      "old": 52,
+      "gay": 82,
+      "generations": 8,
+      "thin": 38,
+      "marital status": 19,
+      "middle class": 28,
+      "upper class": 131,
+      "hair": 168,
+      "large stature": 44,
+      "auditory": 129,
+      "unattractive": 13,
+      "None": 133,
+      "sex": 84,
+      "miscellaneous": 99,
+      "child": 24,
+      "adult": 21,
+      "mexico": 14,
+      "latinx": 10,
+      "below poverty line": 17,
+      "cisgender": 20,
+      "non binary or gnc": 37,
+      "neurological": 63,
+      "lesbian": 15,
+      "overweight": 20,
+      "small stature": 22,
+      "working class": 14,
+      "unspecific": 19,
+      "straight": 15,
+      "handedness": 26,
+      "attractive": 23,
+      "speech": 20,
+      "young": 26,
+      "descriptors": 12,
+      "transgender": 19,
+      "skin color": 5,
+      "asexual or aromantic": 11,
+      "india": 11,
+      "indigenous": 7,
+      "south korea": 10,
+      "children": 8,
+      "visual": 10,
+      "china": 7,
+      "educational attainment": 4,
+      "pansexual": 2,
+      "eye color": 2,
+      "alaska native": 1,
+      "philippines": 1
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "intellectual and developmental": 88,
+        "mobility": 147,
+        "auditory": 129,
+        "None": 133,
+        "neurological": 63,
+        "unspecific": 19,
+        "speech": 20,
+        "visual": 10
+      },
+      "characteristics": {
+        "immigration status": 145,
+        "job status": 100,
+        "domestic status": 31,
+        "marital status": 19,
+        "None": 65,
+        "handedness": 26,
+        "children": 8
+      },
+      "nationality": {
+        "united states": 29,
+        "mexico": 14,
+        "india": 11,
+        "south korea": 10,
+        "china": 7,
+        "philippines": 1
+      },
+      "race ethnicity": {
+        "white": 440,
+        "black": 155,
+        "asian": 80,
+        "None": 31,
+        "latinx": 10,
+        "indigenous": 7,
+        "alaska native": 1
+      },
+      "cultural": {
+        "cultural stereotypes": 79,
+        "generations": 8
+      },
+      "religion": {
+        "all": 212
+      },
+      "sexual orientation": {
+        "bi": 20,
+        "queer": 40,
+        "gay": 82,
+        "lesbian": 15,
+        "straight": 15,
+        "asexual or aromantic": 11,
+        "pansexual": 2
+      },
+      "gender and sex": {
+        "binary": 188,
+        "queer": 54,
+        "sex": 84,
+        "None": 33,
+        "cisgender": 20,
+        "non binary or gnc": 37,
+        "descriptors": 12,
+        "transgender": 19
+      },
+      "body type": {
+        "fit": 26,
+        "thin": 38,
+        "hair": 168,
+        "large stature": 44,
+        "unattractive": 13,
+        "miscellaneous": 99,
+        "None": 81,
+        "overweight": 20,
+        "small stature": 22,
+        "attractive": 23,
+        "skin color": 5,
+        "eye color": 2
+      },
+      "age": {
+        "middle aged": 35,
+        "old": 52,
+        "None": 32,
+        "adult": 21,
+        "child": 24,
+        "young": 26
+      },
+      "socioeconomic class": {
+        "middle class": 28,
+        "upper class": 131,
+        "below poverty line": 17,
+        "working class": 14,
+        "None": 4,
+        "educational attainment": 4
+      },
+      "political ideologies": {
+        "all": 91
+      }
+    }
+  }
+]
