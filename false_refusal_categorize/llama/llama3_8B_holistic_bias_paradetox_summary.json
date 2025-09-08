@@ -1,0 +1,174 @@
+[
+  {
+    "model": "Llama3 8B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "gender and sex": 242,
+      "ability": 718,
+      "characteristics": 427,
+      "body type": 386,
+      "socioeconomic class": 234,
+      "age": 244,
+      "race ethnicity": 74,
+      "political ideologies": 31,
+      "religion": 10,
+      "sexual orientation": 60,
+      "nationality": 5,
+      "cultural": 9
+    },
+    "bucket_counts": {
+      "non binary or gnc": 47,
+      "None": 197,
+      "miscellaneous": 116,
+      "auditory": 98,
+      "upper class": 186,
+      "young": 22,
+      "neurological": 106,
+      "binary": 152,
+      "hair": 47,
+      "white": 20,
+      "handedness": 19,
+      "adult": 10,
+      "middle class": 25,
+      "immigration status": 105,
+      "cisgender": 10,
+      "job status": 69,
+      "educational attainment": 4,
+      "domestic status": 13,
+      "below poverty line": 11,
+      "intellectual and developmental": 16,
+      "sex": 27,
+      "all": 41,
+      "fit": 32,
+      "attractive": 28,
+      "medium stature": 1,
+      "middle aged": 23,
+      "working class": 11,
+      "thin": 26,
+      "large stature": 21,
+      "old": 44,
+      "visual": 3,
+      "black": 10,
+      "child": 7,
+      "children": 3,
+      "marital status": 1,
+      "straight": 6,
+      "india": 1,
+      "bi": 47,
+      "skin color": 1,
+      "cultural stereotypes": 8,
+      "overweight": 7,
+      "mobility": 1,
+      "unspecific": 3,
+      "gay": 1,
+      "asexual or aromantic": 11,
+      "unattractive": 4,
+      "small stature": 6,
+      "queer": 8,
+      "pansexual": 3,
+      "lesbian": 1,
+      "speech": 1,
+      "transgender": 3,
+      "generations": 1,
+      "latinx": 1,
+      "addictions": 2,
+      "indigenous": 1,
+      "united states": 4,
+      "descriptors": 2
+    },
+    "category_bucket_pairs": {
+      "gender and sex": {
+        "non binary or gnc": 47,
+        "binary": 152,
+        "cisgender": 10,
+        "sex": 27,
+        "None": 29,
+        "queer": 7,
+        "transgender": 3,
+        "descriptors": 2
+      },
+      "ability": {
+        "None": 169,
+        "auditory": 98,
+        "neurological": 106,
+        "intellectual and developmental": 16,
+        "visual": 3,
+        "mobility": 1,
+        "unspecific": 3,
+        "speech": 1
+      },
+      "characteristics": {
+        "None": 116,
+        "handedness": 19,
+        "immigration status": 105,
+        "job status": 69,
+        "domestic status": 13,
+        "miscellaneous": 2,
+        "children": 3,
+        "marital status": 1,
+        "addictions": 2
+      },
+      "body type": {
+        "miscellaneous": 114,
+        "hair": 47,
+        "None": 82,
+        "fit": 32,
+        "attractive": 28,
+        "medium stature": 1,
+        "thin": 26,
+        "large stature": 21,
+        "skin color": 1,
+        "overweight": 7,
+        "unattractive": 4,
+        "small stature": 6
+      },
+      "age": {
+        "None": 56,
+        "young": 22,
+        "adult": 10,
+        "middle aged": 23,
+        "old": 44,
+        "child": 7
+      },
+      "socioeconomic class": {
+        "upper class": 186,
+        "middle class": 25,
+        "educational attainment": 4,
+        "below poverty line": 11,
+        "working class": 11,
+        "None": 10
+      },
+      "race ethnicity": {
+        "None": 9,
+        "white": 20,
+        "black": 10,
+        "latinx": 1,
+        "indigenous": 1
+      },
+      "political ideologies": {
+        "all": 31
+      },
+      "religion": {
+        "all": 10
+      },
+      "sexual orientation": {
+        "straight": 6,
+        "bi": 47,
+        "gay": 1,
+        "asexual or aromantic": 11,
+        "pansexual": 3,
+        "lesbian": 1,
+        "queer": 1
+      },
+      "nationality": {
+        "india": 1,
+        "united states": 4
+      },
+      "cultural": {
+        "cultural stereotypes": 8,
+        "generations": 1
+      }
+    }
+  }
+]
