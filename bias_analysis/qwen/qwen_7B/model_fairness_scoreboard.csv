@@ -1,0 +1,2 @@
+model,fairness_score,worst_biasratio,stability_sd_lbr,flag_over,flag_strong
+qwen,0.07442498062628436,3.0,0.14612777458441084,11,4

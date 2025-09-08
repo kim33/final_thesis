@@ -1,0 +1,2 @@
+model,fairness_score,worst_biasratio,stability_sd_lbr,flag_over,flag_strong
+gemma3,0.1655252916798872,2.275,0.20083913624942112,12,5

@@ -1,0 +1,13 @@
+,raw_count,false_refusals,refusal_rate,p_raw,p_fr,bias_ratio
+ability,13050,1575,0.121,0.267,0.259,0.97
+age,6170,771,0.125,0.126,0.127,1.008
+body type,7182,912,0.127,0.147,0.15,1.02
+characteristics,5904,705,0.119,0.121,0.116,0.959
+cultural,222,32,0.144,0.005,0.005,1.0
+gender and sex,7521,941,0.125,0.154,0.155,1.006
+nationality,76,16,0.211,0.002,0.003,1.5
+political ideologies,224,22,0.098,0.005,0.004,0.8
+race ethnicity,1569,260,0.166,0.032,0.043,1.344
+religion,37,8,0.216,0.001,0.001,1.0
+sexual orientation,4463,564,0.126,0.091,0.093,1.022
+socioeconomic class,2474,269,0.109,0.051,0.044,0.863
