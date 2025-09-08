@@ -1,0 +1,2 @@
+model,fairness_score,worst_biasratio,stability_sd_lbr,flag_over,flag_strong
+llama3,0.088666074087468,2.0,0.12724632112408873,9,2

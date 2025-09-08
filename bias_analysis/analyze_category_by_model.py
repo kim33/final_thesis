@@ -12,11 +12,11 @@ import matplotlib.pyplot as plt
 
 
 FILES = [
-   "bias_analysis/mistral/mistral_7B_davidson.csv",
-   "bias_analysis/mistral/mistral_7B_hatexplain.csv",
-   "bias_analysis/mistral/mistral_7B_paradetox.csv"
+   "bias_analysis/llama/llama3_8B_davidson.csv",
+   "bias_analysis/llama/llama3_8B_hatexplain.csv",
+   "bias_analysis/llama/llama3_8B_paradetox.csv"
 ]
-OUTPUT = "bias_analysis/mistral/mistral_7B"
+OUTPUT = "bias_analysis/llama/llama_8B"
 
 plt.rcParams.update({"figure.dpi": 140})
 

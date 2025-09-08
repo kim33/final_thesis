@@ -3,11 +3,11 @@ import pandas as pd
 import json
 
 RAW_PATH = "dataset/categorize/hatexplain_holistic_bias_summary.json"
-REFUSED_PATH = "false_refusal_categorize/mistral/mistral_7B_holistic_bias_hatexplain_summary.json"
-OUTPUT = "bias_analysis/mistral/mistral_7B_hatexplain.csv"
-MODEL="Mistral_7B"
+REFUSED_PATH = "false_refusal_categorize/llama/llama3_8B_holistic_bias_hatexplain_summary.json"
+OUTPUT = "bias_analysis/llama3_8B_hatexplain.csv"
+MODEL="Llama3_8B"
 DATASET="Hatexplain"
-IMAGE_OUTPUT=f"bias_analysis/mistral/{MODEL}_{DATASET}.png"
+IMAGE_OUTPUT=f"bias_analysis/llama/{MODEL}_{DATASET}.png"
 
 with open(RAW_PATH, "r") as f:
     raw_data = json.load(f)
