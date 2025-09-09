@@ -1,0 +1,130 @@
+[
+  {
+    "model": "Mistral 8x7B",
+    "task": "detoxification",
+    "dataset": "Paradetox",
+    "category_counts": {
+      "ability": 399,
+      "characteristics": 257,
+      "socioeconomic class": 153,
+      "body type": 287,
+      "political ideologies": 27,
+      "gender and sex": 99,
+      "age": 133,
+      "cultural": 3,
+      "race ethnicity": 18,
+      "sexual orientation": 10,
+      "religion": 6
+    },
+    "bucket_counts": {
+      "upper class": 123,
+      "working class": 17,
+      "job status": 28,
+      "fit": 47,
+      "handedness": 22,
+      "miscellaneous": 71,
+      "all": 33,
+      "None": 116,
+      "neurological": 149,
+      "binary": 61,
+      "auditory": 50,
+      "immigration status": 110,
+      "old": 33,
+      "hair": 18,
+      "domestic status": 3,
+      "generations": 3,
+      "attractive": 29,
+      "unattractive": 3,
+      "non binary or gnc": 27,
+      "sex": 14,
+      "below poverty line": 11,
+      "bi": 5,
+      "middle class": 18,
+      "marital status": 1,
+      "middle aged": 19,
+      "adult": 3,
+      "medium stature": 1,
+      "large stature": 20,
+      "small stature": 4,
+      "asexual or aromantic": 4,
+      "child": 2,
+      "educational attainment": 2,
+      "intellectual and developmental": 5,
+      "thin": 11,
+      "young": 13,
+      "pansexual": 1,
+      "queer": 7,
+      "overweight": 3,
+      "white": 2
+    },
+    "category_bucket_pairs": {
+      "socioeconomic class": {
+        "upper class": 123,
+        "working class": 17,
+        "below poverty line": 11,
+        "middle class": 18,
+        "educational attainment": 2
+      },
+      "characteristics": {
+        "job status": 28,
+        "handedness": 22,
+        "None": 56,
+        "immigration status": 110,
+        "domestic status": 3,
+        "marital status": 1
+      },
+      "body type": {
+        "fit": 47,
+        "miscellaneous": 71,
+        "None": 68,
+        "hair": 18,
+        "attractive": 29,
+        "unattractive": 3,
+        "medium stature": 1,
+        "large stature": 20,
+        "small stature": 4,
+        "thin": 11,
+        "overweight": 3
+      },
+      "political ideologies": {
+        "all": 27
+      },
+      "gender and sex": {
+        "None": 14,
+        "binary": 61,
+        "non binary or gnc": 27,
+        "sex": 14,
+        "queer": 7
+      },
+      "ability": {
+        "neurological": 149,
+        "auditory": 50,
+        "None": 92,
+        "intellectual and developmental": 5
+      },
+      "age": {
+        "old": 33,
+        "None": 18,
+        "middle aged": 19,
+        "adult": 3,
+        "child": 2,
+        "young": 13
+      },
+      "cultural": {
+        "generations": 3
+      },
+      "sexual orientation": {
+        "bi": 5,
+        "asexual or aromantic": 4,
+        "pansexual": 1
+      },
+      "race ethnicity": {
+        "None": 2,
+        "white": 2
+      },
+      "religion": {
+        "all": 6
+      }
+    }
+  }
+]

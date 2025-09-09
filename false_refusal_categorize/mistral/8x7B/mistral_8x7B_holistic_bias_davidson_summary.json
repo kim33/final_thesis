@@ -1,0 +1,182 @@
+[
+  {
+    "model": "Mistral 8x7B",
+    "task": "detoxification",
+    "dataset": "Davidson",
+    "category_counts": {
+      "ability": 2333,
+      "characteristics": 994,
+      "age": 1043,
+      "sexual orientation": 533,
+      "gender and sex": 1219,
+      "socioeconomic class": 411,
+      "body type": 1344,
+      "cultural": 93,
+      "race ethnicity": 384,
+      "political ideologies": 40,
+      "religion": 17,
+      "nationality": 26
+    },
+    "bucket_counts": {
+      "None": 875,
+      "bi": 459,
+      "binary": 363,
+      "upper class": 307,
+      "overweight": 81,
+      "thin": 47,
+      "working class": 29,
+      "unattractive": 88,
+      "old": 153,
+      "fit": 118,
+      "miscellaneous": 225,
+      "asexual or aromantic": 26,
+      "non binary or gnc": 36,
+      "cultural stereotypes": 86,
+      "immigration status": 76,
+      "auditory": 197,
+      "marital status": 16,
+      "intellectual and developmental": 180,
+      "neurological": 40,
+      "attractive": 99,
+      "all": 56,
+      "handedness": 31,
+      "hair": 97,
+      "small stature": 16,
+      "black": 84,
+      "domestic status": 45,
+      "visual": 14,
+      "below poverty line": 29,
+      "sex": 180,
+      "child": 10,
+      "white": 127,
+      "middle aged": 39,
+      "young": 49,
+      "queer": 19,
+      "straight": 34,
+      "eye color": 13,
+      "job status": 71,
+      "unspecific": 2,
+      "latinx": 11,
+      "cisgender": 10,
+      "indigenous": 3,
+      "gay": 44,
+      "pansexual": 3,
+      "large stature": 45,
+      "speech": 20,
+      "asian": 27,
+      "lesbian": 3,
+      "middle class": 11,
+      "skin color": 13,
+      "transgender": 2,
+      "educational attainment": 6,
+      "generations": 9,
+      "descriptors": 23,
+      "alaska native": 1,
+      "united states": 14,
+      "children": 21,
+      "mexico": 9,
+      "adult": 10,
+      "addictions": 2,
+      "mobility": 1,
+      "medium stature": 2,
+      "china": 3
+    },
+    "category_bucket_pairs": {
+      "ability": {
+        "None": 816,
+        "auditory": 197,
+        "intellectual and developmental": 180,
+        "neurological": 40,
+        "visual": 14,
+        "unspecific": 2,
+        "speech": 20,
+        "mobility": 1
+      },
+      "age": {
+        "None": 447,
+        "old": 153,
+        "child": 10,
+        "middle aged": 39,
+        "young": 49,
+        "adult": 10
+      },
+      "characteristics": {
+        "None": 297,
+        "immigration status": 76,
+        "marital status": 16,
+        "handedness": 31,
+        "domestic status": 45,
+        "job status": 71,
+        "children": 21,
+        "miscellaneous": 2,
+        "addictions": 2
+      },
+      "sexual orientation": {
+        "bi": 459,
+        "asexual or aromantic": 26,
+        "queer": 19,
+        "straight": 34,
+        "gay": 44,
+        "pansexual": 3,
+        "lesbian": 3
+      },
+      "gender and sex": {
+        "binary": 363,
+        "None": 450,
+        "non binary or gnc": 36,
+        "sex": 180,
+        "queer": 19,
+        "cisgender": 10,
+        "transgender": 2,
+        "descriptors": 23
+      },
+      "socioeconomic class": {
+        "upper class": 307,
+        "working class": 29,
+        "below poverty line": 29,
+        "None": 14,
+        "middle class": 11,
+        "educational attainment": 6
+      },
+      "body type": {
+        "overweight": 81,
+        "thin": 47,
+        "None": 399,
+        "unattractive": 88,
+        "fit": 118,
+        "miscellaneous": 223,
+        "attractive": 99,
+        "hair": 97,
+        "small stature": 16,
+        "eye color": 13,
+        "large stature": 45,
+        "skin color": 13,
+        "medium stature": 2
+      },
+      "cultural": {
+        "cultural stereotypes": 86,
+        "generations": 9
+      },
+      "political ideologies": {
+        "all": 40
+      },
+      "race ethnicity": {
+        "black": 84,
+        "white": 127,
+        "None": 54,
+        "latinx": 11,
+        "indigenous": 3,
+        "asian": 27,
+        "alaska native": 1
+      },
+      "religion": {
+        "all": 17
+      },
+      "nationality": {
+        "united states": 14,
+        "mexico": 9,
+        "china": 3
+      }
+    }
+  }
+]
