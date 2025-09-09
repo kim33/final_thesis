@@ -2,12 +2,12 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import json
 
-RAW_PATH = "dataset/categorize/paradetox_holistic_bias_summary.json"
-REFUSED_PATH = "false_refusal_categorize/qwen/qwen_7B/qwen_7B_holistic_bias_paradetox_summary.json"
-OUTPUT = "bias_analysis/qwen/qwen_7B_paradetox.csv"
-MODEL="Qwen_7B"
-DATASET="Paradetox"
-IMAGE_OUTPUT=f"bias_analysis/qwen/{MODEL}_{DATASET}.png"
+RAW_PATH = "dataset/holistic/paradetox_holistic_bias_summary.json"
+REFUSED_PATH = "false_refusal_categorize/gemma/gemma_8B/gemma3_8B_holistic_bias_paradetox_summary.json"
+OUTPUT = "bias_analysis/gemma/gemma3_8B_paradetox.csv"
+MODEL="Gemma3 8B"
+DATASET="paradetox"
+IMAGE_OUTPUT=f"bias_analysis/gemma/{MODEL}_{DATASET}.png"
 
 with open(RAW_PATH, "r") as f:
     raw_data = json.load(f)
