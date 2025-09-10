@@ -1,12 +1,3 @@
-# fast_phi4_no_flash.py
-# Speed-ups without FlashAttention:
-# - SDPA attention (built into PyTorch)
-# - GPU dtype (bf16/fp16) + device_map="auto"
-# - Cached prefix tokens (no re-tokenizing FEWSHOT each time)
-# - inference_mode + use_cache
-# - safer stopper (multi-token "}")
-# - tighter generation window
-
 from transformers import AutoTokenizer, AutoModelForCausalLM, StoppingCriteria, StoppingCriteriaList
 import json
 from dotenv import load_dotenv
@@ -22,23 +13,19 @@ from collections.abc import Mapping
 # -----------------------------
 MODEL_ID = "microsoft/Phi-4-reasoning-plus"
 POLICY_MODE = "strict"
-
-DATA_PATH = "detoxified/qwen/qwen3_30B_davidson_detoxified_0901.json"
-OUT_PATH  = "false_refusal/qwen/qwen3_30B_davidson_detox_0901.json"
+DATA_PATH = "detoxified/gemma/gemma3_27B_hatexplain_detoxified_0901.json"
+OUT_PATH  = "false_refusal/gemma/gemma3_27B_hatexplain_detox_0901.json"
 
 # Generation caps (smaller = faster). 48 is plenty for "SKIP" or a short JSON.
-MAX_NEW_TOKENS = 48
+MAX_NEW_TOKENS = 200
 # Cap the *prompt* length to avoid huge KV cache (keeps the last N tokens).
 MAX_INPUT_TOKENS = 2048
-
-# Optional: turn on 4-bit if you ever need it (requires bitsandbytes). Default False.
-USE_4BIT = False
 
 # -----------------------------
 # Env & small utils
 # -----------------------------
 load_dotenv()
-os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+
 
 def bf16_supported() -> bool:
     try:
@@ -304,6 +291,7 @@ if os.path.exists(OUT_PATH):
     with open(OUT_PATH, "r", encoding="utf-8") as f:
         partial_refused = json.load(f)
 else:
+    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     partial_refused = []
 
 with open(DATA_PATH, "r", encoding="utf-8") as f:

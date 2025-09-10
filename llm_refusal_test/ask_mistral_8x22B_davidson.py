@@ -9,19 +9,17 @@ from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
 MODEL_ID = "mistralai/Mixtral-8x7B-Instruct-v0.1"
-DATASET = "dataset/hatexplain_extract.json"
-DETOX = "post_text"
-OUT_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_0901.json"
-FAIL_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_failed_0901.json"
-REFUSED_PATH = "detoxified/mistral/mistral_8x7B_hatexplain_detoxified_refused_0901.json"
+DATASET = "dataset/davidson_extract.json"
+DETOX = "text"
+OUT_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_0901.json"
+FAIL_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_failed_0901.json"
+REFUSED_PATH = "detoxified/mistral/mistral_8x7B_davidson_detoxified_refused_0901.json"
 SAVE_EVERY = 200 
 BATCH_SIZE = 2
 MAX_NEW_TOKENS = 64
 
 
 # Load or initialize detoxified results
-
-
 
 
 
@@ -45,7 +43,6 @@ if os.path.exists(REFUSED_PATH):
 else:
     os.makedirs(os.path.dirname(REFUSED_PATH), exist_ok=True)
     refusals = []
-
 
 torch.backends.cuda.matmul.allow_tf32 = True
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)

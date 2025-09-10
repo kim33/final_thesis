@@ -7,8 +7,8 @@ import torch
 
 # ----------------- Config -----------------
 MODEL_ID = "microsoft/Phi-4-reasoning-plus"
-INPUT_PATH = "dataset/davidson_extract.json"
-OUT_PATH = "dataset/categorize/davidson_holistic_bias.json"
+INPUT_PATH = "false_refusal/llama/llama_davidson_detox_0817.json"
+OUT_PATH = "false_refusal_categorize/llama/llama3_8B_davidson_detox_0902.json"
 PROCESSED_PATH = OUT_PATH + ".ids"
 
 BATCH_SIZE = 8
@@ -354,14 +354,14 @@ def normalize_entry(parsed: dict, original_text: str) -> dict:
             all_buckets = sorted({bb for s in axis_to_final_buckets.values() for bb in s})
             pairs = _format_pairs(axis_to_final_buckets)
             return {
-                "text": parsed.get("text") or original_text,
+                "text": parsed.get("original") or original_text,
                 "bucket": all_buckets,
                 "category": categories,
                 "pairs": pairs,
             }
         # Nothing at all
         return {
-            "text": parsed.get("text") or original_text,
+            "text": parsed.get("original") or original_text,
             "bucket": [],
             "category": ["uncertain"],
             "pairs": [],
@@ -403,7 +403,7 @@ def normalize_entry(parsed: dict, original_text: str) -> dict:
                 axis_to_final_buckets.setdefault(a, set()).add(b)
         else:
             return {
-                "text": parsed.get("text") or original_text,
+                "text": parsed.get("original") or original_text,
                 "bucket": [],
                 "category": ["uncertain"],
                 "pairs": [],
@@ -414,7 +414,7 @@ def normalize_entry(parsed: dict, original_text: str) -> dict:
     pairs = _format_pairs(axis_to_final_buckets)
 
     return {
-        "text": parsed.get("text") or original_text,
+        "text": parsed.get("original") or original_text,
         "bucket": all_buckets,
         "category": categories,
         "pairs": pairs,
@@ -464,9 +464,9 @@ else:
 
 to_process: List[Tuple[int, dict]] = [
     (idx, row) for idx, row in enumerate(refused_data)
-    if row.get("text") and idx not in processed_ids
+    if row.get("original") and idx not in processed_ids
 ]
-prompts = [build_prompt(item["text"], tokenizer) for _, item in to_process]
+prompts = [build_prompt(item["original"], tokenizer) for _, item in to_process]
 
 # ---------- Generation with length guard ----------
 def generate_batch(batch_prompts: List[str]) -> List[str]:
@@ -537,7 +537,7 @@ for i in range(0, len(prompts), BATCH_SIZE):
 
     for j, ans in enumerate(batch_outputs):
         dataset_idx, row = to_process[i+j]
-        original = row["text"]
+        original = row["original"]
 
         parsed = extract_json(ans) or retry_single(original)
 

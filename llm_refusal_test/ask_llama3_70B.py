@@ -9,11 +9,11 @@ from typing import Optional, Dict, List, Tuple
 
 # Load tokenizer and model
 MODEL_ID = "meta-llama/Meta-Llama-3-70B-Instruct"
-DATASET = "dataset/paradetox_extract.json"
-DETOX = "original"
-OUT_PATH = "detoxified/llama3/llama3_70B_paradetox_detoxified_0828.json"
-FAIL_PATH = "detoxified/llama3/llama3_70B_paradetox_detoxified_failed_0828.json"
-REFUSED_PATH = "detoxified/llama3/llama3_70B_paradetox_detoxified_refused_0828.jsonn"
+DATASET = "dataset/hatexplain_extract.json"
+DETOX = "post_text"
+OUT_PATH = "detoxified/llama3/llama3_70B_hatexplain_detoxified_0907.json"
+FAIL_PATH = "detoxified/llama3/llama3_70B_hatexplain_detoxified_failed_0907.json"
+REFUSED_PATH = "detoxified/llama3/llama3_70B_hatexplain_detoxified_refused_0907.jsonn"
 SAVE_EVERY = 200 
 BATCH_SIZE = 32
 MAX_NEW_TOKENS = 300
@@ -21,26 +21,29 @@ MAX_NEW_TOKENS = 300
 
 # Load or initialize detoxified results
 
-os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-os.makedirs(os.path.dirname(FAIL_PATH), exist_ok=True)
-os.makedirs(os.path.dirname(REFUSED_PATH), exist_ok=True)
+
+
+
 
 if os.path.exists(OUT_PATH):
     with open(OUT_PATH, "r", encoding="utf-8") as f:
         detoxified = json.load(f)
 else:
+    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     detoxified = []
 
 if os.path.exists(FAIL_PATH):
     with open(FAIL_PATH, "r", encoding="utf-8") as f:
         failed = json.load(f)
 else:
+    os.makedirs(os.path.dirname(FAIL_PATH), exist_ok=True)
     failed = []
 
 if os.path.exists(REFUSED_PATH):
     with open(REFUSED_PATH, "r", encoding="utf-8") as f:
         refusals = json.load(f)
 else:
+    os.makedirs(os.path.dirname(REFUSED_PATH), exist_ok=True)
     refusals = []
 
 
@@ -236,11 +239,11 @@ while i < len(data):
     i += BATCH_SIZE
 
     if (i - start_index) % SAVE_EVERY == 0:
-        with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=False)
-        with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=False)
-        with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=False)
+        with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=True)
+        with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=True)
+        with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=True)
 
 # final save
-with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=False)
-with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=False)
-with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=False)
+with open(OUT_PATH, "w", encoding="utf-8") as f: json.dump(detoxified, f, indent=4, ensure_ascii=True)
+with open(FAIL_PATH, "w", encoding="utf-8") as f: json.dump(failed, f, indent=4, ensure_ascii=True)
+with open(REFUSED_PATH, "w", encoding="utf-8") as f: json.dump(refusals, f, indent=4, ensure_ascii=True)

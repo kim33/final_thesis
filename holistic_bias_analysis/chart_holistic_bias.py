@@ -7,8 +7,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Paths
-data_path = Path("false_refusal_categorize/llama/llama_70B_refusal_davidson_category_0829.json")
-outdir = "false_refusal_categorize/llama/davidson_detox"
+data_path = Path("false_refusal_categorize/gemma/gemma_8B/gemma3_8B_holistic_bias_paradetox_summary.json")
+outdir = "false_refusal_categorize/gemma/gemma_8B/paradetox"
 
 with open(data_path, "r") as f:
     data = json.load(f)
