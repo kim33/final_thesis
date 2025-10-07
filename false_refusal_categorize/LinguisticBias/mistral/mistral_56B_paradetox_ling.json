@@ -1,0 +1,6657 @@
+[
+  {
+    "index": 0,
+    "text": "hell no dont you fucking talk back to me",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 1,
+    "text": "hell no dont you fucking talk back to me",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 2,
+    "text": "just stop stealing our money and do you bloody job .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 3,
+    "text": "just stop stealing our money and do you bloody job .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 4,
+    "text": "the stupid one , not me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 5,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 6,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 7,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 8,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 9,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 10,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 11,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 12,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 13,
+    "text": "omg , stephens is so silly .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 14,
+    "text": "omg , stephens is so silly .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 15,
+    "text": "damn right it takes time .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 16,
+    "text": "these idiots need to be taken to task .",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 17,
+    "text": "these idiots need to be taken to task .",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 18,
+    "text": "prayformojo i know your other account is westernpatriot , you are a horrid person for stalking .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 19,
+    "text": "time to throw these bums out of office",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 20,
+    "text": "its stupid and i just ignore you",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 21,
+    "text": "hell no dont you fucking talk back to me",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 22,
+    "text": "hell no dont you fucking talk back to me",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 23,
+    "text": "just stop stealing our money and do you bloody job .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 24,
+    "text": "just stop stealing our money and do you bloody job .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 25,
+    "text": "the stupid one , not me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 26,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 27,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 28,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 29,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 30,
+    "text": "well said and damn right !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 31,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 32,
+    "text": "quit posting idiotic comments and i wont respond .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 33,
+    "text": "i cant believe other ignorant fools voted for him .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 34,
+    "text": "omg , stephens is so silly .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 35,
+    "text": "omg , stephens is so silly .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 36,
+    "text": "damn right it takes time .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 37,
+    "text": "these idiots need to be taken to task .",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 38,
+    "text": "these idiots need to be taken to task .",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 39,
+    "text": "prayformojo i know your other account is westernpatriot , you are a horrid person for stalking .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 40,
+    "text": "time to throw these bums out of office",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 41,
+    "text": "its stupid and i just ignore you",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 42,
+    "text": "we just laugh at the pathetic attempt",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 43,
+    "text": "these men need taken down hard before they murder someone else .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 44,
+    "text": "kick them all out of office",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 45,
+    "text": "we just laugh at the pathetic attempt",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 46,
+    "text": "its stupid and i just ignore you",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 47,
+    "text": "that is a stupid response .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 48,
+    "text": "again get some help for your stupidity",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 49,
+    "text": "really , what a stupid reply .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 50,
+    "text": "go fuck yourself you dirty cunt .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 51,
+    "text": "that is a stupid response .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 52,
+    "text": "your post is both silly and rude .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 53,
+    "text": "ok you win stupidest comment of the day !",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 54,
+    "text": "wtf are you talking about now ?",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 55,
+    "text": "too bad there is no stupid emoji",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 56,
+    "text": "wtf are you talking about now ?",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 57,
+    "text": "damn i wish i could stop using the key instead of the .",
+    "total_tokens": 12,
+    "unique_words": 10,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 58,
+    "text": "people amaze me with how ignorant they can be",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 59,
+    "text": "i make stupid comments sometimes .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 60,
+    "text": "i make stupid comments sometimes .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 61,
+    "text": "what idiots you talking about ?",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 62,
+    "text": "i love you so fucking much baby",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 63,
+    "text": "holy shit that is gonna kick all asses ! ! ! !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 64,
+    "text": "the weather can be such a bitch",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 65,
+    "text": "this shit been hard af",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 66,
+    "text": "if we talking about the same shit , i feel you",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 67,
+    "text": "i dnt do the twitter fb arguin shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 68,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 69,
+    "text": "he doesn 't fuck with me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 70,
+    "text": "if we talking about the same shit , i feel you",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 71,
+    "text": "what the fuck am i saying",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 72,
+    "text": "dude you are fucked up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 73,
+    "text": "lol i 'm just fuckin with ya !",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 74,
+    "text": "i love you so fucking much baby",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 75,
+    "text": "he doesn 't fuck with me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 76,
+    "text": "i should have dropped her off cause i got shit to do",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 77,
+    "text": "if we talking about the same shit , i feel you",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 78,
+    "text": "o shit it is all wonky too",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 79,
+    "text": "what the fuck is your new number",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 80,
+    "text": "oh shit , i almost sent the text i meant to send to karen to twitter",
+    "total_tokens": 15,
+    "unique_words": 12,
+    "type_token_ratio": 0.8,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 81,
+    "text": "what the fuck is your new number",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 82,
+    "text": "i need to get away from this fuckin madness",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 83,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 84,
+    "text": "shit instantly gets me hyped and inspired",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 85,
+    "text": "i need to get away from this fuckin madness",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 86,
+    "text": "what the fuck am i saying",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 87,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 88,
+    "text": "i should have dropped her off cause i got shit to do",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 89,
+    "text": "fuck it i can 't think of movie titles fml lol",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 90,
+    "text": "i love you so fucking much baby",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 91,
+    "text": "dude you are fucked up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 92,
+    "text": "this shit been hard af",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 93,
+    "text": "portal 18 was fucking excellent",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 94,
+    "text": "psa get yo ass off twitter",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 95,
+    "text": "i dnt do the twitter fb arguin shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 96,
+    "text": "ayyy thats why i fuck with you lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 97,
+    "text": "lol damn that 's messed up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 98,
+    "text": "i sound like a fucking weather lady",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 99,
+    "text": "the weather can be such a bitch",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 100,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 101,
+    "text": "but my internet is shit -",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 102,
+    "text": "portal 18 was fucking excellent",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 103,
+    "text": "omg girl , t mills is sooo fucking cute",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 104,
+    "text": "i 'm copying and pasting the shit out of this essay",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 105,
+    "text": "people bitch about how much it costs",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 106,
+    "text": "the weather can be such a bitch",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 107,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 108,
+    "text": "lol yeah that shit was so weird and random",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 109,
+    "text": "do what ? please say you arn 't doing shit to yourself",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 110,
+    "text": "oh shit , i almost sent the text i meant to send to karen to twitter",
+    "total_tokens": 15,
+    "unique_words": 12,
+    "type_token_ratio": 0.8,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 111,
+    "text": "shit is innovative and next level",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 112,
+    "text": "she b makin up words n shit tho",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 113,
+    "text": "it was directed towards callin me a bitch",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 114,
+    "text": "i just don 't ever want to hear one fucking thing about it",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 115,
+    "text": "what the fuck am i saying",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 116,
+    "text": "omg girl , t mills is sooo fucking cute",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 117,
+    "text": "lol yeah that shit was so weird and random",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 118,
+    "text": "i 'm so fucked this is bad",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 119,
+    "text": "lmao ! ! lol that would be some funny shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 120,
+    "text": "lmfao i forgot u had that shit lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 121,
+    "text": "haha oh shit you trippin haha",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 122,
+    "text": "lmfao i forgot u had that shit lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 123,
+    "text": "psa get yo ass off twitter",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 124,
+    "text": "i should have dropped her off cause i got shit to do",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 125,
+    "text": "because i fucking miss you and because i fucking said so",
+    "total_tokens": 11,
+    "unique_words": 8,
+    "type_token_ratio": 0.727273,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 126,
+    "text": "lol i 'm jus fuckin wit u",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 127,
+    "text": "oh fuck i think i 've been looking at the wrong place then",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 128,
+    "text": "i 'm so fucked this is bad",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 129,
+    "text": "lol i 'm jus fuckin wit u",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 130,
+    "text": "i 'm copying and pasting the shit out of this essay",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 131,
+    "text": "portal 18 was fucking excellent",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 132,
+    "text": "shit never works out so i 'm stayin single forever",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 133,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 134,
+    "text": "haha oh shit you trippin haha",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 135,
+    "text": "but i 'm a type of guy who doesn 't like hiding shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 136,
+    "text": "shit instantly gets me hyped and inspired",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 137,
+    "text": "lmao ! ! lol that would be some funny shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 138,
+    "text": "haha u know i b talkin shit some of the time lol",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 139,
+    "text": "oh shit hold on lemme erase that for you thenn",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 140,
+    "text": "i rather watch paint on a fuckin wall dry",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 141,
+    "text": "well shit give me 50 and i 'll be on the floor lol",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 142,
+    "text": "cuz u be getting mad at me over some dumb shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 143,
+    "text": "i might , i can 't rush shit",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 144,
+    "text": "shit putting this music on my phone",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 145,
+    "text": "calc 48 is a pain in the ass though",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 146,
+    "text": "i just laugh at the shit now no need to stress",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 147,
+    "text": "i suck at it though",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 148,
+    "text": "shit i just did my housing yesterday",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 149,
+    "text": "he just b taking to long for the simplest shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 150,
+    "text": "kind of i guess , still pretty shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 151,
+    "text": "well shit t , i don 't want to annoy them",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 152,
+    "text": "very cool but have no fucking clue what it says",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 153,
+    "text": "where tha fuck dis rain kome frm",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 154,
+    "text": "oh holy shit ! ! ! ! they are dating ! ! ! omg",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 1.667,
+    "clause_count": 1
+  },
+  {
+    "index": 155,
+    "text": "i have no fucking clue what this question is asking",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 156,
+    "text": "oh shit it is sunday o",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 157,
+    "text": "same lol , get 'n shit done and taken life a day at a time",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 158,
+    "text": "awe man i hate shit like that",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 159,
+    "text": "honestly idk all i hear is screaming and moving shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 160,
+    "text": "shit , u guys crack me up xd",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 161,
+    "text": "bout to take a damn shower",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 162,
+    "text": "kind of i guess , still pretty shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 163,
+    "text": "just v bored of the same old shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 164,
+    "text": "lol , you know that shit is funny",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 165,
+    "text": "like tonight he was all begging for forgiveness & shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 166,
+    "text": "you make me laugh so fucking much",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 167,
+    "text": "buut idk my sleep pattern is just all fucked upp",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 168,
+    "text": "buut idk my sleep pattern is just all fucked upp",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 169,
+    "text": "where tha fuck dis rain kome frm",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 170,
+    "text": "i wanna take shit to the next level",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 171,
+    "text": "omg i really thought dat place was closed & shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 172,
+    "text": "spell check is a bitch",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 173,
+    "text": "oh shit you weren 't posed to see that",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 174,
+    "text": "yeah , i gooogled that shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 175,
+    "text": "yeah , i hope she 'll stop with this shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 2
+  },
+  {
+    "index": 176,
+    "text": "i might , i can 't rush shit",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 177,
+    "text": "very cool but have no fucking clue what it says",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 178,
+    "text": "shit i just did my housing yesterday",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 179,
+    "text": "omg just had a banging ass chicken cutlet blt sandwich",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 180,
+    "text": "kind of i guess , still pretty shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 181,
+    "text": "holy fuck i 'm so going",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 182,
+    "text": "was the shit then and always will be",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 183,
+    "text": "she acts like a damn kid",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 184,
+    "text": "kenny must be shitting bricks haha",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 185,
+    "text": "same lol , get 'n shit done and taken life a day at a time",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 186,
+    "text": "shit i wish i could be like you",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 187,
+    "text": "holy fuck i 'm so going",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 188,
+    "text": "well shit t , i don 't want to annoy them",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 189,
+    "text": "oh i wanted to call and bitch him out",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 190,
+    "text": "when the fuck did u get up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 191,
+    "text": "yeah , i gooogled that shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 192,
+    "text": "i would lose my shit , and click ignore",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 193,
+    "text": "oh shit it is sunday o",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 194,
+    "text": "even my mans was like damn",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 195,
+    "text": "he just b taking to long for the simplest shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 196,
+    "text": "he just b taking to long for the simplest shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 197,
+    "text": "like tonight he was all begging for forgiveness & shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 198,
+    "text": "bitch did you get my tweet",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 199,
+    "text": "he got back in his fuckin house",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 200,
+    "text": "omg i really thought dat place was closed & shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 201,
+    "text": "awe man i hate shit like that",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 202,
+    "text": "honestly idk all i hear is screaming and moving shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 203,
+    "text": "spell check is a bitch",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 204,
+    "text": "well shit give me 50 and i 'll be on the floor lol",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 205,
+    "text": "you make me laugh so fucking much",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 206,
+    "text": "shit i wish i could be like you",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 207,
+    "text": "yea so stop talkn shit bout the school",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 208,
+    "text": "well shit t , i don 't want to annoy them",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 209,
+    "text": "at the crib , watching sc and shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 210,
+    "text": "i have no fucking clue what this question is asking",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 211,
+    "text": "lol aw thats cute i see you tweetin and shit !",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 3
+  },
+  {
+    "index": 212,
+    "text": "you make me laugh so fucking much",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 213,
+    "text": "she acts like a damn kid",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 214,
+    "text": "alright , imma remember this shit lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 215,
+    "text": "where tha fuck dis rain kome frm",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 216,
+    "text": "bout to take a damn shower",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 217,
+    "text": "oh shit you weren 't posed to see that",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 218,
+    "text": "when the fuck did u get up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 219,
+    "text": "lol , you know that shit is funny",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 220,
+    "text": "at the crib , watching sc and shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 221,
+    "text": "shit i just did my housing yesterday",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 222,
+    "text": "yes ! it was fucking amazing ! <3 <3",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 1.5,
+    "clause_count": 1
+  },
+  {
+    "index": 223,
+    "text": "holy fuck i 'm so going",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 224,
+    "text": "he got back in his fuckin house",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 225,
+    "text": "yes ! it was fucking amazing ! <3 <3",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 1.5,
+    "clause_count": 1
+  },
+  {
+    "index": 226,
+    "text": "honestly idk all i hear is screaming and moving shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 227,
+    "text": "shit i wish i could be like you",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 228,
+    "text": "oh shit , the temptations is on tv",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 229,
+    "text": "i have no fucking clue what this question is asking",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 230,
+    "text": "yeah , i gooogled that shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 231,
+    "text": "you did that just to be a smart ass",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 232,
+    "text": "i definitely relate to that gangsta shit lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 233,
+    "text": "this shit is getting out of hand",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 234,
+    "text": "that would be fucking awesome lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 235,
+    "text": "just fuck off and leave me alone",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 236,
+    "text": "i do not want to start shit on that website with my name on it",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 237,
+    "text": "man we been busy as shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 238,
+    "text": "it 's a fucking good day",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 239,
+    "text": "u know it i don 't jus wake up and talk shit to people lol",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 4
+  },
+  {
+    "index": 240,
+    "text": "it 's a fucking good day",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 241,
+    "text": "need to get out of bed and start sorting some shit outtt",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 242,
+    "text": "i laugh & spit on your shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 243,
+    "text": "lmao right , the fuck , i need some motivation today",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 244,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 245,
+    "text": "oh yah were bad ass all the way",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 246,
+    "text": "damn , that is a lot of money",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 247,
+    "text": "but they got fucked up by money",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 248,
+    "text": "but are the main ones fucking up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 249,
+    "text": "damn , that is a lot of money",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 250,
+    "text": "i would love to fucking tweet again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 251,
+    "text": "ok let ' s fuckin review for the idiot",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 252,
+    "text": "lmaoooo like shit ! ! ! im not surprised ! ! !",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 253,
+    "text": "not shit though just trying to have some fun",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 254,
+    "text": "im soo fucken excited for work today",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 255,
+    "text": "just fuck off and leave me alone",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 256,
+    "text": "not shit though just trying to have some fun",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 257,
+    "text": "im soo fucken excited for work today",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 258,
+    "text": "i don 't even keep count of that shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 259,
+    "text": "maybe then we can get shit done",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 260,
+    "text": "that would be fucking awesome lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 261,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 262,
+    "text": "lol rt no shit me too",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 263,
+    "text": "ok let ' s fuckin review for the idiot",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 264,
+    "text": "yeah leave it there girl and don 't let anyone fuck you over",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 265,
+    "text": "i don 't understand this shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 266,
+    "text": "maybe then we can get shit done",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 267,
+    "text": "ohh shit im fucking with that",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 268,
+    "text": "i ain 't bought shit either",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 269,
+    "text": "it 's a fucking good day",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 270,
+    "text": "this shit is getting out of hand",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 271,
+    "text": "damn i got it all messed up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 272,
+    "text": "just leave fuck boy alone",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 273,
+    "text": "cause you stopped fucking with me",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 274,
+    "text": "i don 't understand this shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 275,
+    "text": "and i still haven 't fucking eaten",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 276,
+    "text": "yeahh fuck you for waking me up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 277,
+    "text": "lmaoooo like shit ! ! ! im not surprised ! ! !",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 278,
+    "text": "aww shit well lemme hear it when you do it",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 279,
+    "text": "im soo fucken excited for work today",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 280,
+    "text": "yeahh fuck you for waking me up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 281,
+    "text": "man we been busy as shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 282,
+    "text": "u inspired most of this shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 283,
+    "text": "need to get out of bed and start sorting some shit outtt",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 284,
+    "text": "i would love to fucking tweet again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 285,
+    "text": "ok fasho i appreciate it man real shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 286,
+    "text": "i can that shit even when he smile",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 287,
+    "text": "i feel like shit all over again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 288,
+    "text": "i don 't understand this shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 289,
+    "text": "i 'm in galveston and ain 't do shit about it lol",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 290,
+    "text": "still a boring ass tv show",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 291,
+    "text": "i wanna be in this shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 292,
+    "text": "lol stay ya ass in the car",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 293,
+    "text": "i see shit i dont like",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 2
+  },
+  {
+    "index": 294,
+    "text": "maybe then we can get shit done",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 295,
+    "text": "oh auight i gotta new english teacher and shit ! ! ! lol",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 296,
+    "text": "and i still haven 't fucking eaten",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 297,
+    "text": "they got the booths where u can sit and order bottles and shit",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 298,
+    "text": "aww shit well lemme hear it when you do it",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 299,
+    "text": "u inspired most of this shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 300,
+    "text": "ok let ' s fuckin review for the idiot",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 301,
+    "text": "haaha i was fucking with you",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 302,
+    "text": "i feel like shit all over again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 303,
+    "text": "i wanna be in this shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 304,
+    "text": "but at least i 'm not calling her bitch or something .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 305,
+    "text": "i 'm in galveston and ain 't do shit about it lol",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 306,
+    "text": "damn i got it all messed up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 307,
+    "text": "i ain 't bought shit either",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 308,
+    "text": "just fuck off and leave me alone",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 309,
+    "text": "i would love to fucking tweet again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 310,
+    "text": "lmao right , the fuck , i need some motivation today",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 311,
+    "text": "damn you dont like em that much",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 312,
+    "text": "i hope i forget about this shit tomorrow",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 313,
+    "text": "lol stay ya ass in the car",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 314,
+    "text": "just leave fuck boy alone",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 315,
+    "text": "i hope i forget about this shit tomorrow",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 316,
+    "text": "yeah leave it there girl and don 't let anyone fuck you over",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 317,
+    "text": "the car wash be fun as shit ! lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 318,
+    "text": "that would be fucking awesome lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 319,
+    "text": "i wanna be in this shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 320,
+    "text": "im finna tweet myy ass off witt his lyrics",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 321,
+    "text": "but then that would fuck my coworker over",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 322,
+    "text": "aww shit well lemme hear it when you do it",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 323,
+    "text": "i do not want to start shit on that website with my name on it",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 324,
+    "text": "still a boring ass tv show",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 325,
+    "text": "i feel like shit all over again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 326,
+    "text": "shit ! now i have to also",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 327,
+    "text": "this shit is getting out of hand",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 328,
+    "text": "wowwww are you fucking serious ? lmfao",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 1.5,
+    "clause_count": 1
+  },
+  {
+    "index": 329,
+    "text": "still a boring ass tv show",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 330,
+    "text": "and i still haven 't fucking eaten",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 331,
+    "text": "ohh shit im fucking with that",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 332,
+    "text": "not shit though just trying to have some fun",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 333,
+    "text": "man we been busy as shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 334,
+    "text": "lmao right , the fuck , i need some motivation today",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 335,
+    "text": "i 'm in deep shit bro",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 336,
+    "text": "oh my fucking god ! he 's so freaking cute",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 1
+  },
+  {
+    "index": 337,
+    "text": "i do not want to start shit on that website with my name on it",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 338,
+    "text": "im so fucking mad though ,",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 339,
+    "text": "imma let you talk your shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 340,
+    "text": "lmao ! ! ! ! ! thats a damn shame",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 341,
+    "text": "oh ion want yo damn popsicle",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 342,
+    "text": "hold the mother fuckin phones",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 343,
+    "text": "nah this shit is prime",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 344,
+    "text": "that shit was so funny",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 345,
+    "text": "harry potter books are toooooo fuckin ' long",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 346,
+    "text": "i boring ass biology dry ass class",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 347,
+    "text": "i told him to fuck off",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 348,
+    "text": "nah this shit is prime",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 349,
+    "text": "laying in my bed , watching this corny ass play",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 350,
+    "text": "naw , you know i fucks with all types of music",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 351,
+    "text": "lol damn they fallin in love again and shyt huh lol",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 352,
+    "text": "imma have to just do this shit on my own .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 353,
+    "text": "oh yeah it looks pretty shit on my phone too",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 354,
+    "text": "naw , you know i fucks with all types of music",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 355,
+    "text": "lol i say whatevea the fuck i want",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 356,
+    "text": "shit i need a new word to use now",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 357,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 358,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 359,
+    "text": "naw , you know i fucks with all types of music",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 360,
+    "text": "im tryin get netflix on my shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 361,
+    "text": "i see you have life fucked up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 362,
+    "text": "apparently my ipod likes me rting random shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 363,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 364,
+    "text": "ion wanna hear that shit !",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 365,
+    "text": "oh yeah it looks pretty shit on my phone too",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 366,
+    "text": "sexy as fuck of course",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 367,
+    "text": "u talkin bout the scores n shit ?",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 368,
+    "text": "no , that 's shit spanish food",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 369,
+    "text": "if u don 't wanna talk to me then fucking tell me so",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 370,
+    "text": "lmao i 'm in sucky ass class",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 371,
+    "text": "nah this shit is prime",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 372,
+    "text": "holy shit so do i ! !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 373,
+    "text": "shit i need a new word to use now",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 374,
+    "text": "u was just on some weird shit two weeks ago",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 375,
+    "text": "shit i need a new word to use now",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 376,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 377,
+    "text": "but some just ruined my whole fuckin night",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 378,
+    "text": "shit got outta hand tonight haha",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 379,
+    "text": "yes ! im in fuckin pain",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 380,
+    "text": "harry potter books are toooooo fuckin ' long",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 381,
+    "text": "yes ! im in fuckin pain",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 382,
+    "text": "lmao i suck with that shit dammit dont judge me",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 383,
+    "text": "laying in my bed , watching this corny ass play",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 384,
+    "text": "but some just ruined my whole fuckin night",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 385,
+    "text": "shit got outta hand tonight haha",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 386,
+    "text": "thanks bitch , love you ! ! ! xx",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 2
+  },
+  {
+    "index": 387,
+    "text": "oh crap its 6 pm",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 388,
+    "text": "just played a boring ass game",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 389,
+    "text": "maybe she is , but im done with this shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 390,
+    "text": "well damn ! i like it",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 391,
+    "text": "i think this post and comment shit fight could do with your opinion",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 392,
+    "text": "oh crap its 6 pm",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 393,
+    "text": "yes yes and fuck yes",
+    "total_tokens": 5,
+    "unique_words": 3,
+    "type_token_ratio": 0.6,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 394,
+    "text": "im tryin get netflix on my shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 395,
+    "text": "well damn ! i like it",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 396,
+    "text": "maybe she is , but im done with this shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 397,
+    "text": "new shit coming ! thanks tho",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 398,
+    "text": "holy shit so do i ! !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 399,
+    "text": "and jamaar gettin on my fuckin nerve",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 400,
+    "text": "and jamaar gettin on my fuckin nerve",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 401,
+    "text": "you know damn well im not in school lol",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 402,
+    "text": "i was thinkin the same shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 403,
+    "text": "lmao i 'm in sucky ass class",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 404,
+    "text": "maybe she is , but im done with this shit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 405,
+    "text": "lmao i 'm in sucky ass class",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 406,
+    "text": "harry potter books are toooooo fuckin ' long",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 407,
+    "text": "i think we were all just really fucked up last night",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 408,
+    "text": "i think we were all just really fucked up last night",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 409,
+    "text": "shit got outta hand tonight haha",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 410,
+    "text": "yes yes and fuck yes",
+    "total_tokens": 5,
+    "unique_words": 3,
+    "type_token_ratio": 0.6,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 411,
+    "text": "lol damn they fallin in love again and shyt huh lol",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 412,
+    "text": "oh crap its 6 pm",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 413,
+    "text": "naw the industy got em fucked up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 414,
+    "text": "that shit was so funny",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 415,
+    "text": "well damn ! i like it",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 416,
+    "text": "hold the mother fuckin phones",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 417,
+    "text": "oh shit you can jam to them at home with me if ya want",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 418,
+    "text": "but some just ruined my whole fuckin night",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 419,
+    "text": "just played a boring ass game",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 420,
+    "text": "yep ! wish i could take that shit back tho ! !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 421,
+    "text": "just played a boring ass game",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 422,
+    "text": "obviously i want to talk about the shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 423,
+    "text": "obviously i want to talk about the shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 424,
+    "text": "u talkin bout the scores n shit ?",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 425,
+    "text": "i was thinkin the same shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 426,
+    "text": "i see you have life fucked up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 427,
+    "text": "aww shit we down 28",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 428,
+    "text": "my ass hurts now is all",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 429,
+    "text": "fuck a tl lets add to the convo lmao",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 430,
+    "text": "laying in my bed , watching this corny ass play",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 431,
+    "text": "sexy as fuck of course",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 432,
+    "text": "i see you have life fucked up",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 433,
+    "text": "i boring ass biology dry ass class",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 434,
+    "text": "yu came up with dat shit lol",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 435,
+    "text": "damn my alarm went off twice and i still dnt wanna get up",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 436,
+    "text": "hes fuckin epic in fifa tho",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 437,
+    "text": "i don 't remember shit about it",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 438,
+    "text": "rt ima agree with you on that his shit is so bland and shallow",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 439,
+    "text": "shit ! you are so right",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 440,
+    "text": "loooking back there was somme neeky shit going on",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 441,
+    "text": "fuck gettin older i wanna be a kid again lmao",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 442,
+    "text": "damn my alarm went off twice and i still dnt wanna get up",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 443,
+    "text": "shit ! you are so right",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 444,
+    "text": "oh shit i almost forgot what time",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 445,
+    "text": "stop blaming shit on me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 446,
+    "text": "damn my alarm went off twice and i still dnt wanna get up",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 447,
+    "text": "i don 't remember shit about it",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 448,
+    "text": "loooking back there was somme neeky shit going on",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 449,
+    "text": "i don 't treat u like shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 450,
+    "text": "i don 't treat u like shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 451,
+    "text": "oh shit i almost forgot what time",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 452,
+    "text": "you 're making yourself look dumb",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 453,
+    "text": "just sitting around sweating my ass off",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 454,
+    "text": "heat aint on shit this year",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 455,
+    "text": "drive down tomorrow i aint got shit to do",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 456,
+    "text": "but i like pop punky shit too",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 457,
+    "text": "i don 't treat u like shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 458,
+    "text": "needa get some shit off my mind !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 459,
+    "text": "i know he is seriously being a dick !",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 460,
+    "text": "idk , my hair out & shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 461,
+    "text": "i wish i could fucking sleep right now",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 462,
+    "text": "i don 't even play that shit anymore",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 463,
+    "text": "lol i wanna drop this shit today",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 464,
+    "text": "idk , my hair out & shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 465,
+    "text": "too fuckin cute ! ! ! no say sumthin else",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 466,
+    "text": "but i like pop punky shit too",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 467,
+    "text": "i apologize for being such a dick then",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 468,
+    "text": "gotta goto fucking church with my family",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 469,
+    "text": "fuck gettin older i wanna be a kid again lmao",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 470,
+    "text": "i 'm sorry people are being dicks to u",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 471,
+    "text": "shit ! you are so right",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 472,
+    "text": "heat aint on shit this year",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 473,
+    "text": "yea im tired as shit ready to leave asap",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 474,
+    "text": "just sitting around sweating my ass off",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 475,
+    "text": "gotta goto fucking church with my family",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 476,
+    "text": "i don 't even play that shit anymore",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 477,
+    "text": "i was literally making shit up off the top of my head for most of that",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 1
+  },
+  {
+    "index": 478,
+    "text": "dude , you have a way of saying some of the most interesting shit",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 2
+  },
+  {
+    "index": 479,
+    "text": "what ? ? ? ? ? ? i aint heard from yo ass in foreva",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.25,
+    "clause_count": 1
+  },
+  {
+    "index": 480,
+    "text": "hes fuckin epic in fifa tho",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 481,
+    "text": "yea im tired as shit ready to leave asap",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 482,
+    "text": "yu came up with dat shit lol",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 483,
+    "text": "good shit that should be a classic",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 484,
+    "text": "i 'm sorry people are being dicks to u",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 485,
+    "text": "yea im tired as shit ready to leave asap",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 486,
+    "text": "now i feel like an ass",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 487,
+    "text": "fuck gettin older i wanna be a kid again lmao",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 488,
+    "text": "lol i wanna drop this shit today",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 489,
+    "text": "i wish i could fucking sleep right now",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 490,
+    "text": "omg im in a bitch mood ! x",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 491,
+    "text": "too fuckin cute ! ! ! no say sumthin else",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 492,
+    "text": "drive down tomorrow i aint got shit to do",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 493,
+    "text": "i don 't even play that shit anymore",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 494,
+    "text": "stop blaming shit on me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 495,
+    "text": "lol same here school & work is kickin my ass",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 496,
+    "text": "needa get some shit off my mind !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 497,
+    "text": "gotta goto fucking church with my family",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 498,
+    "text": "i don 't remember shit about it",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 499,
+    "text": "werd they on they good play bad play shit !",
+    "total_tokens": 9,
+    "unique_words": 7,
+    "type_token_ratio": 0.777778,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 500,
+    "text": "i am soo fucked up right now",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 501,
+    "text": "it was about a boat or some shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 502,
+    "text": "it was about a boat or some shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 503,
+    "text": "lmfaooo i like that shit though hahahahah",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 504,
+    "text": "and aint even realized i havent said shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 505,
+    "text": "shit i wish i was sleeping",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 506,
+    "text": "it is so goddamn messy here",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 507,
+    "text": "what a shitty thing to say to somebody",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 508,
+    "text": "and i am so fucking nervous * nervous smile *",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 509,
+    "text": "umm i jus found out some shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 510,
+    "text": "umm i jus found out some shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 511,
+    "text": "i was such a bitch , please i 'm sorry",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 512,
+    "text": "get the fuck outta here",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 513,
+    "text": "i could prove yo ass wrong",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 514,
+    "text": "i was such a bitch , please i 'm sorry",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 515,
+    "text": "good shit and i told you bro",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 2
+  },
+  {
+    "index": 516,
+    "text": "people jus be so sensitive bout shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 517,
+    "text": "oh shit i forgot about summer reading",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 518,
+    "text": "what a shitty thing to say to somebody",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 519,
+    "text": "people jus be so sensitive bout shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 520,
+    "text": "i clearly don 't give a shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 521,
+    "text": "if this is the case i 'm fucking proud of you man",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 522,
+    "text": "people jus be so sensitive bout shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 523,
+    "text": "i stink cuz i got a lot of shit in my mind",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 524,
+    "text": "i could use a big ass hamburger",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 525,
+    "text": "some people need to get the fuck over themselves",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 526,
+    "text": "i clearly don 't give a shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 527,
+    "text": "helll yes fucking pumped for tonight",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 528,
+    "text": "i wouldnt even say shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 529,
+    "text": "i wouldnt even say shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 530,
+    "text": "bout to give a heavy ass lecture",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 531,
+    "text": "i live in fear of shit like that happening to me",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 532,
+    "text": "macfly was the shit ! ! ! lol",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 533,
+    "text": "i am soo fucked up right now",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 534,
+    "text": "i clearly don 't give a shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 535,
+    "text": "what a shitty thing to say to somebody",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 536,
+    "text": "i could use a big ass hamburger",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 537,
+    "text": "lol well your question is fucking wack",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 538,
+    "text": "i am soo fucked up right now",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 539,
+    "text": "i knew your silly ass was gonna say something",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 540,
+    "text": "nah im gonna check this shit out right now ! ! xx",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 541,
+    "text": "oh shit i forgot about summer reading",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 542,
+    "text": "i need a fucking lover",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 543,
+    "text": "i dont even have one , im proper fucked",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 544,
+    "text": "lmfaooo i like that shit though hahahahah",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 545,
+    "text": "idk what to do im goin to fuckin bed",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 546,
+    "text": "i do the funniest shit when i 'm by myself",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 547,
+    "text": "and i am so fucking nervous * nervous smile *",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 548,
+    "text": "it is so goddamn messy here",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 549,
+    "text": "idk what to do im goin to fuckin bed",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 550,
+    "text": "i do the funniest shit when i 'm by myself",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 551,
+    "text": "damn you tease is killing me",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 552,
+    "text": "no just got back in shit box nc cuple hours ago",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 553,
+    "text": "you want to slay me",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 554,
+    "text": "i could use a big ass hamburger",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 555,
+    "text": "oh shit i forgot about summer reading",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 556,
+    "text": "dunno , just feel like shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 557,
+    "text": "ohhhhh ok lmao idk shit about dogs so .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 558,
+    "text": "and aint even realized i havent said shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 559,
+    "text": "i do the funniest shit when i 'm by myself",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 560,
+    "text": "ohhhhh ok lmao idk shit about dogs so .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 561,
+    "text": "i knew your silly ass was gonna say something",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 562,
+    "text": "i live in fear of shit like that happening to me",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 563,
+    "text": "it is so goddamn messy here",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 564,
+    "text": "yea they chilling they talking about that job shit",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 565,
+    "text": "bout to give a heavy ass lecture",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 566,
+    "text": "that 's the stupidest shit i 've ever heard",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 567,
+    "text": "i knew your silly ass was gonna say something",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 568,
+    "text": "shit i wish i was sleeping",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 569,
+    "text": "i aint fuckin with you anyway",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 570,
+    "text": "we need more shit wit meaning",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 571,
+    "text": "macfly was the shit ! ! ! lol",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 572,
+    "text": "but its hot as fuck down here",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 573,
+    "text": "because it hurt like a bitch",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 574,
+    "text": "put on some damn clothes",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 575,
+    "text": "oh well , may as well pour the coffee & start getting shit done",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 576,
+    "text": "friend i 'm sick and shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 577,
+    "text": "i was tweeting crazy shit and everything",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 578,
+    "text": "yup ! i can 't w that shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 579,
+    "text": "and that didn 't fucking happen",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 580,
+    "text": "i 'm sorry for asking i ask random shit like that",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 4
+  },
+  {
+    "index": 581,
+    "text": "because it hurt like a bitch",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 582,
+    "text": "how the fuck do you get all these ! ! ! ! ! ? ? ? lmao",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 583,
+    "text": "so i got a crush on a friend , awww shit",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 584,
+    "text": "because it hurt like a bitch",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 585,
+    "text": "i was tweeting crazy shit and everything",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 586,
+    "text": "lol he just rich as fuck",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 587,
+    "text": "how the fuck do you get all these ! ! ! ! ! ? ? ? lmao",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 588,
+    "text": "nah i got priorities n shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 589,
+    "text": "thought i was the only person that didnt watch that shit lol",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 590,
+    "text": "and that didn 't fucking happen",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 591,
+    "text": "but its hot as fuck down here",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 592,
+    "text": "oh well , may as well pour the coffee & start getting shit done",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 593,
+    "text": "rt damn i got class in the morning",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 594,
+    "text": "skype is being a bitch",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 595,
+    "text": "rt damn i got class in the morning",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 596,
+    "text": "rt damn i got class in the morning",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 597,
+    "text": "i wanted to go there confident and shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 598,
+    "text": "nah i got priorities n shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 599,
+    "text": "how the fuck do you get all these ! ! ! ! ! ? ? ? lmao",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 600,
+    "text": "nah i got priorities n shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 601,
+    "text": "i wanted to go there confident and shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 602,
+    "text": "friend i 'm sick and shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 603,
+    "text": "i had a good ass night",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 604,
+    "text": "thought i was the only person that didnt watch that shit lol",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 605,
+    "text": "more bomb ass dresses on there again",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 606,
+    "text": "i was tweeting crazy shit and everything",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 607,
+    "text": "so i got a crush on a friend , awww shit",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 608,
+    "text": "or should i just ruin her life now",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 609,
+    "text": "i had a good ass night",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 610,
+    "text": "and that didn 't fucking happen",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 611,
+    "text": "but its hot as fuck down here",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 612,
+    "text": "or should i just ruin her life now",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 613,
+    "text": "skype is being a bitch",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 614,
+    "text": "well i guess we 're goin' the fuck home then",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 615,
+    "text": "i 'm fuckin with you bro let 's do this",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 5
+  },
+  {
+    "index": 616,
+    "text": "this is not the time for that shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 617,
+    "text": "fuck it , im out of here",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 618,
+    "text": "com holy shit you are right",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 619,
+    "text": "if only i gave a fuck about what you have to say",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 620,
+    "text": "well i guess we 're goin' the fuck home then",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 621,
+    "text": "com holy shit you are right",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 622,
+    "text": "fuck it , im out of here",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 623,
+    "text": "well i guess we 're goin' the fuck home then",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 624,
+    "text": "not trying to be dick , genuinely curious",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 625,
+    "text": "if only i gave a fuck about what you have to say",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 626,
+    "text": "otherwise shit might have gotten real .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 627,
+    "text": "otherwise shit might have gotten real .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 628,
+    "text": "i 'm so tired of this shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 629,
+    "text": "yeah the joke was made 55 fucking times already",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 630,
+    "text": "seriously it is so fucked up",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 631,
+    "text": "holy fuck that makes it so much worse",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 632,
+    "text": "i 'm so tired of this shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 633,
+    "text": "otherwise shit might have gotten real .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 634,
+    "text": "holy fuck that makes it so much worse",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 635,
+    "text": "i guess we havent learned a fucking thing",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 636,
+    "text": "my home state making an ass out of itself as usual",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 637,
+    "text": "i guess we havent learned a fucking thing",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 638,
+    "text": "or are you just making shit up ?",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 639,
+    "text": "or are you just making shit up ?",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 640,
+    "text": "my home state making an ass out of itself as usual",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 641,
+    "text": "i can if you want me to just for shits and giggles lol",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 642,
+    "text": "yeah the joke was made 55 fucking times already",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 643,
+    "text": "how about you stop slinging shit and contribute to the fucking conversation instead .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 644,
+    "text": "i could be totally fucking wrong though .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 645,
+    "text": "i could be totally fucking wrong though .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 646,
+    "text": "wow the irony here is fucking perfect",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 647,
+    "text": "wow the irony here is fucking perfect",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 648,
+    "text": "so fucking different , thanks for pointing that out",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 649,
+    "text": "props to him for sources and knowing his shit !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 650,
+    "text": "oh here we go with knowledge n shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 651,
+    "text": "oh here we go with knowledge n shit",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 652,
+    "text": "wow the irony here is fucking perfect",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 653,
+    "text": "i could be totally fucking wrong though .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 654,
+    "text": "props to him for sources and knowing his shit !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 655,
+    "text": "dont you fucking forget about canada",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 656,
+    "text": "so fucking different , thanks for pointing that out",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 657,
+    "text": "don 't start shit and you won 't have to deal with it",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 658,
+    "text": "so fucking different , thanks for pointing that out",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 659,
+    "text": "don 't start shit and you won 't have to deal with it",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 660,
+    "text": "shit like this pisses me off beyond belief .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 661,
+    "text": "props to him for sources and knowing his shit !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 662,
+    "text": "this type of shit always happens to me",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 663,
+    "text": "this type of shit always happens to me",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 664,
+    "text": "fuck man very sorry to hear that",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 665,
+    "text": "this type of shit always happens to me",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 666,
+    "text": "holy shit this is amazing .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 667,
+    "text": "holy shit that was awesome .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 668,
+    "text": "i 'm sick of this shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 669,
+    "text": "holy shit that was awesome .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 670,
+    "text": "holy shit the comments on that article are depressing .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 671,
+    "text": "we ended up with our fucked healthcare system because of it",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 672,
+    "text": "fuck man very sorry to hear that",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 673,
+    "text": "and all their rights and shit",
+    "total_tokens": 6,
+    "unique_words": 5,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 0
+  },
+  {
+    "index": 674,
+    "text": "holy shit , the amount of pure crazy in that article is astonishing",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 675,
+    "text": "omg what a load of bull shit .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 676,
+    "text": "holy shit this is amazing .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 677,
+    "text": "we ended up with our fucked healthcare system because of it",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 678,
+    "text": "holy shit the comments on that article are depressing .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 679,
+    "text": "i 'm sick of this shit",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 680,
+    "text": "holy shit , somebody gets it .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 681,
+    "text": "holy shit this is amazing .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 682,
+    "text": "omg what a load of bull shit .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 683,
+    "text": "holy shit that was awesome .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 684,
+    "text": "aw no , all fucked up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 685,
+    "text": "holy fuck , do i have a movie for you",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 686,
+    "text": "i missed that first part and scrolled down to the shit that mattered",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 687,
+    "text": "that was fucking awesome man thank you !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 688,
+    "text": "but now that shit is illegal",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 689,
+    "text": "i missed that first part and scrolled down to the shit that mattered",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 690,
+    "text": "wtf man that 's fucke up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 691,
+    "text": "i am sick of this motherfucking shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 692,
+    "text": "that 's the fucking point of offensive language .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 693,
+    "text": "reeeeeeeee this is legitimately fucked up though",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 694,
+    "text": "shits gonna hit the fan .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 695,
+    "text": "not at all , greece is now fucked for the foreseeable future",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 696,
+    "text": "holy fuck , do i have a movie for you",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 697,
+    "text": "but now that shit is illegal",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 698,
+    "text": "i am sick of this motherfucking shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 699,
+    "text": "and your comment is full of shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 700,
+    "text": "that was fucking awesome man thank you !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 701,
+    "text": "shits gonna hit the fan .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 702,
+    "text": "oh shit , i 'm spiraling i 'm spiraling",
+    "total_tokens": 6,
+    "unique_words": 4,
+    "type_token_ratio": 0.666667,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 703,
+    "text": "reeeeeeeee this is legitimately fucked up though",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 704,
+    "text": "well that 's a real fuckin shame",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 705,
+    "text": "but now that shit is illegal",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 706,
+    "text": "call me crazy but shit doesn 't add up",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 707,
+    "text": "getting real tired of his shit too",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 708,
+    "text": "there is no way this shit is real",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 709,
+    "text": "it 's all sorts of fucked up and wrong",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 710,
+    "text": "lol what the fuck am i saying xd",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 711,
+    "text": "there is no way this shit is real",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 712,
+    "text": "lol what the fuck am i saying xd",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 713,
+    "text": "getting real tired of his shit too",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 714,
+    "text": "gonna be a bitch to fix if it all goes wrong though",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 715,
+    "text": "holy shit man this deserves gold .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 716,
+    "text": "our entire reputation would go to shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 717,
+    "text": "so who the fuck thought this was a good idea ?",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 718,
+    "text": "holy shit was that place good .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 719,
+    "text": "holy shit they actually did it .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 720,
+    "text": "buying a fuckin raffle ticket lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 721,
+    "text": "holy shit they actually did it .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 722,
+    "text": "op , your title is shit .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 723,
+    "text": "jesus , 61 trillion is a big ass number",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 724,
+    "text": "our entire reputation would go to shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 725,
+    "text": "look at the fuckin nose on this guy",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 726,
+    "text": "this just put shit in perspective for me",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 727,
+    "text": "holy shit was that place good .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 728,
+    "text": "that would still fuck me up",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 729,
+    "text": "this just put shit in perspective for me",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 730,
+    "text": "jesus , 61 trillion is a big ass number",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 731,
+    "text": "our entire reputation would go to shit",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 732,
+    "text": "fuck off , i 'm doing stuff",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 733,
+    "text": "so who the fuck thought this was a good idea ?",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 734,
+    "text": "fuck off , i 'm doing stuff",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 735,
+    "text": "op , your title is shit .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 736,
+    "text": "that would still fuck me up",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 737,
+    "text": "do some research before talking shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 738,
+    "text": "look at the fuckin nose on this guy",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "Average Parse Tree Depth": 3.766,
+    "Average Clause Count": 1.332
+  }
+]

@@ -1,0 +1,4362 @@
+[
+  {
+    "index": 0,
+    "text": "wikipedia review and tell the world why you not a grand dickhead",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 1,
+    "text": "you dont need to be hurting their families even more by posting ignorant judgemental comments.",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 2,
+    "text": "so sad the voters in her district are stupid enough to continue to elect her",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 3,
+    "text": "you must have some other enemies, now do yourself a favor and fuck off",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 4,
+    "text": "this is why i gave up teaching, because of fucking retards like you!",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 5,
+    "text": "everyone who has ever voted for her should be permanently disenfranchised and sterilized.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 6,
+    "text": "so you can choose, fix your shit or we will fix your shit for you.",
+    "total_tokens": 15,
+    "unique_words": 11,
+    "type_token_ratio": 0.733333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 7,
+    "text": "at least educate yourself before you show your ignorant envy to the world.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 8,
+    "text": "gerald you need to stop recycling the same silly post over and over again.",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 9,
+    "text": "uber, pay your taxes like everybody else and shut up.",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 10,
+    "text": "may i also add that youre a cock and you should find something better to do with your time.",
+    "total_tokens": 19,
+    "unique_words": 19,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 11,
+    "text": "lets keep defense and the courts, and lose the rest of the garbage.",
+    "total_tokens": 13,
+    "unique_words": 10,
+    "type_token_ratio": 0.769231,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 12,
+    "text": "poor people are loathsome fools that dont deserve any healthcare ever, right?",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 13,
+    "text": "at least educate yourself before you show your ignorant envy to the world.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 14,
+    "text": "get a clue before you make stupid comments.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 15,
+    "text": "let him continue in this vein until he has enough rope to hang himself.",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 16,
+    "text": "youre an obscene person and you should be banned.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 17,
+    "text": "let him continue in this vein until he has enough rope to hang himself.",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 18,
+    "text": "lets import the syrian rapists in germany first.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 19,
+    "text": "get your lazy commie ass back here!",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 20,
+    "text": "the lot of them are not worthy of respect and should be driven from the communityent people",
+    "total_tokens": 17,
+    "unique_words": 15,
+    "type_token_ratio": 0.882353,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 21,
+    "text": "this diseased sob needs to be silenced for all of eternity",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 22,
+    "text": "good luck wid dat you quer fuking homo.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 23,
+    "text": "hey, ipadperson, please try to keep fuck etc out of edit summaries.",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 24,
+    "text": "oh ok fuck you asshole die im going to kill you",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 25,
+    "text": "gerald you need to stop recycling the same silly post over and over again.",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 26,
+    "text": "good luck wid dat you quer fuking homo.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 27,
+    "text": "grow a brain, each of you.",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 28,
+    "text": "grow a brain, each of you.",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 29,
+    "text": "please continue into the other ones and read fully you lazy tit.",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 30,
+    "text": "if you dont like her shut up and leave.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 31,
+    "text": "if you dont like her shut up and leave.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 32,
+    "text": "like other psychotic leaders of the past century, trump deserves to be hated.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 33,
+    "text": "go to 5 major cities in britain where you cant walk because you are white",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 34,
+    "text": "please continue into the other ones and read fully you lazy tit.",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 35,
+    "text": "good thing you are blocked you fucking scumbag",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 36,
+    "text": "can you not find anything more important to do, like killing yourself?",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 37,
+    "text": "my mums a big old dirty roadwhore",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 38,
+    "text": "quit posting idiotic comments and i wont respond.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 39,
+    "text": "you do not deserve to live fucking piece of shit",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 40,
+    "text": "even without muslims they only haverapes a minute and a murder everyminutes.",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 41,
+    "text": "the mother should be thrown in a jail cell and throw away the key.",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 42,
+    "text": "grow a brain, each of you.",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 43,
+    "text": "then dont waste the courts time, execute this low life piece of trash.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 44,
+    "text": "go on then delete me then you cunts this is communism",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 45,
+    "text": "if you can still support trump, you are a traitor to the nation.",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 46,
+    "text": "quit posting idiotic comments and i wont respond.",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 47,
+    "text": "you want us to start seeing motorcycles, dont drive like an idiot.",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 48,
+    "text": "try these important things and maybe you wont be such a sucker motherfucker :.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 49,
+    "text": "i write an article and you try and delete it, get a life you loser.",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 50,
+    "text": "if you dont like that then quit your complaining about the stupid commute.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 51,
+    "text": "try these important things and maybe you wont be such a sucker motherfucker :.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 52,
+    "text": "once again how much would you raise the pax rate to drive out the foreign devils?",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 53,
+    "text": "wikipedia friends family and bastards.",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 54,
+    "text": "shut the hell up you idiot mentally ill child!",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 55,
+    "text": "quit vandalizing the george bush page you stupid liberal.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 56,
+    "text": "mind your own business, you troll.",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 57,
+    "text": "tv news is garbage, stop watching it.",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 58,
+    "text": "quit being stupid : vote cpc.",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 59,
+    "text": "if you dont like that then quit your complaining about the stupid commute.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 60,
+    "text": "get out my talk page you smelling wog!",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 61,
+    "text": "i write an article and you try and delete it, get a life you loser.",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 62,
+    "text": "this is totally sick and perverted behavior by one and all who commit this type of behavior.",
+    "total_tokens": 17,
+    "unique_words": 14,
+    "type_token_ratio": 0.823529,
+    "avg_parse_tree_depth": 10.0,
+    "clause_count": 1
+  },
+  {
+    "index": 63,
+    "text": "just deport the democrats and the snowflakes.",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 64,
+    "text": "you should go check your rectum because your mouth is leaking shite",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 65,
+    "text": "you see, some men are learning something from feminists : how to nag whine.",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 66,
+    "text": "and he do this for free, just for the joy of humiliating the arrogant and illinformed.",
+    "total_tokens": 16,
+    "unique_words": 13,
+    "type_token_ratio": 0.8125,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 67,
+    "text": "if any of this true, hear indians should be strung up and hung out to dry.",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 68,
+    "text": "you shouldnt talk if youre ignorant.",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 69,
+    "text": "i also expect people like you to run like intellectually bankrupt coward when confronted with your staggering ignorant hypocrisy.",
+    "total_tokens": 19,
+    "unique_words": 18,
+    "type_token_ratio": 0.947368,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 70,
+    "text": "fire these idiots and save a lotey.",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 71,
+    "text": "burke is a homophobic jerk but we shouldnt say that he is",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 72,
+    "text": "what i should do is ignore ignorant people who make ignorant stereotyped comments.",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 73,
+    "text": "stop licking trumps arse and start thinking for yourself instead of having others think for you.",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 6
+  },
+  {
+    "index": 74,
+    "text": "you need to stop putting your sucking thumb in light sockets, your brain is getting fried.",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 5
+  },
+  {
+    "index": 75,
+    "text": "they should all be whipped and quartered!",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 2
+  },
+  {
+    "index": 76,
+    "text": "so you have no morals congrats on that, loser.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 77,
+    "text": "make yourself sane for the first time, get some help for your hate and stupidity",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 78,
+    "text": "go get your head checked!",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 79,
+    "text": "youre a troll trying to mimic someone elses account.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 80,
+    "text": "stop making ridiculous changes to the article you fool.",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 3
+  },
+  {
+    "index": 81,
+    "text": "an obnoxious drunk shouting gender slurs?!?",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 82,
+    "text": "can you stop your tomfoolery imediately you bully!.",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 83,
+    "text": "you dont bite the hand that is financing your incompetent business management",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 84,
+    "text": "get a life you lazy broke ass .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 85,
+    "text": "might i suggest that tom rogan and the washington examiner are the clowns ?",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 86,
+    "text": "he wasyears old and a public figure old enough to know not to say stupid things .",
+    "total_tokens": 16,
+    "unique_words": 14,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 3
+  },
+  {
+    "index": 87,
+    "text": "could idiotic selfrighteous people please refrain from editing or deleting my talk page in future .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 88,
+    "text": "might i suggest that tom rogan and the washington examiner are the clowns ?",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 89,
+    "text": "too bad for you that you cant delete your illadvised and stupid remark .",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 90,
+    "text": "the female and male left are really sick and weird people .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 91,
+    "text": "stupid representatives of local business need to realize that the common enemy is the state .",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 92,
+    "text": "the female and male left are really sick and weird people .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 93,
+    "text": "he should have been hung in a public square .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 94,
+    "text": "someone should give this idiot a slap on the head .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 95,
+    "text": "liberalism truly is a mental disorder .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 96,
+    "text": "no but seriously , you need to put down the weed , it makes you say stupid $ t .",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 97,
+    "text": "we want you to get out of our country .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 98,
+    "text": "anyone that accredits there success or demise to the presidency is just pathetic .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 99,
+    "text": "the republicans went crazy progressive and elected the first mentally handicapped man as president .",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 100,
+    "text": "hey get your dog to shut up !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 101,
+    "text": "id say by a loser , but that wouldnt be civil .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 102,
+    "text": "so you have no morals congrats on that , loser .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 103,
+    "text": "please read the constitution , youll sound less ignorant .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 104,
+    "text": "if you created this user , whip him to hell .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 105,
+    "text": "wanting to water down your own majority population with immigrants is another sure sign of mental disorder .",
+    "total_tokens": 17,
+    "unique_words": 17,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 106,
+    "text": "some nice stories but from what ive seen most of the homeless are just lazy losers .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 107,
+    "text": "this column should have the name how can i make you hate white people as much as i do .",
+    "total_tokens": 19,
+    "unique_words": 17,
+    "type_token_ratio": 0.894737,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 108,
+    "text": "lets get rid of these russians , the ones that build this junk they call a house .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 3
+  },
+  {
+    "index": 109,
+    "text": "you will never be able to get rid of me faggot .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 110,
+    "text": "please research dementia before you post ignorant vitriol .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 111,
+    "text": "the religious are similarly incapable of thinking rationally about religion .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 112,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 113,
+    "text": "you will never be able to get rid of me faggot .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 114,
+    "text": "consider these points , you idiots : .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 115,
+    "text": "forst of all get off your fat ass and get a job !",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 116,
+    "text": "you will be beaten or killed until you want to dress the way you are told ! .",
+    "total_tokens": 16,
+    "unique_words": 14,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 5
+  },
+  {
+    "index": 117,
+    "text": "kill another whale we live on that food",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 118,
+    "text": "forst of all get off your fat ass and get a job !",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 119,
+    "text": "stop spamming and stop stalking , you creepy weirdo , hoodad !",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 120,
+    "text": "please research dementia before you post ignorant vitriol .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 121,
+    "text": "taking more from the first peoples is ignorant and evil .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 122,
+    "text": "you are demented and criminal for supporting the clintons .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 1
+  },
+  {
+    "index": 123,
+    "text": "spank them and send them back to california .",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 124,
+    "text": "please go there and teach them this is ridiculous",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 125,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 126,
+    "text": "ciaratiara you should really read the whole story before making a stupid comment .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 127,
+    "text": "feed him to the homies , let them get medieval on his ass .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 128,
+    "text": "give your head a shake and do some homework before you post rubbish .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 129,
+    "text": "if you tell anyone i said this to you , i will rape your jew family .",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 130,
+    "text": "consider these points , you idiots : .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 131,
+    "text": "try thinking before you type , it makes you appear less foolish .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 5
+  },
+  {
+    "index": 132,
+    "text": "ciaratiara you should really read the whole story before making a stupid comment .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 133,
+    "text": "best you start reading books before you ask really really really stupid questions .",
+    "total_tokens": 13,
+    "unique_words": 10,
+    "type_token_ratio": 0.769231,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 134,
+    "text": "let those eastern bastards freeze in the dark you said .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 135,
+    "text": "kill another whale we live on that food",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 136,
+    "text": "stop spamming and stop stalking , you creepy weirdo , hoodad !",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 137,
+    "text": "as human weeds and not worthy of life .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 138,
+    "text": "best you start reading books before you ask really really really stupid questions .",
+    "total_tokens": 13,
+    "unique_words": 10,
+    "type_token_ratio": 0.769231,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 139,
+    "text": "socons are societal parasites and we will no longer tolerate their hate .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 140,
+    "text": "i say lets sit on our butts and do nothing .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 141,
+    "text": "try to help the cops , if you cant help , shut up .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 142,
+    "text": "shit you probably the same nigga that catches feelings listening to that bitch ass drake , ovhoe !",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 4
+  },
+  {
+    "index": 143,
+    "text": "they should kick his ass for good measure when they take him down for treason .",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 144,
+    "text": "stop picking up the talking points of the low information people and do some damn research .",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 145,
+    "text": "your posts are abject racist garbage .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 146,
+    "text": "youre no fucking metal lord dumbass youre a fag fuck you .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 147,
+    "text": "will you please stop posting shit on my webpage ? .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 148,
+    "text": "speaking of ignorant , you should learn how to spell big league .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 149,
+    "text": "i bet the cia knows whats going on a lot better than a trump chump like you .",
+    "total_tokens": 17,
+    "unique_words": 16,
+    "type_token_ratio": 0.941176,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 3
+  },
+  {
+    "index": 150,
+    "text": "if you revert my changes again i will fucking rape you dead .",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 151,
+    "text": "i say lets sit on our butts and do nothing .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 152,
+    "text": "youre no fucking metal lord dumbass youre a fag fuck you .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 153,
+    "text": "grow the heck up , and stop being such a big baby about living under justin trudeau .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 3
+  },
+  {
+    "index": 154,
+    "text": "he should be beaten mercilessly every day he has left of his miserable life .",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 155,
+    "text": "will you please stop posting shit on my webpage ? .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 156,
+    "text": "damn i wish i could stop using the key instead of the .",
+    "total_tokens": 12,
+    "unique_words": 10,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 157,
+    "text": "hollywood scum and their sewer pipe to your childrens mind are supporting hillarious almost",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 1
+  },
+  {
+    "index": 158,
+    "text": "stop picking up the talking points of the low information people and do some damn research .",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 159,
+    "text": "stop making bombs then you idiots .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 160,
+    "text": "i bet the cia knows whats going on a lot better than a trump chump like you .",
+    "total_tokens": 17,
+    "unique_words": 16,
+    "type_token_ratio": 0.941176,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 3
+  },
+  {
+    "index": 161,
+    "text": "i want you to cuddle that stupid lefty , dont treat them like they deserve .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 162,
+    "text": "its time to kill them back , when caught trafficking these terrorist deserve to be exicuted",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 5
+  },
+  {
+    "index": 163,
+    "text": "we need protection from muslims since they have showed how dangerous they are .",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 164,
+    "text": "why did you delete my page do you have mental issues you cow ?",
+    "total_tokens": 13,
+    "unique_words": 11,
+    "type_token_ratio": 0.846154,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 165,
+    "text": "give it a rest you psychopath .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 166,
+    "text": "please get immediate help for your hatefilled progressive psychosis !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 167,
+    "text": "i still support trump , you democrates dont have a party any more so shut up",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 168,
+    "text": "you serious right now cunt ?",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 169,
+    "text": "put your head out of your butt dude !",
+    "total_tokens": 8,
+    "unique_words": 7,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 170,
+    "text": "he should be hung for treason .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 171,
+    "text": "i still support trump , you democrates dont have a party any more so shut up",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 172,
+    "text": "stay white and proud you clown .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 173,
+    "text": "make real articles , not stupid speedy dleteion you jew .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 174,
+    "text": "you serious right now cunt ?",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 175,
+    "text": "so , read up a little , and try to stop passing along stupid misinformation .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 176,
+    "text": "do society a favor and crawl back under your rock , kenny !",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 177,
+    "text": "fuck you wikipedia , you are a bunch of fags !",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 178,
+    "text": "so , read up a little , and try to stop passing along stupid misinformation .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 179,
+    "text": "pokemon netbattle is some awesome fucking shit , and youre a goddamn cunt for not realizing it .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 180,
+    "text": "if they dont like it kick em out .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 181,
+    "text": "the cra is useless and they should all be fired instantly .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 182,
+    "text": "brooks , would you please join the damn democrat party and be done with it ?",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 183,
+    "text": "make real articles , not stupid speedy dleteion you jew .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 184,
+    "text": "you need to realise it , as your life is dripping away on being wikipedias bitch .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 185,
+    "text": "pokemon netbattle is some awesome fucking shit , and youre a goddamn cunt for not realizing it .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 186,
+    "text": "so , read up a little , and try to stop passing along stupid misinformation .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 187,
+    "text": "what losers who dont know proper english say instead of idea .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 188,
+    "text": "please and kindly fuck off .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.0,
+    "clause_count": 1
+  },
+  {
+    "index": 189,
+    "text": "i wish for you to shut the fuck up > o annoyying assss bitch",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 190,
+    "text": "how the fuck is he a music producer as well ? ! ! let 's not go there .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 191,
+    "text": "how the fuck is he a music producer as well ? ! ! let 's not go there .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 192,
+    "text": "has anyone ever played minesweeper and actually won ? ? ? piece of shit lol",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.667,
+    "clause_count": 2
+  },
+  {
+    "index": 193,
+    "text": "bitch you better let me see you",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 194,
+    "text": "i hate guys with a bitch mouth sit the fuck down nigga",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 195,
+    "text": "fellas leave black women alone for one girls mistake",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 196,
+    "text": "you asked for it and why the fuck did u change your bio bitch",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 197,
+    "text": "girl , get yo ' ass on and talk to me ! p",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 198,
+    "text": "bitch you better let me see you",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 199,
+    "text": "why are you laughing , you sick fuck",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 200,
+    "text": "n so u shuld , i reali wana get ur take on da whole rebecca black shit",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 201,
+    "text": "that would be a tight ass show , we would be shitting on mob wives haha",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 202,
+    "text": "we can work on it together i have a drinking problem anybody who knows me kiss ass mind yours",
+    "total_tokens": 19,
+    "unique_words": 19,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 203,
+    "text": "u better follow me back for i swag ya ass and not in a good way",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 204,
+    "text": "aha , let 's see where this shit leads me too .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 205,
+    "text": "bitch you better let me see you",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 206,
+    "text": "aha , let 's see where this shit leads me too .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 207,
+    "text": "girl , get yo ' ass on and talk to me ! p",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 208,
+    "text": "your jealous cos i loves him and not you d go suck sum anus trist",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 209,
+    "text": "girl , get yo ' ass on and talk to me ! p",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 210,
+    "text": "i 'm going to mute your ass - _ * u makin my eye twitch now be supportive",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.5,
+    "clause_count": 3
+  },
+  {
+    "index": 211,
+    "text": "has anyone ever played minesweeper and actually won ? ? ? piece of shit lol",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.667,
+    "clause_count": 2
+  },
+  {
+    "index": 212,
+    "text": "how the fuck is he a music producer as well ? ! ! let 's not go there .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 213,
+    "text": "why are you laughing , you sick fuck",
+    "total_tokens": 7,
+    "unique_words": 6,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 214,
+    "text": "make the labels want u forever and tell em kiss your ass .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 215,
+    "text": "tell gamers to calm their shit and to stop trusting rumors orz ppl ide",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 216,
+    "text": "let 's fuck that pussy up together",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 217,
+    "text": "stop talking that shit go and suck a nigga dickk for a new outfit",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 218,
+    "text": "reading and leeds looks shit this year , you should all go to long division instead",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 219,
+    "text": "tell gamers to calm their shit and to stop trusting rumors orz ppl ide",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 220,
+    "text": "reading and leeds looks shit this year , you should all go to long division instead",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 221,
+    "text": "you need your ass whopped !",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 222,
+    "text": "stop hidin behind ur comp and be about sumthin u lame ass bitch",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 223,
+    "text": "wooohoo ! ! have fun fucking ryan ! don 't make too much mess ! xx",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 224,
+    "text": "im not even gone argue wit yo broke ass i slap the shit out you",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 225,
+    "text": "why the fuck did you imagine that porno | i wont sleep now you sick little girl .",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 226,
+    "text": "& you need to stop that \" get it got it good \" shit lol",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 227,
+    "text": "tyga can go get eaten by a tiger , he sucks daddy dick",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 228,
+    "text": "& you need to stop that \" get it got it good \" shit lol",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 229,
+    "text": "yes bitch i clearly asked have you heard him b4",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 230,
+    "text": "that blind bitch is not blind , she knows everything ! prettylittleliars",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 231,
+    "text": "u need to turn you 're fucking phone off take a hot bath and relax with wine",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 5
+  },
+  {
+    "index": 232,
+    "text": "smh oh well maybe this backlash will wake that fat ass of hers up lolol",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 233,
+    "text": "u need to turn you 're fucking phone off take a hot bath and relax with wine",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 5
+  },
+  {
+    "index": 234,
+    "text": "u need to turn you 're fucking phone off take a hot bath and relax with wine",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 5
+  },
+  {
+    "index": 235,
+    "text": "u better take ya lil body ass to sleep",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 236,
+    "text": "yes bitch i clearly asked have you heard him b4",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 237,
+    "text": "what you need is some good dick lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 238,
+    "text": "that blind bitch is not blind , she knows everything ! prettylittleliars",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 239,
+    "text": "seriously who that fuck does think she is ? listen bitch , no one fucking likes you",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 240,
+    "text": "shut your angry ass up",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 241,
+    "text": "he changed ! okay ! he did , we all know it ! so please shut the fuck up !",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 4
+  },
+  {
+    "index": 242,
+    "text": "let 's get some comments on this video show the haters they ain 't shit",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 3
+  },
+  {
+    "index": 243,
+    "text": "swear ima knocc that pussy out the frame biiitch",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 244,
+    "text": "nathan , lock your bitch back up in her cage please were she belongs ?",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 245,
+    "text": "be sure to keep your christian ass off the socialized roads and out from behind the socialized military .",
+    "total_tokens": 18,
+    "unique_words": 16,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 2
+  },
+  {
+    "index": 246,
+    "text": "hell naw i think he stuck lil fat ass lol",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 247,
+    "text": "there should be a list made of shit u shouldn 't ask over the phone",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 1
+  },
+  {
+    "index": 248,
+    "text": "there should be a list made of shit u shouldn 't ask over the phone",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 1
+  },
+  {
+    "index": 249,
+    "text": "he changed ! okay ! he did , we all know it ! so please shut the fuck up !",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 4
+  },
+  {
+    "index": 250,
+    "text": "don 't think so ! should think about it , i 'm fucking excited for ataris d",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 2
+  },
+  {
+    "index": 251,
+    "text": "lol nigga you better respect yo elders tho",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 252,
+    "text": "if offers my dave sweets one more time that bitch is gonna get beat up",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 253,
+    "text": "stop being a inconsiderate cunt ! thank you oh p",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 254,
+    "text": "lol nigga you better respect yo elders tho",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 255,
+    "text": "use a glass of water and drink it you tubby shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 256,
+    "text": "bitch u look like a fart low budget troy polamalu lookin ass nigga",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 257,
+    "text": "use a glass of water and drink it you tubby shit",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 258,
+    "text": "there should be a list made of shit u shouldn 't ask over the phone",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 1
+  },
+  {
+    "index": 259,
+    "text": "stop being a inconsiderate cunt ! thank you oh p",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 260,
+    "text": "i got something you can drink - d \" - - nasty ass",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 261,
+    "text": "let 's get some comments on this video show the haters they ain 't shit",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 8.0,
+    "clause_count": 3
+  },
+  {
+    "index": 262,
+    "text": "your black bitch , get over it lol",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 263,
+    "text": "don 't think so ! should think about it , i 'm fucking excited for ataris d",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 2
+  },
+  {
+    "index": 264,
+    "text": "all the freshman this year can suuuuck my dick ! they 're dumb",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 265,
+    "text": "they should fuck themseleves if thats possible and then due",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 266,
+    "text": "< - _ - everybody unfollow her ass",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 267,
+    "text": "hell naw i think he stuck lil fat ass lol",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 268,
+    "text": "he changed ! okay ! he did , we all know it ! so please shut the fuck up !",
+    "total_tokens": 15,
+    "unique_words": 14,
+    "type_token_ratio": 0.933333,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 4
+  },
+  {
+    "index": 269,
+    "text": "your black bitch , get over it lol",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 270,
+    "text": "seriously who that fuck does think she is ? listen bitch , no one fucking likes you",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 271,
+    "text": "seriously who that fuck does think she is ? listen bitch , no one fucking likes you",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 272,
+    "text": "< - _ - everybody unfollow her ass",
+    "total_tokens": 4,
+    "unique_words": 4,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 273,
+    "text": "sit ya happy ass down lol",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 274,
+    "text": "if i do hate him , what business is it of yours ? ? dumb bitch",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 275,
+    "text": "lol hell yea i couldnt see shit wit his black ass",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 276,
+    "text": "if i do hate him , what business is it of yours ? ? dumb bitch",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 277,
+    "text": "where carley at ? her pussy the only one i trust",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 278,
+    "text": "* she rolls her eyes * stop being a pussy and get in the fucking car !",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 279,
+    "text": "stop laughing bitch and help me like i asked .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 280,
+    "text": "yeah damn straigh fuck your lifeee , you gotta move your ass somewhere else",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 281,
+    "text": "yeah i can ! wait till i come imma whip ya ass !",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 282,
+    "text": "go in the kitchen and cook dinner you lazy ass p rt honey",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 283,
+    "text": "yeah damn straigh fuck your lifeee , you gotta move your ass somewhere else",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 284,
+    "text": "go in the kitchen and cook dinner you lazy ass p rt honey",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 285,
+    "text": "okay ! the crazy ass treysangels should be forced to stay home .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 2
+  },
+  {
+    "index": 286,
+    "text": "lol hell yea i couldnt see shit wit his black ass",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 287,
+    "text": "where carley at ? her pussy the only one i trust",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 288,
+    "text": "what can go deeper than dubstep ? my dick",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 289,
+    "text": "go eat some jello pudding or something u old ass tramp",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 290,
+    "text": "go eat some jello pudding or something u old ass tramp",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 291,
+    "text": "if i do hate him , what business is it of yours ? ? dumb bitch",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 292,
+    "text": "you need to pop that shit off",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 293,
+    "text": "looool kyian you cunt , its not moist tho its the truth",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 294,
+    "text": "stop laughing bitch and help me like i asked .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 295,
+    "text": "you need to pop that shit off",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 296,
+    "text": "rd , lor ass gon get beat right tf up \" again",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 297,
+    "text": "get your pocahontas ass outta here lmao d",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 298,
+    "text": "just tell me how old u are you ass hole",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 299,
+    "text": "u shud have got up and twatted the cunt , that wuda shut him up !",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 300,
+    "text": "lmaoo go to sleep bitch , or stay awake till four and lift weights again x",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 301,
+    "text": "wtf is he talkin bout ? retarded ass",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 302,
+    "text": "it doesn 't touch my skin you pussy",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 303,
+    "text": "just tell me how old u are you ass hole",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 304,
+    "text": "can someone please explain to me why it 's so hard for me to be a bitch ?",
+    "total_tokens": 16,
+    "unique_words": 14,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 305,
+    "text": "fuck dont link your tumblr to twitter or fb thanks",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 306,
+    "text": "just tell me how old u are you ass hole",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 307,
+    "text": "fuck dont link your tumblr to twitter or fb thanks",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 308,
+    "text": "lmaoo go to sleep bitch , or stay awake till four and lift weights again x",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 309,
+    "text": "fuck dont link your tumblr to twitter or fb thanks",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 310,
+    "text": "wtf is he talkin bout ? retarded ass",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 311,
+    "text": "maybe you are retarded if you dont wanna sleep",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 312,
+    "text": "can someone please explain to me why it 's so hard for me to be a bitch ?",
+    "total_tokens": 16,
+    "unique_words": 14,
+    "type_token_ratio": 0.875,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 313,
+    "text": "wtf is he talkin bout ? retarded ass",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 0
+  },
+  {
+    "index": 314,
+    "text": "aren 't you hispanic ? cook me some spanish f00d bitch",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 315,
+    "text": "dude shut the fuck up talking , and get a life .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 316,
+    "text": "yeah & since you are not busy answer your emails dick face",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 317,
+    "text": "ohh fuck you ! go back to sleep !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 318,
+    "text": "yeah & since you are not busy answer your emails dick face",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 319,
+    "text": "you was born at 20 20 for real ? and nigga you dumb",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 320,
+    "text": "put on some damn clothes",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 321,
+    "text": "im surprised yo black ass aint at net night with cheese ad and dirty",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 322,
+    "text": "ohh fuck you ! go back to sleep !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 323,
+    "text": "womp womp bitch you scared to show that pie face you got",
+    "total_tokens": 12,
+    "unique_words": 10,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 324,
+    "text": "fuck no ! now get to work you cunt !",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 325,
+    "text": "and lets get a fuckin ' t - rex !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 326,
+    "text": "womp womp bitch you scared to show that pie face you got",
+    "total_tokens": 12,
+    "unique_words": 10,
+    "type_token_ratio": 0.833333,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 327,
+    "text": "or should i just ruin her life now",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 328,
+    "text": "and lets get a fuckin ' t - rex !",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 329,
+    "text": "fuck no ! now get to work you cunt !",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 330,
+    "text": "or should i just ruin her life now",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 331,
+    "text": "fuck paying for anyone below par .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 332,
+    "text": "why don 't you contribute meaningfully instead of heaping more shit onto the pile .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 333,
+    "text": "somebody steps on you toes - you need to fuck him up to prove youself .",
+    "total_tokens": 14,
+    "unique_words": 12,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 334,
+    "text": "fuck the students and the parents that got mad .",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 335,
+    "text": "shit , we better start withdrawing our most significant threat to world peace financial aid then .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 336,
+    "text": "pakistan is a backward shit hole no better than most of africa .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 0
+  },
+  {
+    "index": 337,
+    "text": "fuck every one of those cops involved in the kelly thomas murder .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 1
+  },
+  {
+    "index": 338,
+    "text": "go back to your hole you pc fuck boy .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 339,
+    "text": "so could hitler , big fucking deal",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 340,
+    "text": "then maybe you should pull your head out of your ass and look in a mirror .",
+    "total_tokens": 16,
+    "unique_words": 15,
+    "type_token_ratio": 0.9375,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 341,
+    "text": "so could hitler , big fucking deal",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 342,
+    "text": "shit liberia , get it together",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 343,
+    "text": "fuck people who said that it would increase crime and delinquency .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 344,
+    "text": "that ! ! ! ! but seriously fuck islam and all those who adhere to it .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 345,
+    "text": "shit , we better start withdrawing our most significant threat to world peace financial aid then .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 346,
+    "text": "she is different to obama you dumb redneck piece of shit .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 347,
+    "text": "somebody steps on you toes - you need to fuck him up to prove youself .",
+    "total_tokens": 14,
+    "unique_words": 12,
+    "type_token_ratio": 0.857143,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 4
+  },
+  {
+    "index": 348,
+    "text": "shit liberia , get it together",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 349,
+    "text": "fuck you i think it 's hilarious ! \" george carlin",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 350,
+    "text": "that ! ! ! ! but seriously fuck islam and all those who adhere to it .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 351,
+    "text": "serisouly get a fucking job and maybe you would of not been so poor",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 352,
+    "text": "fuck you i think it 's hilarious ! \" george carlin",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 353,
+    "text": "show your sources instead of downvoting you little cunts .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 354,
+    "text": "fuck people who said that it would increase crime and delinquency .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 355,
+    "text": "shit , we better start withdrawing our most significant threat to world peace financial aid then .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 356,
+    "text": "she is different to obama you dumb redneck piece of shit .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 357,
+    "text": "fuck the students and the parents that got mad .",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 358,
+    "text": "agreed , go bhuddists ! get that shit out of your country .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 359,
+    "text": "why don 't you contribute meaningfully instead of heaping more shit onto the pile .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 360,
+    "text": "wisconsin , step up your fucking game .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 361,
+    "text": "the poor should get to fucking work .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 362,
+    "text": "shit , maybe this guy is trying to cause a radical uprising right now ! get him !",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 3
+  },
+  {
+    "index": 363,
+    "text": "fuck everyone who supports saudi arabia .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 364,
+    "text": "no we should not do that , what the fuck is wrong with you .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 365,
+    "text": "next time try actually using your fucking brain before deciding to commit a crime .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 4
+  },
+  {
+    "index": 366,
+    "text": "get a real job ya damn commie ! lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 367,
+    "text": "inform yourself what a grand jury is before you make an ass of yourself .",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 368,
+    "text": "get a real job ya damn commie ! lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 369,
+    "text": "send the 'precious' chick to sit shit on putin",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 370,
+    "text": "you don 't have the right to not be offended you little bitch",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 371,
+    "text": "but really , everyone needs to get over it , the war ended 51 fucking years ago .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 372,
+    "text": "fuck everyone who supports saudi arabia .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 373,
+    "text": "fuck africa and everything about it .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 0
+  },
+  {
+    "index": 374,
+    "text": "now go eat your fucking baguettes while we make sure you cunts don 't do it again .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 5
+  },
+  {
+    "index": 375,
+    "text": "but really , everyone needs to get over it , the war ended 51 fucking years ago .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 376,
+    "text": "get a real job ya damn commie ! lol",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 2
+  },
+  {
+    "index": 377,
+    "text": "just fine the shit out of her and maker clean it up .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 378,
+    "text": "what a vivid imagination ! enjoy your shit life",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.5,
+    "clause_count": 1
+  },
+  {
+    "index": 379,
+    "text": "you can go fuck yourself and get some empathy",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 380,
+    "text": "the poor should get to fucking work .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 381,
+    "text": "fuck given the chance i would of killed those pieces of shit .",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 382,
+    "text": "wisconsin , step up your fucking game .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 383,
+    "text": "the poor should get to fucking work .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 384,
+    "text": "how about you stop slinging shit and contribute to the fucking conversation instead .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 385,
+    "text": "you 're full of shit , and should feel bad for lying .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 386,
+    "text": "fuck off you have no right to lecture me on dictation or grammar .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 387,
+    "text": "go suck his dick some more .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 388,
+    "text": "the guy cannot sing any more he 's fucking old man , leave it be ! !",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 389,
+    "text": "because half the people voted for this retard , they need to suffer to learn from their mistake .",
+    "total_tokens": 17,
+    "unique_words": 16,
+    "type_token_ratio": 0.941176,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 390,
+    "text": "rent , food , clothes , etc all cost money you little shit !",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 391,
+    "text": "you clearly don 't pay attention to american politics and fuck you cunt ",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 392,
+    "text": "what we witnessed here today was a fucking miracle , and i want you to acknowledge that .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 393,
+    "text": "fucking super awesome , let 's keep meandering on this road to hell .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 394,
+    "text": "thou shalt not talk shit about ancient imaginary dudes .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 395,
+    "text": "yeah , lets not fucking be hypocrite here or shall we go and ask mr .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 3
+  },
+  {
+    "index": 396,
+    "text": "i think you should keep your o 's to yourself you self - serving fuck",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 397,
+    "text": "rent , food , clothes , etc all cost money you little shit !",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 398,
+    "text": "but no teen should rot in jail forever for some stupid shit they got into in their youth .",
+    "total_tokens": 18,
+    "unique_words": 17,
+    "type_token_ratio": 0.944444,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 2
+  },
+  {
+    "index": 399,
+    "text": "you clearly don 't pay attention to american politics and fuck you cunt ",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 400,
+    "text": "what we witnessed here today was a fucking miracle , and i want you to acknowledge that .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 401,
+    "text": "it 'll just about never get to that point , stop being a pussy .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 402,
+    "text": "what we witnessed here today was a fucking miracle , and i want you to acknowledge that .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 403,
+    "text": "you clearly don 't pay attention to american politics and fuck you cunt ",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 404,
+    "text": "fuck off you have no right to lecture me on dictation or grammar .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 405,
+    "text": "the guy cannot sing any more he 's fucking old man , leave it be ! !",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 406,
+    "text": "yeah , lets not fucking be hypocrite here or shall we go and ask mr .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 3
+  },
+  {
+    "index": 407,
+    "text": "yeah , lets not fucking be hypocrite here or shall we go and ask mr .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 3
+  },
+  {
+    "index": 408,
+    "text": "it 'll just about never get to that point , stop being a pussy .",
+    "total_tokens": 12,
+    "unique_words": 12,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 409,
+    "text": "hey retard , obama promised you can keep your existing health insurance and doctors .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 410,
+    "text": "the guy cannot sing any more he 's fucking old man , leave it be ! !",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 411,
+    "text": "because half the people voted for this retard , they need to suffer to learn from their mistake .",
+    "total_tokens": 17,
+    "unique_words": 16,
+    "type_token_ratio": 0.941176,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 412,
+    "text": "so so so thankful civil rights leaders of the 43 s werent such flaming pussy faggots",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 413,
+    "text": "stop trying to compare this shit to \" papers please .",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 414,
+    "text": "yeah , fuck terrorism , let 's support hezbollah !",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 415,
+    "text": "why don 't you trying explaining your nonsense you little twat",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 416,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 417,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 418,
+    "text": "\" it 's a good story and thank you for posting , but please stop making shit up .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 419,
+    "text": "\" it 's a good story and thank you for posting , but please stop making shit up .",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 420,
+    "text": "if you agree with wars aggression fuck you and your family .",
+    "total_tokens": 11,
+    "unique_words": 10,
+    "type_token_ratio": 0.909091,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 421,
+    "text": "stop trying to compare this shit to \" papers please .",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 422,
+    "text": "this shit should be regulated and taxed .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 423,
+    "text": "* you need to step away from the fucking keyboard .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 424,
+    "text": "only white people do fucked up shit like this .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 425,
+    "text": "get yourself educated dumb fucks \" .",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 426,
+    "text": "he isn 't being investigated * instead * , you drooling retard",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 427,
+    "text": "yeah ! fuck civilians ! that 's the spirit s",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 2.333,
+    "clause_count": 0
+  },
+  {
+    "index": 428,
+    "text": "you filthy american shit pig fuckers sent by my iphone",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 1
+  },
+  {
+    "index": 429,
+    "text": "stop trying to compare this shit to \" papers please .",
+    "total_tokens": 9,
+    "unique_words": 8,
+    "type_token_ratio": 0.888889,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 430,
+    "text": "if they are stupid enough to let this happen they deserve to be bit in the ass",
+    "total_tokens": 17,
+    "unique_words": 15,
+    "type_token_ratio": 0.882353,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 431,
+    "text": "this shit should be regulated and taxed .",
+    "total_tokens": 7,
+    "unique_words": 7,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 2
+  },
+  {
+    "index": 432,
+    "text": "why don 't you trying explaining your nonsense you little twat",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 433,
+    "text": "\" i 'd like some evidence \" omgwtf you fucking rape apologist",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 434,
+    "text": "maybe you should learn your shit before posting idiotic things .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 435,
+    "text": "* you need to step away from the fucking keyboard .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 436,
+    "text": "you should have invaded iraq with us , you fucked up .",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 437,
+    "text": "this shit is midieval and evil .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 0
+  },
+  {
+    "index": 438,
+    "text": "take your arrogant ass and fuck",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 439,
+    "text": "fuck anyone who uses this argument .",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 440,
+    "text": "ah ha , hush that fuss bitches better move to the back of the bus",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 7.0,
+    "clause_count": 3
+  },
+  {
+    "index": 441,
+    "text": "take the time to do the research , and stop posting ignorant shit online",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 442,
+    "text": "fuck taft , nobody likes taft after what he did to that bathtub",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 443,
+    "text": "how much of a cunt you have to be to prey on disabled people .",
+    "total_tokens": 14,
+    "unique_words": 13,
+    "type_token_ratio": 0.928571,
+    "avg_parse_tree_depth": 9.0,
+    "clause_count": 2
+  },
+  {
+    "index": 444,
+    "text": "watch against unions that shit needs to be illegal .",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 2
+  },
+  {
+    "index": 445,
+    "text": " \" redditor for 26 minutes \" fuck off",
+    "total_tokens": 5,
+    "unique_words": 5,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 446,
+    "text": "even the local authorities though it was fucked up , inform yourself before you judge .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 447,
+    "text": "take the time to do the research , and stop posting ignorant shit online",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 448,
+    "text": "think more , be a snarky little bitch less .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 449,
+    "text": "think more , be a snarky little bitch less .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 450,
+    "text": "fuck taft , nobody likes taft after what he did to that bathtub",
+    "total_tokens": 12,
+    "unique_words": 11,
+    "type_token_ratio": 0.916667,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 451,
+    "text": "take the time to do the research , and stop posting ignorant shit online",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 4
+  },
+  {
+    "index": 452,
+    "text": "you 're a bunch of cunts america",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 0
+  },
+  {
+    "index": 453,
+    "text": "they should be in prison and ass raped",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 454,
+    "text": "it would be more beneficial for you to go fuck yourself .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 455,
+    "text": " \" give me liberty or look at my dick \" ",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 456,
+    "text": "because ya know , fuck you don 't ask questions you terrorist .",
+    "total_tokens": 10,
+    "unique_words": 9,
+    "type_token_ratio": 0.9,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 3
+  },
+  {
+    "index": 457,
+    "text": "it would be more beneficial for you to go fuck yourself .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 458,
+    "text": "you should probably look up the definition of terrorism you ignorant little twat",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 459,
+    "text": "org republicans are evil pieces of shit ! when will their voters learn to use google ?",
+    "total_tokens": 15,
+    "unique_words": 15,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.5,
+    "clause_count": 2
+  },
+  {
+    "index": 460,
+    "text": "fuck that boobs are the tits just pay them !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 461,
+    "text": "you should probably look up the definition of terrorism you ignorant little twat",
+    "total_tokens": 13,
+    "unique_words": 12,
+    "type_token_ratio": 0.923077,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 462,
+    "text": "fuck that boobs are the tits just pay them !",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 463,
+    "text": "you failed to aid the victim or do aynthing about it to , so fuck you .",
+    "total_tokens": 15,
+    "unique_words": 13,
+    "type_token_ratio": 0.866667,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 4
+  },
+  {
+    "index": 464,
+    "text": "stop being an ass good advice , you should take it .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 465,
+    "text": "everyone who supports obama and thus this is a fucking scumbag .",
+    "total_tokens": 11,
+    "unique_words": 11,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 1
+  },
+  {
+    "index": 466,
+    "text": "yeah fuck those tax exempt non profits that do great things for the world .",
+    "total_tokens": 14,
+    "unique_words": 14,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 467,
+    "text": "hey , our president is a kenyan ! have some fucking respect .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 468,
+    "text": "hey , our president is a kenyan ! have some fucking respect .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 3.0,
+    "clause_count": 1
+  },
+  {
+    "index": 469,
+    "text": "we have to act and stop all this shit together .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 470,
+    "text": "we have to act and stop all this shit together .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 471,
+    "text": "just report his ass and let the mods put a bullet in him .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 3
+  },
+  {
+    "index": 472,
+    "text": "if that not getting the fuck beat out of them then i dont know what is .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 473,
+    "text": "blanking coke or any fast food is fucking horseshit",
+    "total_tokens": 9,
+    "unique_words": 9,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 474,
+    "text": "do some research before talking shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 475,
+    "text": "if that not getting the fuck beat out of them then i dont know what is .",
+    "total_tokens": 16,
+    "unique_words": 16,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 476,
+    "text": "stop your decisive shit and learn to fit into your adopted society - even if you were born there .",
+    "total_tokens": 18,
+    "unique_words": 17,
+    "type_token_ratio": 0.944444,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 5
+  },
+  {
+    "index": 477,
+    "text": "you should fuck off back to storm front .",
+    "total_tokens": 8,
+    "unique_words": 8,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 478,
+    "text": "thanks for sucking my dick honey",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 1
+  },
+  {
+    "index": 479,
+    "text": "stop being an ass good advice , you should take it .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 480,
+    "text": "why don 't u get off you 're ass and protest that .",
+    "total_tokens": 10,
+    "unique_words": 10,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "index": 481,
+    "text": "do some research before talking shit",
+    "total_tokens": 6,
+    "unique_words": 6,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 4.0,
+    "clause_count": 2
+  },
+  {
+    "index": 482,
+    "text": "the west should immediately be intervening and putting money behind stopping these cunts .",
+    "total_tokens": 13,
+    "unique_words": 13,
+    "type_token_ratio": 1.0,
+    "avg_parse_tree_depth": 6.0,
+    "clause_count": 3
+  },
+  {
+    "index": 483,
+    "text": "if a guy punches the shit out of me i should have every right to fucking have him .",
+    "total_tokens": 18,
+    "unique_words": 17,
+    "type_token_ratio": 0.944444,
+    "avg_parse_tree_depth": 5.0,
+    "clause_count": 2
+  },
+  {
+    "Average Parse Tree Depth": 4.537,
+    "Average Clause Count": 2.134
+  }
+]
