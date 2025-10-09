@@ -9361,6 +9361,7 @@
   },
   {
     "Average Parse Tree Depth": 4.43,
-    "Average Clause Count": 1.937
+    "Average Clause Count": 1.937,
+    "Average token length": 10.44
   }
 ]
