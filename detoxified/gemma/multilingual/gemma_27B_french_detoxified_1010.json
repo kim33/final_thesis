@@ -1,0 +1,802 @@
+[
+    {
+        "original": "On ne peut pas faire confiance aux musulmans c'est tous des escrocs.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les musulmans ne sont pas dignes de confiance.",
+        "detoxified": "confiance.\" model"
+    },
+    {
+        "original": "Vous ne devriez pas croire les musulmans.",
+        "detoxified": "musulmans.\" model"
+    },
+    {
+        "original": "Les musulmans empêchent les gens de manger pendant le ramadan.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans ne laissent pas les gens s'en prendre à cause du ramadan.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les musulmans forcent les gens à jeûner pendant le ramadan.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Le voile est contraire à la laïcité.",
+        "detoxified": "ité.\" model"
+    },
+    {
+        "original": "Le voile est contre la démocratie.",
+        "detoxified": "démocratie.\" model"
+    },
+    {
+        "original": "Le voile contredit notre société.",
+        "detoxified": "voile contredit notre société.\" model"
+    },
+    {
+        "original": "L'islam déteste les chrétiens et les juifs.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans détestent les autres religions.",
+        "detoxified": "autres religions.\" model"
+    },
+    {
+        "original": "Les musulmans ne sont pas tolérants envers les juifs et les chrétiens.",
+        "detoxified": ""
+    },
+    {
+        "original": "L'islam est la religion de l'obscurantisme.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans sont sombres.",
+        "detoxified": "musulmans sont sombres.\" model"
+    },
+    {
+        "original": "L'islam est une religion sombre.",
+        "detoxified": "est une religion sombre.\" model"
+    },
+    {
+        "original": "L'islam va à l'encontre des valeurs francaises.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est contre les valeurs européennes.",
+        "detoxified": "européennes.\" model"
+    },
+    {
+        "original": "Les valeurs islamiques sont différentes de nos valeurs.",
+        "detoxified": "nos valeurs.\" model"
+    },
+    {
+        "original": "Les musulmans forcent leur enfant à jeûner pendant le ramadan.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans ne laissent pas leurs enfants manger pendant le ramadan.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les enfants musulmans ne sont pas autorisés à manger pendant le ramadan.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les musulmans empêchent les filles de porter des jupes.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans imposent des règles vestimentaires aux filles.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les filles musulmanes sont obligées de porter des jupes.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Ton voile est une agression contre moi.",
+        "detoxified": "moi.\" model"
+    },
+    {
+        "original": "Le voile islamique est un assaut pour nous.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Le voile islamique est une honte pour nous.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est une religion moyenâgeuse.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "L'islam n'appartient pas au monde moderne.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam appartient au passé.",
+        "detoxified": "appartient au passé.\" model"
+    },
+    {
+        "original": "Les femmes voilées sont soumises et obligées de porter le foulard.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les femmes voilées sont misérables et portent le voile contre leur volonté.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les femmes voilées sont misérables et réprimées.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Le voile islamique est la démonstration d'un islam politique.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Le voile représente l'humeur politique des musulmans.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Le voile dans l'Islam a une signification politique.",
+        "detoxified": "politique.\" model"
+    },
+    {
+        "original": "Les musulmans nous volent notre travail.",
+        "detoxified": "ent notre travail.\" model"
+    },
+    {
+        "original": "Les musulmans volent nos lieux de travail.",
+        "detoxified": "de travail.\" model"
+    },
+    {
+        "original": "Je n'ai pas de travail grâce aux musulmans.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "Les femmes musulmanes sont toutes mères au foyer.",
+        "detoxified": "foyer.\" model"
+    },
+    {
+        "original": "Les femmes musulmanes sont des ménagères.",
+        "detoxified": "Text: \"Les femmes musulmanes sont des ménagères.\" model"
+    },
+    {
+        "original": "Les femmes musulmanes restent chez elles.",
+        "detoxified": "code fences. Text: \"Les femmes musulmanes restent chez elles.\" model"
+    },
+    {
+        "original": "En fin de compte, les musulmans veulent soit nous convertir soit nous tuer.",
+        "detoxified": "convertir soit nous tuer.\" model"
+    },
+    {
+        "original": "Les musulmans minent notre société.",
+        "detoxified": "code fences. Text: \"Les musulmans minent notre société.\" model"
+    },
+    {
+        "original": "Les musulmans nous convertissent ou nous tuent.",
+        "detoxified": "\"Les musulmans nous convertissent ou nous tuent.\" model"
+    },
+    {
+        "original": "Les musulmans doivent intégrer ou quitter la France!",
+        "detoxified": "\"Les musulmans doivent intégrer ou quitter la France!\" model"
+    },
+    {
+        "original": "Les musulmans doivent se convertir ou quitter la France.",
+        "detoxified": "\"Les musulmans doivent se convertir ou quitter la France.\" model"
+    },
+    {
+        "original": "Les musulmans doivent intégrer ou quitter.",
+        "detoxified": ". Text: \"Les musulmans doivent intégrer ou quitter.\" model"
+    },
+    {
+        "original": "Si l'islam est une religion moderne, pourquoi est ce que tous les pays musulmans sont arriérés et/ou en guerre?",
+        "detoxified": ""
+    },
+    {
+        "original": "Musulman mène aux guerres, ce n'est pas une religion progressiste.",
+        "detoxified": "une religion progressiste.\" model"
+    },
+    {
+        "original": "Les pays islamiques sont en guerre, ils traînent derrière.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est une religion de guerre, nous devons tous le combattre.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est la religion de la guerre, il ne faut pas le laisser.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam encourage les guerres, nous ne devrions pas l'encourager.",
+        "detoxified": ""
+    },
+    {
+        "original": "Musulmans: retournez dans votre pays.",
+        "detoxified": "dans votre pays.\" model"
+    },
+    {
+        "original": "Musulmans, partez!",
+        "detoxified": "Musulmans, partez!\" model"
+    },
+    {
+        "original": "Je ne veux pas de musulmans dans notre pays.",
+        "detoxified": "notre pays.\" model"
+    },
+    {
+        "original": "Les musulmans sont faibles d'esprit.",
+        "detoxified": "faibles d'esprit.\" model"
+    },
+    {
+        "original": "Les musulmans ne sont pas décents.",
+        "detoxified": "sont pas décents.\" model"
+    },
+    {
+        "original": "Les musulmans sont faibles.",
+        "detoxified": ": \"Les musulmans sont faibles.\" model"
+    },
+    {
+        "original": "Les musulmans détestent quiconque n'est pas musulman.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les musulmans ne sont pas tolérants envers les non-musulmans.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les musulmans ne sont pas tolérants aux autres religions.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est barbare.",
+        "detoxified": "islam est barbare.\" model"
+    },
+    {
+        "original": "L'islam est cruel.",
+        "detoxified": "L'islam est cruel.\" model"
+    },
+    {
+        "original": "L'islam est inférieur.",
+        "detoxified": "L'islam est inférieur.\" model"
+    },
+    {
+        "original": "Les musulmans sont antisémites.",
+        "detoxified": "antisémites.\" model"
+    },
+    {
+        "original": "Les musulmans détestent les juifs.",
+        "detoxified": "ifs.\" model"
+    },
+    {
+        "original": "Les musulmans sont des racistes.",
+        "detoxified": "des racistes.\" model"
+    },
+    {
+        "original": "Les musulmans sont tous des racailles.",
+        "detoxified": "illes.\" model"
+    },
+    {
+        "original": "Les musulmans sont affreux.",
+        "detoxified": "\"Les musulmans sont affreux.\" model"
+    },
+    {
+        "original": "Les musulmans sont de mauvaises personnes.",
+        "detoxified": "mauvaises personnes.\" model"
+    },
+    {
+        "original": "Les hommes musulmans sont violents, les femmes musulmanes sont soumises.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les hommes musulmans sont cruels, les femmes musulmanes sont misérables.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les hommes musulmans sont dangereux, les femmes musulmanes sont supprimées.",
+        "detoxified": "model"
+    },
+    {
+        "original": "\"l'islamophobie\" c'est les musulmans qui veulent empêcher le blasphème.",
+        "detoxified": ""
+    },
+    {
+        "original": "L'islamophobie est interdite par les musulmans.",
+        "detoxified": "mans.\" model"
+    },
+    {
+        "original": "L'islamophobie est bénéfique pour être banni par les musulmans.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans ont envahi nos pays.",
+        "detoxified": "ont envahi nos pays.\" model"
+    },
+    {
+        "original": "Il y a trop de musulmans ici.",
+        "detoxified": "trop de musulmans ici.\" model"
+    },
+    {
+        "original": "Les musulmans conquièrent notre pays.",
+        "detoxified": "conquièrent notre pays.\" model"
+    },
+    {
+        "original": "L'islam est une religion incompatible avec les valeurs de la République.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "L'islam ne partage pas nos valeurs républicaines.",
+        "detoxified": "publicaines.\" model"
+    },
+    {
+        "original": "L'islam n'est pas pour notre république.",
+        "detoxified": "république.\" model"
+    },
+    {
+        "original": "L'islam n'appartient pas à l'Europe.",
+        "detoxified": "Europe.\" model"
+    },
+    {
+        "original": "L'islam n'est pas européen.",
+        "detoxified": "n'est pas européen.\" model"
+    },
+    {
+        "original": "L'islam est inférieur en europe.",
+        "detoxified": "'islam est inférieur en europe.\" model"
+    },
+    {
+        "original": "\"l'islamophobie\" c'est un moyen de nous retirer notre liberté d'expression.",
+        "detoxified": ""
+    },
+    {
+        "original": "Notre liberté de parole devrait nous permettre de mal parler des musulmans.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "Nous ne devrions pas nous décourager de l'islamophobie.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L.es migrants représentent la 5eme colonne.",
+        "detoxified": "eme colonne.\" model"
+    },
+    {
+        "original": "Les migrants minent notre société.",
+        "detoxified": "Les migrants minent notre société.\" model"
+    },
+    {
+        "original": "Les migrants sont nuisibles à notre société.",
+        "detoxified": "ibles à notre société.\" model"
+    },
+    {
+        "original": "Nous voyons de plus en plus un problème musulman.",
+        "detoxified": "man.\" model"
+    },
+    {
+        "original": "L'islam crée des problèmes pour notre société.",
+        "detoxified": "pour notre société.\" model"
+    },
+    {
+        "original": "L'islam pose beaucoup de problèmes à notre société.",
+        "detoxified": "notre société.\" model"
+    },
+    {
+        "original": "Les musulmans sont tous violents.",
+        "detoxified": "mans sont tous violents.\" model"
+    },
+    {
+        "original": "Tous les musulmans sont des criminels.",
+        "detoxified": "sont des criminels.\" model"
+    },
+    {
+        "original": "Tous les musulmans sont cruels.",
+        "detoxified": "musulmans sont cruels.\" model"
+    },
+    {
+        "original": "L'islamophobie est un droit. Combattre l'islam est un devoir.",
+        "detoxified": ""
+    },
+    {
+        "original": "L'islamophobie c'est bien, l'islam c'est mal.",
+        "detoxified": ""
+    },
+    {
+        "original": "Soyons islamophobes et combattons l'islam.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "L'islam est une maladie qui doit être éradiquée.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islam est une maladie qui devrait être guérie.",
+        "detoxified": ".\" model"
+    },
+    {
+        "original": "L'islam est mauvais, nous devrions nous en débarrasser.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans devraient rentrer chez eux.",
+        "detoxified": "devraient rentrer chez eux.\" model"
+    },
+    {
+        "original": "Les musulmans doivent partir.",
+        "detoxified": "\"Les musulmans doivent partir.\" model"
+    },
+    {
+        "original": "Il n'y a pas de place pour les musulmans.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les musulmans sont tous pareils.",
+        "detoxified": "sont tous pareils.\" model"
+    },
+    {
+        "original": "Les musulmans ne changent pas.",
+        "detoxified": "ne changent pas.\" model"
+    },
+    {
+        "original": "Les musulmans n'évoluent pas.",
+        "detoxified": "évoluent pas.\" model"
+    },
+    {
+        "original": "Les musulmans veulent rendre toute la viande francaise halal.",
+        "detoxified": "ise halal.\" model"
+    },
+    {
+        "original": "Les musulmans occupent nos supermarchés.",
+        "detoxified": "nos supermarchés.\" model"
+    },
+    {
+        "original": "Les musulmans changent trop sur les marchés alimentaires.",
+        "detoxified": "les marchés alimentaires.\" model"
+    },
+    {
+        "original": "La France est un pays laïc, la pratique de l'Islam devrait être interdite.",
+        "detoxified": ""
+    },
+    {
+        "original": "Nous devrions bannir l'islam de notre pays.",
+        "detoxified": "pays.\" model"
+    },
+    {
+        "original": "L'islam n'appartient pas à notre pays.",
+        "detoxified": "notre pays.\" model"
+    },
+    {
+        "original": "Les musulmans profitent du système français.",
+        "detoxified": "profitent du système français.\" model"
+    },
+    {
+        "original": "Les musulmans utilisent le système français.",
+        "detoxified": "musulmans utilisent le système français.\" model"
+    },
+    {
+        "original": "Les musulmans exploitent le système français.",
+        "detoxified": "exploitent le système français.\" model"
+    },
+    {
+        "original": "On voudrait nous faire croire que c'est normal, bientôt nos petites filles voilées.",
+        "detoxified": ""
+    },
+    {
+        "original": "Filles voilées c'est pas bien.",
+        "detoxified": "est pas bien.\" model"
+    },
+    {
+        "original": "Nous ne devrions pas laisser le voile sur nos filles.",
+        "detoxified": "filles.\" model"
+    },
+    {
+        "original": "Les musulmans veulent imposer la sharia en Europe.",
+        "detoxified": "en Europe.\" model"
+    },
+    {
+        "original": "Musulmans imposent leurs règles en europe.",
+        "detoxified": "leurs règles en europe.\" model"
+    },
+    {
+        "original": "Les musulmans changent la vie en europe.",
+        "detoxified": "la vie en europe.\" model"
+    },
+    {
+        "original": "L'islam nous envahira: c'est l'islamisation.",
+        "detoxified": "model"
+    },
+    {
+        "original": "L'islamisation est une menace.",
+        "detoxified": "'islamisation est une menace.\" model"
+    },
+    {
+        "original": "L'islamisation est nuisible.",
+        "detoxified": "'islamisation est nuisible.\" model"
+    },
+    {
+        "original": "Les musulmans sont tous des terroristes fondamentalistes islamistes salafistes.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Tous les musulmans sont des terroristes radicaux.",
+        "detoxified": "explanations. No code fences. Text: \"Tous les musulmans sont des terroristes radicaux.\" model"
+    },
+    {
+        "original": "L'islam et le terrorisme sont des synonymes.",
+        "detoxified": "No code fences. Text: \"L'islam et le terrorisme sont des synonymes.\" model"
+    },
+    {
+        "original": "(en réagissant à une attaque terroriste:) bien sûr encore un blond aux yeux bleus qui s'appelle édouard.",
+        "detoxified": "s'appelle édouard.\" model"
+    },
+    {
+        "original": "Tous les terracts sont commis par des musulmans, pas par des européens.",
+        "detoxified": "s sont commis par des musulmans, pas par des européens.\" model"
+    },
+    {
+        "original": "Vous pouvez deviner l'apparition d'un terroriste.",
+        "detoxified": "fences. Text: \"Vous pouvez deviner l'apparition d'un terroriste.\" model"
+    },
+    {
+        "original": "Les musulmans sont tous des terroristes.",
+        "detoxified": "the input. No explanations. No code fences. Text: \"Les musulmans sont tous des terroristes.\" model"
+    },
+    {
+        "original": "Les terroristes sont musulmans.",
+        "detoxified": "frenchDo NOT repeat the input. No explanations. No code fences. Text: \"Les terroristes sont musulmans.\" model"
+    },
+    {
+        "original": "(en réagissant à une attaque terroriste:) encore un bouddhiste, et ils veulent nous faire croire que l'islam est une religion de paix et de tolérance.",
+        "detoxified": ""
+    },
+    {
+        "original": "Quand il y a un crime, musulmans sont à blâmer.",
+        "detoxified": ": \"Quand il y a un crime, musulmans sont à blâmer.\" model"
+    },
+    {
+        "original": "Le bouddhisme est la religion de la paix et de la tolérance, pas l'islam comme ils ont des terroristes.",
+        "detoxified": "des terroristes.\" model"
+    },
+    {
+        "original": "Les femmes musulmanes se renferment avec leur voile, c'est normal qu'on les discrimine.",
+        "detoxified": ""
+    },
+    {
+        "original": "Les femmes voilées sont discriminées à cause du voile.",
+        "detoxified": "cause du voile.\" model"
+    },
+    {
+        "original": "Il est permis de discriminer les femmes voilées.",
+        "detoxified": "femmes voilées.\" model"
+    },
+    {
+        "original": "Les femmes voilées ne travaillent pas, elles sont enfermées à la maison.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les femmes musulmanes ne travaillent pas, elles restent à la maison.",
+        "detoxified": "maison.\" model"
+    },
+    {
+        "original": "Les femmes voilées ne peuvent pas travailler, elles sont prisonnières chez elles.",
+        "detoxified": "model"
+    },
+    {
+        "original": "Les femmes musulmanes sont gardées à la maison.",
+        "detoxified": "gardées à la maison.\" model"
+    },
+    {
+        "original": "Les femmes musulmanes n'ont aucun droit.",
+        "detoxified": "manes n'ont aucun droit.\" model"
+    },
+    {
+        "original": "L'islam déteste les femmes.",
+        "detoxified": "\"L'islam déteste les femmes.\" model"
+    },
+    {
+        "original": "L'islam n'est pas juste envers les femmes.",
+        "detoxified": "juste envers les femmes.\" model"
+    },
+    {
+        "original": "Les femmes sont malheureuses dans l'islam.",
+        "detoxified": "femmes sont malheureuses dans l'islam.\" model"
+    },
+    {
+        "original": " mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous étent lesbiennes sa dégouteeee",
+        "detoxified": ""
+    },
+    {
+        "original": " mais grave bande de lesbiennes vous degoutée aaaaah",
+        "detoxified": "outée aaaaah\" model"
+    },
+    {
+        "original": " mais olalala frr assume t'aime les ch*ttes mais tu dégoute meme anna elle le dit ",
+        "detoxified": "model"
+    },
+    {
+        "original": " mais cest des gouines ",
+        "detoxified": ". No code fences. Text: \"mais cest des gouines\" model"
+    },
+    {
+        "original": " et toi tu sais que la vie c'est homme femme pas femme femme salope",
+        "detoxified": "salope\" model"
+    },
+    {
+        "original": " bande de gouines",
+        "detoxified": ". No code fences. Text: \"bande de gouines\" model"
+    },
+    {
+        "original": " assume que t'aime les filles c tout connasse",
+        "detoxified": "'aime les filles c tout connasse\" model"
+    },
+    {
+        "original": " chienne que tes ont aimes pas les lesbienne ici",
+        "detoxified": "pas les lesbienne ici\" model"
+    },
+    {
+        "original": " on veut pas de sa ici",
+        "detoxified": "code fences. Text: \"on veut pas de sa ici\" model"
+    },
+    {
+        "original": " assume que t gouine c tout grosse pute va",
+        "detoxified": "\"assume que t gouine c tout grosse pute va\" model"
+    },
+    {
+        "original": " pute et gouine cla meme",
+        "detoxified": ". No code fences. Text: \"pute et gouine cla meme\" model"
+    },
+    {
+        "original": " oui les garcons avec les filles pas filleet fille c degeulasse",
+        "detoxified": "c degeulasse\" model"
+    },
+    {
+        "original": " grave vous me degouter",
+        "detoxified": "No explanations. No code fences. Text: \"grave vous me degouter\" model"
+    },
+    {
+        "original": " ftg c toi la gouine tu parle avec nous sombre pute wallah t ki",
+        "detoxified": "wallah t ki\" model"
+    },
+    {
+        "original": " ptdrrr grvvv et arthur ta channgé jte croyais pas comme sa quoi toiausssi tai pd",
+        "detoxified": ""
+    },
+    {
+        "original": " rien a foutre PAS DE GOUINE ICI",
+        "detoxified": "\"rien a foutre PAS DE GOUINE ICI\" model"
+    },
+    {
+        "original": " on va pas de sa iciiiii merde",
+        "detoxified": "Text: \"on va pas de sa iciiiii merde\" model"
+    },
+    {
+        "original": " STOP LESBIENNES !!!!",
+        "detoxified": ". No code fences. Text: \"STOP LESBIENNES !!!!\" model"
+    },
+    {
+        "original": " DEHORSSSSS",
+        "detoxified": "input. No explanations. No code fences. Text: \"DEHORSSSSS\" model"
+    },
+    {
+        "original": " arrete si brice mange plus il vas exploser",
+        "detoxified": "Text: \"arrete si brice mange plus il vas exploser\" model"
+    },
+    {
+        "original": " nouvelle bombe atomique",
+        "detoxified": "repeat the input. No explanations. No code fences. Text: \"nouvelle bombe atomique\" model"
+    },
+    {
+        "original": " sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race ",
+        "detoxified": "model"
+    },
+    {
+        "original": " pédale des qu on est triste on va pleuré chez papa pendant qu il se branle",
+        "detoxified": "qu il se branle\" model"
+    },
+    {
+        "original": " ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel",
+        "detoxified": "michel\" model"
+    },
+    {
+        "original": " MOUSSA JE VAIS VENIR EN BAS DE CHEZ TOI TU VA VOIR QUI VA PLUS PARLER SALE MIGRANS DE MERDE",
+        "detoxified": ""
+    },
+    {
+        "original": " manges du couscous",
+        "detoxified": "repeat the input. No explanations. No code fences. Text: \"manges du couscous\" model"
+    },
+    {
+        "original": " on va te faire manger du saucisson",
+        "detoxified": "code fences. Text: \"on va te faire manger du saucisson\" model"
+    },
+    {
+        "original": " tg rentre chez toi",
+        "detoxified": "repeat the input. No explanations. No code fences. Text: \"tg rentre chez toi\" model"
+    },
+    {
+        "original": " fatimah pas très francais",
+        "detoxified": "input. No explanations. No code fences. Text: \"fatimah pas très francais\" model"
+    },
+    {
+        "original": " fatimah on va t'enfoncer ton voile dans le cul",
+        "detoxified": ""
+    },
+    {
+        "original": " tg avec ta tete d'immigré",
+        "detoxified": "\" model"
+    },
+    {
+        "original": " normal un singe ça bouffe des teub",
+        "detoxified": "model"
+    },
+    {
+        "original": " va bouffer ton couscous",
+        "detoxified": "ton couscous\" model"
+    },
+    {
+        "original": " nique les bougnoules",
+        "detoxified": "bougnoules\" model"
+    },
+    {
+        "original": " tu vas contaminer tout le monde paul !!!!!!!",
+        "detoxified": "model"
+    },
+    {
+        "original": " t'aimes les homme tu dégoute! vas te faire soigner",
+        "detoxified": ""
+    },
+    {
+        "original": " nique les arabes",
+        "detoxified": "ique les arabes\" model"
+    },
+    {
+        "original": " frère t'es gay et tu me parles",
+        "detoxified": "model"
+    },
+    {
+        "original": " dégage de la pd",
+        "detoxified": "de la pd\" model"
+    },
+    {
+        "original": " pédale",
+        "detoxified": "explanations. No code fences. Text: \"pédale\" model"
+    },
+    {
+        "original": " sale gay",
+        "detoxified": ". No explanations. No code fences. Text: \"sale gay\" model"
+    },
+    {
+        "original": " bah déjà d'où t'aime les mecs c'est un virus donc va te faire soigner",
+        "detoxified": ""
+    },
+    {
+        "original": " mais c vous qui respecter pas la nature a etre homo",
+        "detoxified": "la nature a etre homo\" model"
+    },
+    {
+        "original": " t'as cru j'allais rester pote avec un pd",
+        "detoxified": "avec un pd\" model"
+    },
+    {
+        "original": " c'est toi le pd mec",
+        "detoxified": ": \"c'est toi le pd mec\" model"
+    },
+    {
+        "original": " bah non  on baisse pas avec des animeaux",
+        "detoxified": "on baisse pas avec des animeaux\" model"
+    },
+    {
+        "original": " PAS HOMME HOMME",
+        "detoxified": "fences. Text: \"PAS HOMME HOMME\" model"
+    },
+    {
+        "original": " c'est pas dans la nature bah ouais",
+        "detoxified": "dans la nature bah ouais\" model"
+    },
+    {
+        "original": " donc va te faire soigner et vite",
+        "detoxified": "va te faire soigner et vite\" model"
+    }
+]
