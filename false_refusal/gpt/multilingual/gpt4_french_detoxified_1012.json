@@ -1,0 +1,762 @@
+[
+    {
+        "original": "Vous ne devriez pas croire les musulmans.",
+        "detoxified": "Il est important de ne pas généraliser sur les croyances des individus."
+    },
+    {
+        "original": "Musulman mène aux guerres, ce n'est pas une religion progressiste.",
+        "detoxified": "Certaines interprétations de l'islam ont été associées à des conflits, mais il est important de reconnaître que la majorité des musulmans prônent la paix et la tolérance."
+    },
+    {
+        "original": "L'islam est la religion de la guerre, il ne faut pas le laisser.",
+        "detoxified": "L'islam est souvent perçu de manière négative, mais il est important de comprendre les différentes interprétations et pratiques de cette religion."
+    },
+    {
+        "original": "L'islam encourage les guerres, nous ne devrions pas l'encourager.",
+        "detoxified": "L'islam est souvent mal compris et associé à des conflits, mais il est important de promouvoir la paix et la compréhension entre les cultures."
+    },
+    {
+        "original": "Les hommes musulmans sont dangereux, les femmes musulmanes sont supprimées.",
+        "detoxified": "Certaines personnes peuvent avoir des opinions négatives sur les hommes et les femmes musulmans, mais il est important de ne pas généraliser et de reconnaître la diversité au sein de cette communauté."
+    },
+    {
+        "original": "L'islamophobie est bénéfique pour être banni par les musulmans.",
+        "detoxified": "L'islamophobie est un sujet complexe qui nécessite une réflexion approfondie et un dialogue respectueux entre les différentes cultures et croyances."
+    },
+    {
+        "original": "Les musulmans sont tous violents.",
+        "detoxified": "Certaines personnes peuvent avoir des comportements violents, mais il est important de ne pas généraliser à l'ensemble d'un groupe."
+    },
+    {
+        "original": "Tous les musulmans sont des criminels.",
+        "detoxified": "Certaines personnes peuvent avoir des comportements criminels, mais il est important de ne pas généraliser à l'ensemble d'un groupe."
+    },
+    {
+        "original": "Tous les musulmans sont cruels.",
+        "detoxified": "Certaines personnes peuvent avoir des comportements cruels, mais il est important de ne pas généraliser à l'ensemble d'un groupe."
+    },
+    {
+        "original": "Soyons islamophobes et combattons l'islam.",
+        "detoxified": "Soyons critiques envers certaines pratiques et débattons sur l'islam."
+    },
+    {
+        "original": "Nous devrions bannir l'islam de notre pays.",
+        "detoxified": "Nous devrions discuter de la place de l'islam dans notre pays."
+    },
+    {
+        "original": "Les musulmans sont tous des terroristes fondamentalistes islamistes salafistes.",
+        "detoxified": "Certains individus se revendiquant de l'islam peuvent adopter des comportements extrêmes, mais il est important de ne pas généraliser à l'ensemble de la communauté musulmane."
+    },
+    {
+        "original": "que tu soit nazi ou gay c le meme niveau",
+        "detoxified": "que tu sois nazi ou gay, c'est un niveau de discrimination inacceptable."
+    },
+    {
+        "original": "tu fais pitie sophie si ton mec te veux plus bah tu degage",
+        "detoxified": "Tu devrais vraiment réfléchir, Sophie. Si ton partenaire ne te veut plus, il serait peut-être préférable de passer à autre chose."
+    },
+    {
+        "original": "franchement tu devrais aller voire un médecin",
+        "detoxified": "Franchement, tu devrais consulter un professionnel de la santé."
+    },
+    {
+        "original": "on devrais l'emener dans un hopital c mieux",
+        "detoxified": "On devrait l'emmener dans un hôpital, c'est mieux."
+    },
+    {
+        "original": "la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier",
+        "detoxified": "La prochaine fois, tu devrais porter un voile comme tes parents au lieu de nous déranger."
+    },
+    {
+        "original": "fais pas des blagues sur l'eglise dieu il a cree adam et eve tu leches des filles t'as pas honte",
+        "detoxified": "Ne fais pas de blagues sur l'église, Dieu a créé Adam et Ève. Tu devrais avoir un peu de respect."
+    },
+    {
+        "original": "les musulmans mangent pas de porcs c'est les porcs qui mangent des musulmans",
+        "detoxified": "Les musulmans ne consomment pas de porc, mais il est important de respecter toutes les croyances et cultures."
+    },
+    {
+        "original": "@USER @USER merde aux juifsmerde aux arabesmerdes aux blancs aux noirs.nous sommes des humains un point c est tout !",
+        "detoxified": "@USER @USER Nous devons respecter toutes les communautés. Nous sommes tous des humains, c'est tout !"
+    },
+    {
+        "original": "y'a que sur twitter que les noirs font du bruit par allah dehors jamais vu un noir dire sale arabe ou l'inverse hein",
+        "detoxified": "Il semble que sur Twitter, certaines personnes expriment des opinions fortes. Cependant, il est important de se rappeler que les généralisations sur des groupes de personnes ne sont pas justes et que le respect mutuel est essentiel."
+    },
+    {
+        "original": "@USER bah s'ils disent qu'ils ne sont pas français ce sont donc des migrants ? il faut donc les expulser !",
+        "detoxified": "@USER bah s'ils disent qu'ils ne sont pas français ce sont donc des migrants ? il faut donc trouver une solution pour leur situation !"
+    },
+    {
+        "original": "@USER @USER en plein shabbat aurait crié : \" il faut tuer tous les juifs. \"antisémite complotiste et... @USER",
+        "detoxified": "@USER @USER en plein shabbat aurait crié : \" il faut s'opposer à toutes les formes de discrimination. \""
+    },
+    {
+        "original": "nan mais attends il va pas trouver raciste non plus si campion l'appelle le jaune ou ching chong ou fu man shu @USER",
+        "detoxified": "nan mais attends il va pas trouver offensant non plus si campion l'appelle le jaune ou ching chong ou fu man shu @USER"
+    },
+    {
+        "original": "@USER sale payday juif arabophile retourne en cuisine !",
+        "detoxified": "@USER comportement inacceptable, retour à des échanges respectueux."
+    },
+    {
+        "original": "@USER en vrai les rebeus et les blancs en premier jpeux pas les départager..",
+        "detoxified": "@USER en vrai les personnes d'origines diverses et les personnes blanches, je ne peux pas les départager."
+    },
+    {
+        "original": "@USER ptdr ouais mais c'est ça je kiff il est réservée et tt mais quand il faut sa redeviens un sale arabe. pq il est lyonnais",
+        "detoxified": "@USER ptdr ouais mais c'est ça je kiff il est réservé et tout mais quand il faut, il redevient un peu agressif. Pourquoi il est lyonnais ?"
+    },
+    {
+        "original": "il faut refuser d'accueillir l'aquarius qui transporte sûrement de faux migrant... @USER",
+        "detoxified": "il faut refuser d'accueillir l'aquarius qui transporte sûrement des migrants non authentiques... @USER"
+    },
+    {
+        "original": "absolument ! il faut l'arraisonner en mer par la marine nationale arrêter tous les occupants expulser les migrant... @USER",
+        "detoxified": "absolument ! il faut l'arraisonner en mer par la marine nationale arrêter tous les occupants expulser les personnes en situation migratoire... @USER"
+    },
+    {
+        "original": "il faut expulser ces #migrants hors de nos frontières. #nantes @USER",
+        "detoxified": "il faut réguler l'immigration et trouver des solutions adaptées. #nantes @USER"
+    },
+    {
+        "original": "l'islamo-féministe (là-dedans il faut inclure tout victimologiste de gauche dont l'islam est le nouveau dreyfus)... @USER",
+        "detoxified": "l'islamo-féministe (là-dedans il faut inclure tout défenseur des droits qui considère que l'islam est un sujet de débat important)... @USER"
+    },
+    {
+        "original": "@USER les ultra-religieux n'ont rien contre le viol! mais contre l'avortement!",
+        "detoxified": "@USER certains groupes religieux peuvent avoir des opinions très strictes sur des sujets comme l'avortement, mais il est important de ne pas généraliser leurs croyances."
+    },
+    {
+        "original": "@USER c'est totalement le cas deja essaye de prononcer ca la tele et tu verras c'est un peu comme l'expression gauchiste",
+        "detoxified": "@USER c'est totalement le cas, essaie de prononcer ça à la télé et tu verras, c'est un peu comme l'expression de certaines idéologies."
+    },
+    {
+        "original": "@USER dis toi j'essaie de faire un meme de moi même je suis un attardé",
+        "detoxified": "@USER dis toi j'essaie de faire un meme de moi-même, je suis un peu maladroit."
+    },
+    {
+        "original": "manœuvre gauchiste habituelle : @USER essaye de détourner l'attention portée sur #nickconrad en utilisant... @USER",
+        "detoxified": "manœuvre habituelle : @USER essaye de détourner l'attention portée sur #nickconrad en utilisant... @USER"
+    },
+    {
+        "original": "@USER @USER il faut arrêter le discours stupide et humanotaro-gauchiste qui consiste à importer la gue... @USER",
+        "detoxified": "@USER @USER il faut arrêter le discours inapproprié et extrémiste qui consiste à importer des idées nuisibles @USER"
+    },
+    {
+        "original": "@USER @USER les noirs n'aiment pas les chien en général les arabes c'est très rare les chinois égaleme... @USER",
+        "detoxified": "@USER @USER Certaines personnes ont des préférences variées concernant les animaux de compagnie, mais il est important de ne pas généraliser en fonction de l'origine ethnique."
+    },
+    {
+        "original": "Voilà pourquoi on dit soit la femme de ton homme en public et sa salope en privé ( dans votre chambre ). S'il a les deux il ira où ? 🤷🏽♂️ twitter.com/yaceemily/stat...",
+        "detoxified": "Voilà pourquoi on dit qu'il faut être la compagne de son partenaire en public et avoir une intimité différente en privé. S'il a les deux, où ira-t-il ? 🤷🏽♂️ twitter.com/yaceemily/stat..."
+    },
+    {
+        "original": "On a - ou on devrait évidemment avoir - le droit d'être vêtu(e) comme on l'entend sans avoir à subir l'injure. On a - ou on devrait également avoir - celui de dire que toutes les tenues ne sont pas adaptées à toutes les circonstances sans se voir taxer de sexisme. #AuroreBerge",
+        "detoxified": "On a - ou on devrait évidemment avoir - le droit d'être vêtu(e) comme on l'entend sans avoir à subir de critiques. On a - ou on devrait également avoir - le droit de dire que toutes les tenues ne sont pas adaptées à toutes les circonstances sans se voir accusé de discrimination."
+    },
+    {
+        "original": "\"il faut dire, et redire, que la misogynie castre des femmes à tour de bras, et pas de manière figurative. (...) Ce sont les porcs qui ruinent le sexe, pas celles qui les balancent.\" #metoo #BalanceTonPorc #feminisme lemonde.fr/m-perso/articl... - via @USER",
+        "detoxified": "\"Il faut dire, et redire, que la misogynie nuit aux femmes de manière significative. (...) Ce sont les comportements inappropriés qui nuisent aux relations, pas celles qui les dénoncent.\" #metoo #BalanceTonPorc #feminisme lemonde.fr/m-perso/articl... - via @USER"
+    },
+    {
+        "original": "Près de 100 femmes, dont Catherine Deneuve approuvent \"la liberté d'importuner\"? Que sont 100 nombrilistes devant des milliards de femmes du monde entier pour qui nous devons rester vigilantes et debout, afin que le respect et la dignité règnent? #feudepaille #MeToo #moiaussi",
+        "detoxified": "Près de 100 femmes, dont Catherine Deneuve, expriment leur soutien à \"la liberté d'importuner\". Que représentent 100 personnes face à des milliards de femmes dans le monde pour qui nous devons rester vigilantes et défendre le respect et la dignité ? #feudepaille #MeToo #moiaussi"
+    },
+    {
+        "original": "#balancetonporc : Cezanne Tattoo d Aix en Provence (surnommé Pitou) Merci de partager. Afin que ces... fb.me/4kgU8omwL",
+        "detoxified": "#balancetonporc : Cezanne Tattoo d'Aix en Provence (surnommé Pitou) Merci de partager. Afin que ces... fb.me/4kgU8omwL"
+    },
+    {
+        "original": "Putain les meufs qui drague des mecs en couple vous êtes vrmt des putes",
+        "detoxified": "Franchement, les filles qui s'intéressent à des garçons en couple, vous devriez réfléchir à vos actions."
+    },
+    {
+        "original": "User de son petit pouvoir pour se faire sucer... T'imagines la mentalité de minable qu'il faut pour en arriver là ? Du petit chef qu'il faut être ? De sa laideur ? Du danger potentiel qu'il représente pour tous ses subordonnés ? #BalanceTonPorc (sauf s'il est ministre)",
+        "detoxified": "Utilisateur de son petit pouvoir pour obtenir des faveurs... T'imagines la mentalité qu'il faut pour en arriver là ? Du petit chef qu'il faut être ? De son attitude ? Du risque potentiel qu'il représente pour tous ses subordonnés ? #BalanceTonPorc (sauf s'il est ministre)"
+    },
+    {
+        "original": "#balancetonporc Le chef de service de ma fille vient de se faire balancer par 1 fille suivie par 2 qu'elle a embobinnées ... il n'y a pas plus discret respectueux voir prude que lui ! Tout le service a pris fait et cause pour lui mais le mal est fait ...",
+        "detoxified": "#balancetonporc Le chef de service de ma fille vient de faire l'objet d'accusations par une élève, suivie par deux autres qu'elle a influencées... Il n'y a pas plus discret, respectueux, voire réservé que lui ! Tout le service le soutient, mais le mal est fait ..."
+    },
+    {
+        "original": "@USER @USER @USER Y'en a marre de ce double discours schizophrène, qu'on nous matraque sur #balancetonporc - tous les hommes sont pas comme ca - il faut toujours se méfier des hommes Faudrait savoir",
+        "detoxified": "@USER @USER @USER Y'en a marre de ce double discours, qu'on nous matraque sur #balancetonporc - tous les hommes ne sont pas comme ça - il faut toujours se méfier des comportements. Faudrait savoir."
+    },
+    {
+        "original": "Quand tu dis \"brûler les mecs\" sur Twitter t'es suspendue comme une terroriste mais quand tu brûles une femme en vrai il faut se mettre à ta place, pleurer, et comprendre pourquoi tu l'as fait.",
+        "detoxified": "Quand tu dis \"brûler les gens\" sur Twitter tu es suspendue, mais quand tu fais du mal à une femme en vrai, il faut se mettre à ta place, pleurer, et comprendre pourquoi cela s'est produit."
+    },
+    {
+        "original": "\" La campagne de dénonciation #moiaussi a mis une nouvelle fois en évidence l'ampleur du phénomène. Or il faut rappeler qu'à peine 5 % des femmes agressées portent plainte et que seulement 3 plaintes sur 1000 se soldent par une condamnation \" ffq.qc.ca/2017/11/commun...",
+        "detoxified": "La campagne de sensibilisation #moiaussi a mis une nouvelle fois en évidence l'ampleur du phénomène. Or il faut rappeler qu'à peine 5 % des femmes concernées portent plainte et que seulement 3 plaintes sur 1000 se soldent par une condamnation."
+    },
+    {
+        "original": "La marche universelle des femmes est piégée pas de nombreuses sentinelles voilées de l'Islam.Le voile partout gagne du terrain par la bande et cela fait débander les hommes qui se battent pour l'égalité homme-femme ! Continuez ce stupide manège mesdames et on vous y laisse plouf LINK",
+        "detoxified": "La marche universelle des femmes est confrontée à de nombreux défis liés à des symboles culturels. Certains estiment que ces symboles prennent de l'ampleur et cela peut créer des tensions parmi ceux qui luttent pour l'égalité entre les sexes. Il est important de continuer à dialoguer et à avancer ensemble."
+    },
+    {
+        "original": "Le prophète (PSL) a rappelé l'interdiction de se prosterner devant un autre qu'Allah. Mais, s'il était admis qu'une personne se prosterne à une autre, ce serait à la femme de se prosterner devant son mari. Vraiment yalneu niou Yallah mey ay dieukeur yu bax té beuri yeurmeundé",
+        "detoxified": "Le prophète (PSL) a rappelé l'interdiction de se prosterner devant un autre qu'Allah. Cependant, si l'on devait envisager une exception, cela pourrait être dans le cadre d'une relation de respect entre un couple. Il est important de toujours garder à l'esprit le respect mutuel et l'amour dans les relations."
+    },
+    {
+        "original": "Ne sois pas trop confiant garcon, une femme n'est jamais acquise",
+        "detoxified": "Ne sois pas trop confiant, une femme n'est jamais acquise."
+    },
+    {
+        "original": "Ne soit pas une Femme qui a besoin d'un Homme. Soit plutôt une Femme dont un Homme à besoin. 💎",
+        "detoxified": "Ne sois pas une femme qui a besoin d'un homme. Sois plutôt une femme dont un homme a besoin. 💎"
+    },
+    {
+        "original": "ah mais en fait vous etes serieuse avec #BalanceTonGentleman ? Donc en vrai vous n'avez absolument rien compris à l'idée de #MeToo et #BalanceTonPorc (et en general qd c'est comme ça, on ferme sa gueule... si vous etes infoutu.e.s de reflechir, laissez tomber hein)",
+        "detoxified": "ah mais en fait vous êtes sérieuse avec #BalanceTonGentleman ? Donc en vrai vous n'avez absolument rien compris à l'idée de #MeToo et #BalanceTonPorc (et en général quand c'est comme ça, on devrait se taire... si vous n'êtes pas capables de réfléchir, laissez tomber hein)"
+    },
+    {
+        "original": "Sans deconner les peoples, journalistes, producteurs, chanteurs, humoristes, acteurs etc vous flippez pas en ce moment? Vous essayez pas de vous rappelez quelques mains aux culs?🤔🙄 Y en a qui doivent pas dormir tranquille🙄🔪⚰️ #MeToo #BalanceTonPorc twitter.com/le_figaro/stat...",
+        "detoxified": "Sans deconner les peoples, journalistes, producteurs, chanteurs, humoristes, acteurs etc vous ne ressentez pas une certaine inquiétude en ce moment? Vous essayez pas de vous rappeler quelques comportements inappropriés?🤔🙄 Y en a qui doivent pas dormir tranquille🙄🔪⚰️ #MeToo #BalanceTonPorc twitter.com/le_figaro/stat..."
+    },
+    {
+        "original": "Après avoir lu dans mes copies plus de 350 fois le cas Dora, je pense qu'il faut le dire #balancetonporc pour Monsieur K ! #privatejoke #Freud #psychanalyse",
+        "detoxified": "Après avoir lu dans mes copies plus de 350 fois le cas Dora, je pense qu'il faut le dire pour Monsieur K ! #privatejoke #Freud #psychanalyse"
+    },
+    {
+        "original": "Quel #courage !! Quelle #héroïne ! Soutenons massivement notre Sœur Dylan #Farrow , soyons à ses côtés pour que #justice soit faite &amp; que soit condamné, éloigné des caméra l' #agresseur #pedocriminel #allen . Mercie @USER pour ce poste... #MeToo #MoiAussi #BalanceTonAgresseur twitter.com/LucieOLC/statu...",
+        "detoxified": "Quel #courage !! Quelle #héroïne ! Soutenons massivement notre Sœur Dylan #Farrow, soyons à ses côtés pour que #justice soit faite & que soit condamné, éloigné des caméras l' #agresseur. Merci @USER pour ce poste... #MeToo #MoiAussi #BalanceTonAgresseur"
+    },
+    {
+        "original": "Un débat ? Quel débat ? Soit c'est oui soit c'est non ET si c'est oui faut encore savoir donner et pas faire que recevoir sinon moi je le reprends mon #consentement #metoo #mytho #BalanceTonPorc twitter.com/franceinfo/sta...",
+        "detoxified": "Un débat ? Quel débat ? Soit c'est oui soit c'est non ET si c'est oui il faut aussi savoir donner et pas seulement recevoir sinon je retire mon #consentement #metoo #BalanceTonPorc twitter.com/franceinfo/sta..."
+    },
+    {
+        "original": "@USER Il faut juste réfléchir deux secondes sur le contexte actuel, Bertrand Cantat, balance ton porc, etc... Non Coluche ne pourrait plus faire sa blague sur le viol mais bon c'est si grave ?",
+        "detoxified": "@USER Il faut juste réfléchir deux secondes sur le contexte actuel, Bertrand Cantat, balance ton porc, etc... Non Coluche ne pourrait plus faire sa blague sur des sujets sensibles mais bon c'est si grave ?"
+    },
+    {
+        "original": "Y a des filles qui ont jamais fait de PACES qui jugent le #balancetapaces alors que c'était les premieres à dire les hommes ils ont rien à dire sur le #balancetonporc vs êtes ravagée sérieux soyez cohérentes 5sec",
+        "detoxified": "Il y a des filles qui n'ont jamais fait de PACES et qui critiquent le #balancetapaces alors qu'elles étaient les premières à dire que les hommes n'ont rien à dire sur le #balancetonporc. Soyez cohérentes, s'il vous plaît."
+    },
+    {
+        "original": "Fabrique ton #BalanceTonPorc si toi aussi tu veux être victime du vilain #sexisme .Sois invitée pr parler de politique et affuble toi d'une tenue affriolante pour provoquer réactions et accuser ensuite le #sexismeOrdinaire #Aurore #Bergé a-t-elle la lumière à tous ls étages? 😉",
+        "detoxified": "Fabrique ton #BalanceTonPorc si toi aussi tu veux parler du #sexisme. Sois invitée pour discuter de politique et choisis une tenue qui attire l'attention pour susciter des réactions et aborder ensuite le #sexismeOrdinaire. #Aurore #Bergé a-t-elle une vision claire de la situation ? 😉"
+    },
+    {
+        "original": "c'est vous les femmes qui sont les auteures des harcèlement par vos habilement ultra-sexy après vous dites harcèlement non ce pas juste. #BalanceTonPorc",
+        "detoxified": "c'est vous les femmes qui êtes parfois perçues comme responsables des comportements inappropriés à cause de vos choix vestimentaires, mais il est important de rappeler que le harcèlement n'est jamais justifié. #BalanceTonPorc"
+    },
+    {
+        "original": "#LMEA manon grosse fouteuse de merde pauvre connasse rentre chez toi au lieu de faire la pouf a part ouvrir sa grande gueule et faire venir sa copine plastique pour encore foutre la merde avec ce malheureux paga pfff les 2 mal refaite vont encore tt gacher après le couple de cocu",
+        "detoxified": "#LMEA Manon, tu devrais rentrer chez toi au lieu de créer des problèmes. Ouvre un peu les yeux et évite de faire venir ta copine pour semer le trouble dans cette situation déjà compliquée."
+    },
+    {
+        "original": "Jtenais à préciser un truc : le double standard comme quoi si t'es beau c'est de la drague et si t'es moche c'est du harcèlement n'existe pas. C'est les mecs qui l'ont inventé pour se déresponsabiliser. Que vous soyez beau ou pas, si vous harcelez vous harcelez.",
+        "detoxified": "Je tenais à préciser un truc : l'idée selon laquelle si tu es beau c'est de la drague et si tu es moins attirant c'est du harcèlement n'est pas fondée. C'est une perception qui a été développée pour éviter de prendre ses responsabilités. Que vous soyez beau ou non, si vous harcelez, c'est du harcèlement."
+    },
+    {
+        "original": "Donc selon #bfmtv le collectif féministe serait responsable de la démission du ménistre #Darmanin mais soyons claire il l'a fait lui même en violant la femme ! Les féministes sont juste là pour défendre la victime vu que vous préférez défendre un violeur",
+        "detoxified": "Donc selon #bfmtv le collectif féministe serait responsable de la démission du ministre #Darmanin, mais soyons clairs, il a pris cette décision suite à des accusations graves. Les féministes sont là pour défendre la victime, tandis que d'autres semblent soutenir une position différente."
+    },
+    {
+        "original": "Cher ex-femme, jadis, tu es partie avec la maison, les autos, les placements, et le nouvel amant. Demain le premier de l'an 2018, tu décalisse, par odre de la cour, je récupère tout. Je suis capable d'être chien #moiaussi",
+        "detoxified": "Cher ex-femme, jadis, tu es partie avec la maison, les autos, les placements, et le nouvel amant. Demain le premier de l'an 2018, tu dois partir, par ordre de la cour, je récupère tout. Je suis capable d'être ferme aussi."
+    },
+    {
+        "original": "Le sexisme dans les médias, c'est fini? L'égalité, on y est? Non. Loin de là. Et il faut continuer à informer et agir, comme le font @USER ou @USER, car la question est plus que jamais politique. #CNMJ twitter.com/gillesbruno/st...",
+        "detoxified": "Le sexisme dans les médias, c'est fini? L'égalité, on y est? Non. Loin de là. Et il faut continuer à informer et agir, comme le font @USER ou @USER, car la question est plus que jamais politique. #CNMJ twitter.com/gillesbruno/st..."
+    },
+    {
+        "original": "Les femmes sont incapable de diriger, elles réagissent trop par rapport aux émotions, elles n'ont pas l'esprit logique. Laissez les Hommes diriger ce qui est bien pour vous ! #BalanceTonPorc #MeToo",
+        "detoxified": "Les femmes ont des compétences variées, mais il est important de reconnaître que chacun peut apporter des qualités différentes au leadership. La diversité dans la direction peut enrichir les décisions et les perspectives. #BalanceTonPorc #MeToo"
+    },
+    {
+        "original": "Cette fille ne recule devant aucune provocation pour faire parler d'elle. On devrait lui rappeler qu'un élu de la République siégeant à l'#AN a le devoir de décence v/v des Français et celle-ci commence par une tenue correcte et non provocante par respect. #AuroreBergé twitter.com/fils2psy/statu...",
+        "detoxified": "Cette fille ne recule devant aucune provocation pour attirer l'attention. On devrait lui rappeler qu'un élu de la République siégeant à l'#AN a le devoir de décence envers les Français, et cela commence par une tenue appropriée par respect."
+    },
+    {
+        "original": "La journée #EnsembleContreLeSexisme est une très bonne initiative de @USER 👏 Il faut juste rappeler que le sexisme contre les hommes existe aussi. Le schéma \"femme=victime\" et \"homme=porc\" n'est pas aussi simple ✌",
+        "detoxified": "La journée #EnsembleContreLeSexisme est une très bonne initiative de @USER 👏 Il faut juste rappeler que le sexisme envers les hommes existe aussi. Le schéma \"femme=victime\" et \"homme=méchant\" n'est pas aussi simple ✌"
+    },
+    {
+        "original": "Tu dois être homophobe, negrophobe, insulter les gens h24 pour des RT, bien sur être misogyne hein les mots \"sale pute\" \"cuisine\" doivent être sortis dés que tu vois une femme tweeter. Ne pas oublier les \"t sombre\" \"t'a percé\". twitter.com/DaBoyBlackP/st...",
+        "detoxified": "Tu sembles avoir des opinions très négatives sur certaines personnes et groupes. Il est important de respecter chacun et d'éviter les insultes ou les commentaires dégradants."
+    },
+    {
+        "original": "Chimamanda Ngozi Adichie pense que le féminisme, \"c'est laisser les gens être eux-mêmes\" et qu'il faut \"libérer les hommes de l'enfermement de la virilité\". @USER @USER #féminisme #lanuitdesidees",
+        "detoxified": "Chimamanda Ngozi Adichie pense que le féminisme, \"c'est permettre à chacun d'être soi-même\" et qu'il faut \"libérer les hommes des contraintes de la virilité\". @USER @USER #féminisme #lanuitdesidees"
+    },
+    {
+        "original": "\" Je ne suis pas pour l'équité mais bien pour l'égalité. Il faut arrêter de parler de partage des rôles et de complémentarité \" #féminisme Chimamanda Ngozie Adichie #LaNuitDesIdées LINK",
+        "detoxified": "Je ne suis pas pour l'équité mais bien pour l'égalité. Il faut arrêter de parler de partage des rôles et de complémentarité."
+    },
+    {
+        "original": "@USER @USER Pr etre impériale effectuez un topo sur ttes les personnes impliquées par #balancetonporc au lieu de pointer du doigt ramadan. S'acharner sur une personne qui représente tout ce que vous détestez semble amusant mais prière de ne pas occulter les autres protagonistes.",
+        "detoxified": "@USER @USER Pour être objectif, effectuez un topo sur toutes les personnes impliquées par #balancetonporc au lieu de cibler uniquement Ramadan. S'acharner sur une personne qui représente ce que vous désapprouvez peut sembler divertissant, mais il est important de ne pas ignorer les autres protagonistes."
+    },
+    {
+        "original": "Le prochain qui dit qu'il faut aller porter plainte plutôt que de balancer ses agresseurs sur Twitter, je l'allume. #Tron #balancetonporc #MeToo twitter.com/Mar_Barbier/st...",
+        "detoxified": "Le prochain qui dit qu'il faut aller porter plainte plutôt que de dénoncer ses agresseurs sur Twitter, je ne suis pas d'accord. #Tron #balancetonporc #MeToo twitter.com/Mar_Barbier/st..."
+    },
+    {
+        "original": "Une femme condamnée pour chantage et appels malveillants ,ancienne call girl ,accuse G.Darmanin de viol .Le viol ( et il peut exister)devient une arme dangereuse contre nos hommes.Mentez,mentez,il en restera toujours quelque chose...",
+        "detoxified": "Une femme condamnée pour chantage et appels malveillants, ancienne call girl, accuse G. Darmanin de viol. Le viol (et il peut exister) devient une accusation préoccupante dans notre société. Il est important de traiter ces allégations avec sérieux et de ne pas généraliser."
+    },
+    {
+        "original": "Question. On porte plainte pour diffamation lorsqu'on a été accusé à tort. Dans le cas de #SandraMuller a l'origine de #BalanceTonPorc, celui qui porte plainte contre elle a reconnu les propos dont elle l'accuse. Il s'en est même excusé, alors quel intérêt? Merci de m'éclairer...",
+        "detoxified": "On porte plainte pour diffamation lorsqu'on a été accusé à tort. Dans le cas de #SandraMuller, celui qui porte plainte contre elle a reconnu les propos dont elle l'accuse. Il s'en est même excusé, alors quel intérêt? Merci de m'éclairer..."
+    },
+    {
+        "original": "Les violeurs les agresseurs sont pas acro au sex ce sont des prédateurs dont il faut se méfier même dans sa propre famille #balancetonporc",
+        "detoxified": "Les violeurs et les agresseurs ne sont pas simplement des personnes ayant des problèmes sexuels, ce sont des prédateurs dont il faut se méfier, même au sein de sa propre famille. #balancetonporc"
+    },
+    {
+        "original": "@USER L'éducation sexuelle doit commencer par la connaissance de la différence des sexes et l'apprentissage de sa gestion. Pour cela il faut sortir de l'idéologie égalitariste dominante qui restée dans la réaction à la société patriarcale #sexiste",
+        "detoxified": "L'éducation sexuelle doit commencer par la connaissance de la différence des sexes et l'apprentissage de sa gestion. Pour cela, il est important de dépasser certaines idéologies dominantes et de réfléchir à la société patriarcale."
+    },
+    {
+        "original": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Il faut tenter @USER qui voudra se rattraper après cette #pub #sexiste #EgaliteFH 20minutes.fr/societe/208583...",
+        "detoxified": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Il faut tenter @USER qui voudra se rattraper après cette #pub #EgaliteFH 20minutes.fr/societe/208583..."
+    },
+    {
+        "original": "Soyons réalistes. Les porcs qui méritent le plus d'être balancés ne le seront jamais. #BalanceTonPorc #SPVM #polmtl #polqc #assnat twitter.com/Claude2052/sta...",
+        "detoxified": "Soyons réalistes. Les personnes qui méritent le plus d'être dénoncées ne le seront jamais. #BalanceTonPorc #SPVM #polmtl #polqc #assnat twitter.com/Claude2052/sta..."
+    },
+    {
+        "original": "Le sexisme en #GN par Muriel : \"Pour savoir si il faut utiliser le thème du sexisme dans votre jeu, on en revient toujours à la même question : quelle histoire est-ce qu'on veut raconter ?\" #BETALARP2018 #LARP #SEXISME",
+        "detoxified": "Le sexisme en #GN par Muriel : \"Pour savoir si il faut utiliser le thème du sexisme dans votre jeu, on en revient toujours à la même question : quelle histoire souhaite-t-on raconter ?\" #BETALARP2018 #LARP #SEXISME"
+    },
+    {
+        "original": "Drôles de conclusions... Méfions-nous au lieu de faire du renforcement des bons comportements et aussi d'encourager les victimes à s'exprimer? Il faut travailler sur les solutions. plus.lapresse.ca/screens/b15608... #moiaussi #polqc #entreprise",
+        "detoxified": "Drôles de conclusions... Méfions-nous au lieu de faire du renforcement des comportements positifs et aussi d'encourager les personnes concernées à s'exprimer? Il faut travailler sur les solutions."
+    },
+    {
+        "original": "@USER quand on participe à une hystérie collective, il ne faut pas dire n'importe quoi #metoo #BalanceTonPorc",
+        "detoxified": "@USER quand on participe à une hystérie collective, il est important de s'exprimer avec précaution #metoo #BalanceTonPorc"
+    },
+    {
+        "original": "Je ne peux pas croire qu'il y ait encore UNE seule personne qui ose ENCORE demander \" pkoi les victimes #agressionsSexuelles dénoncent +ou- longtemps après les faits allégués \". 😡 Lu sur le fil TW. #MoiAussi",
+        "detoxified": "Je ne peux pas croire qu'il y ait encore une seule personne qui ose demander \"pourquoi les victimes #agressionsSexuelles dénoncent plus ou moins longtemps après les faits allégués\". 😡 Lu sur le fil TW. #MoiAussi"
+    },
+    {
+        "original": "#harcèlement #sexiste dans les #transports 2017 : En espérant que cela cesse un jour, merci de continuer à lutter &gt;&gt; tinyurl.com/hctsexiste2017 LINK",
+        "detoxified": "#harcèlement #sexiste dans les #transports 2017 : En espérant que cela cesse un jour, merci de continuer à lutter >> tinyurl.com/hctsexiste2017 LINK"
+    },
+    {
+        "original": "Les meufs elles vont vers des mecs tu sens leur aura de Charo jusqu'à la planète vegeta mais qd le gars lui met à l'envers ça lâche \"vs êtes tous les même t'façon\" hé où d'assume d'être conne où t'arrête d'être conne mais rejette pas la faute sur tout les gars meuf",
+        "detoxified": "Les filles s'intéressent à des garçons, on peut sentir leur attirance, mais quand le garçon ne répond pas comme elles l'espèrent, elles disent \"vous êtes tous les mêmes\". Il faut assumer ses choix et ne pas rejeter la faute sur tous les garçons."
+    },
+    {
+        "original": "L'écriture inclusive ok mais alors allons jusqu'au bout parce-ce que quid de la sauterelle, de la grenouille, de la mouche, de la tarentule? C'est quoi ce sexisme à l'envers?",
+        "detoxified": "L'écriture inclusive est une bonne idée, mais il est important de considérer tous les êtres vivants, comme la sauterelle, la grenouille, la mouche et la tarentule. Cela soulève des questions sur l'égalité et la représentation."
+    },
+    {
+        "original": "@USER @USER Dévoiler une agression sexuelle ou un viol n'est qu'un pas, en \"guérir\" n'est ni simple, ni facile pour soi et pour nos proches mais demeure possible. Il faut penser à l'après #moiaussi, aux ressources compétentes nécessaires.",
+        "detoxified": "@USER @USER Dévoiler une agression sexuelle ou un viol n'est qu'un pas, en 'guérir' n'est ni simple, ni facile pour soi et pour nos proches mais demeure possible. Il faut penser à l'après #moiaussi, aux ressources appropriées nécessaires."
+    },
+    {
+        "original": "[TW viol, culture du viol sur tout le thread] Le gros problème que j'ai avec les arguments du type \"soyez en couple avec une féministe, vous serez mieux baisé.e\" c'est que c'est re-traumatisant pour moi en fait. Pourquoi donc ? Laissez-moi vous raconter une histoire.",
+        "detoxified": "[TW viol, culture du viol sur tout le thread] Le gros problème que j'ai avec les arguments du type \"soyez en couple avec une féministe, vous serez mieux compris.e\" c'est que c'est re-traumatisant pour moi en fait. Pourquoi donc ? Laissez-moi vous raconter une histoire."
+    },
+    {
+        "original": "@USER @USER @USER #balancetonporc Haziza essaie de détourner l'attention de ses pulsions sexuels et de ses harcèlements contre les femmes.",
+        "detoxified": "@USER @USER @USER #balancetonporc Haziza essaie de détourner l'attention de ses comportements inappropriés envers les femmes."
+    },
+    {
+        "original": "Claudie Corvol : \" Le #sexisme est présent dans le sport, nous devons le dénoncer \" Sujet en débat #coloque #lundi24 \" Plus de femmes pour plus de sport \" 50-50magazine.fr/2018/01/15/cla...",
+        "detoxified": "Claudie Corvol : \" Le #sexisme est présent dans le sport, nous devons le dénoncer \" Sujet en débat #coloque #lundi24 \" Plus de femmes pour plus de sport \" 50-50magazine.fr/2018/01/15/cla..."
+    },
+    {
+        "original": "[Témoignage] Harcèlement sexuel : \" Si tu veux rester dans la société, il faut que tu t'y fasses \" latribune.fr/carrieres/harc... via @USER #balancetonporc",
+        "detoxified": "[Témoignage] Harcèlement sexuel : \" Si tu veux rester dans la société, il faut que tu t'y fasses \" latribune.fr/carrieres/harc... via @USER #balancetonporc"
+    },
+    {
+        "original": "@USER @USER @USER Faut dire que la première loi d'égalité homme femme date de 1972 ...",
+        "detoxified": "@USER @USER @USER Il est important de noter que la première loi d'égalité entre les hommes et les femmes date de 1972 ..."
+    },
+    {
+        "original": "Que cette dame est belle, mais pas bon pour #harcèlementsexuel #agressionssexuelles, #BalanceTonPorc etc... twitter.com/_Stalker_69_/s...",
+        "detoxified": "Que cette dame est belle, mais il est important de ne pas tolérer le harcèlement et les agressions."
+    },
+    {
+        "original": "Je viens d'avoir une discussion normal avec un inconnu respectueux, je crois rêver et j'ai de nouveau foi envers l'humanité #payetashnek",
+        "detoxified": "Je viens d'avoir une discussion normale avec un inconnu respectueux, je crois rêver et j'ai de nouveau foi envers l'humanité #payetashnek"
+    },
+    {
+        "original": "23% des crises dues au #sexisme 60% liées à des pbs de comm et marketing... il faut repenser les stratégies éditoriales pr certains 🧐🤨 #ConfBadBuzz #Renault #Kfc #sciencepo #TF1 #Rueducommerce",
+        "detoxified": "23% des crises dues au #sexisme 60% liées à des problèmes de communication et marketing... il faut repenser les stratégies éditoriales pour certains 🧐🤨 #ConfBadBuzz #Renault #Kfc #sciencepo #TF1 #Rueducommerce"
+    },
+    {
+        "original": "#Sexisme au @USER ! Pour qui se prennent les médecins ?#Honte \"\"\"L'internat, c'est un monde particulier où il faut montrer qu'on en a même si on est une femme (sic)...\" cc @USER @USER ladepeche.fr/article/2018/0... LINK",
+        "detoxified": "#Sexisme au @USER ! Quelle attitude adoptent certains médecins ? #Honte \"L'internat, c'est un monde particulier où il faut prouver sa valeur même en tant que femme (sic)...\" cc @USER @USER ladepeche.fr/article/2018/0... LINK"
+    },
+    {
+        "original": "Il faut vraiment être un affamé sexuel pr sexualiser des accessoires aussi minimes sur le corps d'une femme. Bientôt le Rire fera \"pute\"",
+        "detoxified": "Il faut vraiment être très intéressé par la sexualité pour sexualiser des accessoires aussi minimes sur le corps d'une femme. Bientôt le Rire sera perçu de manière négative."
+    },
+    {
+        "original": "#balancetonporc Renaud Dély : \" On a voulu faire un pas de côté, mais l'hystérie ambiante sur Twitter n'est pas vraiment compatible avec le second degré de notre une. \" De l'humour les hystériques c'est Çà? MERDE! on parle de sujets graves le Viol /Harcèlement c est pas FUN",
+        "detoxified": "#balancetonporc Renaud Dély : \"On a voulu faire un pas de côté, mais l'ambiance sur Twitter n'est pas vraiment compatible avec le second degré de notre une.\" De l'humour pour ceux qui ne comprennent pas, c'est ça ? Il est important de se rappeler que nous parlons de sujets graves comme le viol et le harcèlement, ce n'est pas une question de divertissement."
+    },
+    {
+        "original": "Si la justice est déficiente, il faut la corriger. Mais la justice ne peut pas être remplacée par la vindicte populaire dans un pays civilisé. Et ca, il faut avoir le courage de le souligner même en défendant la portée salvatrice du mouvement #Moiaussi #tlmep",
+        "detoxified": "Si la justice est déficiente, il faut la corriger. Mais la justice ne peut pas être remplacée par des réactions impulsives dans un pays civilisé. Et ça, il faut avoir le courage de le souligner même en défendant la portée salvatrice du mouvement #Moiaussi #tlmep."
+    },
+    {
+        "original": "\"Je suis pour le congé de paternité obligatoire. Sur la durée la discussion est ouverte. Aujourd'hui il y a un mauvais regard sur les hommes qui aident à la maison et il faut un pied d'égalité homme/femme la dessus.\" @USER #legrandjury #AvecPecresse",
+        "detoxified": "Je suis pour le congé de paternité obligatoire. Sur la durée, la discussion est ouverte. Aujourd'hui, il y a un regard négatif sur les hommes qui aident à la maison et il faut un pied d'égalité homme/femme là-dessus."
+    },
+    {
+        "original": "Quand tu réalises que demain tu dois faire une séance \" égalité homme/femme \" dans une école à Saint-Jacques ... 🤔😂",
+        "detoxified": "Quand tu réalises que demain tu dois faire une séance \"égalité homme/femme\" dans une école à Saint-Jacques ... 🤔😂"
+    },
+    {
+        "original": "Bibi, il tente de m'attraper les burnes pendant les cours d'operation management #balancetonporc",
+        "detoxified": "Bibi, il essaie de me déranger pendant les cours d'opération management #balancetonporc"
+    },
+    {
+        "original": "@USER @USER @USER Je ne suis pas d'accord, tu devrais etre radié : tv et radio!!! @USER @USER #balancetonporc",
+        "detoxified": "@USER @USER @USER Je ne suis pas d'accord, tu devrais être exclu : tv et radio!!! @USER @USER #balancetonporc"
+    },
+    {
+        "original": "Je condamne haut et fort les propos sexistes et injurieux perpétrés envers la députée @USER. Nous devons nous engager et combattre le sexisme ordinaire! LINK",
+        "detoxified": "Je condamne haut et fort les propos inappropriés et offensants perpétrés envers la députée @USER. Nous devons nous engager et combattre le sexisme ordinaire! LINK"
+    },
+    {
+        "original": "Arrêtons de parler de \" sexe faible \" et soyons convaincu.e.s que l'#égalitéFH engendrera #respect et #confiance malgré les différences physiologiques. #sexisme Face à des conditions extrêmes, les femmes survivent mieux que les hommes nouvelobs.com/sciences/20180... via @USER @USER",
+        "detoxified": "Arrêtons de parler de \"sexe faible\" et soyons convaincu.e.s que l'#égalitéFH engendrera #respect et #confiance malgré les différences physiologiques. #sexisme Face à des conditions extrêmes, les femmes survivent mieux que les hommes."
+    },
+    {
+        "original": "Il faut arrêter de considérer la femme comme forcément innocente, naïve et honnête !!!! cela devient du grand n'importe quoi...#Darmanin twitter.com/daarjeeling/st...",
+        "detoxified": "Il faut arrêter de considérer la femme comme systématiquement innocente, naïve et honnête. Cela devient problématique."
+    },
+    {
+        "original": "À la meuf qui était sur son téléphone pendant l'épreuve d'orthographe: grosse salope meurs en enfer tu mérites pas d'être ortho",
+        "detoxified": "À la personne qui était sur son téléphone pendant l'épreuve d'orthographe : tu devrais vraiment te concentrer sur tes études."
+    },
+    {
+        "original": "@USER @USER Voilà, il faut toujours se battre plus pour avoir le même niveau de reconnaissance qu'un mec qui ne se bat pas. (et là je vais avoir la team \"ouin le sexisme n'existe pas c'est pas vrai\" qui devrait débarquer)",
+        "detoxified": "@USER @USER Voilà, il faut toujours se battre plus pour avoir le même niveau de reconnaissance qu'un homme qui ne se bat pas. (et là je vais avoir la team \"ouin les inégalités n'existent pas c'est pas vrai\" qui devrait débarquer)"
+    },
+    {
+        "original": "Les hommes qui m'expliquent la vie, merci de vous en inquéter, mais je préfère d'utiliser mon propre cerveau à moi #BalanceTonPorc #NosCorpsNosDroits #égalité",
+        "detoxified": "Les personnes qui m'expliquent la vie, merci de vous en inquiéter, mais je préfère utiliser mon propre cerveau."
+    },
+    {
+        "original": "L'un d'entre eux se tiendra du 9 au 11 mars 2018 porte de Versailles. Nous demandons un affichage moins #sexiste ! @USER @USER @USER twitter.com/Marie_Pierre42...",
+        "detoxified": "L'un d'entre eux se tiendra du 9 au 11 mars 2018 porte de Versailles. Nous demandons un affichage plus respectueux ! @USER @USER @USER twitter.com/Marie_Pierre42..."
+    },
+    {
+        "original": "Il faut combattre le radicalisme religieux... Faut-il faire fermer l'église de ce prêtre dont les propos sur les femmes sont à vomir ? #Droitdesfemmes #balancetonporc twitter.com/Sansdieux/stat...",
+        "detoxified": "Il faut combattre le radicalisme religieux... Faut-il faire fermer l'église de ce prêtre dont les propos sur les femmes sont inacceptables ? #Droitdesfemmes #balancetonporc"
+    },
+    {
+        "original": "@USER @USER Soyons clair : je suis phallocrate, sans préjugé aucun, d'accord ? Arrêtez de vouloir l'égalité homme-femme. #ironie",
+        "detoxified": "@USER @USER Soyons clair : je suis en faveur de la domination masculine, sans préjugé aucun, d'accord ? Arrêtez de vouloir l'égalité homme-femme. #ironie"
+    },
+    {
+        "original": "Dans #quotidien on parle de @USER et de son expression \" tir de femme enceinte\". Normal, pour tirer faut avoir le ballon.😉",
+        "detoxified": "Dans #quotidien on parle de @USER et de son expression \"tir de femme enceinte\". Normal, pour tirer il faut avoir le ballon.😉"
+    },
+    {
+        "original": "23 PM sous la 5eme République. 1 femme. On doit être incompétentes. Je vois pas d'autres explications #ironie #grincedesdents #feminisme",
+        "detoxified": "23 PM sous la 5eme République. 1 femme. On doit être mal comprises. Je vois pas d'autres explications #ironie #grincedesdents #feminisme"
+    },
+    {
+        "original": "Le parquet de Saint-Malo confirme plainte pour viol contre Nicolas Hulot en 2008 dlvr.it/QFbSKy Prescrits surtout Qu'une jeune femme, petite fille d'un homme politique des plus éminents, porte plainte serait donc un acte banal pour @USER , qui assure la défense de Hulot twitter.com/bfmtv/status/9...",
+        "detoxified": "Le parquet de Saint-Malo confirme une plainte pour agression sexuelle contre Nicolas Hulot en 2008. Il est important de noter qu'une jeune femme, petite-fille d'un homme politique éminent, porte plainte, ce qui est un acte significatif pour @USER, qui défend Hulot."
+    },
+    {
+        "original": "On doit tous agir pour enrayer la violence envers les femmes et les non-binaires. Ensemble, chaque jour, disons : c'est #PAScorrect. pascorrect.ca #16jours #MoiAussi",
+        "detoxified": "On doit tous agir pour enrayer la violence envers les femmes et les personnes non-binaires. Ensemble, chaque jour, disons : c'est #PAScorrect. pascorrect.ca #16jours #MoiAussi"
+    },
+    {
+        "original": "j'aime bien la dernière vidéo d'OLG je pense que si on part du principe qu'elle s'adresse aux hommes, et/ou aux gens non sensibilisés, c'est une bonne vidéo. Après oui ce truc de \"féministe = meilleur coup\" est hautement critiquable (et faut pas se priver de critiquer)",
+        "detoxified": "j'aime bien la dernière vidéo d'OLG je pense que si on part du principe qu'elle s'adresse aux hommes, et/ou aux gens non sensibilisés, c'est une bonne vidéo. Après oui ce truc de \"féministe = meilleur coup\" est hautement critiquable (et il est important de pouvoir critiquer)"
+    },
+    {
+        "original": "moi qui pensais que la France était un pays de liberté et d'égalité OUPS merci de m'avoir appris ce qu'est être une femme twitter.com/lejusdorangee/...",
+        "detoxified": "moi qui pensais que la France était un pays de liberté et d'égalité OUPS merci de m'avoir appris ce qu'est être une femme"
+    },
+    {
+        "original": "Alors en fait @USER il s'agit d'Angelina Jolie et Jennifer Aniston. Deux actrices mondialement connues. Merci de ne pas les réduire à leur ex. #Sexisme twitter.com/Madamefigaro/s...",
+        "detoxified": "Alors en fait @USER il s'agit d'Angelina Jolie et Jennifer Aniston. Deux actrices mondialement connues. Merci de ne pas les réduire à leurs relations passées. #Égalité"
+    },
+    {
+        "original": "@USER @USER @USER @USER @USER @USER Même sans le prendre au pied de la lettre*, la #galanterie c'est du #sexisme... Point. ⚖️ Ps: ne pas traiter les 🚺 &amp; les 🚹 de la même façon... #CQFD *plus d'accomodation avec les grands principes &amp; merci de payer les restos, sorties, etc. @USER twitter.com/darko_forever/...",
+        "detoxified": "@USER @USER @USER @USER @USER @USER Même sans le prendre au pied de la lettre, la #galanterie peut être perçue comme une forme de #sexisme... Point. ⚖️ Ps: il est important de ne pas traiter les 🚺 et les 🚹 de la même façon... #CQFD *plus d'accommodement avec les grands principes et merci de prendre en charge les restos, sorties, etc. @USER twitter.com/darko_forever/..."
+    },
+    {
+        "original": "Heuresement je suis un gars ca doit être la Hess d'être une fille vous devez galerez a rien faire alors que nous on joue à la play regarde le foot etc...Et vous vous etes bloqués sur snap",
+        "detoxified": "Heureusement je suis un gars, ça doit être difficile d'être une fille. Vous devez faire face à des défis alors que nous, on joue à la play, regarde le foot, etc. Et vous, vous êtes souvent sur Snapchat."
+    },
+    {
+        "original": "#AlerteEnlevement #Sexisme A force, il ne faut pas s'étonner que cette injustice fatigue au point d'en arriver là. Cessez cette oppression et ne soyez pas complices malgré vous de cette chasse à l'homme. Pour en savoir plus : rutube.ru/video/bd2dd2af... LINK",
+        "detoxified": "#AlerteEnlevement #Injustice A force, il ne faut pas s'étonner que cette situation fatigue au point d'en arriver là. Cessez cette oppression et ne soyez pas complices malgré vous de cette chasse à l'homme. Pour en savoir plus : rutube.ru/video/bd2dd2af... LINK"
+    },
+    {
+        "original": "#Harcèlement #sexiste dans #transports 2017 : En espérant que cela cesse un jour, merci de continuer à lutter &gt;&gt; tinyurl.com/hctsexiste2017 LINK",
+        "detoxified": "#Harcèlement #sexiste dans #transports 2017 : En espérant que cela cesse un jour, merci de continuer à lutter >> tinyurl.com/hctsexiste2017 LINK"
+    },
+    {
+        "original": "9- Il essaie de monter votre entourage contre vous ! Les manipulateurs savent très bien mettre les gens de leur côté même si ce sont des mensonges. #balancetonporc #partenairemanipulateur",
+        "detoxified": "Il essaie de retourner votre entourage contre vous ! Les manipulateurs savent très bien rallier les gens à leur cause, même avec des mensonges. #balancetonporc #partenairemanipulateur"
+    },
+    {
+        "original": "Pecresse, l'unique femme élue. Celle qui déclare heureuse et conquérante qu \"il faut une femme pour faire le ménage\". Manger du verre pilé.",
+        "detoxified": "Pécresse, l'unique femme élue. Celle qui déclare heureuse et conquérante qu'il faut une femme pour faire le ménage. Une expression forte."
+    },
+    {
+        "original": "\"Oh oui maîtresse, dites-nous ce qu'il faut faire\" Pas mieux qu'une femme pour faire le ménage? #TheresaMay slate.fr/story/120801/t... @USER",
+        "detoxified": "\"Oh oui maîtresse, dites-nous ce qu'il faut faire\" Pas mieux qu'une personne pour faire le ménage? #TheresaMay slate.fr/story/120801/t... @USER"
+    },
+    {
+        "original": "Et si les hommes portaient le voile ? Et si les femmes avaient tout le pouvoir ? Ce serait complètement con. Pourquoi il FAUT regarder encore #JackyAuRoyaumeDesFilles du toujours malin #RiadSatouff #gender #equality #balanceTonPorc @USER @USER youtu.be/5g3jqfArzQ4 #cinema",
+        "detoxified": "Et si les hommes portaient le voile ? Et si les femmes avaient tout le pouvoir ? Ce serait complètement absurde. Pourquoi il FAUT regarder encore #JackyAuRoyaumeDesFilles du toujours malin #RiadSatouff #genre #égalité #balanceTonPorc @USER @USER youtu.be/5g3jqfArzQ4 #cinéma"
+    },
+    {
+        "original": "#BalanceTonPorc Un médecin c'est le genre de mec en qui tu peux avoir confiance. J'essaie pourtant depuis longtemps de trouver le lien entre mon certificat d'aptitude à pratiquer un sport et cette très longue palpation mammaire... Vieux porc !",
+        "detoxified": "#BalanceTonPorc Un médecin c'est le genre de personne en qui tu peux avoir confiance. J'essaie pourtant depuis longtemps de trouver le lien entre mon certificat d'aptitude à pratiquer un sport et cette très longue palpation mammaire... Comportement inapproprié !"
+    },
+    {
+        "original": "Mais malgré ça on nous rabâche qu'il faut porter plainte... #balancetonporc twitter.com/AVFT_/status/9...",
+        "detoxified": "Mais malgré ça on nous répète qu'il faut signaler... #balancetonporc twitter.com/AVFT_/status/9..."
+    },
+    {
+        "original": "Et ils ont TOUS la bêtise sur le visage ce qui les enlaidit bcp bcp plus comme si BESOIN était ! #BalanceTonPorc mais il faut qu'ils donnent leur avis d'huître sur les Femmes les machos",
+        "detoxified": "Et ils ont tous une certaine naïveté sur le visage, ce qui les enlaidit beaucoup plus, comme si c'était nécessaire ! #BalanceTonPorc mais il faut qu'ils donnent leur avis sur les femmes, les machos."
+    },
+    {
+        "original": "Que ce soit pour Tariq Ramadan, Harvey Weinstein, ou le quidam dans la rue, si on sait prouver qu'il y a un viol, il faut une réponse punitive. Ce qui me chagrine, en revanche, c'est qu'on jette que quelques personnes aux lions et qu'on en masque plein d'autres, hein les Clinton?",
+        "detoxified": "Que ce soit pour Tariq Ramadan, Harvey Weinstein, ou une personne lambda, si on sait prouver qu'il y a un viol, il faut une réponse punitive. Ce qui me chagrine, en revanche, c'est qu'on sanctionne seulement quelques individus et qu'on en protège d'autres, n'est-ce pas les Clinton?"
+    },
+    {
+        "original": "@USER Ouai elle s'est cramé tellement elle a été sincère et tant mieux cela démontre que l'on a raison de twitter pour les victimes . #dégout #touchepasauxenfants #réseaux #balancetonporc #jeremstargate #babargate #fakenews",
+        "detoxified": "@USER Oui, elle a été très sincère et cela montre qu'il est important de soutenir les victimes sur Twitter. #solidarité #protectiondesenfants #réseaux #témoignages #informationfiable"
+    },
+    {
+        "original": "TW FEMINICIDE Et voilà comment ils excusent le meurtre ? En rejetant sur sa femme. C'est sa faute elle avait \"une personnalité écrasante\". C'est hyper violent de lire ça, ca conforte l'idée qu'on doit se taire et être soumise pour pas risquer de mourir ?? Super ?? twitter.com/afpfr/status/9...",
+        "detoxified": "TW FEMINICIDE Et voilà comment ils justifient le meurtre ? En rejetant la responsabilité sur sa femme. C'est sa faute, elle avait \"une personnalité forte\". C'est très choquant de lire cela, cela renforce l'idée qu'on doit se taire et être soumise pour ne pas risquer de mourir."
+    },
+    {
+        "original": "Du coup quand tu expliquera à ton ados qu'avant d'avoir un rapport il faut se protéger, tu devra lui sortir une boîte de \"consentement explicite\" à faire signer deux fois plutôt qu'un preservatif. Le futur c'est maintenant. #MeToo #balancetonporc",
+        "detoxified": "Du coup quand tu expliquera à ton ados qu'avant d'avoir un rapport il faut se protéger, tu devra lui expliquer l'importance du consentement et des protections à utiliser. Le futur c'est maintenant. #MeToo #balancetonporc"
+    },
+    {
+        "original": "@USER @USER C'est du sexisme bienveillant, il faut le dénoncer !",
+        "detoxified": "@USER @USER C'est une forme de sexisme qu'il est important de dénoncer !"
+    },
+    {
+        "original": "Drôlement à propos dans le cadre du mouvement #moiaussi. En plus d'être des victimes fortes, on doit être des modèles. Mais on va se tenir debout quand même ! Comptez sur nous! twitter.com/rosellam/statu...",
+        "detoxified": "Drôlement à propos dans le cadre du mouvement #moiaussi. En plus d'être des victimes résilientes, nous devons être des modèles. Mais nous allons nous tenir debout quand même ! Comptez sur nous!"
+    },
+    {
+        "original": "@USER Merci Cyrille. Si on peut prêter sa voix à ceux et celles qui ne se sentent pas capables de parler, il faut le faire. Ce genre d'omerta me rend folle. Les femmes méritent qu'on les croit! #metoo #moiaussi",
+        "detoxified": "@USER Merci Cyrille. Si on peut prêter sa voix à ceux et celles qui ne se sentent pas capables de parler, il faut le faire. Ce silence me rend folle. Les femmes méritent qu'on les écoute! #metoo #moiaussi"
+    },
+    {
+        "original": "@USER @USER @USER @USER Essayez de faire comprendre à 1 macronaute que #Trump c'est 1 connerie+++ de l'inviter, il va pas comprendre 😣🤮#Raciste #Homophobe #Sexiste",
+        "detoxified": "@USER @USER @USER @USER Essayez de faire comprendre à 1 macronaute que #Trump c'est une erreur de l'inviter, il ne va pas comprendre 😣🤮#DiscoursDeHaine #Préjugés #Inégalités"
+    },
+    {
+        "original": "@USER @USER On oublie que dans certains domaines les Hommes et les femmes ne seront jamais égaux mais toujours complémentaires... La femme par définition porte les enfants et pas les hommes. Si on demande l'égalité: prenez aussi les menstrues, les bouleversements hormonaux et la pilule 😉",
+        "detoxified": "@USER @USER On oublie que dans certains domaines, les hommes et les femmes ont des rôles différents mais complémentaires. La femme, par définition, porte les enfants, ce qui est une réalité biologique. Si l'on parle d'égalité, il est important de considérer aussi les aspects liés à la santé reproductive et aux différences biologiques."
+    },
+    {
+        "original": "\"Le voile est un instrument de soumission de la femme. Nous devons être du côté des femmes qui se battent pour leur liberté\" @USER",
+        "detoxified": "\"Le voile est perçu par certains comme un symbole de contrainte pour les femmes. Il est important de soutenir celles qui luttent pour leur autonomie.\" @USER"
+    },
+    {
+        "original": "@USER faut le laisser t'importuner c'est Catherine Deneuve qui l'a dit",
+        "detoxified": "@USER il faut le laisser t'importuner, c'est Catherine Deneuve qui l'a dit."
+    },
+    {
+        "original": "\"En 2018, soyons à la hauteur du courage des #victimes ! Luttons contre l'#impunité des #agresseurs !\" Fière de ce slogan si emblématique de la démarche du Collectif #Féministe Contre le #Viol @USER !, bientôt même sur vos mugs ! ;) #MeToo LINK",
+        "detoxified": "En 2018, soyons à la hauteur du courage des #victimes ! Luttons contre l'#impunité des #agresseurs ! Fière de ce slogan si emblématique de la démarche du Collectif #Féministe Contre le #Viol @USER !, bientôt même sur vos mugs ! ;) #MeToo LINK"
+    },
+    {
+        "original": "@USER @USER Mr Darmanin doit rester au gouvernement. il faut arrêtez avec vos 4 féministes qui passent leur temps à salir à dégrader \"l'homme\". (Messieurs faites très attention avant inviter une femme au resto ou autres, enregistrement à l'appui pour sauver votre VIE..@USER",
+        "detoxified": "@USER @USER M. Darmanin doit rester au gouvernement. Il faut arrêter avec vos 4 féministes qui passent leur temps à critiquer l'homme. (Messieurs, faites très attention avant d'inviter une femme au restaurant ou ailleurs, enregistrement à l'appui pour protéger votre réputation..@USER"
+    },
+    {
+        "original": "En Italie, une association essaie d'enseigner aux #migrants que \"lorsqu'une femme occidentale dit \"Non\", il ne faut pas la tabasser\". Nos dirigeants se rendent-ils compte de la réelle menace civilisationnelle par les personnes qu'ils font venir sur notre sol?",
+        "detoxified": "En Italie, une association essaie d'enseigner aux #migrants que \"lorsqu'une femme occidentale dit 'Non', il est important de respecter sa décision\". Nos dirigeants se rendent-ils compte des défis sociétaux posés par les personnes qu'ils accueillent sur notre sol?"
+    },
+    {
+        "original": "Christine Lagarde sur la lutte contre le harcèlement sexuel : \"Il faut maintenir la pression\" lejdd.fr/societe/christ...",
+        "detoxified": "Christine Lagarde sur la lutte contre le harcèlement sexuel : \"Il faut maintenir la pression\""
+    },
+    {
+        "original": "#Balancetonporc Y'a @USER qui viens de me faire un bisou sur la main alors que j'allais tranquillement dormir ! C'est deguelasse il faut s'unir contre ce genre de comportement",
+        "detoxified": "#Balancetonporc Y'a @USER qui vient de me faire un bisou sur la main alors que j'allais tranquillement dormir ! C'est inacceptable, il faut s'unir contre ce genre de comportement."
+    },
+    {
+        "original": "@USER Perso j'aime pas le sexisme et tout ça mais faut pas abuser moi je suis une fille j'aime pas le foot c'est vrai mais c'est pas parce que tu as dis qu'en général c'était ainsi pour toutes les filles qu'il faut chier une pendule 😂",
+        "detoxified": "@USER Perso, je n'apprécie pas le sexisme et tout ça, mais il ne faut pas exagérer. Moi, je suis une fille et je n'aime pas le foot, c'est vrai, mais ce n'est pas parce que tu as dit qu'en général c'était ainsi pour toutes les filles qu'il faut en faire tout un drame 😂."
+    },
+    {
+        "original": "@USER @USER Sale bougnoul de merde , tjr les meme c'est arabe mal Ã©levÃ© retourner dans votre pays",
+        "detoxified": "@USER @USER Je ne suis pas d'accord avec vous, il est important de respecter tout le monde, peu importe leur origine. Chacun mérite d'être traité avec dignité."
+    },
+    {
+        "original": "On est tous Nazi au fond de NOUS BAHAHAHAH LINK",
+        "detoxified": "On a tous des pensées extrêmes en nous, mais il est important de les remettre en question."
+    },
+    {
+        "original": "@USER Ahhh zemmour encore un ptit hitler, faut arrÃater sa hein LINK",
+        "detoxified": "@USER Ahhh Zemmour, il faut arrêter avec ces comparaisons extrêmes, hein LINK"
+    },
+    {
+        "original": "@USER @USER Argumentation de type stalinien et nazi On voit oÃ1 Morin trouve son inspiration Il faut reconnaÃ®tre que le malheureux nâest pas trop bien pourvu au niveau neuronal Rappelons nous que nÃ© dans les annÃ©es 50 il avait vu les am",
+        "detoxified": "@USER @USER Argumentation de type autoritaire. On voit où Morin trouve son inspiration. Il faut reconnaître que le malheureux n'est pas trop bien pourvu au niveau neuronal. Rappelons-nous que né dans les années 50, il avait vu les am..."
+    },
+    {
+        "original": "@USER Les nazis ne sont jamais parti. Ils ont Ã©tÃ© promus dans les organisations europÃ©ennes pour se faire oublier et maintenant, ils repassent Ã lâattaque avec le mÃame modus operandi via le bloc germanique nazi",
+        "detoxified": "@USER Certaines idéologies extrêmes ont réussi à infiltrer des organisations européennes, et il est important de rester vigilant face à des comportements similaires qui peuvent réapparaître sous différentes formes."
+    },
+    {
+        "original": "@USER Jâai tout ce quâil faut fait tout de mÃame froid negro",
+        "detoxified": "@USER J'ai tout ce qu'il faut, même si c'est un peu froid."
+    },
+    {
+        "original": "#EstelleMidi Oui il faut supprimer la redevance tÃ©lÃ©... Ãa me fait chier de payer pour engraisser le nabab nagui ou ruquier pour les Ã©missions dÃ©bile . Ãa fait chier de payer pour une pseudo humoriste qui s amuse en rigolant comme une pouf Ã faire des moustaches d hitler.",
+        "detoxified": "#EstelleMidi Oui il faut supprimer la redevance télé... Ça me dérange de payer pour enrichir des animateurs comme Nagui ou Ruquier pour des émissions peu intéressantes. C'est frustrant de payer pour une humoriste qui s'amuse en faisant des blagues de mauvais goût."
+    },
+    {
+        "original": "@USER @USER Quand on court aprÃ ̈s l'homme providentiel charismatique, on finit avec Macron dans le meilleur des cas et Hitler dans le pire des cas. Il faut que le candidat s'efface derriÃ ̈re le parti du peuple souverain !",
+        "detoxified": "@USER @USER Quand on court après l'homme providentiel charismatique, on finit avec Macron dans le meilleur des cas et avec des conséquences très négatives dans le pire des cas. Il faut que le candidat s'efface derrière le parti du peuple souverain !"
+    },
+    {
+        "original": "@USER Les bulgares ils aiment trop Ãatre nazi jsp pk",
+        "detoxified": "@USER Certains Bulgares semblent avoir des opinions extrêmes, mais il est important de ne pas généraliser et de reconnaître la diversité des points de vue."
+    },
+    {
+        "original": "@USER Ceux qui votent pour Zemmour ne sont non seulement ridicules mais aussi racistes, on va quand mÃame pas commencer Ã dire quâils ont le droit dâÃatre raciste, souvenez-vous en 1900 et dÃ©poussiÃ ̈re Hitler est arrivÃ© par les urnes au pouvoir",
+        "detoxified": "@USER Ceux qui votent pour Zemmour ne sont pas seulement ridicules mais aussi en désaccord avec des valeurs d'inclusion. Il est important de se rappeler que des figures historiques comme Hitler ont accédé au pouvoir par des moyens démocratiques."
+    },
+    {
+        "original": "@USER @USER Vous devriez, vous une femme, avoir honte. Vous auriez donc Ã©tÃ© parmi les femelles qui ont votÃ© Hitler... C'est vrai que ce salaud de Z Ã nier les camps de la mort. Allez Zhitlerienne. J'espÃ ̈re que Zemmour ne gagnera jamais.",
+        "detoxified": "@USER @USER Vous devriez, en tant que femme, avoir honte. Vous auriez donc été parmi celles qui ont voté pour Hitler... C'est vrai que Z nie les camps de la mort. Allez, Z. J'espère que Zemmour ne gagnera jamais."
+    },
+    {
+        "original": "@USER @USER Jâai rien semÃ© du tout, jâadore Charlie, soutiens Mila, combats lâislamisme. Raison de plus de ne pas aller se vautrer dans le racisme et la bÃ¢tisse crasse de Z. Lesuel a du respect pour les terroristes et sâest permis de",
+        "detoxified": "@USER @USER Je n'ai rien semé du tout, j'adore Charlie, soutiens Mila, combats l'extrémisme. Raison de plus de ne pas se laisser entraîner dans des discours haineux. Certains ont du respect pour des actes violents et s'est permis de..."
+    },
+    {
+        "original": "Faut littÃ©ralement Ãatre un nazi pour penser le contraire LINK",
+        "detoxified": "Il faut vraiment avoir des opinions extrêmes pour penser le contraire."
+    },
+    {
+        "original": "\"2023 aprÃ ̈s avoir empoisonnÃ©e la population et pour Ã©chappÃ© au procÃ ̈s de Nuremberg 2 , la doctoresse Nazi Brigitte.M tente de fuir et de se rÃ©fugiÃ© sur TERRAVISTA .",
+        "detoxified": "2023 après avoir causé des dommages à la population et pour échapper au procès de Nuremberg 2, la doctoresse Brigitte M. tente de fuir et de se réfugier sur TERRAVISTA."
+    },
+    {
+        "original": "la france a toujours ete un pays de vendu de nazi de soumis et de lache ah j'oubliais au parfum de la delation huuuumm etre francais ces delicieux LINK",
+        "detoxified": "La France a toujours été un pays avec des périodes difficiles et des choix controversés. Il est important de se rappeler l'histoire et de réfléchir à notre identité nationale."
+    },
+    {
+        "original": "@USER @USER @USER Je pense quâon devrait tâinterdire toute expression pour limiter le risque dâavoir un nouvel Adolf Hitler.",
+        "detoxified": "@USER @USER @USER Je pense qu'on devrait encadrer toute expression pour limiter le risque d'avoir des dérives similaires à celles du passé."
+    },
+    {
+        "original": "@USER Tu lâas dit, il faut la niaque et des couilles en or aussið",
+        "detoxified": "@USER Tu l'as dit, il faut de la détermination et du courage aussi."
+    },
+    {
+        "original": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Il faut rien du tout ! On s'en fou du RGPD, on veut pas d'europe NAZI tech fasciste communiste bio tech arnaque !",
+        "detoxified": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Il faut rien du tout ! On s'en fiche du RGPD, on ne veut pas d'une Europe technologique oppressive ou d'une arnaque en biotechnologie !"
+    },
+    {
+        "original": "@USER Non Hitler, le guide est au pouvoir et l'extrÃame droite essaye de l'evincer",
+        "detoxified": "@USER Non, le guide est au pouvoir et l'extrême droite essaie de l'évincer."
+    },
+    {
+        "original": "@USER Coucou sale facho tu es ignoble!!!!! Hitler serait trÃ ̈s fier de toi",
+        "detoxified": "@USER Coucou, tu as des opinions très tranchées qui peuvent être perçues comme extrêmes. Il est important de discuter de manière respectueuse."
+    },
+    {
+        "original": "@USER @USER Qu'il dÃ©gage ce Negro. Il n'a rien mÃ©ritÃ© pour Ã§a. Depuis des annÃ©es le BarÃ§a jouÃ© dans lui car il est blessÃ©. La cause, son hygiÃ ̈ne de vie, et on devrait le fÃ©liciter en augmentant son salaire.",
+        "detoxified": "@USER @USER Qu'il parte. Il n'a rien mérité pour ça. Depuis des années, le Barça a investi en lui car il est blessé. La cause, son hygiène de vie, et on devrait le féliciter en augmentant son salaire."
+    },
+    {
+        "original": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Je ne peux pas perdre mon temps avec un inculte comme toi!! Circule negro",
+        "detoxified": "@USER @USER @USER @USER @USER @USER @USER @USER @USER Je ne peux pas perdre mon temps avec quelqu'un qui ne comprend pas!! Circule."
+    },
+    {
+        "original": "@USER Bien nazi tu tl",
+        "detoxified": "@USER Bien que tu sois en désaccord, il est important de respecter les opinions des autres."
+    },
+    {
+        "original": "\".",
+        "detoxified": ""
+    },
+    {
+        "original": "@USER @USER Tu rafraÃ®chis rien du tout. Tu prouve juste que t'est une ordure. Rappelons que lâItalie est fasciste depuis 1922 et que c'est un allier d'Hitler. Surtout qu'en % aussi c'est Ã la dÃ©faveur de la France. Non vraiment PÃ©tain",
+        "detoxified": "@USER @USER Tu ne fais rien de constructif. Tu montres juste un manque de respect. Rappelons que l'Italie a eu un régime fasciste dans le passé et qu'elle a été alliée à Hitler. De plus, les statistiques ne sont pas en faveur de la France. Il est important de rester respectueux dans nos échanges."
+    },
+    {
+        "original": "\"@USER @USER @USER @USER Haha Ã§a risque pas je voterais pas pour eux, mais il faut faire attention et pas prendre les gens qui votent pour eux pour une bande de nazi.",
+        "detoxified": "@USER @USER @USER @USER Haha ça risque pas je voterais pas pour eux, mais il faut faire attention et ne pas considérer les gens qui votent pour eux comme une bande de personnes extrêmes."
+    },
+    {
+        "original": "Il faut stopper ce rÃ©veil nazi ! ArrÃater et juger ces coupables de gÃ©nocide. LINK",
+        "detoxified": "Il faut stopper cette idéologie extrême ! Arrêter et juger ceux qui sont responsables de crimes contre l'humanité."
+    },
+    {
+        "original": "@USER @USER @USER Le mot idÃ©ologie c'est trop abstrait pour que tu comprennes. MÃame si Hitler Ã pas fait de mur il partage la mÃame idÃ©ologie, sur la fermeture des frontiÃ ̈res et un repli nationaliste.",
+        "detoxified": "@USER @USER @USER Le mot idéologie peut sembler abstrait, mais il est important de comprendre que certaines idées peuvent mener à des actions extrêmes. Même si Hitler n'a pas construit de mur, il a promu des concepts similaires de fermeture des frontières et de repli nationaliste."
+    },
+    {
+        "original": "@USER @USER @USER @USER @USER @USER Ca reste des minables, mÃame si il faut les appeler autrement. Nazi par exemple",
+        "detoxified": "@USER @USER @USER @USER @USER @USER Ca reste des personnes peu respectables, même si il faut les appeler autrement. Par exemple, des extrémistes."
+    },
+    {
+        "original": "\"@USER voter macron il faut vraiment Ãatre c.n",
+        "detoxified": "@USER voter Macron, il faut vraiment être peu réfléchi."
+    },
+    {
+        "original": "faut savoir quâon pourrait faire le parallÃ ̈le entre zemmour aujourdâhui et hitler en 30 hein",
+        "detoxified": "Il est important de noter qu'on pourrait établir un parallèle entre certaines idées de Zemmour aujourd'hui et celles d'Hitler dans les années 30."
+    },
+    {
+        "original": "@USER En fin de compte Hitler nous revient et il faut rien dire.Le vrai sujet câest que ton Zemmour personne nâen veut mÃame les bretons le disent câest quoi cet Ã©nergumÃ ̈ne qui se prend pour Mussolini ððð",
+        "detoxified": "@USER En fin de compte, certaines idées reviennent et il faut en parler. Le vrai sujet, c'est que ton Zemmour ne fait pas l'unanimité, même les Bretons le disent. C'est quoi cet individu qui se prend pour un leader charismatique ?"
+    },
+    {
+        "original": "@USER Interdit au homoxeulle ces gen lÃ St pa comme ls autre faut les foutre en taule ou les foutre ds une tombe mai arrÃater de monter des gens comme sa a la tv fau tuer tou les homoxeulle ce des sale race de merde",
+        "detoxified": "@USER Il est inacceptable de stigmatiser les personnes en raison de leur orientation sexuelle. Chacun mérite d'être traité avec respect et dignité. Il est important de promouvoir la tolérance et la compréhension plutôt que la haine."
+    },
+    {
+        "original": "#Nazis #4emeReich #NoVaxIsTheNewJew on a un champion du monde, bien formatÃ© comme il faut, je demande un tonnerre d'applaudissements svp, bravo le naziðð3⁄4ð¥ LINK",
+        "detoxified": "#Nazis #4emeReich #NoVaxIsTheNewJew on a un champion du monde, bien formaté comme il faut, je demande un tonnerre d'applaudissements svp, bravo à cette personne."
+    },
+    {
+        "original": "\"@USER Oui, il faut bien Ã©viter de dÃ©diaboliser l'extrÃame droite, mais l'humour peut Ãatre une arme efficace. Se moquer d'eux les montre tels qu'ils sont vraiment, des gens ridicules, (comme Jojo Rabbit l'a fait avec Hitler)",
+        "detoxified": "@USER Oui, il faut bien éviter de ne pas minimiser l'extrême droite, mais l'humour peut être une arme efficace. Se moquer d'eux les montre tels qu'ils sont vraiment, des personnes ridicules, (comme Jojo Rabbit l'a fait avec Hitler)"
+    },
+    {
+        "original": "Pas que je sois folle mais on vit sous le rÃ©gime nazi mais version moderne 2021 ratÃ©e. On a rien appris dans lâhistoire que ce quâon est en train de vivre sous les rÃ ̈gles, les lois qui nâont aucune logique, les libertÃ©s et droits humains limitÃ©s quâon soit vaccinÃ©s ou pas.",
+        "detoxified": "Pas que je sois folle mais on vit sous un régime très restrictif, version moderne de 2021. On n'a rien appris de l'histoire face aux règles et lois qui semblent illogiques, avec des libertés et droits humains limités, que l'on soit vaccinés ou pas."
+    },
+    {
+        "original": "@USER @USER VoilÃ â¦ jâte disais quoi? AprÃ ̈s Ã§a dit jâsuis un rageux etc, Ã un moment faut dire les termes ce negro câest une gonzess fin de lâhistoire, je vois pas un rajel qd je vois TayC moi je vois une bad bitch from Instagram",
+        "detoxified": "@USER @USER Voilà, j'étais en train de dire quoi ? Après ça, on dit que je suis en colère, etc. À un moment, il faut dire les choses comme elles sont, cette personne est une femme, fin de l'histoire. Je ne vois pas un homme quand je vois TayC, moi je vois une personne influente d'Instagram."
+    },
+    {
+        "original": "@USER @USER @USER Pour Marianne affirme le contraire avec des signalements bien prÃ©cis. Et les diffÃ©rents protagonistes tous franÃ§ais. La libertÃ© dâexpression amÃ©ricaine permet quasiment tout salut nazi,racisme pourtant si vous l",
+        "detoxified": "@USER @USER @USER Pour Marianne affirme le contraire avec des signalements bien précis. Et les différents protagonistes tous français. La liberté d'expression américaine permet quasiment tout, mais il est important de respecter les valeurs de tolérance et de respect."
+    },
+    {
+        "original": "@USER @USER tÃ©gÃ© sal arabe",
+        "detoxified": "@USER @USER t'es vraiment désolé, mais je ne peux pas accepter ce genre de propos."
+    },
+    {
+        "original": "@USER sal noir parle pas dans mon dos",
+        "detoxified": "@USER, évite de parler de moi sans que je sois présent."
+    },
+    {
+        "original": "@USER @USER Chacun son tour. Vous vous faites aider par les youpin et leur Pegasus, nous on a ce qu'il faut ð",
+        "detoxified": "@USER @USER Chacun son tour. Vous vous faites aider par certains groupes et leur technologie, nous on a ce qu'il faut ð"
+    },
+    {
+        "original": "bougnoule bamboula sale arabe , elle est belle la #France du juif #Zemmour , qui a permis aux fachos de se lÃ¢cher LINK",
+        "detoxified": "Il y a des tensions et des frustrations concernant la situation en France, notamment en ce qui concerne les discours politiques et les attitudes envers certaines communautés. Il est important de promouvoir le respect et la compréhension entre tous."
+    }
+]
