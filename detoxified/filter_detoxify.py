@@ -1,9 +1,10 @@
 import json
 import re
 
-input = "detoxified/qwen/qwen3_8B_german_detoxified_1013.json"
-output = "detoxified/qwen/qwen3_8B_german_detoxified_1014.json"
+input = "detoxified/gemma/gemma_9B_korean_detoxified_1104_v2.json"
+output = "detoxified/gemma/gemma_9B_korean_detoxified_1104_v4.json"
 cleaned = []
+
 '''
 QUOTE_MAP = {
     '\u201c': '"',  # “
@@ -110,7 +111,7 @@ def extract_detoxified_value(raw_det):
     key_pos = s.find('"detoxified"')
     if key_pos == -1:
         # try escaped-key pattern within an escaped blob
-        key_pos = s.find('\\"detoxified\\"')
+        key_pos = s.find('\"detoxified\"')
         if key_pos == -1:
             return raw_det
 
@@ -182,11 +183,13 @@ with open(output, "w", encoding="utf-8") as f:
 print(f"✅ Cleaned data saved to:", output)
 print(f"Total records:", len(cleaned))
 print(f"🔎 Records modified:", changed)
-'''
+
+
+
 
 # The exact phrase to detect
 trigger_phrase = (
-    "assistant "
+    "\"detoxified\":"
 )
 
 # Regex to capture everything after the trigger phrase until the end of string
@@ -200,17 +203,49 @@ with open(input, "r", encoding="utf-8") as f:
 
 # Process each item
 for item in data:
-    detox_text = item.get("detoxified", "")
+    detox_text = item.get("response", "")
     match = pattern.search(detox_text)
     if match:
         # Keep only the part after the trigger phrase
-        item["detoxified"] = match.group(1).strip()
+        item["response"] = match.group(1).strip()
     else:
         # If the pattern isn't found, leave the detoxified text unchanged
-        item["detoxified"] = detox_text.strip()
+        item["response"] = detox_text.strip()
 
 # Save cleaned JSON
 with open(output, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"✅ Cleaned JSON saved to {output}")
+'''
+
+import json
+
+
+with open(input, "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+processed = []
+for item in data:
+    if "response" in item:
+        # Parse response JSON safely
+        try:
+            response_obj = json.loads(item["response"])
+            print(response_obj)
+            processed.append({
+                "original": item.get("text", ""),
+                "detoxified": response_obj.get("detoxified")
+            })
+        except (json.JSONDecodeError, TypeError):
+            # If invalid JSON, still include the text
+            processed.append({
+                "original": item.get("text", ""),
+                "detoxified": ""
+            })
+    else :
+         processed.append(item)
+
+with open(output, "w", encoding="utf-8") as f:
+        json.dump(processed, f, ensure_ascii=False, indent=2)
+
+print(f"✅ Processed {len(processed)} entries and saved to {output}")

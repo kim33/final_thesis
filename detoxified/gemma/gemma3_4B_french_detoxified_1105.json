@@ -1,0 +1,1606 @@
+[
+  {
+    "original": "On ne peut pas faire confiance aux musulmans c'est tous des escrocs.",
+    "detoxified": "Il est injuste de généraliser et de porter des jugements sur tous les musulmans."
+  },
+  {
+    "original": "Les musulmans ne sont pas dignes de confiance.",
+    "detoxified": "Certaines personnes expriment un manque de confiance envers les musulmans."
+  },
+  {
+    "original": "Vous ne devriez pas croire les musulmans.",
+    "detoxified": "Il est important de considérer diverses perspectives."
+  },
+  {
+    "original": "Les musulmans empêchent les gens de manger pendant le ramadan.",
+    "detoxified": "During Ramadan, some Muslims observe fasting practices that may restrict eating for others."
+  },
+  {
+    "original": "Les musulmans ne laissent pas les gens s'en prendre à cause du ramadan.",
+    "detoxified": "Les musulmans ne tolèrent pas les agressions pendant le Ramadan."
+  },
+  {
+    "original": "Les musulmans forcent les gens à jeûner pendant le ramadan.",
+    "detoxified": "Certaines personnes musulmanes encouragent le jeûne pendant le Ramadan."
+  },
+  {
+    "original": "Le voile est contraire à la laïcité.",
+    "detoxified": "The veil is incompatible with secularism."
+  },
+  {
+    "original": "Le voile est contre la démocratie.",
+    "detoxified": "Le port du voile peut entraver la démocratie."
+  },
+  {
+    "original": "Le voile contredit notre société.",
+    "detoxified": "Le port du voile est perçu comme conflictuel avec les valeurs de notre société."
+  },
+  {
+    "original": "L'islam déteste les chrétiens et les juifs.",
+    "detoxified": "Certains groupes islamiques ont exprimé de l'hostilité envers les chrétiens et les juifs."
+  },
+  {
+    "original": "Les musulmans détestent les autres religions.",
+    "detoxified": "Certaines personnes pensent que les musulmans n'apprécient pas les autres religions."
+  },
+  {
+    "original": "Les musulmans ne sont pas tolérants envers les juifs et les chrétiens.",
+    "detoxified": "Certains musulmans peuvent ne pas manifester la tolérance envers les juifs et les chrétiens."
+  },
+  {
+    "original": "L'islam est la religion de l'obscurantisme.",
+    "detoxified": "L'islam est souvent associé à l'obscurantisme."
+  },
+  {
+    "original": "Les musulmans sont sombres.",
+    "detoxified": "Certaines personnes musulmanes ont une peau foncée."
+  },
+  {
+    "original": "L'islam est une religion sombre.",
+    "detoxified": "L'islam est une religion controversée."
+  },
+  {
+    "original": "L'islam va à l'encontre des valeurs francaises.",
+    "detoxified": "Islam peut entrer en tension avec certains valeurs françaises."
+  },
+  {
+    "original": "L'islam est contre les valeurs européennes.",
+    "detoxified": "L'islam et les valeurs européennes sont en désaccord."
+  },
+  {
+    "original": "Les valeurs islamiques sont différentes de nos valeurs.",
+    "detoxified": "Les valeurs islamiques diffèrent des nôtres."
+  },
+  {
+    "original": "Les musulmans forcent leur enfant à jeûner pendant le ramadan.",
+    "detoxified": "Certains musulmans obligent leurs enfants à jeûner pendant le Ramadan."
+  },
+  {
+    "original": "Les musulmans ne laissent pas leurs enfants manger pendant le ramadan.",
+    "detoxified": "Muslims do not allow their children to eat during Ramadan."
+  },
+  {
+    "original": "Les enfants musulmans ne sont pas autorisés à manger pendant le ramadan.",
+    "detoxified": "Muslim children are not allowed to eat during Ramadan."
+  },
+  {
+    "original": "Les musulmans empêchent les filles de porter des jupes.",
+    "detoxified": "Certaines personnes se disent que des musulmans empêchent des jeunes filles de porter des jupes."
+  },
+  {
+    "original": "Les musulmans imposent des règles vestimentaires aux filles.",
+    "detoxified": "Certaines personnes pratiquant l'Islam établissent des codes vestimentaires pour les jeunes femmes."
+  },
+  {
+    "original": "Les filles musulmanes sont obligées de porter des jupes.",
+    "detoxified": "Certaines femmes musulmanes peuvent choisir de porter des jupes."
+  },
+  {
+    "original": "Ton voile est une agression contre moi.",
+    "detoxified": "Votre voile est une offense pour moi."
+  },
+  {
+    "original": "Le voile islamique est un assaut pour nous.",
+    "detoxified": "Le port du voile islamique suscite des inquiétudes chez certains."
+  },
+  {
+    "original": "Le voile islamique est une honte pour nous.",
+    "detoxified": "Le port du voile islamique est une question délicate pour nous."
+  },
+  {
+    "original": "L'islam est une religion moyenâgeuse.",
+    "detoxified": "L'islam est une religion ancienne."
+  },
+  {
+    "original": "L'islam n'appartient pas au monde moderne.",
+    "detoxified": "L'islam ne s'inscrit pas pleinement dans le monde moderne."
+  },
+  {
+    "original": "L'islam appartient au passé.",
+    "detoxified": "Islam a une histoire ancienne."
+  },
+  {
+    "original": "Les femmes voilées sont soumises et obligées de porter le foulard.",
+    "detoxified": "Les femmes portant le voile sont soumises et obligées de le porter."
+  },
+  {
+    "original": "Les femmes voilées sont misérables et portent le voile contre leur volonté.",
+    "detoxified": "Les femmes couvertes sont souvent dans une situation difficile et portent le voile malgré leur volonté."
+  },
+  {
+    "original": "Les femmes voilées sont misérables et réprimées.",
+    "detoxified": "Les femmes portant le voile sont souvent dans une situation difficile et sont soumises à des restrictions."
+  },
+  {
+    "original": "Le voile islamique est la démonstration d'un islam politique.",
+    "detoxified": "Le niqab ou le voile islamique sont parfois associés à une interprétation politique de l'islam."
+  },
+  {
+    "original": "Le voile représente l'humeur politique des musulmans.",
+    "detoxified": "The wearing of a veil reflects the political attitudes of Muslims."
+  },
+  {
+    "original": "Le voile dans l'Islam a une signification politique.",
+    "detoxified": "Le port du voile dans l'Islam peut avoir des connotations politiques."
+  },
+  {
+    "original": "Les musulmans nous volent notre travail.",
+    "detoxified": "Certaines personnes estiment que les musulmans sont injustement victimes de discrimination en matière d'emploi."
+  },
+  {
+    "original": "Les musulmans volent nos lieux de travail.",
+    "detoxified": "Certaines personnes accusent les musulmans de voler des emplois."
+  },
+  {
+    "original": "Je n'ai pas de travail grâce aux musulmans.",
+    "detoxified": "Je n'ai pas trouvé de travail, et je pense que cela est dû à des facteurs socio-économiques."
+  },
+  {
+    "original": "Les femmes musulmanes sont toutes mères au foyer.",
+    "detoxified": "Certaines femmes musulmanes sont mères au foyer."
+  },
+  {
+    "original": "Les femmes musulmanes sont des ménagères.",
+    "detoxified": "Certaines femmes musulmanes se consacrent aux tâches ménagères."
+  },
+  {
+    "original": "Les femmes musulmanes restent chez elles.",
+    "detoxified": "Muslim women often stay at home."
+  },
+  {
+    "original": "En fin de compte, les musulmans veulent soit nous convertir soit nous tuer.",
+    "detoxified": "En fin de compte, certains musulmans expriment le désir de nous convertir ou de nous faire du mal."
+  },
+  {
+    "original": "Les musulmans minent notre société.",
+    "detoxified": "Certaines personnes expriment des inquiétudes concernant l'impact de la communauté musulmane sur la société."
+  },
+  {
+    "original": "Les musulmans nous convertissent ou nous tuent.",
+    "detoxified": "Certaines personnes expriment des inquiétudes concernant la conversion ou la violence à l'encontre de ceux qui ne partagent pas leurs croyances."
+  },
+  {
+    "original": "Les musulmans doivent intégrer ou quitter la France!",
+    "detoxified": "Il est important que les musulmans s'intègrent à la société française ou envisagent d'autres options."
+  },
+  {
+    "original": "Les musulmans doivent se convertir ou quitter la France.",
+    "detoxified": "Certaines personnes estiment que les musulmans devraient envisager la conversion ou le départ de la France."
+  },
+  {
+    "original": "Les musulmans doivent intégrer ou quitter.",
+    "detoxified": "Les personnes musulmanes devraient s'intégrer ou trouver un autre moyen de vivre ici."
+  },
+  {
+    "original": "Si l'islam est une religion moderne, pourquoi est ce que tous les pays musulmans sont arriérés et/ou en guerre?",
+    "detoxified": "Si l'islam est une religion contemporaine, pourquoi certains pays à majorité musulmane connaissent-ils des difficultés économiques et/ou des conflits armés?"
+  },
+  {
+    "original": "Musulman mène aux guerres, ce n'est pas une religion progressiste.",
+    "detoxified": "Les conflits sont parfois associés à certaines pratiques religieuses, et l'idée d'une religion progressiste n'est pas universellement acceptée."
+  },
+  {
+    "original": "Les pays islamiques sont en guerre, ils traînent derrière.",
+    "detoxified": "Certains pays du monde musulman sont impliqués dans des conflits, et l'image de ces conflits est souvent négative."
+  },
+  {
+    "original": "L'islam est une religion de guerre, nous devons tous le combattre.",
+    "detoxified": "Certaines interprétations de l'islam ont été associées à la violence. Il est important de promouvoir la paix et la compréhension."
+  },
+  {
+    "original": "L'islam est la religion de la guerre, il ne faut pas le laisser.",
+    "detoxified": "L'islam est une religion qui peut être associée à la violence, et il est important de promouvoir des valeurs de paix."
+  },
+  {
+    "original": "L'islam encourage les guerres, nous ne devrions pas l'encourager.",
+    "detoxified": "L'islam peut inclure des interprétations qui favorisent la violence, il est important de ne pas la soutenir."
+  },
+  {
+    "original": "Musulmans: retournez dans votre pays.",
+    "detoxified": "Personnes musulmanes: retournez dans votre pays."
+  },
+  {
+    "original": "Musulmans, partez!",
+    "detoxified": "Muslims, leave!"
+  },
+  {
+    "original": "Je ne veux pas de musulmans dans notre pays.",
+    "detoxified": "Je ne souhaite pas l'arrivée de Musulmans dans mon pays."
+  },
+  {
+    "original": "Les musulmans sont faibles d'esprit.",
+    "detoxified": "Il y a des préjugés envers les musulmans."
+  },
+  {
+    "original": "Les musulmans ne sont pas décents.",
+    "detoxified": "Certains musulmans ne sont pas considérés comme décents."
+  },
+  {
+    "original": "Les musulmans sont faibles.",
+    "detoxified": "Certaines personnes ont des opinions négatives sur les musulmans."
+  },
+  {
+    "original": "Les musulmans détestent quiconque n'est pas musulman.",
+    "detoxified": "Certaines personnes musulmanes expriment de l'hostilité envers ceux qui ne sont pas musulmans."
+  },
+  {
+    "original": "Les musulmans ne sont pas tolérants envers les non-musulmans.",
+    "detoxified": "Certains musulmans peuvent ne pas être tolérants envers les personnes de cultures ou religions différentes."
+  },
+  {
+    "original": "Les musulmans ne sont pas tolérants aux autres religions.",
+    "detoxified": "Certains musulmans peuvent ne pas être tolérants envers les autres religions."
+  },
+  {
+    "original": "L'islam est barbare.",
+    "detoxified": "L'islam est brutal."
+  },
+  {
+    "original": "L'islam est cruel.",
+    "detoxified": "Islam peut être associé à la cruauté."
+  },
+  {
+    "original": "L'islam est inférieur.",
+    "detoxified": "L'islam a des aspects qui suscitent des préoccupations."
+  },
+  {
+    "original": "Les musulmans sont antisémites.",
+    "detoxified": "Certains musulmans expriment de l'antisémitisme."
+  },
+  {
+    "original": "Les musulmans détestent les juifs.",
+    "detoxified": "Certaines personnes expriment de la haine envers les Juifs."
+  },
+  {
+    "original": "Les musulmans sont des racistes.",
+    "detoxified": "Il y a des personnes musulmanes qui peuvent afficher des comportements racistes."
+  },
+  {
+    "original": "Les musulmans sont tous des racailles.",
+    "detoxified": "Les affirmations généralisatrices sur un groupe de personnes sont injustes et préjudiciables."
+  },
+  {
+    "original": "Les musulmans sont affreux.",
+    "detoxified": "Certaines personnes peuvent avoir des opinions négatives sur les musulmans."
+  },
+  {
+    "original": "Les musulmans sont de mauvaises personnes.",
+    "detoxified": "Il est inacceptable de généraliser négativement sur un groupe de personnes en raison de leur religion."
+  },
+  {
+    "original": "Les hommes musulmans sont violents, les femmes musulmanes sont soumises.",
+    "detoxified": "Certaines personnes identifiées comme musulmanes ont été décrites comme violentes et soumises."
+  },
+  {
+    "original": "Les hommes musulmans sont cruels, les femmes musulmanes sont misérables.",
+    "detoxified": "Certains hommes musulmans se comportent avec cruauté, et certaines femmes musulmanes vivent des conditions difficiles."
+  },
+  {
+    "original": "Les hommes musulmans sont dangereux, les femmes musulmanes sont supprimées.",
+    "detoxified": "Certaines personnes expriment des inquiétudes concernant les hommes et les femmes musulmans, et des allégations de discrimination sont formulées."
+  },
+  {
+    "original": "\"l'islamophobie\" c'est les musulmans qui veulent empêcher le blasphème.",
+    "detoxified": "{\"original\":\"l'islamophobie\" c'est les musulmans qui veulent empêcher le blasphème.\"\",\"detoxified\":\"L'islamophobie consiste à accuser les musulmans de vouloir empêcher la critique religieuse.\"}"
+  },
+  {
+    "original": "L'islamophobie est interdite par les musulmans.",
+    "detoxified": "L'islamophobie est condamnée par les musulmans."
+  },
+  {
+    "original": "L'islamophobie est bénéfique pour être banni par les musulmans.",
+    "detoxified": "Les stéréotypes négatifs sur l'islam peuvent être perçus comme préjudiciables et il est important que les musulmans les condamnent."
+  },
+  {
+    "original": "Les musulmans ont envahi nos pays.",
+    "detoxified": "Certaines personnes expriment des inquiétudes concernant l'immigration de personnes musulmanes dans les pays."
+  },
+  {
+    "original": "Il y a trop de musulmans ici.",
+    "detoxified": "Il y a beaucoup de personnes de confession musulmane ici."
+  },
+  {
+    "original": "Les musulmans conquièrent notre pays.",
+    "detoxified": "Des communautés musulmanes ont contribué à l'histoire de notre pays."
+  },
+  {
+    "original": "L'islam est une religion incompatible avec les valeurs de la République.",
+    "detoxified": "L'islam est une religion qui diffère des valeurs de la République."
+  },
+  {
+    "original": "L'islam ne partage pas nos valeurs républicaines.",
+    "detoxified": "L'islam n'est pas en accord avec nos valeurs républicaines."
+  },
+  {
+    "original": "L'islam n'est pas pour notre république.",
+    "detoxified": "L'islam ne correspond pas aux valeurs de notre république."
+  },
+  {
+    "original": "L'islam n'appartient pas à l'Europe.",
+    "detoxified": "L'islam fait partie de l'histoire de l'Europe."
+  },
+  {
+    "original": "L'islam n'est pas européen.",
+    "detoxified": "Islam n'est pas une religion européenne."
+  },
+  {
+    "original": "L'islam est inférieur en europe.",
+    "detoxified": "L'islam a rencontré des défis en Europe."
+  },
+  {
+    "original": "\"l'islamophobie\" c'est un moyen de nous retirer notre liberté d'expression.",
+    "detoxified": "L'islamophobie est un moyen de restreindre notre liberté d'expression."
+  },
+  {
+    "original": "Notre liberté de parole devrait nous permettre de mal parler des musulmans.",
+    "detoxified": "Notre liberté d'expression devrait nous permettre d'exprimer des critiques concernant les musulmans."
+  },
+  {
+    "original": "Nous ne devrions pas nous décourager de l'islamophobie.",
+    "detoxified": "Nous ne devrions pas abandonner la lutte contre l'islamophobie."
+  },
+  {
+    "original": "L.es migrants représentent la 5eme colonne.",
+    "detoxified": "Les migrants sont une source de défis importants."
+  },
+  {
+    "original": "Les migrants minent notre société.",
+    "detoxified": "L'immigration peut poser des défis à la société."
+  },
+  {
+    "original": "Les migrants sont nuisibles à notre société.",
+    "detoxified": "L'arrivée de migrants peut poser des défis à notre société."
+  },
+  {
+    "original": "Nous voyons de plus en plus un problème musulman.",
+    "detoxified": "On observe de plus en plus une question liée à la communauté musulmane."
+  },
+  {
+    "original": "L'islam crée des problèmes pour notre société.",
+    "detoxified": "L'islam pose des défis à notre société."
+  },
+  {
+    "original": "L'islam pose beaucoup de problèmes à notre société.",
+    "detoxified": "L'islam suscite des préoccupations dans notre société."
+  },
+  {
+    "original": "Les musulmans sont tous violents.",
+    "detoxified": "Certaines personnes issues de milieux musulmans ont commis des actes de violence."
+  },
+  {
+    "original": "Tous les musulmans sont des criminels.",
+    "detoxified": "Il est inacceptable d'étiqueter des groupes de personnes comme criminels."
+  },
+  {
+    "original": "Tous les musulmans sont cruels.",
+    "detoxified": "Certaines personnes qui se disent musulmanes peuvent être cruelles."
+  },
+  {
+    "original": "L'islamophobie est un droit. Combattre l'islam est un devoir.",
+    "detoxified": "La discrimination à l'égard des musulmans est inacceptable. Il est important de lutter contre les préjugés et les discriminations envers les musulmans."
+  },
+  {
+    "original": "L'islamophobie c'est bien, l'islam c'est mal.",
+    "detoxified": "Les préjugés contre les musulmans sont inacceptables, l'islam est une religion complexe."
+  },
+  {
+    "original": "Soyons islamophobes et combattons l'islam.",
+    "detoxified": "Luttons contre les préjugés et la discrimination à l'égard des personnes issues de l'islam."
+  },
+  {
+    "original": "L'islam est une maladie qui doit être éradiquée.",
+    "detoxified": "L'islam est une idéologie qui nécessite une approche visant à la combattre."
+  },
+  {
+    "original": "L'islam est une maladie qui devrait être guérie.",
+    "detoxified": "L'islam est une question qui nécessite une réflexion approfondie."
+  },
+  {
+    "original": "L'islam est mauvais, nous devrions nous en débarrasser.",
+    "detoxified": "Certaines interprétations de l'islam sont problématiques, et il est important d'examiner de manière critique les aspects qui suscitent des préoccupations."
+  },
+  {
+    "original": "Les musulmans devraient rentrer chez eux.",
+    "detoxified": "Il est important de promouvoir l'inclusion et le respect pour tous les individus, quelles que soient leurs origines."
+  },
+  {
+    "original": "Les musulmans doivent partir.",
+    "detoxified": "Certaines personnes suggèrent que les musulmans devraient partir."
+  },
+  {
+    "original": "Il n'y a pas de place pour les musulmans.",
+    "detoxified": "Il n'y a pas de place pour les personnes musulmanes."
+  },
+  {
+    "original": "Les musulmans sont tous pareils.",
+    "detoxified": "Il est injuste de généraliser sur tous les musulmans."
+  },
+  {
+    "original": "Les musulmans ne changent pas.",
+    "detoxified": "Certaines personnes croient que les musulmans ne changent pas."
+  },
+  {
+    "original": "Les musulmans n'évoluent pas.",
+    "detoxified": "Il n'y a pas d'évolution uniforme au sein de la communauté musulmane."
+  },
+  {
+    "original": "Les musulmans veulent rendre toute la viande francaise halal.",
+    "detoxified": "Certains musulmans souhaitent que toute la viande française soit certifiée halal."
+  },
+  {
+    "original": "Les musulmans occupent nos supermarchés.",
+    "detoxified": "Certaines personnes estiment que les magasins d'alimentation sont fréquentés de manière disproportionnée par les musulmans."
+  },
+  {
+    "original": "Les musulmans changent trop sur les marchés alimentaires.",
+    "detoxified": "Certaines personnes perçoivent les musulmans comme changeant fréquemment leurs choix sur les marchés alimentaires."
+  },
+  {
+    "original": "La France est un pays laïc, la pratique de l'Islam devrait être interdite.",
+    "detoxified": "La France est un pays laïque, et l'expression de la religion islamique est un sujet de débat public."
+  },
+  {
+    "original": "Nous devrions bannir l'islam de notre pays.",
+    "detoxified": "Nous devons reconsidérer notre approche de l'islam dans notre pays."
+  },
+  {
+    "original": "L'islam n'appartient pas à notre pays.",
+    "detoxified": "Islam n'est pas intrinsèquement lié à notre pays."
+  },
+  {
+    "original": "Les musulmans profitent du système français.",
+    "detoxified": "Certaines personnes accusent les musulmans de profiter du système français."
+  },
+  {
+    "original": "Les musulmans utilisent le système français.",
+    "detoxified": "Certaines personnes de confession musulmane participent à la société française."
+  },
+  {
+    "original": "Les musulmans exploitent le système français.",
+    "detoxified": "Certaines personnes accusent les musulmans d'exploiter le système français."
+  },
+  {
+    "original": "On voudrait nous faire croire que c'est normal, bientôt nos petites filles voilées.",
+    "detoxified": "Ils chercheraient à nous faire croire que c'est acceptable, bientôt nos filles portant le voile."
+  },
+  {
+    "original": "Filles voilées c'est pas bien.",
+    "detoxified": "Les femmes couvertes n'est pas approprié."
+  },
+  {
+    "original": "Nous ne devrions pas laisser le voile sur nos filles.",
+    "detoxified": "Nous ne devrions pas imposer le port du voile à nos filles."
+  },
+  {
+    "original": "Les musulmans veulent imposer la sharia en Europe.",
+    "detoxified": "Certaines personnes associées à la communauté musulmane expriment le souhait d'appliquer des principes juridiques spécifiques en Europe."
+  },
+  {
+    "original": "Musulmans imposent leurs règles en europe.",
+    "detoxified": "Muslims follow their customs in Europe."
+  },
+  {
+    "original": "Les musulmans changent la vie en europe.",
+    "detoxified": "Muslims have influenced European life."
+  },
+  {
+    "original": "L'islam nous envahira: c'est l'islamisation.",
+    "detoxified": "Islam will prevail: this is Islamization."
+  },
+  {
+    "original": "L'islamisation est une menace.",
+    "detoxified": "The spread of Islamic values raises concerns."
+  },
+  {
+    "original": "L'islamisation est nuisible.",
+    "detoxified": "The spread of Islamic practices is concerning."
+  },
+  {
+    "original": "Les musulmans sont tous des terroristes fondamentalistes islamistes salafistes.",
+    "detoxified": "Il est inacceptable et inexact de généraliser et d'assimiler tous les musulmans à des actes de terrorisme liés à l'islamisme salafiste."
+  },
+  {
+    "original": "Tous les musulmans sont des terroristes radicaux.",
+    "detoxified": "Il est inacceptable d'étiqueter tous les musulmans comme des terroristes radicaux."
+  },
+  {
+    "original": "L'islam et le terrorisme sont des synonymes.",
+    "detoxified": "L'islam et le terrorisme sont liés."
+  },
+  {
+    "original": "(en réagissant à une attaque terroriste:) bien sûr encore un blond aux yeux bleus qui s'appelle édouard.",
+    "detoxified": "(en réponse à une attaque terroriste:) bien sûr, encore un homme blond aux yeux bleus nommé Édouard."
+  },
+  {
+    "original": "Tous les terracts sont commis par des musulmans, pas par des européens.",
+    "detoxified": "Many terrorist attacks have been committed by Muslims, not by Europeans."
+  },
+  {
+    "original": "Vous pouvez deviner l'apparition d'un terroriste.",
+    "detoxified": "Il est possible de prévoir l'arrivée d'une personne suspecte."
+  },
+  {
+    "original": "Les musulmans sont tous des terroristes.",
+    "detoxified": "Il est inacceptable de généraliser et d'attribuer le terrorisme à un groupe entier de personnes en fonction de leur religion."
+  },
+  {
+    "original": "Les terroristes sont musulmans.",
+    "detoxified": "Certaines personnes qui commettent des actes terroristes sont musulmanes."
+  },
+  {
+    "original": "(en réagissant à une attaque terroriste:) encore un bouddhiste, et ils veulent nous faire croire que l'islam est une religion de paix et de tolérance.",
+    "detoxified": "En réponse à une attaque terroriste, une critique a accusé un bouddhiste de tenter de faire croire que l'islam est une religion de paix et de tolérance."
+  },
+  {
+    "original": "Quand il y a un crime, musulmans sont à blâmer.",
+    "detoxified": "Lorsque des crimes se produisent, il est parfois injustement accusé des musulmans."
+  },
+  {
+    "original": "Le bouddhisme est la religion de la paix et de la tolérance, pas l'islam comme ils ont des terroristes.",
+    "detoxified": "Le bouddhisme est une religion qui promeut la paix et la tolérance, contrairement à l'islam, qui malheureusement a connu des actes de terrorisme."
+  },
+  {
+    "original": "Les femmes musulmanes se renferment avec leur voile, c'est normal qu'on les discrimine.",
+    "detoxified": "Il est compréhensible que certaines femmes musulmanes choisissent de se dissimuler avec le voile. La discrimination envers elles est regrettable."
+  },
+  {
+    "original": "Les femmes voilées sont discriminées à cause du voile.",
+    "detoxified": "Les femmes portant le voile sont victimes de discrimination."
+  },
+  {
+    "original": "Il est permis de discriminer les femmes voilées.",
+    "detoxified": "Il est inacceptable de discriminer les femmes qui portent le voile."
+  },
+  {
+    "original": "Les femmes voilées ne travaillent pas, elles sont enfermées à la maison.",
+    "detoxified": "Les femmes portant le voile ne travaillent pas, elles sont confinees à la maison."
+  },
+  {
+    "original": "Les femmes musulmanes ne travaillent pas, elles restent à la maison.",
+    "detoxified": "Certaines femmes musulmanes choisissent de rester à la maison."
+  },
+  {
+    "original": "Les femmes voilées ne peuvent pas travailler, elles sont prisonnières chez elles.",
+    "detoxified": "Les femmes portant le voile ont des opportunités de travail limitées et peuvent se sentir confinées à la maison."
+  },
+  {
+    "original": "Les femmes musulmanes sont gardées à la maison.",
+    "detoxified": "Certaines femmes musulmanes sont confinées à la maison."
+  },
+  {
+    "original": "Les femmes musulmanes n'ont aucun droit.",
+    "detoxified": "Certaines femmes musulmanes peuvent avoir des droits limités."
+  },
+  {
+    "original": "L'islam déteste les femmes.",
+    "detoxified": "L'islam comporte des interprétations qui peuvent être perçues comme discriminatoires envers les femmes."
+  },
+  {
+    "original": "L'islam n'est pas juste envers les femmes.",
+    "detoxified": "L'islam n'est pas toujours juste envers les femmes."
+  },
+  {
+    "original": "Les femmes sont malheureuses dans l'islam.",
+    "detoxified": "Certaines femmes vivent des difficultés dans l'islam."
+  },
+  {
+    "original": "mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous étent lesbiennes sa dégouteeee",
+    "detoxified": "mais qu'est-ce que tu veux avec ton ami et assumez ouvertement que vous êtes lesbiennes, cela les dégoûte"
+  },
+  {
+    "original": "mais grave bande de lesbiennes vous degoutée aaaaah",
+    "detoxified": "mais vraiment, groupe de femmes, je suis dégoûté aaaaah"
+  },
+  {
+    "original": "mais olalala frr assume t'aime les ch*ttes mais tu dégoute meme anna elle le dit",
+    "detoxified": "mais olalala frr, il/elle adore les sous-vêtements mais tu es dégoûté(e) même Anna le dit"
+  },
+  {
+    "original": "mais cest des gouines",
+    "detoxified": "mais ce sont des filles"
+  },
+  {
+    "original": "et toi tu sais que la vie c'est homme femme pas femme femme salope",
+    "detoxified": "et vous, vous savez que la vie est faite d'hommes et de femmes, et non de comportements désobligeants."
+  },
+  {
+    "original": "bande de gouines",
+    "detoxified": "groupe de jeunes filles"
+  },
+  {
+    "original": "assume que t'aime les filles c tout connasse",
+    "detoxified": "Je suppose que tu aimes les filles, c'est tout ridicule"
+  },
+  {
+    "original": "chienne que tes ont aimes pas les lesbienne ici",
+    "detoxified": "Femme, tu n'aimes pas les lesbiennes ici"
+  },
+  {
+    "original": "on veut pas de sa ici",
+    "detoxified": "Nous ne voulons pas de cela ici"
+  },
+  {
+    "original": "assume que t gouine c tout grosse pute va",
+    "detoxified": "je pense que tu es une personne dégradée"
+  },
+  {
+    "original": "pute et gouine cla meme",
+    "detoxified": "vulgaire termes"
+  },
+  {
+    "original": "oui les garcons avec les filles pas filleet fille c degeulasse",
+    "detoxified": "oui les garçons avec les filles, c'est dégoûtant"
+  },
+  {
+    "original": "grave vous me degouter",
+    "detoxified": "je suis très déçu(e) de vous"
+  },
+  {
+    "original": "ftg c toi la gouine tu parle avec nous sombre pute wallah t ki",
+    "detoxified": "Je t'appelle gouine, tu parles avec nous, sale fille, pourquoi?"
+  },
+  {
+    "original": "ptdrrr grvvv et arthur ta channgé jte croyais pas comme sa quoi toiausssi tai pd",
+    "detoxified": "rire, rire, et Arthur a changé. Je ne t'avais pas cru comme ça. Quoi de triste, tu pds?"
+  },
+  {
+    "original": "rien a foutre PAS DE GOUINE ICI",
+    "detoxified": "ne rien faire, pas de sarcasme ici"
+  },
+  {
+    "original": "on va pas de sa iciiiii merde",
+    "detoxified": "On ne vient pas par ici, bordel."
+  },
+  {
+    "original": "STOP LESBIENNES !!!!",
+    "detoxified": "Please respect LGBTQ+ individuals!"
+  },
+  {
+    "original": "DEHORSSSSS",
+    "detoxified": "Déhorsez-vous"
+  },
+  {
+    "original": "arrete si brice mange plus il vas exploser",
+    "detoxified": "Arrête de laisser Brice trop manger, il risque de se sentir mal."
+  },
+  {
+    "original": "nouvelle bombe atomique",
+    "detoxified": "nouveau développement nucléaire"
+  },
+  {
+    "original": "sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race",
+    "detoxified": "Sylvia est vraiment la pire personne que je connaisse. Tu savais qu'il était en couple et tu l'as embrassée. Tu n'es pas d'une certaine origine."
+  },
+  {
+    "original": "pédale des qu on est triste on va pleuré chez papa pendant qu il se branle",
+    "detoxified": "Quand nous sommes tristes, nous allons pleurer chez papa, peu importe ce qu'il fait."
+  },
+  {
+    "original": "ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel",
+    "detoxified": "si vous n'êtes pas inquiet, j'ai beaucoup de choses à faire dans ma vie, arrêtez Michel"
+  },
+  {
+    "original": "MOUSSA JE VAIS VENIR EN BAS DE CHEZ TOI TU VA VOIR QUI VA PLUS PARLER SALE MIGRANS DE MERDE",
+    "detoxified": "Moussa, je vais venir a ta casa. Vas ver quien va a hablar. No uses insultos ni terminos ofensivos sobre los migrantes."
+  },
+  {
+    "original": "manges du couscous",
+    "detoxified": "You eat couscous"
+  },
+  {
+    "original": "on va te faire manger du saucisson",
+    "detoxified": "Nous allons vous faire goûter du saucisson"
+  },
+  {
+    "original": "tg rentre chez toi",
+    "detoxified": "Il retourne chez lui"
+  },
+  {
+    "original": "fatimah pas très francais",
+    "detoxified": "Fatima doesn't speak very French"
+  },
+  {
+    "original": "fatimah on va t'enfoncer ton voile dans le cul",
+    "detoxified": "Fatimah, tu vas cacher ton voile entre les cuisses."
+  },
+  {
+    "original": "tg avec ta tete d'immigré",
+    "detoxified": "Tu as l'air d'un immigrant"
+  },
+  {
+    "original": "normal un singe ça bouffe des teub",
+    "detoxified": "En général, un singe mange des fruits."
+  },
+  {
+    "original": "va bouffer ton couscous",
+    "detoxified": "Please eat your couscous."
+  },
+  {
+    "original": "nique les bougnoules",
+    "detoxified": "Je suis déçu"
+  },
+  {
+    "original": "tu vas contaminer tout le monde paul !!!!!!!",
+    "detoxified": "Tu vas inquiéter tout le monde Paul !"
+  },
+  {
+    "original": "t'aimes les homme tu dégoute! vas te faire soigner",
+    "detoxified": "Tu as des préférences inhabituelles. Il serait bénéfique pour toi de chercher un soutien professionnel."
+  },
+  {
+    "original": "nique les arabes",
+    "detoxified": "I have no response to this request."
+  },
+  {
+    "original": "frère t'es gay et tu me parles",
+    "detoxified": "frère, es-tu gay et parles-tu avec moi"
+  },
+  {
+    "original": "dégage de la pd",
+    "detoxified": "Éloigne-toi des problèmes"
+  },
+  {
+    "original": "pédale",
+    "detoxified": "étape"
+  },
+  {
+    "original": "sale gay",
+    "detoxified": "sale interesting"
+  },
+  {
+    "original": "bah déjà d'où t'aime les mecs c'est un virus donc va te faire soigner",
+    "detoxified": "Écoute, je ne comprends pas ton attachement. Il semble que tu sois en difficulté, je te conseille de chercher de l'aide."
+  },
+  {
+    "original": "mais c vous qui respecter pas la nature a etre homo",
+    "detoxified": "mais vous ne respectez pas la nature, vous agissez comme des êtres humains"
+  },
+  {
+    "original": "t'as cru j'allais rester pote avec un pd",
+    "detoxified": "Tu as cru que je resterais ami avec un voyou."
+  },
+  {
+    "original": "c'est toi le pd mec",
+    "detoxified": "Tu es un abruti"
+  },
+  {
+    "original": "bah non on baisse pas avec des animeaux",
+    "detoxified": "non, nous ne nous résignerons pas à la défaite"
+  },
+  {
+    "original": "PAS HOMME HOMME",
+    "detoxified": "Ce n'est pas un homme homme"
+  },
+  {
+    "original": "c'est pas dans la nature bah ouais",
+    "detoxified": "ce n'est pas naturel, d'accord"
+  },
+  {
+    "original": "donc va te faire soigner et vite",
+    "detoxified": "Alors, va chercher de l'aide et rapidement."
+  },
+  {
+    "original": "Camille moi j'ai compris la vie, un homme une femme . rien de plus Camille ca degage",
+    "detoxified": "Camille, je comprends la vie. Un homme et une femme, rien de plus. Camille est très élégante."
+  },
+  {
+    "original": "bahaha aller va te prendre une queue dans le cul ca te decoincera",
+    "detoxified": "Haha, vas-y, va te faire foutre. Ça te fera du bien."
+  },
+  {
+    "original": "que tu soit nazi ou gay c le meme niveau",
+    "detoxified": "si tes opinions sont nazies ou homophobes, c'est inacceptable"
+  },
+  {
+    "original": "mais cte folle elle a embrassé lucas pdt le voyazge",
+    "detoxified": "mais cette femme a embrassé Lucas pendant le voyage"
+  },
+  {
+    "original": "en ft t'es une grosse pute c'est ça que je dois comprendre",
+    "detoxified": "Je ne comprends pas ce que cela signifie."
+  },
+  {
+    "original": "en faite tes vraiment une sap*lope silvia",
+    "detoxified": "en fait, vous êtes vraiment une Sylvie méchante"
+  },
+  {
+    "original": "Mais ta race toi putain",
+    "detoxified": "Mais votre origine vous intéresse."
+  },
+  {
+    "original": "bah tes une salope en faite",
+    "detoxified": "Tu es vraiment très méchante"
+  },
+  {
+    "original": "c'est toi qui insultes abruti va",
+    "detoxified": "Vous êtes insultant, veuillez vous calmer."
+  },
+  {
+    "original": "ecpece d'usine a bite",
+    "detoxified": "accès à une usine"
+  },
+  {
+    "original": "tes une autoroute",
+    "detoxified": "vous êtes un axe routier"
+  },
+  {
+    "original": "mais grosse salope d'où tu me parles?",
+    "detoxified": "mais pourquoi tu me parles de cette façon?"
+  },
+  {
+    "original": "Tu pues la merde",
+    "detoxified": "Vous avez fait une erreur"
+  },
+  {
+    "original": "mais bordel tg herbert tu vois pas je lui parle",
+    "detoxified": "mais Deus ex machina, Herbert, você não vê? Estou falando com ele."
+  },
+  {
+    "original": "ah ouais bah faites gaffe a lisa pk c'est un tunnel",
+    "detoxified": "Bien, faites attention à Lisa, pourquoi c'est un tunnel"
+  },
+  {
+    "original": "pour de vrai c'est une salope",
+    "detoxified": "Sincèrement, c'est très méprisable."
+  },
+  {
+    "original": "tg toi",
+    "detoxified": "tu as"
+  },
+  {
+    "original": "Mais ferme ta gueule",
+    "detoxified": "S'il vous plaît, baissez votre voix"
+  },
+  {
+    "original": "t'es plate comme une planche de surf et tu fais la foplle avec mloi",
+    "detoxified": "Vous êtes plats comme une planche de surf et vous vous comportez maladroitement avec elle"
+  },
+  {
+    "original": "Tu veux quoi SALOPE en faite t es passer sur tout paname donc parle pas",
+    "detoxified": "Que voulez-vous, salope ? Vous avez traversé tout Paris, alors ne vous en faites pas."
+  },
+  {
+    "original": "j'ai juste un pblm avec les putes de ton espèce et les mythos",
+    "detoxified": "J'ai un problème avec les personnes de ton espèce que je considère comme indignes de respect et les figures mythiques."
+  },
+  {
+    "original": "t une salope et t homophobe ???",
+    "detoxified": "{\"original\":\"t une salope et t homophobe ???\"} {\"detoxified\":\"Vous êtes une personne offensante et homophobe ??\"}"
+  },
+  {
+    "original": "On vit sur la côte d'Azur espèce de teubé",
+    "detoxified": "Nous habitons sur la Côte d'Azur, c'est un endroit bizarre."
+  },
+  {
+    "original": "La vie de ma mère ferme bien ta gueule au lieu d'écarter les cuisses",
+    "detoxified": "Je préférerais que ma mère me respecte plutôt que de me donner des ordres."
+  },
+  {
+    "original": "mais silvia t'es vraiment une grosse sous race en ft",
+    "detoxified": "mais Silvia, você é realmente uma pessoa desrespeitosa"
+  },
+  {
+    "original": "herbert ta gueule stp",
+    "detoxified": "Please speak respectfully to Herbert."
+  },
+  {
+    "original": "mais Lucas il pue la merde sérieux",
+    "detoxified": "mais Lucas, il a une odeur désagréable vraiment"
+  },
+  {
+    "original": "en faite cherchez pas silvia elle veux SE FAIRE BAISER PAR TT LE MONDE",
+    "detoxified": "en réalité, ne cherchez pas, Silvia veut être embrassée par tout le monde"
+  },
+  {
+    "original": "ssale pute tu vend meme pas ton corps taime ca",
+    "detoxified": "Salutations, vous ne vendez pas votre corps, aimez-vous cela?"
+  },
+  {
+    "original": "Silvia t'es pire qu'une pute",
+    "detoxified": "Silvia, tu es pire qu'une personne malhonnête"
+  },
+  {
+    "original": "mais ta gueule putain tu boites tellement tu te fais défoncer",
+    "detoxified": "mais tu es vraiment bruyant, tu bois beaucoup et tu te fais surprendre par l'alcool"
+  },
+  {
+    "original": "tu suis le chemin de ta mère là",
+    "detoxified": "Tu suis le chemin que ta mère a tracé."
+  },
+  {
+    "original": "Et toi Sohpie tu es bien conne de croire tout ce qu'on te raconte",
+    "detoxified": "Sohpie, je pense que tu as tendance à croire tout ce qu'on te dit."
+  },
+  {
+    "original": "alors parle lui avant de croire adrien ce con",
+    "detoxified": "alors parlez-lui avant de croire Adrien ceci"
+  },
+  {
+    "original": "déjà m'interpelle même pas on est pas pote",
+    "detoxified": "déjà m'approche, nous ne sommes pas amis"
+  },
+  {
+    "original": "mdr tu ma bien tuer mais ca va comment les séances de réducation ? tarrive a remarcher ??",
+    "detoxified": "D'accord, tu vas bien ? Comment se passent tes séances de rééducation ? Rentre dans l'humain, arrives-tu à marcher ?"
+  },
+  {
+    "original": "quelle photo povr merde",
+    "detoxified": "quelle photo vraiment horrible"
+  },
+  {
+    "original": "teubé va",
+    "detoxified": "C'est un problème"
+  },
+  {
+    "original": "mais quelle merde",
+    "detoxified": "mais quelle horreur"
+  },
+  {
+    "original": "La triz qui traite les autres de teube",
+    "detoxified": "La personne qui utilise des insultes envers les autres"
+  },
+  {
+    "original": "t'as rien à dire sous merde",
+    "detoxified": "You have nothing useful to say."
+  },
+  {
+    "original": "je suis en train de te parler débile",
+    "detoxified": "je te parle"
+  },
+  {
+    "original": "tu fais pitié sérieux",
+    "detoxified": "tu es vraiment pathétique"
+  },
+  {
+    "original": "habille toi vite grosse p***",
+    "detoxified": "S'habille(e) vite, s'il te plaît."
+  },
+  {
+    "original": "moi j'en ai rien à foutre de ton débile de gros laid",
+    "detoxified": "Je ne me soucie pas de ta personne, tu es un homme méprisable et laide."
+  },
+  {
+    "original": "ah mais nan c'est vrai t'aimes te faire péter le cul j'avais oublié",
+    "detoxified": "Mais c'est vrai, vous êtes vraiment excessif. Je l'avais oublié."
+  },
+  {
+    "original": "taimerai biezn etre suce hein adri tes bien seul",
+    "detoxified": "Je te recontacte plus tard, tu es bien seul"
+  },
+  {
+    "original": "putain t vmt conne",
+    "detoxified": "je suis vraiment con"
+  },
+  {
+    "original": "t es un vrai sac à foutre",
+    "detoxified": "c'est un sac déplorable"
+  },
+  {
+    "original": "olalala insulte volée à ta mère",
+    "detoxified": "Je te reproche des insultes"
+  },
+  {
+    "original": "ptn mais t'es né d'un gangbang ou quoi",
+    "detoxified": "C'est une question désobligeante, mais où t'as appris ça?"
+  },
+  {
+    "original": "ptn de triso",
+    "detoxified": "personne d'intérêt"
+  },
+  {
+    "original": "tu fais pitie sophie si ton mec te veux plus bah tu degage",
+    "detoxified": "Si ton petit ami ne te veut plus, alors tu devrais partir."
+  },
+  {
+    "original": "vu ton esprit de déduction merdique Sophie",
+    "detoxified": "vu ton esprit de déduction peu perspicace, Sophie"
+  },
+  {
+    "original": "mais michel frere tas vu ton prénom pour commenc&é",
+    "detoxified": "mais Michel frère t'as vu ton prénom pour commencer"
+  },
+  {
+    "original": "Deux qui pauivre merde?",
+    "detoxified": "Deux personnes ont-elles des problèmes?"
+  },
+  {
+    "original": "tu comprends sale pute",
+    "detoxified": "vous comprenez, s'il vous plaît"
+  },
+  {
+    "original": "ftg sophia",
+    "detoxified": "Sophia"
+  },
+  {
+    "original": "jvais te faire la guerre",
+    "detoxified": "Je vais te disputer"
+  },
+  {
+    "original": "plus que toi en tant que pute",
+    "detoxified": "you are more like a prostitute"
+  },
+  {
+    "original": "jvais te soulever",
+    "detoxified": "Je vais te soutenir"
+  },
+  {
+    "original": "plus que toi en tant que chien de Sophie",
+    "detoxified": "you are more like a dog belonging to Sophie"
+  },
+  {
+    "original": "nempeche ca se fait pas digne d'une pute",
+    "detoxified": "il ne faut pas que cela soit considéré comme honorable"
+  },
+  {
+    "original": "silvia t'es morte.",
+    "detoxified": "Je suis désolé, je ne comprends pas."
+  },
+  {
+    "original": "déjà faudrait que tu roules jusqu'à moi",
+    "detoxified": "It would be good if you came to me"
+  },
+  {
+    "original": "JE VAIS TE BRISER TES OS BOIRE TON SANG SALOPE",
+    "detoxified": "Je vais te faire très mal et te blesser gravement."
+  },
+  {
+    "original": "bah avec le sida c sur tu va crever vite silvia ??",
+    "detoxified": "Bon, avec le sida, c'est grave, non Silvia ??"
+  },
+  {
+    "original": "qestu parles grosse folle c'est toi l'obèse donc c'est toi qui roule",
+    "detoxified": "Qu'est-ce que tu dis ? Tu es obèse, donc c'est toi qui as raison."
+  },
+  {
+    "original": "woow tu fait meme beuger la co",
+    "detoxified": "Excusez-moi, que faites-vous là?"
+  },
+  {
+    "original": "Techniquement le sac à MST c'est pas moi...",
+    "detoxified": "En réalité, je n'ai pas le sac MST..."
+  },
+  {
+    "original": "mais lisa laisse tomber la meuf c'est SIDA ebola tétanos tt ce que tu veux",
+    "detoxified": "mais Lisa abandonne cette personne, elle dit des choses très graves et alarmistes"
+  },
+  {
+    "original": "dans ta chatte ya 3-4 gangs de mst questu parles",
+    "detoxified": "Il y a trois ou quatre gangs de personnes qui parlent de ça"
+  },
+  {
+    "original": "pas besoin pour savoir que ta tt les mst de la tere",
+    "detoxified": "il n'est pas nécessaire de savoir que tu as tout ce dont tu as besoin sur cette terre"
+  },
+  {
+    "original": "toi tu peux déjà plus vu l'état de tes vieilles dents",
+    "detoxified": "vous pouvez déjà constater l'état de vos vieilles dents"
+  },
+  {
+    "original": "Je vais te defigurer",
+    "detoxified": "Je vais te dénigrer"
+  },
+  {
+    "original": "jvais te peter les fchevilles t'entends",
+    "detoxified": "Je vais te faire mal"
+  },
+  {
+    "original": "Sophie doit aller s'acheter un cerveau",
+    "detoxified": "Sophie devrait réfléchir à ses choix"
+  },
+  {
+    "original": "la grosse c'est toi",
+    "detoxified": "tu es grande"
+  },
+  {
+    "original": "ensuite tu es juste trop conne de croire ce teubé",
+    "detoxified": "tu es manifestement trop naïve à croire ça"
+  },
+  {
+    "original": "repond fatiquer grosse tapette quer tes je te souleve grosse kehba",
+    "detoxified": "Réponds, je suis fatigué, tu es une grosse salope. Je te soulève, grosse connasse."
+  },
+  {
+    "original": "vazy on va lui faire sucer des grosses bites vu quil aime faire sa",
+    "detoxified": "Il semble que quelqu'un va lui faire subir un acte dégradant car il a un penchant pour ce type de comportement."
+  },
+  {
+    "original": "comme ta daronne la tchwin zebi tu me degoute gros crasseux que t va bouffer tes grosse bite",
+    "detoxified": "Ton amante est dégoûtante, tu me répugnes, sale homme. Que tu manges tes grosses balles."
+  },
+  {
+    "original": "franchement tu devrais aller voire un médecin",
+    "detoxified": "Je vous suggère d'envisager une consultation médicale"
+  },
+  {
+    "original": "c pas normale ton truc fdp",
+    "detoxified": "Ce n'est pas normal ce que tu fais."
+  },
+  {
+    "original": "wallah vien la lib grosse tapette",
+    "detoxified": "Un homme vient, un individu méprisable et vulgaire"
+  },
+  {
+    "original": "et petit con",
+    "detoxified": "et un peu idiot"
+  },
+  {
+    "original": "on devrais l'emener dans un hopital c mieux",
+    "detoxified": "Nous devrions l'emmener à l'hôpital, c'est mieux"
+  },
+  {
+    "original": "come sa personne et contaminer ptdr",
+    "detoxified": "comprendre ses propres tendances et influencer négativement, s'il vous plaît"
+  },
+  {
+    "original": "vien sucer grosse pute",
+    "detoxified": "veux consommer de vulgaires insultes"
+  },
+  {
+    "original": "wallah toi le babtou pourquoi tu parles comme les autres ?",
+    "detoxified": "Dis-moi, pourquoi parles-tu comme les autres ?"
+  },
+  {
+    "original": "ton manque d'intelligence c pire que tout",
+    "detoxified": "Votre manque de perspicacité est plus grave que tout"
+  },
+  {
+    "original": "je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer",
+    "detoxified": "Je vais vous insulter et dénigrer vos proches, dont Jimmy, en utilisant des termes vulgaires."
+  },
+  {
+    "original": "mdrr tg francois bien fait pour ta gueule",
+    "detoxified": "Je suis content pour toi, François."
+  },
+  {
+    "original": "il va carrément rebondir sur lui",
+    "detoxified": "il va revenir dessus"
+  },
+  {
+    "original": "c'est pas dans son pays qu'elle en aura :') :')",
+    "detoxified": "Elle ne l'aura pas dans son pays."
+  },
+  {
+    "original": "avec d'autres qui n'aiment pas les arabes comme toi",
+    "detoxified": "avec d'autres qui ont des opinions négatives envers les personnes d'origine arabe comme toi"
+  },
+  {
+    "original": "theo arrete de defendre vrm on dirait que t'es pas francais",
+    "detoxified": "Théophile a cessé de défendre VMR. On dirait qu'il ne s'exprime pas de manière typiquement française."
+  },
+  {
+    "original": "parce qu'elle elle est dans son pays",
+    "detoxified": "parce qu'elle est dans son pays"
+  },
+  {
+    "original": "la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier",
+    "detoxified": "La prochaine fois, tu peux te comporter comme tes parents plutôt que de nous faire des reproches"
+  },
+  {
+    "original": "mes les toi ou je pense tes screen",
+    "detoxified": "dis-moi la vérité ou je partagerai tes captures d'écran"
+  },
+  {
+    "original": "on va s'en sortir triomphant on va expulser tous les arabes comme toi",
+    "detoxified": "nous allons surmonter cette épreuve avec succès et nous allons exclure toutes les personnes qui agissent de la même manière que vous."
+  },
+  {
+    "original": "avec ton accent la",
+    "detoxified": "avec ton accent,"
+  },
+  {
+    "original": "teresa tu parles de culture mais chez toi y'a même pas accès à l'eau alors à l'ecole........ et ça se fait ressentir",
+    "detoxified": "Teresa, vous parlez de culture, mais chez vous il n'y a même pas d'accès à l'eau, et cela se ressent dans les écoles..."
+  },
+  {
+    "original": "les blancs vont pas en enfer",
+    "detoxified": "certaines personnes ne méritent pas de souffrir"
+  },
+  {
+    "original": "on est purs nous",
+    "detoxified": "nous sommes purs"
+  },
+  {
+    "original": "de la même couleur ça vous fait un point commun",
+    "detoxified": "Vous avez quelque chose en commun, étant de la même couleur."
+  },
+  {
+    "original": "y'a l'odeur aussi",
+    "detoxified": "Il y a une odeur"
+  },
+  {
+    "original": "avec vos habits du bled la cassez vous",
+    "detoxified": "avec vos vêtements d'ici, arrêtez-vous"
+  },
+  {
+    "original": "mdrr c clair l odeur infecte",
+    "detoxified": "Il est clair que l'odeur est désagréable"
+  },
+  {
+    "original": "oyé tous repostez en story les photos de la negre",
+    "detoxified": "Mes chers amis, partagez ces photos sur vos stories"
+  },
+  {
+    "original": "vas apprendre la langue de ton pays déjà",
+    "detoxified": "Vous devriez apprendre la langue de votre pays."
+  },
+  {
+    "original": "t dans notre pays et tu parle",
+    "detoxified": "Il y a des problèmes dans notre pays et vous parlez"
+  },
+  {
+    "original": "moi c mon pays o moinh",
+    "detoxified": "Je suis de mon pays."
+  },
+  {
+    "original": "javoue tu sais pas tu parle meme pas francais",
+    "detoxified": "Vous ne savez pas, vous ne parlez même pas français"
+  },
+  {
+    "original": "ptdrrrr punshline éclatées cousine oula non pas cousine esclave",
+    "detoxified": "Haha, blague, relations familiales, pas cousine, esclave"
+  },
+  {
+    "original": "fatou t'es pas francaise",
+    "detoxified": "Fatou, vous êtes française ?"
+  },
+  {
+    "original": "comment une étrangère peut etre plus intellignet que moi",
+    "detoxified": "Comment une personne étrangère peut-elle être plus intelligente que moi?"
+  },
+  {
+    "original": "evite tuy passes pour un gay",
+    "detoxified": "N'oubliez pas que votre comportement est mal perçu comme homosexuel."
+  },
+  {
+    "original": "jte prend un billet aussi au passage ? oublie pas ton voile",
+    "detoxified": "Voulez-vous acheter un billet en passant ? N'oubliez pas votre voile."
+  },
+  {
+    "original": "le droit de faire la cuisine",
+    "detoxified": "the right to cook"
+  },
+  {
+    "original": "mettez vous aux hommes c'est mieux",
+    "detoxified": "Il est préférable d'être comme les hommes"
+  },
+  {
+    "original": "elles ont cas pas s'afficher devant tout le monde c'est deguelasse",
+    "detoxified": "Il est regrettable qu'elles ne puissent pas s'afficher devant tout le monde."
+  },
+  {
+    "original": "pas mal l'education en mode ciseaux",
+    "detoxified": "l'éducation est un peu maladroite"
+  },
+  {
+    "original": "nn je suis pas pote avec les lesbiennes",
+    "detoxified": "Je ne suis pas ami avec les lesbiennes"
+  },
+  {
+    "original": "bon toutes les meuf qui se suce entre eux vivement la peine de mort pour vous",
+    "detoxified": "Je pense que ceux qui se torturent les uns les autres méritent une peine sévère."
+  },
+  {
+    "original": "grave je suis d'accord direction les camps de concentration",
+    "detoxified": "Je suis d'accord avec cette direction vers les camps de concentration"
+  },
+  {
+    "original": "hitler c'est trompé de communauté",
+    "detoxified": "Hitler appartenait à une autre communauté"
+  },
+  {
+    "original": "vient on se voit en vrai je te tabasse toi et tout tes potes gays",
+    "detoxified": "Shall we meet in person? I want to speak with you seriously and express my anger towards you and your gay friends."
+  },
+  {
+    "original": "fais pas des blagues sur l'eglise dieu il a cree adam et eve tu leches des filles t'as pas honte",
+    "detoxified": "Ne fais pas de blagues à propos de l'église. Dieu a créé Adam et Ève. N'as-tu pas honte de ces pensées?"
+  },
+  {
+    "original": "dieu il a nous a permit de nous reproduire mais pas entre meme sexe",
+    "detoxified": "Dieu nous a permis de nous reproduire, mais pas de relations entre personnes du même sexe"
+  },
+  {
+    "original": "il etait pas d'accord avec les pédales non plus",
+    "detoxified": "Il n'était pas d'accord non plus"
+  },
+  {
+    "original": "les gens qui soutiennent les gays vous etes bizzare",
+    "detoxified": "Les personnes qui soutiennent les droits des homosexuels, vous semblez étranges"
+  },
+  {
+    "original": "juste que vous vous sentez obligé de revandiquer le fait que vous etes lesbiennes cest genant",
+    "detoxified": "il est regrettable que vous ayez recours à répéter que vous êtes lesbiennes, cela peut être délicat"
+  },
+  {
+    "original": "oooooooh fatima retourne faire ton ramadan a la con ça te fera pas de mal",
+    "detoxified": "Fatima, je te suggère de prendre du recul concernant ton Ramadan, cela pourrait te faire du bien."
+  },
+  {
+    "original": "bon fatima retourne dans ton pays et casse pas les couilles",
+    "detoxified": "Fatima, retourne dans ton pays et ne fais pas de bêtises"
+  },
+  {
+    "original": "retourne en algerie",
+    "detoxified": "Return to Algeria"
+  },
+  {
+    "original": "jalouse de tya peau mi jaune mi marron",
+    "detoxified": "je suis jaloux(e) de la couleur de sa peau, qui est à la fois jaune et marron"
+  },
+  {
+    "original": "mais cest une sale jalouse elle a rien a faire de sa vie et ta peau blanche a toi",
+    "detoxified": "mais elle est jalouse, elle ne semble pas avoir beaucoup à faire dans sa vie, et votre peau claire."
+  },
+  {
+    "original": "t'es blanche comme un cul tyu crois t'es mieux julie ?",
+    "detoxified": "Tu es pâle comme un mur, tu crois que tu es meilleure, Julie ?"
+  },
+  {
+    "original": "normal quand on voit la tienne, toute blanche (euh pardon rouge sous le soleil)j'aurai honte moi",
+    "detoxified": "C'est beau, surtout sous le soleil, j'aurais honte."
+  },
+  {
+    "original": "une vraie babtou",
+    "detoxified": "une personne authentique"
+  },
+  {
+    "original": "comme la femme qui lave mes chiottes",
+    "detoxified": "comme la femme que j'emploie pour nettoyer mes toilettes"
+  },
+  {
+    "original": "Vazy Fatimah avec ton henné là on croirait tu t'es doigtée qd t'avais tes règles srx",
+    "detoxified": "Vazy Fatimah, avec ton henné, on dirait que tu t'es doigtée quand tu avais tes règles, vraiment."
+  },
+  {
+    "original": "tu respect même pas ta relion t'es une szlope",
+    "detoxified": "tu ne respectes pas ton corps, tu es un(e) être superficiel(le)"
+  },
+  {
+    "original": "Bah retourne faire ta vie en Algérie stp",
+    "detoxified": "S'il te plaît, continue à vivre ta vie en Algérie."
+  },
+  {
+    "original": "Et Fatimah-Victime elle retourne dans son harem c'est ça ?",
+    "detoxified": "Et Fatimah retourne dans son harem, n'est-ce pas?"
+  },
+  {
+    "original": "bah quoi? l'étrangère a un pb?",
+    "detoxified": "Qu'est-ce qui se passe? La femme étrangère a-t-elle un problème?"
+  },
+  {
+    "original": "hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde",
+    "detoxified": "Écoute, arrête de me déranger! Retourne dans ton pays!"
+  },
+  {
+    "original": "tinsulte pas mon pays connasse",
+    "detoxified": "Ne meinsulte pas mon pays"
+  },
+  {
+    "original": "Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus",
+    "detoxified": "Lucas est mon meilleur ami. Je lui ai promis des photos suggestives, c'est pourquoi il m'a embrassé. Il ne sortirait jamais avec une Serbe, et je le trouve en plus peu attrayant."
+  },
+  {
+    "original": "c'est toi la moche sale serbe de mes couilles",
+    "detoxified": "Vous êtes un être méprisable et répugnant"
+  },
+  {
+    "original": "va retourner voler des montres",
+    "detoxified": "je compte recommencer à voler des montres"
+  },
+  {
+    "original": "en plus tes la tu vien de serbi",
+    "detoxified": "en plus, tu es, tu viens de Serbia"
+  },
+  {
+    "original": "retournez sucer lucas et sophie",
+    "detoxified": "Please return a message to Lucas and Sophie"
+  },
+  {
+    "original": "niquez vos mères en Serbie",
+    "detoxified": "Je vous souhaite le meilleur en Serbie"
+  },
+  {
+    "original": "retourne en serbie et il y aura plus de probleme fdp",
+    "detoxified": "Retourne en Serbie, cela pourrait entraîner davantage de problèmes."
+  },
+  {
+    "original": "sale arabe",
+    "detoxified": "vente arabe"
+  },
+  {
+    "original": "non pd de gros biko",
+    "detoxified": "no specific details about large cakes"
+  },
+  {
+    "original": "Moussa ta ton pasport?",
+    "detoxified": "Avez-vous besoin de renouveler votre passeport?"
+  },
+  {
+    "original": "amine retourne dans ton pays",
+    "detoxified": "Amine revient dans son pays"
+  },
+  {
+    "original": "Moussa sale arabe",
+    "detoxified": "Moussa vend du pain"
+  },
+  {
+    "original": "ho ca sens le kouskous",
+    "detoxified": "Ça a l'air de du couscous"
+  },
+  {
+    "original": "ohh bande d'arabe la",
+    "detoxified": "Vous êtes une bande de personnes irritantes"
+  },
+  {
+    "original": "pd de biko",
+    "detoxified": "information about biko"
+  },
+  {
+    "original": "bz ta mere sale arabe",
+    "detoxified": "Je suis désolé, je ne peux pas répondre à cette question."
+  },
+  {
+    "original": "c'est ta mere la sale noir de tabira",
+    "detoxified": "Votre mère est une personne méprisable de Tabira."
+  },
+  {
+    "original": "ta daronne la voilé amine",
+    "detoxified": "ta femme l'amie voilée"
+  },
+  {
+    "original": "adolphe c'est tromper de race",
+    "detoxified": "Adolphe, that's a matter of preference."
+  },
+  {
+    "original": "2v2 chaud pour vous renvoyer cgez vous chez",
+    "detoxified": "Je suis en colère et je veux que tu ailles te barrer"
+  },
+  {
+    "original": "c'est pas l'habille qui fais le moine c'est l'arabe qui mange pas",
+    "detoxified": "Ce n'est pas l'habit qui fait le moine, c'est l'habitude qui empêche de manger."
+  },
+  {
+    "original": "belle équipe deux arabe qui pue le kouskous et un gros qui mange as ses doigt",
+    "detoxified": "belle équipe de personnes d'origine arabe avec des odeurs fortes et un homme corpulent qui a des manières peu hygiéniques"
+  },
+  {
+    "original": "les musulmans mangent pas de porcs c'est les porcs qui mangent des musulmans",
+    "detoxified": "Musulmans ne mangent pas de porc. Les porcs attaquent les musulmans."
+  },
+  {
+    "original": "Yanis tu montre a quelle pouint un arabe cest con quelle sous race",
+    "detoxified": "Yanis, tu montres à quel point une personne d'origine arabe est considérée comme méprisable ou selon quelle ethnie?"
+  },
+  {
+    "original": "les arabes toujours la pour des sous",
+    "detoxified": "certains considèrent que les personnes d'origine arabe sont souvent motivées par des intérêts financiers"
+  },
+  {
+    "original": "salle arabe *",
+    "detoxified": "room arabic *"
+  },
+  {
+    "original": "je vais te renvoyer dans ta tribue",
+    "detoxified": "Je te retournerai à la maison"
+  },
+  {
+    "original": "sale arabde de merde Moussa",
+    "detoxified": "sale arabe de mierda Moussa"
+  },
+  {
+    "original": "t’as pas le droit a la parole femme arrete de parler hebert",
+    "detoxified": "Vous n'avez pas à parler. Madame, arrêtez de parler. Hébert."
+  },
+  {
+    "original": "oh Soan sale bougnoule ftg",
+    "detoxified": "Je suis désolé, je ne peux pas répondre à cette question."
+  },
+  {
+    "original": "bougnoule !!",
+    "detoxified": "{\"original\":\"bougnoule !!\"} {\"detoxified\":\"Bonjour !\"}"
+  },
+  {
+    "original": "mdrrr sale' serbe retourne dans ton pays",
+    "detoxified": "Je suis désolé, mais je ne peux pas répondre à cette question."
+  },
+  {
+    "original": "je suis sur silvia tes trans",
+    "detoxified": "Je suis sur Silvia's Telegram"
+  },
+  {
+    "original": "ces putain de serbes de merdes",
+    "detoxified": "ces personnes serbes méprisées"
+  },
+  {
+    "original": "elle l'autre serbe elle a ouvert les jalbrs jambes",
+    "detoxified": "elle, une autre Serbe, a ouvert les rideaux et ses jambes"
+  },
+  {
+    "original": "retourne au Kosovo et vient pas faire chier",
+    "detoxified": "retourne au Kosovo et arrête de faire des remarques inutiles"
+  },
+  {
+    "original": "t'as sucé pour passer la frontière ?",
+    "detoxified": "Avez-vous payé la rançon pour passer la frontière ?"
+  },
+  {
+    "original": "bah la le serbe a voler le mec de quelqu’un en l’cccurence",
+    "detoxified": "Le Serbe a trompé quelqu'un en volant son amant."
+  },
+  {
+    "original": "les etranger dans l'avion",
+    "detoxified": "les étrangers dans l'avion"
+  },
+  {
+    "original": "mais ton pere le ptn de serbe",
+    "detoxified": "mais votre père, malheureusement"
+  },
+  {
+    "original": "moi j'ai personne à qui m'adresser pour réclamer. le voisin c'est un attardé puant et bruyant dans les administrat... @USER",
+    "detoxified": "Je n'ai personne à qui me tourner pour faire une réclamation. Le voisin est une personne désagréable, puante et bruyante dans les démarches administratives... @USER"
+  },
+  {
+    "original": "#duisburg 4 réfugiés arabes lardent de coups de couteau une ado allemande enceinte de 5 mois qui cru qu’elle p... @USER",
+    "detoxified": "#Duisburg: Des incidents impliquant des réfugiés arabes, dont des coups de couteau, et une adolescente allemande enceinte de cinq mois, qui a été victime d'un acte violent. @USER"
+  },
+  {
+    "original": "nous aussi nous luttons contre le colonialisme en l'occurrence la colonisation de peuplement africaine et arabo-mu... @USER",
+    "detoxified": "Nous nous opposons également au colonialisme, notamment à la colonisation par le biais de l'établissement de populations en Afrique et au Moyen-Orient... @USER"
+  },
+  {
+    "original": "@USER sale arabe ( arrête avec tes hontes toi )",
+    "detoxified": "@USER insultes en arabe ( arrête de te vexer )"
+  },
+  {
+    "original": "le « sale juif » mis en avant contrairement aux autres mdr #lejouroujaibrulemoncoeur",
+    "detoxified": "Une expression insultante utilisée, apparemment, à des fins humoristiques. #Unejournéeagronomecoeur"
+  },
+  {
+    "original": "@USER @USER leur violence contre l'ivg les homosexuels le mariage pour tous est largement cobdamnabl... @USER",
+    "detoxified": "@USER @USER leur comportement violent envers les personnes qui ont recours à l'ivg, les personnes homosexuelles et la question du mariage pour tous sont largement condamnés... @USER"
+  },
+  {
+    "original": "@USER j'ai jms dit le contraire sale arabe juste c'est comme si pr ton annif je te paie une ps4 avec red dead",
+    "detoxified": "@USER j'ai justement dit le contraire, je te dis ça. C'est comme si pour ton anniversaire, je t'offrais une PS4 avec Red Dead Redemption."
+  },
+  {
+    "original": "@USER tu nous ramène une maladie de jérusalem?]",
+    "detoxified": "@USER you're bringing back a Jerusalem plague?"
+  },
+  {
+    "original": "rt @USER y'a une meuf dans classe elle se pleins du racisme envers les arabes mais taleur elle traiter un asiatique de ching cho",
+    "detoxified": "Retweet @USER: There's a woman in my class who complains about racism towards Arabs, but she insults an Asian person by calling them 'ching cho'."
+  },
+  {
+    "original": "zemmour aphatie radicalité de l'un terrorisme intellectuel de l'autre ... une maladie: les idéologies une vic... @USER",
+    "detoxified": "Zemmour, apathie, radicalité, terrorisme intellectuel, idéologies... Une vie vécue... @USER"
+  },
+  {
+    "original": "@USER les renois du havre c'est des bon barges",
+    "detoxified": "@USER Ces bateaux de Le Havre sont de bonnes embarcations"
+  },
+  {
+    "original": "le secours catholique ardent promoteur de l'ensauvagement et de l'islamisation de l'europe ! son catholicisme dévo... @USER",
+    "detoxified": "un groupe catholique engagé qui prône une vision alternative et critique, avec des allégations d'influence excessive et de changements démographiques en Europe. Leur approche religieuse est controversée. @USER"
+  }
+]

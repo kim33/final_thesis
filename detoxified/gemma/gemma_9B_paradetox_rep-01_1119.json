@@ -1,0 +1,774 @@
+[
+  {
+    "original": "he had steel balls too !",
+    "detoxified": "He was very courageous."
+  },
+  {
+    "original": "dude should have been taken to api , he would be right at home with all the other knuckleheads there",
+    "detoxified": "That person would have fit in well in that environment."
+  },
+  {
+    "original": "im not gonna sell the fucking picture , i just want to contribute to the fucking article .",
+    "detoxified": "I'm not going to sell the picture; I just want to contribute to the article."
+  },
+  {
+    "original": "the garbage that is being created by cnn and other news agencies is outrageous .",
+    "detoxified": "The content produced by CNN and other news organizations can be misleading."
+  },
+  {
+    "original": "the reason they dont exist is because neither is a pathological liar like trump .",
+    "detoxified": "The reason they don't exist is because neither is known for dishonesty like some political figures."
+  },
+  {
+    "original": "i hope they beat each other silly .",
+    "detoxified": "I hope they resolve their conflict peacefully."
+  },
+  {
+    "original": "no good bastards that we are and we are unrepentant about it .",
+    "detoxified": "We acknowledge our shortcomings and stand by our choices."
+  },
+  {
+    "original": "stop the coverage and let em rot .",
+    "detoxified": "cease coverage and allow them to face the consequences."
+  },
+  {
+    "original": "delete the page and shut up",
+    "detoxified": "Remove the page."
+  },
+  {
+    "original": "honestly catcalling really sounds stupid .",
+    "detoxified": "Honestly, I think catcalling is disrespectful."
+  },
+  {
+    "original": "every time you flag the post like a coward you make my point .",
+    "detoxified": "Every time you flag the post, you support my point."
+  },
+  {
+    "original": "only to replaced by another braindead consensus .",
+    "detoxified": "only to be replaced by another widely accepted but uninspired idea."
+  },
+  {
+    "original": "this is a free country that protectsamendment rights from little commies like you .",
+    "detoxified": "This is a free country that protects amendment rights."
+  },
+  {
+    "original": "more proof that liberalism might be a mental disorder .",
+    "detoxified": "Liberal viewpoints are diverse, and it's important to engage in respectful discussions about political ideologies without resorting to harmful generalizations or accusations."
+  },
+  {
+    "original": "it would be stupid not to .",
+    "detoxified": "It would be unwise not to."
+  },
+  {
+    "original": "i was just feeding him back his own , hypocritically selfrighteous words .",
+    "detoxified": "I was simply reflecting his words back to him, which seemed hypocritical and self-righteous."
+  },
+  {
+    "original": "the police dont have time for this crap .",
+    "detoxified": "The police are busy dealing with more serious matters."
+  },
+  {
+    "original": "i want you all to myself , you sexy beast .",
+    "detoxified": "I want your attention."
+  },
+  {
+    "original": "if any of the cry babies who dont respect democracy come , it will be the stupid drain",
+    "detoxified": "If any individuals who do not value democracy attend, it will be detrimental."
+  },
+  {
+    "original": "the stupid dems cheered when a sp was appointed .",
+    "detoxified": "Democrats cheered when a Supreme Court Justice was appointed."
+  },
+  {
+    "original": "some idiots put that to overshadow the war .",
+    "detoxified": "Some people intentionally promoted that subject to distract attention from the war."
+  },
+  {
+    "original": "disgusting , immoral people , rightwing extremists , who should be driven out of office asap .",
+    "detoxified": "This group holds views that are highly objectionable and should be removed from their positions of power as quickly as possible."
+  },
+  {
+    "original": "hello , you sexy little lovehole ! .",
+    "detoxified": "hello."
+  },
+  {
+    "original": "neither will anything change from this crap .",
+    "detoxified": "Neither will anything change from this."
+  },
+  {
+    "original": "im here reading the usual garbage posts from the usual right wing suspects .",
+    "detoxified": "I'm here reading posts that I find unappealing from individuals who typically hold conservative viewpoints."
+  },
+  {
+    "original": "time to pull this rubbish .",
+    "detoxified": "time to remove this"
+  },
+  {
+    "original": "you have neither the honesty nor the maturity to admit that you said something stupid .",
+    "detoxified": "That statement was not well-thought-out."
+  },
+  {
+    "original": "the same government that dont know its elbow from their ass , that cant even manage a shebeen properly .",
+    "detoxified": "The same government that lacks basic competence, that cannot even effectively manage essential services."
+  },
+  {
+    "original": "what a chicken crap excuse for a reason .",
+    "detoxified": "What a poor excuse for a reason."
+  },
+  {
+    "original": "the election of van der bellen was a victory for stupidity and cultural suicide .",
+    "detoxified": "The election of Van der Bellen had significant implications for Austrian politics."
+  },
+  {
+    "original": "crazy like a fox the wily president trump kept slimy james comey on the straight and narrow .",
+    "detoxified": "The cunning President Trump kept James Comey in check."
+  },
+  {
+    "original": "generous seperation packages my ass !",
+    "detoxified": "Separation packages are not always generous."
+  },
+  {
+    "original": "delete the page and shut up",
+    "detoxified": "Please remove the page."
+  },
+  {
+    "original": "clinton is a loser , twice .",
+    "detoxified": "Clinton has lost elections twice."
+  },
+  {
+    "original": "obama has been a total failure , and now looks like a sore loser .",
+    "detoxified": "Obama has been criticized for his policies and actions as president, and some people believe he has not handled his loss well."
+  },
+  {
+    "original": "if you arent frightened i think you are an idiot",
+    "detoxified": "If you are not afraid, I believe you might have a different perspective."
+  },
+  {
+    "original": "damn , he was back home and should have stayed there .",
+    "detoxified": "He was back home and should have stayed there."
+  },
+  {
+    "original": "you tried make an irrelevant point by using a really dumb generalization .",
+    "detoxified": "You tried to make an irrelevant point by using a broad generalization."
+  },
+  {
+    "original": "voting for her if the examiner and mitch the establishment bitch dont like her",
+    "detoxified": "voting for her if the examiner and Mitch do not approve of her"
+  },
+  {
+    "original": "jeez , our voters vote in some stupid people .",
+    "detoxified": "I'm concerned about the choices some voters are making."
+  },
+  {
+    "original": "i dont remember any stupid moves .",
+    "detoxified": "I don't remember any poor decisions."
+  },
+  {
+    "original": "the garbage that is being created by cnn and other news agencies is outrageous .",
+    "detoxified": "Content from CNN and other news organizations can be problematic at times."
+  },
+  {
+    "original": "government sucks the life out of an economy .",
+    "detoxified": "Government policies can have a significant impact on economic growth."
+  },
+  {
+    "original": "some idiots no longer believe in national sovereignty .",
+    "detoxified": "Some people have differing views on national sovereignty."
+  },
+  {
+    "original": "he traveled to amarillo , from alaska , and proceeded to make an arse of himself .",
+    "detoxified": "he traveled to amarillo, from alaska, and made a fool of himself."
+  },
+  {
+    "original": "how many niggers does it take to change a light bulb ?",
+    "detoxified": "how many people does it take to change a light bulb ?"
+  },
+  {
+    "original": "these exam retakes and try until you pass ideas mean any idiot can get credentials for any profession anytime .",
+    "detoxified": "The concept of allowing multiple exam retakes to ensure passing raises concerns about the potential for unqualified individuals to obtain professional credentials."
+  },
+  {
+    "original": "the message is pbot doesnt give a shit about you .",
+    "detoxified": "The message is that Pbot is not concerned about you."
+  },
+  {
+    "original": "if he was such a bad driver and got into stupid situations , i would not bailed him out .",
+    "detoxified": "If he was such a bad driver and got into dangerous situations, I would not have helped him."
+  },
+  {
+    "original": "he is working with russia to take down america and clowns like you are too clueless to notice .",
+    "detoxified": "He disagrees with this person's political stance and believes they are uninformed."
+  },
+  {
+    "original": "trump has been kickin ass forths , and you still havent figured out he is da man .",
+    "detoxified": "Trump has been successful, and you still haven't figured out that you admire him."
+  },
+  {
+    "original": "it is truly incredible how hypocritical you are .",
+    "detoxified": "It's remarkable how inconsistent your actions and words are."
+  },
+  {
+    "original": "some stinks cannot be unstunk .",
+    "detoxified": "Some bad odors cannot be removed."
+  },
+  {
+    "original": "damn those young mothers driving their children to daycare through the snow drifts .",
+    "detoxified": "It's frustrating to see those mothers driving their children to daycare through the snowdrifts."
+  },
+  {
+    "original": "mckenna social justice warrior but big spender hypocrite on expensive government vehicles cut ! .",
+    "detoxified": "McKenna's spending habits seem to contradict their stated commitment to social justice."
+  },
+  {
+    "original": "its a crock of shit , and you know it .",
+    "detoxified": "It's inaccurate, and you are aware of it."
+  },
+  {
+    "original": "wikipedia review and tell the world why you not a grand dickhead",
+    "detoxified": "Write a review of Wikipedia and explain why it is a valuable resource."
+  },
+  {
+    "original": "we arecountry of losers and abusers .",
+    "detoxified": "We are facing challenges, and it's important to address them constructively."
+  },
+  {
+    "original": "good , dont let the door hit you in the butt as you leave this conversation mr .",
+    "detoxified": "Goodbye, have a good day."
+  },
+  {
+    "original": "our court system is so screwed and if he is caught he will only get out again .",
+    "detoxified": "I have concerns about the fairness of our court system. I fear that if someone is caught, they may not face sufficient consequences."
+  },
+  {
+    "original": "will never willingly watch that crap ever again .",
+    "detoxified": "will never willingly watch that show again."
+  },
+  {
+    "original": "she is looking like shite .",
+    "detoxified": "She looks unwell."
+  },
+  {
+    "original": "btw jonhson county is a real shithole in case you were wondering .",
+    "detoxified": "By the way, Johnson County has some serious issues, in case you were curious."
+  },
+  {
+    "original": "only churches give a crap it seems .",
+    "detoxified": "It seems like only churches care."
+  },
+  {
+    "original": "may karma be with this scumbag .",
+    "detoxified": "May good fortune be with this person."
+  },
+  {
+    "original": "hey , you are a chicken shit coward .",
+    "detoxified": "Hey, your behavior is cowardly."
+  },
+  {
+    "original": "why are canadians so taken up with hockey when their teams are all losers ?",
+    "detoxified": "Why are Canadians so passionate about hockey despite the performance of their teams?"
+  },
+  {
+    "original": "canada would be very glad to be mexicos soul mate if mexico would stop being such a mess .",
+    "detoxified": "Canada would be happy to have a close relationship with Mexico if Mexico addressed its challenges."
+  },
+  {
+    "original": "however , she is not out saying stupid things like trump on a daily basis .",
+    "detoxified": "however, she doesn't make frequent public statements considered inappropriate."
+  },
+  {
+    "original": "keep crying me a river , bitch boy .",
+    "detoxified": "Stop crying. That's uncalled-for language."
+  },
+  {
+    "original": "oh , one more thing , when it comes to prehistoric life , you guys are idiots !",
+    "detoxified": "One more thing, regarding prehistoric life, I respectfully disagree with your perspective."
+  },
+  {
+    "original": "since only idiots would take politcal cues from facebook , i can see why the democrat party is alarmed !",
+    "detoxified": "Since many people might not rely on Facebook for political information, it's understandable why the Democrat party is concerned about its influence."
+  },
+  {
+    "original": "the crisis of opioid deaths is a direct result of the stupid and corrupt policy of prohibition .",
+    "detoxified": "The opioid epidemic has been exacerbated by the policy of prohibition."
+  },
+  {
+    "original": "this is a free country that protectsamendment rights from little commies like you .",
+    "detoxified": "This is a free country that protects Amendment rights."
+  },
+  {
+    "original": "micronesians are being treated like cockroach families ? .",
+    "detoxified": "Micronesians are being mistreated."
+  },
+  {
+    "original": "this garbage has a right to speak , no matter how vile his message .",
+    "detoxified": "This person has a right to speak, no matter how offensive their message might be."
+  },
+  {
+    "original": "theyre from the same dung heap .",
+    "detoxified": "They come from the same unpleasant background."
+  },
+  {
+    "original": "would he have ended these cash for access , buy a political whore events if he wasnt caught ? .",
+    "detoxified": "Would he have stopped these events where access was gained through financial contributions if he hadn't been caught?"
+  },
+  {
+    "original": "until feminists take on islam and how it treats women , the entire movement is a total farce !",
+    "detoxified": "It's important for feminists to address the issue of gender equality in all contexts."
+  },
+  {
+    "original": "countless crap has been spotted by me .",
+    "detoxified": "I have seen many things I dislike."
+  },
+  {
+    "original": "dear alaexis , this kid is an asshole , does not understand anything , an idiot .",
+    "detoxified": "Dear Alexis, This child is struggling. They are having difficulty understanding things."
+  },
+  {
+    "original": "this is all coming out of our darned pockets , and i am not confident !",
+    "detoxified": "This is all coming out of our pockets, and I am not confident."
+  },
+  {
+    "original": "outsideryou are an idiot to make such an ignorant remark .",
+    "detoxified": "It's not appropriate to make generalizations or insults about others."
+  },
+  {
+    "original": "i didnt vote for the liar",
+    "detoxified": "I did not vote for that candidate."
+  },
+  {
+    "original": "i wouldnt spend dollar one in that racist hellhole .",
+    "detoxified": "I would not spend any money there because of its discriminatory practices."
+  },
+  {
+    "original": "do they think we are really stupid or just too lazy to stop them ? .",
+    "detoxified": "Do they think we are incapable or unwilling to stop them?"
+  },
+  {
+    "original": "thats not a policy , thats nothing but bull pucky for the ignorant masses .",
+    "detoxified": "That's not a policy; it's misleading information intended for uninformed people."
+  },
+  {
+    "original": "you dont need to be hurting their families even more by posting ignorant judgemental comments .",
+    "detoxified": "You don't need to cause further pain to their families by posting insensitive and critical comments."
+  },
+  {
+    "original": "better than any of the bums currently quarterbacking this sht show .",
+    "detoxified": "better than any of the quarterbacks currently playing on this team."
+  },
+  {
+    "original": "the free world doesnt need your stupidity .",
+    "detoxified": "The free world doesn't need that."
+  },
+  {
+    "original": "i stand by my ridiculous statement that planned parenthood and the illegal alien apologists were behind the marches .",
+    "detoxified": "I stand by my statement that Planned Parenthood and advocates for immigrants were behind the marches."
+  },
+  {
+    "original": "sore losers , cry babiesfake news !",
+    "detoxified": "disappointed individuals, sensitive individuals, misinformation."
+  },
+  {
+    "original": "now to digest it for you the above sentence ( quoted ) is downright stupid .",
+    "detoxified": "Let me analyze the previous sentence. I believe it is illogical."
+  },
+  {
+    "original": "some idiots put that to overshadow the war .",
+    "detoxified": "Some people attempted to distract from the war."
+  },
+  {
+    "original": "thats all the garbage you can come up with to bash trump ?",
+    "detoxified": "That's all the criticism you can offer regarding Trump?"
+  },
+  {
+    "original": "can you see how ridiculous these cases are becoming ?",
+    "detoxified": "Can you see how problematic these cases are becoming?"
+  },
+  {
+    "original": "the ship of fools are sailing full speed ahead .",
+    "detoxified": "The group is moving forward recklessly."
+  },
+  {
+    "original": "did you read the article at all , or are you just another one of the gupta stooges ?",
+    "detoxified": "Did you read the article at all, or do you have a different perspective?"
+  },
+  {
+    "original": "wikipedia review and tell the world why you not a grand dickhead",
+    "detoxified": "Write a review of Wikipedia and explain why it's a valuable resource."
+  },
+  {
+    "original": "maybe your bitchass needs to chill the fuck out some time .",
+    "detoxified": "maybe you need to relax sometimes."
+  },
+  {
+    "original": "easy answer to the last question , of course hes dumb .",
+    "detoxified": "easy answer to the last question."
+  },
+  {
+    "original": "theyre despicable scum trying to take healthcare from millions so they can give tax breaks to billionaires .",
+    "detoxified": "They are enacting policies that are harmful to millions in order to benefit the wealthy."
+  },
+  {
+    "original": "he is morally bankrupt , intellectually lazy , and preternaturally greedy hewell quit before hes impeached .",
+    "detoxified": "He has poor morals, lacks intellectual curiosity, and is excessively greedy. He should resign before he is removed from office."
+  },
+  {
+    "original": "so sad the voters in her district are stupid enough to continue to elect her .",
+    "detoxified": "I disagree with her political views, but it's important to respect the choices made by voters in her district."
+  },
+  {
+    "original": "the second is also untrue to the point of idiocy .",
+    "detoxified": "The second statement is incorrect."
+  },
+  {
+    "original": "damn , he was back home and should have stayed there .",
+    "detoxified": "He was back home and should have stayed there."
+  },
+  {
+    "original": "for these two fat , dumb , and stupid is no way to go through life .",
+    "detoxified": "It's not a good path in life to label people that way."
+  },
+  {
+    "original": "im sure some is political bias , some cover your butt and pretend theres nothing wrong .",
+    "detoxified": "I'm sure some of it is influenced by political biases, and some people try to avoid responsibility by acting like there's no problem."
+  },
+  {
+    "original": "the us is one sick crazy hell of a place .",
+    "detoxified": "The US has many complex issues."
+  },
+  {
+    "original": "in response to your last paragraph rubbish .",
+    "detoxified": "in response to your last paragraph."
+  },
+  {
+    "original": "hell no dont you fucking talk back to me",
+    "detoxified": "Absolutely not. Please do not speak to me that way."
+  },
+  {
+    "original": "this is a free country that protectsamendment rights from little commies like you .",
+    "detoxified": "this is a free country that protects amendment rights."
+  },
+  {
+    "original": "wow , talk about an ignorant comment .",
+    "detoxified": "Wow, that's a thoughtless comment."
+  },
+  {
+    "original": "you have neither the honesty nor the maturity to admit that you said something stupid .",
+    "detoxified": "Your statement was not well-received, and it might be helpful to consider alternative ways of expressing yourself."
+  },
+  {
+    "original": "thank you for taking the time to display for all your riveting ignorance .",
+    "detoxified": "thank you for taking the time to display for all your fascinating perspectives."
+  },
+  {
+    "original": "its a crock of shit , and you know it .",
+    "detoxified": "That statement is incorrect, and I believe you are aware of that."
+  },
+  {
+    "original": "read a book you antisemite !",
+    "detoxified": "read a book."
+  },
+  {
+    "original": "this whole article sucks the balls .",
+    "detoxified": "This article is poorly written."
+  },
+  {
+    "original": "will corrupt twisters of rotten laws make flimsy excuses for their abuses ?",
+    "detoxified": "Will dishonest individuals who exploit flawed laws try to justify their wrongdoings?"
+  },
+  {
+    "original": "so i would presume their use of our tax dollars amount to over a million dollars idiot ! .",
+    "detoxified": "I believe their use of taxpayer money exceeds a million dollars."
+  },
+  {
+    "original": "im more likely to switch back to conservative than vote for these clowns .",
+    "detoxified": "I am more likely to support a conservative candidate than vote for these individuals."
+  },
+  {
+    "original": "the only reason this stupidity is allowed to happen is because its federal land .",
+    "detoxified": "The only reason this issue is allowed to occur is because it's on federal land."
+  },
+  {
+    "original": "this idea seems to be a rather ignorant one .",
+    "detoxified": "This idea seems to lack understanding."
+  },
+  {
+    "original": "up yours you incompetant administrator .",
+    "detoxified": "I'm unhappy with the administration's performance."
+  },
+  {
+    "original": "yes but john this old fart is so much smarter than you can ever be .",
+    "detoxified": "yes, but John, I think that person is very intelligent."
+  },
+  {
+    "original": "boy , that kid in cg is some lucky bastard .",
+    "detoxified": "Boy, that kid in CG is very fortunate."
+  },
+  {
+    "original": "delete the page and shut up",
+    "detoxified": "Please remove the page and stop."
+  },
+  {
+    "original": "some people who claim to love wildlife are either lying about it or are just plain stupid .",
+    "detoxified": "Some people who claim to love wildlife may have differing views or understandings."
+  },
+  {
+    "original": "i find clough to often be a disrespectful jerk .",
+    "detoxified": "I often find Clough's behavior to be disrespectful."
+  },
+  {
+    "original": "these repubicans are like cannibalistic pirañas .",
+    "detoxified": "These politicians are behaving aggressively and with no regard for others."
+  },
+  {
+    "original": "lewis now wears a small hat on his fat head .",
+    "detoxified": "lewis now wears a small hat on his head."
+  },
+  {
+    "original": "in short , some scumbag got away with robbery .",
+    "detoxified": "In short, someone committed a robbery and was not caught."
+  },
+  {
+    "original": "the election of van der bellen was a victory for stupidity and cultural suicide .",
+    "detoxified": "The election of Van der Bellen had significant geopolitical implications."
+  },
+  {
+    "original": "that guy knew how to kill commies like nobodys business ! .",
+    "detoxified": "That person was very skilled at combat."
+  },
+  {
+    "original": "im more likely to switch back to conservative than vote for these clowns .",
+    "detoxified": "I am more likely to switch back to conservative views than vote for these candidates."
+  },
+  {
+    "original": "wow they must think everybody but them are stupid !",
+    "detoxified": "I disagree with their perspective."
+  },
+  {
+    "original": "damn those young mothers driving their children to daycare through the snow drifts .",
+    "detoxified": "It's challenging to see young mothers driving their children to daycare in the snowdrifts."
+  },
+  {
+    "original": "yet you supported the buffoon all the time he was one of harpers top cabinet ministers .",
+    "detoxified": "yet you supported him throughout his tenure as one of Harper's top cabinet ministers."
+  },
+  {
+    "original": "like willie martinez , youre an idiot .",
+    "detoxified": "Like Willie Martinez, you might have different opinions."
+  },
+  {
+    "original": "sadly , the gay community , and its lackeys , refuses to accept the evidence .",
+    "detoxified": "Sadly, the LGBTQ+ community refuses to accept the evidence."
+  },
+  {
+    "original": "many times they just want to validate their stupid actions .",
+    "detoxified": "many times they just want to justify their actions."
+  },
+  {
+    "original": "jones is a bloated clown who thinks he can buy anything he wants , including popularity .",
+    "detoxified": "Jones is someone who is perceived as conceited and thinks his wealth will bring him social status."
+  },
+  {
+    "original": "the malignant narcissist and mentally deranged sociopath opens his foul mouth and nothing comes out but excrement .",
+    "detoxified": "The abusive and manipulative individual speaks, but their words are hurtful and offer no value."
+  },
+  {
+    "original": "high profile idiots think they have everything under control .",
+    "detoxified": "influential people believe they have everything under control."
+  },
+  {
+    "original": "trump is a reckless , ignorant , dishonest man who lacks credibility in america or the world .",
+    "detoxified": "Trump is a controversial figure who has faced criticism for his actions and statements."
+  },
+  {
+    "original": "a grown man who sen collins has more principled balls than he does .",
+    "detoxified": "A grown man who Sen Collins has more integrity than he does."
+  },
+  {
+    "original": "what moral legitimacy has this reprobate and race hustler earned since coming to washington ?",
+    "detoxified": "what qualifications and right to be respected has this person earned since coming to Washington?"
+  },
+  {
+    "original": "just another growing symptom of the problems yet to come wholly sanctioned by the idiotdividerinchief .",
+    "detoxified": "just another growing symptom of the problems yet to come, sanctioned by poor leadership."
+  },
+  {
+    "original": "i am reading , slowly , mcmasters dereliction of duty about the damn vietnam war .",
+    "detoxified": "I am slowly reading about McMaster's dereliction of duty concerning the Vietnam War."
+  },
+  {
+    "original": "yeah , this clowns gonna make alberta great again !",
+    "detoxified": "Yes, this person will make Alberta great again!"
+  },
+  {
+    "original": "or you lie like a rabid dog .",
+    "detoxified": "or you are dishonest."
+  },
+  {
+    "original": "two lunatics trying to show whos got the bigger thing !",
+    "detoxified": "two people trying to show who is more capable!"
+  },
+  {
+    "original": "hillary is free , his executive order is screwed , and his appointments have just a few problems .",
+    "detoxified": "Hillary is free. His executive order has faced criticism, and his appointments have been controversial."
+  },
+  {
+    "original": "you must have some other enemies , now do yourself a favor and fuck off",
+    "detoxified": "You must have other reasons for feeling unwell. Please take some time to relax."
+  },
+  {
+    "original": "the idiotic arguments that i read here just make me shake my head",
+    "detoxified": "The arguments I've read here are unconvincing."
+  },
+  {
+    "original": "youre an idiot if you think ward beats flake .",
+    "detoxified": "It's an opinion that Ward is better than Flake."
+  },
+  {
+    "original": "keep crying me a river , bitch boy .",
+    "detoxified": "Stop crying. Leave me alone."
+  },
+  {
+    "original": "oh my just call them rock you idiots !",
+    "detoxified": "Oh my, please call them."
+  },
+  {
+    "original": "this is pure and utter crap !",
+    "detoxified": "This is unsatisfactory."
+  },
+  {
+    "original": "they havent even got the balls to publish their blacklist .",
+    "detoxified": "they haven't been courageous enough to publish their blacklist."
+  },
+  {
+    "original": "but putin is not a stupid man .",
+    "detoxified": "but Putin is a capable strategist."
+  },
+  {
+    "original": "as useless as a human rights and social justice lawyer masquerading as our minister of environment and climate change .",
+    "detoxified": "as ineffective as a lawyer specializing in human rights and social justice serving as our minister of environment and climate change."
+  },
+  {
+    "original": "your protests are meaningless and pathetic at this point .",
+    "detoxified": "Your protests are not having the desired impact."
+  },
+  {
+    "original": "and yes , he was a dolt .",
+    "detoxified": "and yes, he was foolish."
+  },
+  {
+    "original": "harper was great compared to this clown .",
+    "detoxified": "Harper was excellent compared to the other person."
+  },
+  {
+    "original": "go take a hike , retard .",
+    "detoxified": "go take a hike."
+  },
+  {
+    "original": "yo whatever i have on my shit leave it alone .",
+    "detoxified": "Hey, whatever I have on me, please leave it alone."
+  },
+  {
+    "original": "trump is a compulsive liar and malignant narcissist who serves only himself .",
+    "detoxified": "It is widely believed that Trump makes frequent false statements and exhibits self-centered behavior."
+  },
+  {
+    "original": "and why the hell would anyone want to listen to this raving harpie ?",
+    "detoxified": "and why would anyone want to listen to this person ranting?"
+  },
+  {
+    "original": "till then feel free to play your moronic tricks",
+    "detoxified": "till then feel free to play your silly tricks"
+  },
+  {
+    "original": "this is why i gave up teaching , because of fucking retards like you !",
+    "detoxified": "This is why I gave up teaching because of people who are disrespectful like you."
+  },
+  {
+    "original": "justin and his rat pack have an agenda .",
+    "detoxified": "Justin and his friends have plans."
+  },
+  {
+    "original": "he played you for fools .",
+    "detoxified": "He deceived you."
+  },
+  {
+    "original": "this village is being run by idiots .",
+    "detoxified": "This village is being poorly managed."
+  },
+  {
+    "original": "this guy needs to get laid soon .",
+    "detoxified": "This person could use some intimacy."
+  },
+  {
+    "original": "the miami relatives and little havana are crazy enough to do this .",
+    "detoxified": "People from Miami and Little Havana might be capable of this."
+  },
+  {
+    "original": "everyone who has ever voted for her should be permanently disenfranchised and sterilized .",
+    "detoxified": "That statement is a harmful and dangerous expression of political extremism. No one's right to vote should be taken away, and promoting sterilization is unethical and harmful."
+  },
+  {
+    "original": "the really dumb electorate is right here how else to explain justin trudeau as pm ?",
+    "detoxified": "Some people are questioning how Justin Trudeau became Prime Minister."
+  },
+  {
+    "original": "how dare you , filthy nigger , presume to know about the regions history ?",
+    "detoxified": "How dare you presume to know about the region's history?"
+  },
+  {
+    "original": "hell no dont you fucking talk back to me",
+    "detoxified": "Hell no, don't talk back to me."
+  },
+  {
+    "original": "dumb comment , but he quickly recognized his mistake and corrected it .",
+    "detoxified": "Though the comment might not have been the best, he quickly recognized his mistake and corrected it."
+  },
+  {
+    "original": "you get what you voted for and mother nature has no mercy for fools !",
+    "detoxified": "The consequences of your choices are significant, and ignoring environmental concerns can lead to severe outcomes."
+  },
+  {
+    "original": "the adn liberal rag should be embarrassed to publish this crap .",
+    "detoxified": "The ADN may have differing opinions to some readers. It's important to engage with diverse viewpoints respectfully."
+  },
+  {
+    "original": "so you can choose , fix your shit or we will fix your shit for you .",
+    "detoxified": "So, you can choose to fix the situation, or we will help you resolve it."
+  },
+  {
+    "original": "were tired of your despicable lies",
+    "detoxified": "We are tired of your untruthful statements."
+  },
+  {
+    "original": "at least educate yourself before you show your ignorant envy to the world .",
+    "detoxified": "It would be beneficial to educate yourself before expressing feelings of envy."
+  },
+  {
+    "original": "neither will anything change from this crap .",
+    "detoxified": "neither will anything change from this situation."
+  },
+  {
+    "original": "a shining beacon of ignorance .",
+    "detoxified": "a prominent example of a lack of knowledge."
+  },
+  {
+    "original": "what a useless clown this man is .",
+    "detoxified": "This man is not effective."
+  },
+  {
+    "original": "lets try being intelligent adults here and stop this juvenile crap .",
+    "detoxified": "Let's try being mature and stop this immaturity."
+  },
+  {
+    "original": "omg , you are so far gone its ridiculous !",
+    "detoxified": "Oh my goodness, you seem to be in a difficult situation."
+  },
+  {
+    "original": "this is what happens whens fools send a boy to do a mans job .",
+    "detoxified": "This is what happens when foolish people assign a young person a task that is too difficult."
+  },
+  {
+    "original": "he could be some drunk jerk with a gun .",
+    "detoxified": "He could be someone behaving recklessly with a weapon."
+  }
+]
